@@ -143,7 +143,36 @@ blockquote {
 	border-top: 1px solid silver;
 	border-bottom: 1px solid silver;
 }
-/* @group Table */
+
+table
+{
+	font-family: "helvetica neue","helvetica", Sans-Serif;
+	font-size: 85%;
+	margin: 45px;
+	width: 480px;
+	border-collapse: collapse;
+	text-align: left;
+}
+th
+{
+	font-size: 105%;
+	font-weight: bold;
+	padding: 6px;
+	border-bottom: 1px solid;
+}
+td
+{
+	color: black;
+	padding: 9px 8px 0px 8px;
+}
+
+tr:hover th[scope=row], tr:hover td
+{ 
+	background-color: lightgray;
+} 
+
+
+
 
 
 /*table {
