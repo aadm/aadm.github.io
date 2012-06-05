@@ -80,6 +80,7 @@ These are the main steps that I've followed and noted down for my own reference:
 * Multibeast setting: Disk/**3rdParty SATA** and **TRIM Enabler** checked
 * Multibeast setting: System Definitions/**Mac mini** checked
 * usb wifi install (see also <http://www.tonymacx86.com/viewtopic.php?f=19&t=37337>)
+
     - install official driver
     - patch kext: edit the Info.plist file in `RT2870USBWirelessDriver.kext` (located in System/Library/Extensions) and change values of vendor and device ID in Info.plist to match those of actual USB device listed in System Profiler (note: system profiler shows values in hex format, Info.plist has to be decimal)
     - download modded ralink software Ralink-Airport.zip from <http://www.insanelymac.com/forum/index.php?showtopic=168984&view=findpost&p=1168621>
@@ -91,13 +92,16 @@ These are the main steps that I've followed and noted down for my own reference:
     - load Airport Connection
 
 ![](http://dl.dropbox.com/u/179731/hackintosh%20multibeast%201.png)
-*This was the original settings I checked, but I forgot one little thing, which caused no sound to be heard...*
+
+*The original settings I checked, but I forgot one little thing, which caused no sound to be heard...*
 
 ![](http://dl.dropbox.com/u/179731/hackintosh%20multibeast%202.png)
+
 *...and this is what I forgot. Just remember to check the appropriate Non-DSDT HDAEnabler and you're set.*
 
 ![](http://dl.dropbox.com/u/179731/hackintosh%20usb%20wifi.png)
-*This is the kind of crap you gotta do to enable the wifi usb stick.*
+
+*That's the kind of crap you gotta do to enable the wifi usb stick.*
 
 ## results and benchmarks ##
 
