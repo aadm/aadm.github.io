@@ -79,17 +79,18 @@ These are the main steps that I've followed and noted down for my own reference:
 * Multibeast setting: Drivers & Bootloaders/Kext & Enablers/Audio/Realtek ALC8xx/**ALC8xxHD** and **AppleHD Rollback** checked, Non-DSDT HDAEnabler/**ALC889** checked
 * Multibeast setting: Disk/**3rdParty SATA** and **TRIM Enabler** checked
 * Multibeast setting: System Definitions/**Mac mini** checked
-* usb wifi install (see also <http://www.tonymacx86.com/viewtopic.php?f=19&t=37337>)
 
-    - install official driver
-    - patch kext: edit the Info.plist file in `RT2870USBWirelessDriver.kext` (located in System/Library/Extensions) and change values of vendor and device ID in Info.plist to match those of actual USB device listed in System Profiler (note: system profiler shows values in hex format, Info.plist has to be decimal)
-    - download modded ralink software Ralink-Airport.zip from <http://www.insanelymac.com/forum/index.php?showtopic=168984&view=findpost&p=1168621>
-    - Unzip Ralink-Airport.zip and move the folder into your Applications folder
-    - Enter System Preferences > Users & Groups > Login Items
-    - Remove AwakeRalinkUI/ from the list by selecting it and clicking on the "-" icon
-    - Add RalinkAirport and Airport Connection to the list (RalinkAirport above the other)
-    - Click the 'Hide' option for both these apps
-    - load Airport Connection
+To make the little shit (usb wifi) work that's what I did (see also <http://www.tonymacx86.com/viewtopic.php?f=19&t=37337>):
+
+* install official driver
+* patch kext: edit the Info.plist file in `RT2870USBWirelessDriver.kext` (located in System/Library/Extensions) and change values of vendor and device ID in Info.plist to match those of actual USB device listed in System Profiler (note: system profiler shows values in hex format, Info.plist has to be decimal)
+* download modded ralink software Ralink-Airport.zip from <http://www.insanelymac.com/forum/index.php?showtopic=168984&view=findpost&p=1168621>
+* Unzip Ralink-Airport.zip and move the folder into your Applications folder
+* Enter System Preferences > Users & Groups > Login Items
+* Remove AwakeRalinkUI/ from the list by selecting it and clicking on the "-" icon
+* Add RalinkAirport and Airport Connection to the list (RalinkAirport above the other)
+* Click the 'Hide' option for both these apps
+* load Airport Connection
 
 ![](http://dl.dropbox.com/u/179731/hackintosh%20multibeast%201.png)
 
