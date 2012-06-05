@@ -2,7 +2,7 @@
 layout: post
 title: the future according to google
 Date: 2008-09-17 07:34:00
-tags: [misc]
+tags: [comment]
 ---
 {% include JB/setup %} 
 
