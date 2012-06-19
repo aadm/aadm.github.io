@@ -2,6 +2,7 @@
 layout: post
 title:  "hackintosh in a coma"
 description: ""
+category: 
 tags: [apple]
 ---
 {% include JB/setup %}
