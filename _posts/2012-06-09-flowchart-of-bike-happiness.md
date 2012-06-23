@@ -7,8 +7,8 @@ tags: [cycling, quote]
 ---
 {% include JB/setup %}
 
-I think this is so good that I'll put it here in case I forget it.
+This is so good it's a shame it lies forgotten in an old issue of DirtRag.
 
-Flowchart of bike happiness (from DirtRag issue 145, october 2009).
+Source: DirtRag issue 145, october 2009.
 
 ![](https://dl.dropbox.com/u/179731/flowchart%20of%20bike%20happiness.jpg)
