@@ -7,9 +7,9 @@ tags: [cycling, apple]
 ---
 {% include JB/setup %}
 
-## what is this ##
+A short recap on how to build and install open mtb maps under OS X.
 
-A short recap on how to build and install open mtb maps under OS X. It is mainly a shorter version of the [detailed instructions given on mtb-forum.it](http://www.mtb-forum.it/community/forum/showpost.php?p=4901077&postcount=1), written for my convenience -- but I thought somebody could find it useful especially to see the result of using different 'styles'.
+Essentially, a shorter version of the [detailed instructions given on mtb-forum.it](http://www.mtb-forum.it/community/forum/showpost.php?p=4901077&postcount=1), written for my own convenience -- but I thought somebody could find it useful especially to see the result of using different 'styles'.
 
 ## tools
 
@@ -19,9 +19,7 @@ A short recap on how to build and install open mtb maps under OS X. It is mainly
 
 ## data ##
 
-The latest version of the [openmtb maps](http://openmtbmap.org/) are here[^1]:
-
-<ftp://ftp5.gwdg.de/pub/misc/openstreetmap/openmtbmap>
+The latest version of the [openmtb maps](http://openmtbmap.org/) are here[^1]: [ftp://ftp5.gwdg.de/pub/misc/openstreetmap/openmtbmap](ftp://ftp5.gwdg.de/pub/misc/openstreetmap/openmtbmap)
 
 [^1]: available as a self-decompressing .exe file, use Unarchiver to unzip them.
 
@@ -59,7 +57,7 @@ The TYP files specify the graphical format of the map:
 ![](https://dl.dropbox.com/u/179731/openmtbmaps-05.png)
 
 
-This is the result of creating the map with contour lines embedded (i.e. using mapsetc.tdb; I highly recommend using this style as contour lines may be switched off in Basecamp and they don't add too much data to the final map):
+This is the result of creating the map with contour lines embedded (i.e. using `mapsetc.tdb`; I highly recommend using this style as contour lines may be switched off in Basecamp and they don't add too much data to the final map):
 
 ![](https://dl.dropbox.com/u/179731/openmtbmaps-06.png)
 
@@ -70,6 +68,6 @@ For example, here I have selected `mapsetc` to have both vector maps and contour
 ### openstreetmaps ###
 
 
-A simpler procedure exists if you're looking for the basic OpenStreetMaps (which are more clear and easier to use for road and city navigation, expect very little detail off the beaten path though). Just go to [garmin.openstreetmap.nl](http://garmin.openstreetmap.nl/) and you can build your own customized map in `.gmapi` format. An email with a link to 3 versions of the selected maps (Windows, OS X and Garmin gps formats) will be sent to you usually after a few hours.
+A simpler procedure exists if you're looking for the basic OpenStreetMaps (which are more clear and easier to use for road and city navigation, expect very little detail off the beaten path though). Just go to [garmin.openstreetmap.nl](http://garmin.openstreetmap.nl/) and you can build your own customized map in `.gmapi` format. An email with a link to 3 versions of the selected maps (Windows, OS X and Garmin gps formats) will be in your inbox usually after a few hours.
 
 ![](https://dl.dropbox.com/u/179731/openstreetmaps.png)
