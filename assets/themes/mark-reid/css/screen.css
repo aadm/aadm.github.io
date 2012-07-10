@@ -23,8 +23,7 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,t
 body {
 /*	font-family: Palatino, georgia, "times new roman", serif;*/
     font-family: optima, "helvetica neue", helvetica, sans-serif;
-	
-	background-color: whitesmoke;
+	background-color: #4A4A4A;
 	background-position: center -18em;
 	background-repeat: repeat-x; 
 }
@@ -68,13 +67,13 @@ hr {
 sup { line-height: 1ex; }
 
 #site {
-	max-width: 46em;
+	max-width: 56em;
 	margin: 1.5em auto 3em auto;
 	line-height:1.5em;
 }
 
 #page, #disqus_thread {
-	background: white;
+	background: #E6E5E6;
 /*	background-image: url(grid.png); */
 	padding: 3em 3em 1.5em 3em;
 	border: 1px solid #ccc;
@@ -82,9 +81,9 @@ sup { line-height: 1ex; }
 
 /* More experimental CSS3 features */
 #page, #disqus_thread {
-	box-shadow: 2px 2px 8px #aaa;
-	-webkit-box-shadow: 2px 2px 8px #aaa;
-	-moz-box-shadow: 2px 2px 8px #aaa;	
+	box-shadow: 2px 2px 8px #262626;
+	-webkit-box-shadow: 2px 2px 8px #262626;
+	-moz-box-shadow: 2px 2px 8px #262626;	
 }
 
 #disqus_thread { padding-top: 0; }
@@ -238,22 +237,23 @@ ul.compact li a {
 /* @end */
 
 /* @group Header */
-/*#header, #header a { color: silver; }
-#header .hover { color: transparent; }
-#header:hover a { color: black; text-shadow: #aaa 2px 2px 3px;}
-#header:hover a:hover { text-decoration: none; }*/
-
+#header, #header a { color: #E6E5E6; }
+#header:hover a { color: #F2F2F2; }*/
+/*#header .hover { color: transparent; }*/
+/*#header:hover a { color: black; text-shadow: #aaa 2px 2px 3px;}*/
+#header:hover a:hover { text-decoration: none; }
 #header a { text-decoration: none; }
 
 #header {
+	font-family: "futura","helvetica neue", helvetica, sans-serif;	
 	position: relative;	
 	line-height: 1.5em;
 	margin-top: 1.5em;
-	margin-bottom: 0.0em
+	margin-bottom: 0.0em;
 }
 
 #header h1 {
-	font-family: "helvetica neue", helvetica, sans-serif;	
+	font-family: "futura","helvetica neue", helvetica, sans-serif;	
 /*	margin-bottom: 5pt;*/
 /*	line-height: 0.9em;*/
 	display: block;
@@ -261,6 +261,7 @@ ul.compact li a {
 }
 
 #header ul {
+	font-family: "futura","helvetica neue", helvetica, sans-serif;	
 	position: absolute;
 	top: 20pt;
 	right: 0;
@@ -274,8 +275,7 @@ ul.compact li a {
 
 #header ul li { display: inline; }
 #header ul li a {
-	font-family: "helvetica neue", helvetica, sans-serif;
-	
+	font-family: "futura","helvetica neue", helvetica, sans-serif;	
 	padding: 0.4em 0.3em 0 0.3em;
 	display: inline;
 }
@@ -284,8 +284,6 @@ ul.compact li a {
 	border-bottom: 2px solid blue;
 }*/
 #header .byline {
-	
-/*	color: silver;*/
 	font-size: 12pt;
 	line-height: 75%
 }
@@ -381,7 +379,6 @@ p.excerpt { margin: 0; }
 	line-height: 1.5em;
 	display: block; 
 	font-family: "helvetica neue", helvetica, sans-serif;
-/* 	font-variant: small-caps;*/
     font-weight: normal;	
 /*	position: absolute;*/
 /*	right: 1;*/
@@ -514,7 +511,8 @@ p.delicious-extended:before { content: ' — '; }
 /* @group Footer */
 #footer {
 	margin-top: 0;
-	color: grey;
+	font-family: "futura","helvetica neue", helvetica, sans-serif;
+	color: #E6E5E6;
 	font-size: 87.5%;
 	line-height: 1.3em;
 }
@@ -524,10 +522,8 @@ p.delicious-extended:before { content: ' — '; }
 	text-align: right;
 }
 #footer a {
-/*	font-variant: small-caps;*/
-	font-style: normal;
-	color: black;
-	text-decoration: none;
+	color: #E6E5E6;
+	text-decoration: underline;
 }
 #footer .copyright {
 	position: absolute;
