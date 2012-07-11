@@ -67,7 +67,7 @@ hr {
 sup { line-height: 1ex; }
 
 #site {
-	max-width: 56em;
+	max-width: 50em;
 	margin: 1.5em auto 3em auto;
 	line-height:1.5em;
 }
@@ -239,8 +239,6 @@ ul.compact li a {
 /* @group Header */
 #header, #header a { color: #E6E5E6; }
 #header:hover a { color: #F2F2F2; }*/
-/*#header .hover { color: transparent; }*/
-/*#header:hover a { color: black; text-shadow: #aaa 2px 2px 3px;}*/
 #header:hover a:hover { text-decoration: none; }
 #header a { text-decoration: none; }
 
@@ -416,7 +414,7 @@ pre:hover {
 }
 code {
 	font-size: 0.9em;
-	background-color: #f7f7ff;
+/*	background-color: #f7f7ff;*/
 	line-height: 1.4em;
 }
 pre > code {

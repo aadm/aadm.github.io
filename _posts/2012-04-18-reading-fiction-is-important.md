@@ -1,8 +1,8 @@
 ---
 layout: post
 title: reading fiction is important
-tate: 2012-04-18 09:03:12
-tags: links
+date: 2012-04-18 09:03:12
+tags: [links, quote]
 ---
 {% include JB/setup %} 
 

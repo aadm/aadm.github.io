@@ -88,7 +88,7 @@ Since everything was working I wanted some more troubles so I updated my system 
 
 Then, not unexpectedly, OS X crashed on restarting and had to boot from the unibeast USB disk, selecting to boot from the drive with the newly installed system using these switches:
 
-	-v GeneratPStates=No DropSSDT=Yes.
+	-v GeneratPStates=No DropSSDT=Yes
 
 I then ran Multibeast 4.5.2 using the [updated DSDT for my motherboard](http://tonymacx86.blogspot.it/2012/05/dsdt-database-update-gigabyte-h67.html) and selected these options:
 
