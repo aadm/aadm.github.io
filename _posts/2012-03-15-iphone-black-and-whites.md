@@ -2,7 +2,7 @@
 layout: post
 title: iphone black and whites
 date: 2012-03-15
-tags: photo
+tags: [photo, apple]
 ---
 {% include JB/setup %} 
 

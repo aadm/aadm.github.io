@@ -6,12 +6,12 @@ tags: [quote, cycling]
 ---
 {% include JB/setup %} 
 
-First a comment on italian's ability to manage confusion:
+A comment on Italians' ability to manage confusion:
 
 >the Italians broke the laws of physics and created instant order out of utter disorder and chaos. We were waved and whistled by the police, straight through to the start area.
 
-This second one is about cyclists (especially roadies) shaving their legs:
+About cyclists (especially roadies) shaving their legs:
 
 >In fact, it was based on sound principles of physics and human anatomy, where the hairs help in a small way to allow the evaporation of sweat, which takes energy from the surrounding skin to do so. I was always hit by arguments like about how unhygienic it was and how much better a shaved leg would be. But I had read that shaved skin was more likely to suffer infection, which just left the questions about aerodynamics, aesthetics and conforming to my peer group.
 
-From ["Flying Scotsman"](https://kindle.amazon.com/work/flying-scotsman-ebook/B000GOXXC2/B006WB2CU2) by Graeme Obree.
+(["Flying Scotsman"](https://kindle.amazon.com/work/flying-scotsman-ebook/B000GOXXC2/B006WB2CU2) by Graeme Obree).

@@ -3,7 +3,7 @@ layout: post
 title: "open mtb maps"
 description: ""
 category: 
-tags: [cycling, apple]
+tags: [cycling, apple, tech]
 ---
 {% include JB/setup %}
 

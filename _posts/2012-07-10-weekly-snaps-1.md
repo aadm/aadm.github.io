@@ -17,7 +17,7 @@ So let's start with *weekly snaps #1*.
 
 *** 
 
-These first three shots were taken last Sunday when I had probably the last hike in the mountains just me and me wife. Very soon there will be a third little one joining us. By the way, our little one is still un-named so we welcome any suggestion on the name.
+These first three shots were taken last Sunday when I had probably the last hike in the mountains just me and me wife. Very soon there will be a third little one joining us. By the way, our little one is still un-named so we welcome any suggestion on how to call her.
 
 <a href="http://www.flickr.com/photos/aadm/7539194536/" title="_D7K4641 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7131/7539194536_669029689a_z.jpg" width="424" height="640" alt="_D7K4641"></a>
 

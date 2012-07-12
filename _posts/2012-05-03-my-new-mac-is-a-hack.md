@@ -3,10 +3,9 @@ layout: post
 title: "my new mac is a hack"
 description: ""
 category: 
-tags: [apple]
+tags: [apple, tech]
 ---
 {% include JB/setup %}
-
 
 ![](http://dl.dropbox.com/u/179731/IMG_4551_hackintosh.jpg)
 

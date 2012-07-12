@@ -3,7 +3,7 @@ layout: post
 title:  "hackintosh in a coma"
 description: ""
 category: 
-tags: [apple]
+tags: [apple, tech]
 ---
 {% include JB/setup %}
 
@@ -15,7 +15,6 @@ And what was even stranger was that also Filippo's hackintosh, built at the same
 Ok let me say that there's a happy ending to this story: the motherboards were not dead but only in a coma. It was necessary to reinstall the bios and use an external graphic card to redirect the display because for some reasons the integrated HD3000 gpus were not working.
 
 ## details of a hackintosh entering  a coma ##
-
 
 So I built [these two hackintosh](http://aadm.github.com/2012-05-03-my-new-mac-is-a-hack.html), one for me (A) one for a friend (B). 
 
