@@ -15,6 +15,6 @@ title: recent posts
 
 Check also the [archive](archive.html) for a chronological list of all the things I've written, and the [tags page](tags.html) to see all the articles grouped for subject.
 
-<!-- Follow me on twitter: [@aadmtwi](http://twitter.com/aadmtwi). -->
+<!-- ![](https://dl.dropbox.com/u/179731/torta_di_compleanno.jpg) -->
 
 © 2005–2012 Alessandro Amato del Monte (aadm).

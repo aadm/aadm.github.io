@@ -6,9 +6,10 @@ Date: 2012-04-19
 {% include JB/setup %}
 
 
-<a href="http://www.flickr.com/photos/aadm/1449633525/" title="creta_027 by aadm, on Flickr"><img src="http://farm2.staticflickr.com/1111/1449633525_42ed487e19.jpg" width="500" height="333" alt="creta_027"></a>
+<!-- <a href="http://www.flickr.com/photos/aadm/1449633525/" title="creta_027 by aadm, on Flickr"><img src="http://farm2.staticflickr.com/1111/1449633525_42ed487e19.jpg" width="500" height="333" alt="creta_027"></a> -->
+<!-- ![](https://dl.dropbox.com/u/179731/3424019349.jpg) -->
 
-I can be reached via email ([alessandro.adm@gmail.com](mailto:alessandro.adm@gmail.com)) or Twitter ([@aadmtwi](http://twitter.com/aadmtwi)).
+I can be reached via Twitter ([@aadmtwi](http://twitter.com/aadmtwi)).
 
 My photos are [on flickr](http://www.flickr.com/photos/aadm/), and you can also check [my instagrams on statigr.am](http://statigr.am/viewer.php#/user/983741/).
 
@@ -30,5 +31,4 @@ To browse through the posts use either the [archive](archive.html) where everyth
 
 One day I'll also add a "best of", but not right now.
 
-
-<a href="http://www.flickr.com/photos/aadm/780792236/" title="beijing_8828 by aadm, on Flickr"><img src="http://farm2.staticflickr.com/1330/780792236_aaf33fd5d2.jpg" width="333" height="500" alt="beijing_8828"></a>
+<a href="http://www.flickr.com/photos/aadm/780792236/" title="beijing_8828 by aadm, on Flickr"><img src="http://farm2.staticflickr.com/1330/780792236_aaf33fd5d2_b.jpg" width="681" height="1024" alt="beijing_8828"></a>
