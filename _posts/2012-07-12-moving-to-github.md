@@ -49,7 +49,7 @@ Then only a few days ago I wanted something different, probably inspired by thes
 
 Looking at these two sites (and countless others) I realized that pure black and pure white is not cool. Shades of grey, they're cool. So I aimed at building a not-so-white page floating on a darker background. And while I was at that I also played with fonts a little bit; I kept Optima as the main one, Helvetica for headers and then chose Futura for the title, navigational texts and copyrights. Does it work? For now it does. I have the majority of my readers agreeing with me (it's just two friends actually).
 
-If you're reading this in Windows then you may just see Helvetica (or its Windows' counterpart, Arial) all around:
+If you're reading this in Windows then you may just see Helvetica (or its Windows' counterpart, Arial) all around[^2]:
 
 ![](https://dl.dropbox.com/u/179731/chrome_pc_blog.png)
 
@@ -64,3 +64,4 @@ Incidentally, I think the best looks that I've ever got was this one on my Wordp
 
 [^1]: read a brief history of VCS in [this chapter of the official Pro Git book](http://git-scm.com/book/en/Getting-Started-About-Version-Control).
 
+[^2]: UPDATE: I have changed my theme in order to use Google's Webfonts, so the look should be consistent on all platforms now. See also [this post](2012-07-17-fonts-on-my-blog.html). 

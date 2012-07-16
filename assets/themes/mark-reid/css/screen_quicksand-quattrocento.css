@@ -43,8 +43,8 @@ a.pdf:before {
 h1,h2,h3,h4 { 
 	line-height:1.5em; 
 	clear: left; 	
-	/*font-family: 'Averia Sans Libre', Helvetica, Arial, sans-serif;*/
-	font-family: 'Averia Sans Libre', sans-serif;
+	/*font-family: 'Quicksand', Helvetica, Arial, sans-serif;*/
+	font-family: 'Quicksand', sans-serif;
 	font-weight: bold; 
 
 }
@@ -209,7 +209,7 @@ ul.compact li a {
 #header a { text-decoration: none; }
 
 #header {
-	font-family: 'Averia Sans Libre', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-weight: bold; 
 	position: relative;	
 	line-height: 1.5em;
@@ -218,7 +218,7 @@ ul.compact li a {
 }
 
 #header h1 {
-	font-family: 'Averia Sans Libre', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-weight: bold; 
 	margin-bottom: 5pt;
 	line-height: 1.0em;
@@ -226,7 +226,7 @@ ul.compact li a {
 }
 
 #header ul {
-	font-family: 'Averia Sans Libre', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-weight: bold; 
 	position: absolute;
 	top: 20pt;
@@ -241,7 +241,7 @@ ul.compact li a {
 
 #header ul li { display: inline; }
 #header ul li a {
-	font-family: 'Averia Sans Libre', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-weight: bold; 
 	padding: 0.4em 0.3em 0 0.3em;
 	display: inline;
@@ -299,7 +299,7 @@ body#Kith #header a.kith
 	padding-right: 3em;
 }
 .section h1 {
-	font-family: 'Averia Sans Libre', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-size: 100%;
 	line-height: 1.43em;
 	position: absolute;
@@ -481,7 +481,7 @@ p.delicious-extended:before { content: ' — '; }
 /* @group Footer */
 #footer {
 	margin-top: 0;
-	font-family: "Averia Sans Libre", sans-serif;
+	font-family: "Quicksand", sans-serif;
 	font-weight: bold; 
 	color: #E6E5E6;
 	font-size: 87.5%;
