@@ -9,7 +9,7 @@ tags: [misc]
 
 Last time [I wrote something about this blog](2012-07-12-moving-to-github.html), how I moved everything to Jekyll and modified the original themes. 
 
-Then a friend tweeted about that issue that I had with the fonts, that the blog looked differently when viewed on a PC or a Mac. And he also added that it was "fairly easy to add fonts".
+Then my friend Ian [tweeted about that issue that I had with the fonts](https://twitter.com/largeuk/status/223700925959770112), that the blog looked differently when viewed on a PC or a Mac. And he also added that embedding fonts was easy.
 
 So I looked around and in fact it was easy; more importantly, there's plenty of open source fonts [made available by Google](http://www.google.com/webfonts/). What was *not* easy was to decide which combination of fonts to use.
 
