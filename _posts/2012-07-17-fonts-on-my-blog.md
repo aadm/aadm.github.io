@@ -24,4 +24,28 @@ At the end I had two options: [Quicksand](http://www.google.com/webfonts/specime
 
 So no doubts on the body font -- even though all these knowledgeable people that have written reasonable and reasoned pieces on these Google fonts have had nothing to say on Quattrocento Sans so there *must* be something not right. But I can't see it.
 
+My gut feeling is that Quattrocento Sans (and its serif counterpart, Quattrocento) are beatifully designed fonts and they make for an excellent reading experience; their creator, [Pablo Impallari](http://www.impallari.com/), is an argentinian who surely know a lot of shit -- total respect for this guy.
+
 For the headings, as of today, Averia Sans Libre won. 
+
+## evolution of the style
+
+I started with a very simple combination of Helvetica Neue and Optima:
+
+![](https://dl.dropbox.com/u/179731/blog-style-0-mac.png)
+
+Which looked terrible on a PC though as I was using fonts that were specific to Macs:
+
+![](https://dl.dropbox.com/u/179731/blog-style-0-pc.png)
+
+Then I tried Quicksand which I liked for the headings, together with a old-fashion Cardo:
+
+![](https://dl.dropbox.com/u/179731/blog-style-1-mac.png)
+
+Finally I settled on Averia Sans Libre and Quattrocento Sans, plus Cousine as a fixed-width font for `code paragraphs`:
+
+![](https://dl.dropbox.com/u/179731/blog-style-2-mac.png)
+
+And now the site looks (almost) the same also on PC running Windows:
+
+![](https://dl.dropbox.com/u/179731/blog-style-2-pc.png)

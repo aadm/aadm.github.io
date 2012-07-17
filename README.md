@@ -14,4 +14,4 @@ And the explanation for doing this, again from the same guy:
 
 I have used stuff which is copyrighted by Tom Preston-Werner and other guys: Jekyll, Jekyll Bootstrap, Google Web Fonts, Mark Reid's template. 
 
-All the content and further customization is mine though, so please don't steal anything and ask me if you want to borrow something.
+All the content and further customization is mine though, so please don't steal anything and ask me if you want to borrow something. All rights reserved, right?

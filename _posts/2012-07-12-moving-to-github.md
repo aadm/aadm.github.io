@@ -7,13 +7,13 @@ tags: [apple, tech]
 ---
 {% include JB/setup %}
 
-If somebody would actually read these posts he'd start thinking something like "what a nerd".
+If somebody would actually read these posts he'd start thinking something like "what a loser".
 
 Here I am, a fairly old [git](http://en.wiktionary.org/wiki/git), waiting for his [first baby](2012-02-20-five-months-to-go.html), with too many things to do at work (and off-work), losing precious sleep hours to relocate his blog on GitHub. 
 
 And what the hell is GitHub, asks the non-geek. Well, [GitHub](http://www.github.com) is basically a VCS (Version Control Systems[^1]) that allows programmers and hackers to exchange and host their coding efforts; but it does more than that, such as the possibility to host also personal blogs for free.
 
-A nerd would now understand and nod approvingly, thinking "oh this is classy".
+Only a nerd would now understand and nod approvingly, thinking "oh this is classy".
 
 Normal people -- don't run away; what you should know is that GitHub is a place that not only gives me space to publish my blog, but also run it the way I want thanks to an engine called [Jekyll](http://jekyllrb.com/).
 
@@ -49,19 +49,10 @@ Then only a few days ago I wanted something different, probably inspired by thes
 
 Looking at these two sites (and countless others) I realized that pure black and pure white is not cool. Shades of grey, they're cool. So I aimed at building a not-so-white page floating on a darker background. And while I was at that I also played with fonts a little bit; I kept Optima as the main one, Helvetica for headers and then chose Futura for the title, navigational texts and copyrights. Does it work? For now it does. I have the majority of my readers agreeing with me (it's just two friends actually).
 
-If you're reading this in Windows then you may just see Helvetica (or its Windows' counterpart, Arial) all around[^2]:
-
-![](https://dl.dropbox.com/u/179731/chrome_pc_blog.png)
-
-While if you're on a mac that's the real deal:
-
-![](https://dl.dropbox.com/u/179731/chrome_mac_blog.png)
+I was trying to get the same experience when viewing the blog on Mac and PCs, but [this is for another time](2012-07-17-fonts-on-my-blog.html). How the blog looks is very important to me and to countless other freaks.
 
 Incidentally, I think the best looks that I've ever got was this one on my Wordpress blog:
 
 ![](https://dl.dropbox.com/u/179731/aadm_wordpress_blog_heading.png)
 
-
 [^1]: read a brief history of VCS in [this chapter of the official Pro Git book](http://git-scm.com/book/en/Getting-Started-About-Version-Control).
-
-[^2]: UPDATE: I have changed my theme in order to use Google's Webfonts, so the look should be consistent on all platforms now. See also [this post](2012-07-17-fonts-on-my-blog.html). 
