@@ -14,4 +14,4 @@ And the explanation for doing this, again from the same guy:
 
 I have used stuff which is copyrighted by Tom Preston-Werner and other guys: Jekyll, Jekyll Bootstrap, Google Web Fonts, Mark Reid's template. 
 
-All the content and further customization is mine though, so please don't steal anything and ask me if you want to borrow something. All rights reserved, right?
+All the content and further customization is mine though, so please don't steal anything and ask me if you want to borrow something. The license I'm using is a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>. In other words you are free to share and remix as long as you give proper attribution, don't make money out of it, and if you share your derivative work, do it with a similar license.

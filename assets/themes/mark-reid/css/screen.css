@@ -487,8 +487,6 @@ p.delicious-extended:before { content: ' — '; }
 #footer:hover a { color: #FFFFFF; }
 #footer:hover a:hover { text-decoration: underline; }
 
-
-
 #footer .copyright {
 	position: absolute;
 	left: 0;
