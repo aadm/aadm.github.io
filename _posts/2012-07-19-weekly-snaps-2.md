@@ -7,7 +7,7 @@ tags: [photo]
 ---
 {% include JB/setup %}
 
-This week a few pictures taken during a lazy Sunday in Ziano di Fiemme, near Piacenza. Good wine there, and a first experience using an old manual focus Nikkor 85mm f/1.8 which I had modified to AI-S to use it on my D7000.
+This week a few pictures taken during a lazy Sunday in Ziano Piacentino. Good wine there, and a first experience using an old manual focus Nikkor 85mm f/1.8 which I had modified to AI-S to use it on my D7000.
 
 <a href="http://www.flickr.com/photos/aadm/7600000200/" title="_D7K3221 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7250/7600000200_23b7746341_z.jpg" width="424" height="640" alt="_D7K3221"></a>
 
