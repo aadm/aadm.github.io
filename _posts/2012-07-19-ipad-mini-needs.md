@@ -3,13 +3,15 @@ layout: post
 title: "ipad mini needs"
 description: ""
 category: 
-tags: [mac]
+tags: [apple, tech]
 ---
 {% include JB/setup %}
 
-[Rumors](http://online.wsj.com/article/BT-CO-20120704-703673.html) of an upcoming iPad Mini are abundant. As usual, all the tech bloggers are very concerned with things such as *pricing*, *market position*, *technical feasibility*, etc. My god, [these](http://www.harbinger.me/posts/57) are a bunch of [boring guys](http://daringfireball.net/2012/07/this_ipad_mini_thing).
+[Rumors](http://online.wsj.com/article/BT-CO-20120704-703673.html) of an upcoming iPad Mini are abundant.
 
-So bear with me for just a few moments, because all I want to do is write about why I'd like an iPad Mini:
+As usual, all the tech bloggers are very concerned with things such as *pricing*, *market position*, *technical feasibility*, etc. What a bunch of [boring](http://www.harbinger.me/posts/57) [guys](http://daringfireball.net/2012/07/this_ipad_mini_thing).
+
+Now, bear with me for just a few moments, because all I want to do is tell you why I'd like an iPad Mini:
 
 1. to read pdfs; using every now and then my wife's iPad I realize that it is the best way to read magazines and study/annotate scientific articles. A smaller iPad would be just fine for me because otherwise I would end up just leaving it at home.
 2.  to collect my photos in a portfolio (which means at least 32 Gb for me).
