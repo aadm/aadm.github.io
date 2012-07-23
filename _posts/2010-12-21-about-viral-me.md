@@ -6,7 +6,7 @@ tags: [quote, comment]
 ---
 {% include JB/setup %} 
 
-In [this previous post](http://aadm.calepin.co/dailybooth.html) I linked to [an article that upset me](http://www.gq.com/news-politics/big-issues/201012/viral-me-silicon-valley-social-networking-devin-friedman).
+In [this previous post](http://aadm.github.com/2010-12-21-dailybooth.html) I linked to [an article that upset me](http://www.gq.com/news-politics/big-issues/201012/viral-me-silicon-valley-social-networking-devin-friedman).
 
 It tells a story about these incredibly smart kids that waste their time and
 energy (and considerable amounts of brain, apparently) to build yet another

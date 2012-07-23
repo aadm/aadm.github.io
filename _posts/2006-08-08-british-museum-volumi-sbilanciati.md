@@ -8,10 +8,11 @@ tags: [photo]
 
 [![](http://static.flickr.com/72/209545948_dca197aab9_m.jpg)](http://www.flickr.com/photos/aadm/209545948/)  
   
-All'inizio questa foto mi piaceva, adesso pero' la trovo forse un po' sbilanciata.    
-Mi piace il taglio diagonale, ma c'e' quella (parte di) statua sulla estrema destra che da' un senso di incompiutezza. Il problema e' che se la taglio via poi tutto il resto e' leggermente fuori fuoco, visto che l'effetto (voluto) era quello di sfocare in maniera progressiva le statue che seguono.  
-  
-Che fare ? Ritorno al British Museum giusto per rifare questo scatto ?  
+All'inizio questa foto mi piaceva, adesso però la trovo forse un po' sbilanciata.    
+Mi piace il taglio diagonale, ma c'è quella (parte di) statua sulla estrema destra che dà un senso di incompiutezza. Il problema è che se la taglio via poi tutto il resto è leggermente fuori fuoco, visto che l'effetto (voluto) era quello di sfocare in maniera progressiva le statue che seguono.  
+
+ 
+Che fare? Ritorno al British Museum giusto per rifare questo scatto?  
   
 Questa invece...  
   

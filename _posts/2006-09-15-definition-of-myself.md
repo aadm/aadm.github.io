@@ -21,6 +21,6 @@ Yesterday I was browsing [Merlin Mann's 43folders](http://www.43folders.com/) , 
 * geeks have too many projects and lots and lots of stuff  
   
   
-Well, GTD does not appeal to me (even though I have already written [a short note about it](http://aadm.calepin.co/italian-gtd.html)), but all of the above points.... man, that's me !  
+Well, GTD does not appeal to me (even though I have already written [a short note about it](http://aadm.github.com/2005-08-24-italian-gtd.html)), but all of the above points.... man, that's me !  
 
 I'm so glad not be alone in this world. Now, where can I have [a t-shirt like this](http://xkcd.com/c23.html)? 

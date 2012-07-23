@@ -6,7 +6,7 @@ tags: [movies, tv]
 ---
 {% include JB/setup %} 
 
-I've been a [great fan of 24](http://aadm.calepin.co/24-talk.html) since its first season, years ago. I've thoroughly enjoyed the first season, and also the second and the third. However, the show has been moving towards full improbability with the latest seasons. I think I also watched season 4, and then I don't remember anymore; maybe I've also seen season 5, but maybe I slept through some of the episodes -- I honestly don't recall. And then I didn't even know they made yet another season (number six), and now I can't be bothered finding out more about it even less watch it.  
+I've been a [great fan of 24](http://aadm.github.com/2007-02-13-24-talk.html) since its first season, years ago. I've thoroughly enjoyed the first season, and also the second and the third. However, the show has been moving towards full improbability with the latest seasons. I think I also watched season 4, and then I don't remember anymore; maybe I've also seen season 5, but maybe I slept through some of the episodes -- I honestly don't recall. And then I didn't even know they made yet another season (number six), and now I can't be bothered finding out more about it even less watch it.  
   
 I suppose that's very bad for a show that started out so well and got me gripped for all the 24 episodes of its first season; I do remember long nights watching six or seven episodes one after the other.  
   

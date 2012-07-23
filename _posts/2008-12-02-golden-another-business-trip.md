@@ -12,12 +12,13 @@ Golden, Colorado.
   
 [![golden_2769](http://farm4.static.flickr.com/3247/3059359181_3a5c4478e6.jpg)](http://www.flickr.com/photos/aadm/3059359181/)  
   
-Ho arrangiato una cosa simile a [questa](http://aadm.calepin.co/santa-cruz-a-business-trip.html), pero' stavolta non ho dovuto prendere voli extra; il meeting (di lavoro) era alla Colorado School of Mines che si trova proprio a Golden. Nessun volo extra per due giornate piene di mountain biking.  
+Ho arrangiato una cosa simile a [questa](http://aadm.github.com/2008-05-20-santa-cruz-a-business-trip.html), però stavolta non ho dovuto prendere voli extra; il meeting (di lavoro) era alla Colorado School of Mines che si trova proprio a Golden. Nessun volo extra per due giornate piene di mountain biking.  
   
 La geografia della zona:  
 [![Golden mtb trails 1](http://farm4.static.flickr.com/3068/3076074760_163a7d8f8c_o.png)](http://www.flickr.com/photos/aadm/3076074760/)  
   
-Uno zoom sul primo tracciato, che porta in cima alla North Table Mountain; eccezionale perche' vicinissimo alla citta', in mezz'ora si e' su questo singletrack che un americano definirebbe "sweet":  
+Uno zoom sul primo tracciato, che porta in cima alla North Table Mountain; eccezionale perché vicinissimo alla città, in mezz'ora si è su questo singletrack che un americano definirebbe "sweet":  
+
   
 [![Golden mtb trails 2](http://farm4.static.flickr.com/3284/3075242549_cbd0ae5ceb.jpg)](http://www.flickr.com/photos/aadm/3075242549/)  
   
@@ -25,7 +26,7 @@ Uno zoom sul primo tracciato, che porta in cima alla North Table Mountain; eccez
 _Sweet singletrack !_  
   
 [![golden_2821](http://farm4.static.flickr.com/3045/3060210962_32fa684f5f.jpg)](http://www.flickr.com/photos/aadm/3060210962/)  
-_In cima a North Table, guardando giu' verso Golden._  
+_In cima a North Table, guardando giù verso Golden._  
   
 E questo il secondo, il loop Dakota Ridge / Matthews Winter, che si raggiunge da Golden con una tranquilla pedalata di circa 30 minuti:  
   
