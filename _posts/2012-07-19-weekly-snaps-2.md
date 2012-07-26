@@ -26,3 +26,10 @@ This week a few pictures taken during a lazy Sunday in Ziano Piacentino. Good wi
 As a bonus, a wonderful old lady powering through the streets of central Milano. I also took this one with the 85mm; it's not a sharp picture -- there's a hint of microblur if you look closely, but who cares when there's a woman dressed in red with a cigarette on her hand and smoke coming out of her.
 
 <a href="http://www.flickr.com/photos/aadm/7599989368/" title="_D7K3030 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7119/7599989368_dc97285bdd_z.jpg" width="640" height="424" alt="_D7K3030"></a>
+
+
+### Previously:
+
+* [Weekly snaps #1](<http://aadm.github.com/2012-07-10-weekly-snaps-1.html>)
+
+
