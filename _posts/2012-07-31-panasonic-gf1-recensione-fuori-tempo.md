@@ -23,7 +23,7 @@ Proprio vero quello che si diceva in giro quando uscì la GF-1; è una macchina 
 
 Ecco cosa scrissi a Daniele e Dylan dopo aver letto un'articolo di dpreview sulla Panasonic:
 
-    from    Alex Amato <alessandro.adm@gmail.com>
+    from    aadm
     date    Thu, Sep 3, 2009 at 10:23 PM
     subject retro-minimalista, panasonic dmc-GF-1
     
