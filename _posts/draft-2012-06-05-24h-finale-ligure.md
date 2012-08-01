@@ -9,7 +9,10 @@ published: false
 
 Quando andavo in moto ho sempre desiderato fare gare di endurance; 6 ore di Sebring, 24 ore di Les Mans, fari nella lunga notte, tutte cose che mi affascinavano. 
 
-Ho smesso di andare in moto ma il *fascino* per me gare di durata non ha mai smesso di starmi addosso. E quest'anno sono stato trascinato da Stefano a fare una 24 ore, ma con le biciclette. 
+Ho smesso di andare in moto ma il *fascino* per me gare di durata non ha mai smesso di starmi addosso. E quest'anno sono stato trascinato da Stefano a fare una 24 ore, ma con le biciclette.
+ 
+***
+
 
 Si tratta della 24h più conosciuta e famosa in Italia; qualcosa che attrae anche quelli che di fare xc non ci penserebbero mai, associando la disciplina a sterratoni da fare a fuoco, salite estenuanti, biciclettina esili esili, poco divertimento e molta fatica. E di conseguenza attrae anche me. 
 
