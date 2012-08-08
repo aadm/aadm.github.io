@@ -43,7 +43,7 @@ a.pdf:before {
 h1,h2,h3,h4 { 
 	line-height:1.5em; 
 	clear: left; 	
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Averia Sans Libre', sans-serif;
 	font-weight: bold; 
 }
 h1 {font-size: 2.4em; }
@@ -198,7 +198,7 @@ ul.compact li a {
 #header a { text-decoration: none; }
 
 #header {
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Averia Sans Libre', sans-serif;
 	font-weight: bold; 
 	position: relative;	
 	line-height: 1.5em;
@@ -207,7 +207,7 @@ ul.compact li a {
 }
 
 #header h1 {
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Averia Sans Libre', sans-serif;
 	font-weight: bold; 
 	margin-bottom: 5pt;
 	line-height: 1.0em;
@@ -215,7 +215,7 @@ ul.compact li a {
 }
 
 #header ul {
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Averia Sans Libre', sans-serif;
 	font-weight: bold; 
 	position: absolute;
 	top: 20pt;
@@ -230,7 +230,7 @@ ul.compact li a {
 
 #header ul li { display: inline; }
 #header ul li a {
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Averia Sans Libre', sans-serif;
 	font-weight: bold; 
 	padding: 0.4em 0.3em 0 0.3em;
 	display: inline;
@@ -288,7 +288,7 @@ body#Kith #header a.kith
 	padding-right: 3em;
 }
 .section h1 {
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Averia Sans Libre', sans-serif;
 	font-size: 100%;
 	line-height: 1.43em;
 	position: absolute;
@@ -469,7 +469,7 @@ p.delicious-extended:before { content: ' — '; }
 /* @group Footer */
 #footer {
 	margin-top: 0;
-	font-family: "News Cycle", sans-serif;
+	font-family: "Averia Sans Libre", sans-serif;
 	font-weight: normal; 
 	color: #E6E5E6;
 	font-size: 85%;

@@ -38,8 +38,8 @@ And finally -- as the Blur used to say -- "[you should cut down on your porklife
 
 ### Previously:
 
-* [Weekly snaps #1](<http://aadm.github.com/2012-07-10-weekly-snaps-1.html>)
-* [Weekly snaps #2](<http://aadm.github.com/2012-07-19-weekly-snaps-2.html>)
+* [Weekly snaps #1](http://aadm.github.com/2012-07-10-weekly-snaps-1.html)
+* [Weekly snaps #2](http://aadm.github.com/2012-07-19-weekly-snaps-2.html)
 
 
 [^1]: I'm enjoying the processing capabilities of Aperture but even more a cheap little Bamboo table that is essential for some brush action. I bought mine some time ago after my friend Daniele told me that it was a must for photo editing. Turns out, he was right.
