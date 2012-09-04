@@ -61,5 +61,4 @@ Anyway, these articles are (as usual) very well written and are full of ideas th
 
 > Parenting is hard. As anyone who has gone through the process and had enough leisure (and still functioning brain cells) to reflect on it knows, a lot of it is a crapshoot. Things go wrong that you have no control over, and, on occasion, things also go right, and you have no control over those, either. The experience is scary and exhilarating and often humiliating, not because you’re disappointed in your kids, necessarily, but because you’re disappointed in yourself.
 
-(Source: <http://www.newyorker.com/arts/critics/books/2011/01/31/110131crbo_books_kolbert
->)
+(Source: <http://www.newyorker.com/arts/critics/books/2011/01/31/110131crbo_books_kolbert>)
