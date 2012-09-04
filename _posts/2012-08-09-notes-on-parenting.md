@@ -49,3 +49,17 @@ Anyway, these articles are (as usual) very well written and are full of ideas th
 > (...) the inconvenient truth remains that not every child can be shaped and accelerated into Harvard material. But all kids can have their spirits broken, depression induced and anxiety stoked by too much stress, too little downtime and too much attention given to external factors that make them look good to an audience of appraising eyes but leave them feeling rotten inside.
 
 (Source: <http://www.nytimes.com/2012/07/29/books/review/teach-your-children-well-by-madeline-levine.html>).
+
+
+## excerpt 4: "America’s Top Parent - What’s behind the Tiger Mother craze?"  by Elizabeth Kolbert
+
+> Chua, the daughter of Chinese immigrants, is a Yale Law School professor. She is married to another Yale law professor and has two daughters, whom she drives relentlessly (...) In Chua’s binary world, there are just two kinds of mother. There are “Chinese mothers,” who, she allows, do not necessarily have to be Chinese (...) Then, there are “Western” mothers. (...) Chua chooses the instruments that her daughters will play and stands over them as they practice for three, four, sometimes five hours at a stretch.
+
+> "Yes, you can brute-force any kid to learn to play the piano—just precisely like his or her billion neighbors" is how one of the comments on the Wall Street Journal’s Web site put it. "But you’ll never get a Jimi Hendrix that way".
+
+> Just about the only category in which American students outperform the competition is self-regard (...)
+
+> Parenting is hard. As anyone who has gone through the process and had enough leisure (and still functioning brain cells) to reflect on it knows, a lot of it is a crapshoot. Things go wrong that you have no control over, and, on occasion, things also go right, and you have no control over those, either. The experience is scary and exhilarating and often humiliating, not because you’re disappointed in your kids, necessarily, but because you’re disappointed in yourself.
+
+(Source: <http://www.newyorker.com/arts/critics/books/2011/01/31/110131crbo_books_kolbert
+>)

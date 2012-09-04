@@ -35,6 +35,7 @@ Finally a snowy landscape which may remind you that "winter is coming".
 <a href="http://www.flickr.com/photos/aadm/7653070862/" title="_D7K1425 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8148/7653070862_91f0586b58_z.jpg" width="640" height="424" alt="_D7K1425"></a>
 
 *Belvedere Langhe, Nikon D7000, 35mm f/1.8.* 
+
 ### Previously:
 
 * [Weekly snaps #1](http://aadm.github.com/2012-07-10-weekly-snaps-1.html)
