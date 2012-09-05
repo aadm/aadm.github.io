@@ -33,14 +33,11 @@ _Beach and stars._
 <a href="http://www.flickr.com/photos/aadm/7932975770/" title="_D7K6201 Portra 160 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8040/7932975770_157cac8106_z.jpg" width="424" height="640" alt="_D7K6201 Portra 160"></a>
 _Late afternoon on the beach with friends #1._
 
-<a href="http://www.flickr.com/photos/aadm/7932957818/" title="_D7K6217 Portra 160 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8309/7932957818_53c136d32e_z.jpg" width="640" height="424" alt="_D7K6217 Portra 160"></a>
+<a href="http://www.flickr.com/photos/aadm/7932936628/" title="_D7K6238 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8312/7932936628_4b37fbf7f5_z.jpg" width="424" height="640" alt="_D7K6238"></a>
 _Late afternoon on the beach with friends #2._
 
-<a href="http://www.flickr.com/photos/aadm/7932936628/" title="_D7K6238 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8312/7932936628_4b37fbf7f5_z.jpg" width="424" height="640" alt="_D7K6238"></a>
-_Late afternoon on the beach with friends #3._
-
 <a href="http://www.flickr.com/photos/aadm/7932994368/" title="_D7K6183 Ilford HP5 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8309/7932994368_a86fb2ffa5_z.jpg" width="640" height="424" alt="_D7K6183 Ilford HP5"></a>
-_Late afternoon on the beach with friends #4._
+_Late afternoon on the beach with friends #3._
 
 <a href="http://www.flickr.com/photos/aadm/7932982932/" title="_D7K6190 Portra 160 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8177/7932982932_7f1078a95f_z.jpg" width="640" height="427" alt="_D7K6190 Portra 160"></a>
 _Beach life #1._
