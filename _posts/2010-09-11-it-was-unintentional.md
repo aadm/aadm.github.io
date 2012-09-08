@@ -14,6 +14,6 @@ So how did it happen: I spent last weekend in Livigno for some mountain biking. 
 
 And yes they did. This is how I ended up with a rather unusual bundle.
 
-I know, the Olympus 17mm f/2.8 is not the same thing as the Panasonic 20mm f/1.7. But you see, in Livigno they have no IVA (equivalent of UK's VAT). And they made a very good price.
+I know, the Olympus 17mm f/2.8 is not the same thing as the Panasonic 20mm f/1.7. But you see, in Livigno they have no IVA (equivalent of UK's VAT).
 
-An offer I couldn't refuse.
+And they made a very good price.

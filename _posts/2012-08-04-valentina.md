@@ -35,7 +35,7 @@ prenderla in braccio, la mia valentina.
 
 <a href="http://www.flickr.com/photos/aadm/7847331512/" title="_D7K5370 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8291/7847331512_2770a6307d_z.jpg" width="424" height="640" alt="_D7K5370"></a>
 
-_"Shès a tiny baby"._
+_"She's a tiny baby"._
 
 <a href="http://www.flickr.com/photos/aadm/7847400112/" title="_1070274 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7135/7847400112_b6c267d429_z.jpg" width="480" height="640" alt="_1070274"></a>
 

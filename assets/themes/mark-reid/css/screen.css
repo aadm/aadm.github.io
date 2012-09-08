@@ -28,7 +28,18 @@ body {
 }
 
 /* Hack via Joel Spolsky to make image rescaling nicer in IE */
-img { -ms-interpolation-mode:bicubic; }
+img {
+	-ms-interpolation-mode:bicubic;
+   	-moz-box-shadow: 3px 3px 5px #888;
+	-webkit-box-shadow: 3px 3px 5px #888;
+	box-shadow: 3px 3px 5px #888;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+	margin-bottom: 5px;
+
+}
 
 /* IE6 ignores this and uses default size of 16pt */
 html>body { font-size:16px; }
@@ -507,6 +518,7 @@ dl.figure {
 	margin-top: 1.5em;
 	margin-bottom: 1.5em;
 	text-align: center;
+	display: block;
 }
 
 dl.figure dd {
@@ -514,7 +526,7 @@ dl.figure dd {
 	font-size: 0.875em;
 	margin: 0.875em auto 0 auto;
 	line-height: 1.14em;
-	text-align: justify;
+	text-align: center;
 	width: 85%;
 }
 /* @end */
