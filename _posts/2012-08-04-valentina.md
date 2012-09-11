@@ -34,19 +34,15 @@ prenderla in braccio, la mia valentina.
 ## alcune foto
 
 <a href="http://www.flickr.com/photos/aadm/7847331512/" title="_D7K5370 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8291/7847331512_2770a6307d_z.jpg" width="424" height="640" alt="_D7K5370"></a>
-
-_"She's a tiny baby"._
+<center><i>"She's a tiny baby".</i></center>
 
 <a href="http://www.flickr.com/photos/aadm/7847400112/" title="_1070274 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7135/7847400112_b6c267d429_z.jpg" width="480" height="640" alt="_1070274"></a>
-
-_Piedini._
+<center><i>Piedini.</i></center>
 
 <a href="http://www.flickr.com/photos/aadm/7847348524/" title="_D7K5334 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8307/7847348524_5507c5ee51_z.jpg" width="424" height="640" alt="_D7K5334"></a>
 
 <a href="http://www.flickr.com/photos/aadm/7847339672/" title="_D7K5352 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8432/7847339672_2164a27ca6_z.jpg" width="426" height="640" alt="_D7K5352"></a>
-
-_Con la mamma, un giorno di vita._
+<center><i>Con la mamma, un giorno di vita.</i></center>
 
 <a href="http://www.flickr.com/photos/aadm/7847343880/" title="_D7K5337 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8300/7847343880_86856550ff_z.jpg" width="640" height="424" alt="_D7K5337"></a>
-
-_Riposarsi dopo essere arrivata nel mondo._
+<center><i>Riposarsi dopo essere arrivata nel mondo.</i></center>

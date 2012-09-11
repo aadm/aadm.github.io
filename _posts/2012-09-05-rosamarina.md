@@ -11,7 +11,7 @@ tags: [photo]
 
 I find it difficult to take interesting/compelling/creative photos of familiar places. So what I did this time was just to take random snaps, without thinking too much, without trying to sample all the possible aspects of a place.
 
-They may not show what the true Rosamarina is: to do that, I should have taken photos of
+They may not show what the true Rosamarina is: to do that, I should have taken photos of:
 
 * all the fancy people who spend their holidays there, pretending to be more than they are
 * the delicious Ciccio's ice creams

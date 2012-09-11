@@ -28,69 +28,47 @@ Here's a selection. All the other photos are on this flickr set: [Critical Mass 
 [^1]: Two reviews that I recommend: [kenrockwell.com/nikon/35mm-f18.htm](http://www.kenrockwell.com/nikon/35mm-f18.htm) and [dpreview.com/lensreviews/nikon_35_1p8g_n15](http://www.dpreview.com/lensreviews/nikon_35_1p8g_n15/).
 
 
-<a href="http://www.flickr.com/photos/aadm/6926757361/" title="_D7K1526 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7192/6926757361_9571e3ab14.jpg" width="331" height="500" alt="_D7K1526"></a>
+<a href="http://www.flickr.com/photos/aadm/6926757361/" title="_D7K1526 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7192/6926757361_9571e3ab14_z.jpg" width="424" height="640" alt="_D7K1526"></a>
 
-<a href="http://www.flickr.com/photos/aadm/6780639640/" title="_D7K1524 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7185/6780639640_5ba38e1bd9.jpg" width="500" height="331" alt="_D7K1524"></a>
+<a href="http://www.flickr.com/photos/aadm/6780639640/" title="_D7K1524 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7185/6780639640_5ba38e1bd9_z.jpg" width="640" height="424" alt="_D7K1524"></a>
+<center><i>Remember it's Carnival.</i></center>
 
-*Remember it's Carnival.*
+<a href="http://www.flickr.com/photos/aadm/6780642618/" title="_D7K1559 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7179/6780642618_f279658348_z.jpg" width="640" height="424" alt="_D7K1559"></a>
+<center><i>Supercool guy.</i></center>
 
-<a href="http://www.flickr.com/photos/aadm/6780642618/" title="_D7K1559 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7179/6780642618_f279658348.jpg" width="500" height="331" alt="_D7K1559"></a>
+<a href="http://www.flickr.com/photos/aadm/6926762481/" title="_D7K1586 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7063/6926762481_ebbb493bd5_z.jpg" width="640" height="424" alt="_D7K1586"></a>
+<center><i>Valeria and Duomo.</i></center>
 
-*Supercool guy.*
+<a href="http://www.flickr.com/photos/aadm/6780647054/" title="_D7K1614 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7204/6780647054_9e19a6ff72_z.jpg" width="640" height="424" alt="_D7K1614"></a>
+<center><i>You gotta love a guy with this face.</i></center>
 
-<a href="http://www.flickr.com/photos/aadm/6926762481/" title="_D7K1586 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7063/6926762481_ebbb493bd5.jpg" width="500" height="331" alt="_D7K1586"></a>
+<a href="http://www.flickr.com/photos/aadm/6926765105/" title="_D7K1634 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7066/6926765105_d1b7c249f9_z.jpg" width="640" height="424" alt="_D7K1634"></a>
+<center><i>All sort of bikes.</i></center>
 
-*Valeria and Duomo.*
+<a href="http://www.flickr.com/photos/aadm/6780650516/" title="_D7K1662 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7183/6780650516_afea4267e1_z.jpg" width="640" height="424" alt="_D7K1662"></a>
+<center><i>Officially sponsored Critical Mass girl.</i></center>
 
-<a href="http://www.flickr.com/photos/aadm/6780647054/" title="_D7K1614 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7204/6780647054_9e19a6ff72.jpg" width="500" height="331" alt="_D7K1614"></a>
+<a href="http://www.flickr.com/photos/aadm/6926772141/" title="_D7K1692 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7050/6926772141_077e01231f_z.jpg" width="424" height="640" alt="_D7K1692"></a>
+<center><i>Just another dumb guy (my friend 'anal').</i></center>
 
-*You gotta love a guy with this face.*
+<a href="http://www.flickr.com/photos/aadm/6926773417/" title="_D7K1712 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7044/6926773417_57a394bb48_z.jpg" width="640" height="424" alt="_D7K1712"></a>
+<center><i>There's the Red Baron hidden somewhere here.</i></center>
 
-<a href="http://www.flickr.com/photos/aadm/6926765105/" title="_D7K1634 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7066/6926765105_d1b7c249f9.jpg" width="500" height="331" alt="_D7K1634"></a>
+<a href="http://www.flickr.com/photos/aadm/6780657566/" title="_D7K1732 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7202/6780657566_3203527a6c_z.jpg" width="424" height="640" alt="_D7K1732"></a>
+<center><i>Ciclistica...</i></center>
 
-*All sort of bikes.*
+<a href="http://www.flickr.com/photos/aadm/6926778075/" title="_D7K1753 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7208/6926778075_2b13ebc9e5_z.jpg" width="640" height="424" alt="_D7K1753"></a>
+<center><i>... and Stazione delle Biciclette.</i></center>
 
-<a href="http://www.flickr.com/photos/aadm/6780650516/" title="_D7K1662 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7183/6780650516_afea4267e1.jpg" width="500" height="331" alt="_D7K1662"></a>
+<a href="http://www.flickr.com/photos/aadm/6926779035/" title="_D7K1772 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7180/6926779035_92e3f50549_z.jpg" width="640" height="424" alt="_D7K1772"></a>
+<center><i>Masa and Valeria.</i></center>
 
-*Officially sponsored Critical Mass girl.*
+<a href="http://www.flickr.com/photos/aadm/6926782113/" title="_D7K1796 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7058/6926782113_f66d88881d_z.jpg" width="640" height="424" alt="_D7K1796"></a>
 
-<a href="http://www.flickr.com/photos/aadm/6926770873/" title="_D7K1683 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7192/6926770873_719a38bc1d.jpg" width="500" height="331" alt="_D7K1683"></a>
+<a href="http://www.flickr.com/photos/aadm/6926788717/" title="_D7K1857 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7059/6926788717_8e91a19d62_z.jpg" width="424" height="640" alt="_D7K1857"></a>
 
+<a href="http://www.flickr.com/photos/aadm/6926791117/" title="_D7K1875 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7070/6926791117_9e48679dd8_z.jpg" width="640" height="424" alt="_D7K1875"></a>
 
-<a href="http://www.flickr.com/photos/aadm/6926772141/" title="_D7K1692 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7050/6926772141_077e01231f.jpg" width="331" height="500" alt="_D7K1692"></a>
+<a href="http://www.flickr.com/photos/aadm/6780675304/" title="_D7K1906 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7068/6780675304_2c04ba8dfd_z.jpg" width="640" height="424" alt="_D7K1906"></a>
 
-*Just another dumb guy (my friend 'anal').*
-
-<a href="http://www.flickr.com/photos/aadm/6926773417/" title="_D7K1712 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7044/6926773417_57a394bb48.jpg" width="500" height="331" alt="_D7K1712"></a>
-
-*Look closely: there's a 4-wheels bycicle with a huge speaker and the Red Baron bike behind.*
-
-<a href="http://www.flickr.com/photos/aadm/6780657566/" title="_D7K1732 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7202/6780657566_3203527a6c.jpg" width="331" height="500" alt="_D7K1732"></a>
-
-*Ciclistica...*
-
-<a href="http://www.flickr.com/photos/aadm/6926778075/" title="_D7K1753 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7208/6926778075_2b13ebc9e5.jpg" width="500" height="331" alt="_D7K1753"></a>
-
-*... and Stazione delle Biciclette.*
-
-<a href="http://www.flickr.com/photos/aadm/6926779035/" title="_D7K1772 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7180/6926779035_92e3f50549.jpg" width="500" height="331" alt="_D7K1772"></a>
-
-*Masa and Valeria.*
-
-<a href="http://www.flickr.com/photos/aadm/6926782113/" title="_D7K1796 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7058/6926782113_f66d88881d.jpg" width="500" height="331" alt="_D7K1796"></a>
-
-<a href="http://www.flickr.com/photos/aadm/6926784055/" title="_D7K1807 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7207/6926784055_296c01a722.jpg" width="500" height="331" alt="_D7K1807"></a>
-
-<a href="http://www.flickr.com/photos/aadm/6926788717/" title="_D7K1857 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7059/6926788717_8e91a19d62.jpg" width="331" height="500" alt="_D7K1857"></a>
-
-*Palazzo della Regione.*
-
-<a href="http://www.flickr.com/photos/aadm/6926791117/" title="_D7K1875 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7070/6926791117_9e48679dd8.jpg" width="500" height="331" alt="_D7K1875"></a>
-
-*These kids.*
-
-<a href="http://www.flickr.com/photos/aadm/6780675304/" title="_D7K1906 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7068/6780675304_2c04ba8dfd.jpg" width="500" height="331" alt="_D7K1906"></a>
-
-<a href="http://www.flickr.com/photos/aadm/6926800417/" title="_D7K1967 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7187/6926800417_c3c79f57d7.jpg" width="500" height="331" alt="_D7K1967"></a>
-
-<a href="http://www.flickr.com/photos/aadm/6780682526/" title="_D7K1969 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7207/6780682526_7a8947fd2b.jpg" width="500" height="331" alt="_D7K1969"></a>
+<a href="http://www.flickr.com/photos/aadm/6780682526/" title="_D7K1969 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7207/6780682526_7a8947fd2b_z.jpg" width="640" height="424" alt="_D7K1969"></a>

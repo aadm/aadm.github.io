@@ -24,3 +24,7 @@ Poi a me suona bene perche' gia' mi vedo nel futuro con Giulia che chiama dall'a
 # ma come fanno?
 
 Sono li' col pancione, e dopo qualche mese sia tu che lei siete abituati e quando riguardi le foto vecchie pensi "eh ma com'era magra allora!". Poi arrivano i primi dolori, e la situazione cambia di punto in bianco. E se ti fermi un secondo a riflettere ti accorgi della enormita' della cosa; e cioe' che nel giro di poche ore tutto il corpo della donna subira' un'ulteriore trasformazione per espellere un esserino vivente lungo 40-45 cm e pesante 2-3 kg. E questi dolori sono persistenti, insistenti, incalzanti, non arretreranno mai, saranno sempre piu' forti e presenti, sempre piu' regolari, e vivi i minuti di pausa tra una contrazione e l'altra sapendo che qualcosa di ancora piu' forte arrivera' a squassarti tutto il corpo.
+
+# al mattino
+
+Mi sciolgo quando la bambina mi sorride. Ha un mese e pochi giorni adesso, e la mattina me la spupazzo prima di uscire di casa, e lei mi fa dei sorrisoni incredibili.

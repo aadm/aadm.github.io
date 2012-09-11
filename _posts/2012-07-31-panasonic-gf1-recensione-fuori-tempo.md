@@ -57,7 +57,7 @@ L'anello adattatore mi ha permesso di divertirmi con un paio di ottiche Nikon ch
 
 <a href="http://www.flickr.com/photos/aadm/7693974058/" title="_1050999 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7125/7693974058_e2c0854633_z.jpg" width="480" height="640" alt="_1050999"></a>
 
-_Panasonic GF-1, anello adattatore Nikon-m4/3 e obiettivo Nikon 50mm f/1.8, ISO 200, 1/80s, diaframma non registrato._
+<center><i>Panasonic GF-1, anello adattatore Nikon-m4/3 e obiettivo Nikon 50mm f/1.8, ISO 200, 1/80s, diaframma non registrato.</i></center>
 
 ### test comparativo-ossessivo-compulsivo: Panasonic vs Olympus
 
@@ -66,20 +66,16 @@ _Panasonic GF-1, anello adattatore Nikon-m4/3 e obiettivo Nikon 50mm f/1.8, ISO 
 Ecco i risultati, dei ritagli al 100% di noiosissime nature morte (biscotti Tesco, decorazioni natalizie, neve e un amplificatore esoterico e costosissimo) scattate con treppiede ed alternando i due obiettivi ([qui](http://www.flickr.com/photos/aadm/sets/72157630860193170/) gli originali):
 
 ![](https://dl.dropbox.com/u/179731/_1010361-olympus-17mm-crop2.jpg)
-
-_Olympus 17mm, 1/10s, f/4, ISO 100._
+<center><i>Olympus 17mm, 1/10s, f/4, ISO 100.</i></center>
 
 ![](https://dl.dropbox.com/u/179731/_1010365-lumix-20mm-crop2.jpg)
-
-_Panasonic Lumix 20mm, 1/6s, f/4, ISO 100._
+<center><i>Panasonic Lumix 20mm, 1/6s, f/4, ISO 100.</i></center>
  
 ![](https://dl.dropbox.com/u/179731/_1010367-olympus-17mm-crop.jpg)
-
-_Olympus 17mm, 1.0s, f/11, ISO 100._
+<center><i>Olympus 17mm, 1.0s, f/11, ISO 100.</i></center>
 
 ![](https://dl.dropbox.com/u/179731/_1010368-lumix-20mm-crop.jpg)
-
-_Panasonic Lumix 20mm, 1.3s, f/11, ISO 100._
+<center><i>Panasonic Lumix 20mm, 1.3s, f/11, ISO 100.</i></center>
 
 ### fotografia con focali fisse
 
