@@ -28,3 +28,16 @@ Sono li' col pancione, e dopo qualche mese sia tu che lei siete abituati e quand
 # al mattino
 
 Mi sciolgo quando la bambina mi sorride. Ha un mese e pochi giorni adesso, e la mattina me la spupazzo prima di uscire di casa, e lei mi fa dei sorrisoni incredibili.
+
+
+BLOG valentina
+
+"Giulia... c'e' qualcuno nell'altra stanza! senti questi rumori? piccoli sospiri, miagolii, urletti... vado a vedere!"
+
+[...]
+
+"Giulia, m sa che e' entrata una bimba di la'; e mo' che facciamo? Si e' piazzata li' nella culletta e adesso dorme. Ma chi e'? Che vuole? Come ha fatto a entrare? Le diamo da mangiare dici, e poi domani vediamo?"
+
+
+
+ 

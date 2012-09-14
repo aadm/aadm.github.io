@@ -7,6 +7,7 @@ published: false
 ---
 {% include JB/setup %}
 
+
 I don't really need to write anything you know, just read this - I feel exactly the same: <http://photo.rwboyer.com/2012/04/15/some-good-things-D7000>.
 
 But hold on, let me add my 2 cents. 
