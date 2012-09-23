@@ -1,7 +1,7 @@
 ---
 layout: post
 title: transprovence
-tags: [misc]
+tags: [cycling, photo]
 excerpt:
 published: false
 ---

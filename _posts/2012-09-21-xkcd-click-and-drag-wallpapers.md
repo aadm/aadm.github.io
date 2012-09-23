@@ -46,7 +46,7 @@ I hope [Randall](http://xkcd.com/about/) is cool about this.
 
 ### technical bits ###
 
-To create your own wallpapers just go to this scrollable/zoomable view of the Click and Drag world: <http://xkcd-map.rent-a-geek.de>. Grab what you like, maybe do some stitching like I did for the [The Boat](https://dl.dropbox.com/u/179731/xkcd_click_and_drag_boat.png) using Pixelmator (because the giant squid was really deeper down in the ocean), and resize/rescale them for your screen size. To create the thumbnails down here I used this bash line (only works under OS X because it uses [`sips`](https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/sips.1.html)):
+To create your own wallpapers just go to this scrollable/zoomable view of the Click and Drag world: <http://xkcd-map.rent-a-geek.de>. Grab what you like, maybe do some stitching like I did for the [The Boat](https://dl.dropbox.com/u/179731/xkcd_click_and_drag_boat.png) using Pixelmator (because the giant squid was really deeper down in the ocean), and resize/rescale them for your screen size. To create the thumbnails down here I used this bash line (only works under OS X because it relies on [`sips`](https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/sips.1.html) to resize the image):
 
     for f in xkcd*.png; do cp $f $f.SMALL.PNG; sips -Z 600 $f.SMALL.PNG; done
 
