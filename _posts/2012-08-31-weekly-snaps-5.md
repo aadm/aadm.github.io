@@ -21,9 +21,11 @@ _Same place, same idea, same gear, second attempt to capture something of these 
 <a href="http://www.flickr.com/photos/aadm/7847522064/" title="_D7K5707 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8424/7847522064_06c0304d30_z.jpg" width="424" height="640" alt="_D7K5707"></a>
 <center><i>Moka coffee maker. Il Montale, Sala Baganza.</i></center>
 
+***
+
 ### Previously:
 
-* [Weekly snaps #1](http://aadm.github.com/2012-07-10-weekly-snaps-1.html)
-* [Weekly snaps #2](http://aadm.github.com/2012-07-19-weekly-snaps-2.html)
-* [Weekly snaps #3](http://aadm.github.com/2012-07-27-weekly-snaps-3.html)
-* [Weekly snaps #4](http://aadm.github.com/2012-08-08-weekly-snaps-4.html)
+* [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)
+* [Weekly snaps #2](./2012-07-19-weekly-snaps-2.html)
+* [Weekly snaps #3](./2012-07-27-weekly-snaps-3.html)
+* [Weekly snaps #4](./2012-08-08-weekly-snaps-4.html)

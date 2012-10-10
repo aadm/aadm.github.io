@@ -27,7 +27,8 @@ As a bonus, a wonderful old lady powering through the streets of central Milano.
 
 <a href="http://www.flickr.com/photos/aadm/7599989368/" title="_D7K3030 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7119/7599989368_dc97285bdd_z.jpg" width="640" height="424" alt="_D7K3030"></a>
 
+***
 
 ### Previously:
 
-* [Weekly snaps #1](http://aadm.github.com/2012-07-10-weekly-snaps-1.html)
+* [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)

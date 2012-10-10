@@ -36,11 +36,12 @@ All shots taken at "Il Montale", Sala Baganza (Parma), with my usual gear (Nikon
 <a href="http://www.flickr.com/photos/aadm/7984132207/" title="_D7K5842 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8435/7984132207_7a0693d142_z.jpg" width="640" height="426" alt="_D7K5842"></a>
 <center><i>Nothing to see here.</i></center>
 
+***
 
 ### Previously:
 
-* [Weekly snaps #1](http://aadm.github.com/2012-07-10-weekly-snaps-1.html)
-* [Weekly snaps #2](http://aadm.github.com/2012-07-19-weekly-snaps-2.html)
-* [Weekly snaps #3](http://aadm.github.com/2012-07-27-weekly-snaps-3.html)
-* [Weekly snaps #4](http://aadm.github.com/2012-08-08-weekly-snaps-4.html)
-* [Weekly snaps #5](http://aadm.github.com/2012-08-31-weekly-snaps-5.html)
+* [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)
+* [Weekly snaps #2](./2012-07-19-weekly-snaps-2.html)
+* [Weekly snaps #3](./2012-07-27-weekly-snaps-3.html)
+* [Weekly snaps #4](./2012-08-08-weekly-snaps-4.html)
+* [Weekly snaps #5](./2012-08-31-weekly-snaps-5.html)

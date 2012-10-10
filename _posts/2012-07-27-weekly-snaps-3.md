@@ -25,21 +25,22 @@ Then the skies:
 
 <a href="http://www.flickr.com/photos/aadm/7652966254/" title="_D7K4925 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8160/7652966254_5df94983a7_z.jpg" width="640" height="424" alt="_D7K4925"></a>
 
-*The one with a Laroque's preset.*
+<center><i>The one with a Laroque's preset.</i></center>
 
 <a href="http://www.flickr.com/photos/aadm/7653037162/" title="_D7K4757 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7122/7653037162_1635c8c6e4_z.jpg" width="424" height="640" alt="_D7K4757"></a>
 
-*Intermezzo with a bicycle (you know bicycles, they are ["a boon to men"](http://aadm.github.com/2012-06-06-how-a-bicycle-is-made.html)).*
+<center><i>Intermezzo with a bicycle.</i></center>
 
 And finally -- as the Blur used to say -- "[you should cut down on your porklife mate, get some exercise](http://www.youtube.com/watch?v=SIEsmGzo2UE)":
 
 <a href="http://www.flickr.com/photos/aadm/7652989016/" title="_D7K4882 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8005/7652989016_6d192812f3_z.jpg" width="640" height="360" alt="_D7K4882"></a>
 
+***
 
 ### Previously:
 
-* [Weekly snaps #1](http://aadm.github.com/2012-07-10-weekly-snaps-1.html)
-* [Weekly snaps #2](http://aadm.github.com/2012-07-19-weekly-snaps-2.html)
+* [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)
+* [Weekly snaps #2](./2012-07-19-weekly-snaps-2.html)
 
 
 [^1]: I'm enjoying the processing capabilities of Aperture but even more a cheap little Bamboo table that is essential for some brush action. I bought mine some time ago after my friend Daniele told me that it was a must for photo editing. Turns out, he was right.

@@ -27,11 +27,13 @@ Random photos this time. Some are very old, and I can't even recall which lens I
 <a href="http://www.flickr.com/photos/aadm/8013664811/" title="_D7K6592 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8458/8013664811_2ef9f324a7_z.jpg" width="427" height="640" alt="_D7K6592"></a>
 <center><i>The best gift ever. Nikon D7000, 50mm f/1.4.</i></center>
 
+***
+
 ### Previously:
 
-* [Weekly snaps #1](http://aadm.github.com/2012-07-10-weekly-snaps-1.html)
-* [Weekly snaps #2](http://aadm.github.com/2012-07-19-weekly-snaps-2.html)
-* [Weekly snaps #3](http://aadm.github.com/2012-07-27-weekly-snaps-3.html)
-* [Weekly snaps #4](http://aadm.github.com/2012-08-08-weekly-snaps-4.html)
-* [Weekly snaps #5](http://aadm.github.com/2012-08-31-weekly-snaps-5.html)
-* [Weekly snaps #6](http://aadm.github.com/2012-09-14-weekly-snaps-6.html)
+* [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)
+* [Weekly snaps #2](./2012-07-19-weekly-snaps-2.html)
+* [Weekly snaps #3](./2012-07-27-weekly-snaps-3.html)
+* [Weekly snaps #4](./2012-08-08-weekly-snaps-4.html)
+* [Weekly snaps #5](./2012-08-31-weekly-snaps-5.html)
+* [Weekly snaps #6](./2012-09-14-weekly-snaps-6.html)
