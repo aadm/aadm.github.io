@@ -15,6 +15,20 @@ My photos are [on flickr](http://www.flickr.com/photos/aadm/), and you can also 
 
 To browse through the posts use either the [archive](archive.html) where everything is listed in chronological order or the [tags page](tags.html) where posts are arranged according to subject.
 
+***
+
+Unless otherwise stated all the content appearing in aadm.github.com is my (Alessandro Amato del Monte) exclusive property. You may share and distribute my work but you cannot modify it, and obviously you cannot make money out of it.
+
+Read the [Creative Commons Attribution (CC BY-NC-ND 3.0)](http://creativecommons.org/licenses/by-nc-nd/3.0/) license for details.
+
+In other words: please do not manipulate or remix my photos, illustrations and content without my consent. You may link to the site and quote selected text on a fair use basis, providing a link back to the original content is provided. Re-publishing of complete posts or articles is not permitted.
+
+If I put here something made by others I will clearly state it and never appropriate somebody else's work. I expect to be treated the same way.
+
+If in doubt, ask me first: we may become friends.
+
+***
+
 <!-- The following is a list of the tags used in this blog. Click on one of these to see all the posts on the selected subject.
 
 [apple](http://scriptogr.am/aadm/tag/apple) |
