@@ -3,12 +3,11 @@ layout: post
 title: "weekly snaps 8"
 description: ""
 category: 
-tags: [photo]
+tags: [photo, weekly snaps]
 ---
 {% include JB/setup %}
 
 Special edition today, featuring only iPhone photos.
-
 
 <a href="http://www.flickr.com/photos/aadm/8013670579/" title="IMG_3546 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8446/8013670579_7e694da9bb_z.jpg" width="640" height="640" alt="IMG_3546"></a>
 <center><i>Tiles, Parma. iPhone 4S, Instagram.</i></center>

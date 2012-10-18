@@ -7,7 +7,7 @@ title: recent posts
 ![](https://dl.dropbox.com/u/179731/aadm-github-com-banner-_D7K6490.jpg)
 
 <ul class="posts">
-  {% for post in site.posts limit: 25 %}
+  {% for post in site.posts limit: 40 %}
     <li><span>{{ post.date | date_to_string }}</span>: <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     <!-- </br> <em>{{ post.excerpt }} </em> -->
 	</li>
