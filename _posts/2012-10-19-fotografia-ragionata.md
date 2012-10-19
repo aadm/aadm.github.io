@@ -7,18 +7,16 @@ tags: [photo, comment]
 ---
 {% include JB/setup %}
 
-Qualche tempo fa cercavo uno sfogo per la mia fotografia. L'ho trovato pubblicando i miei [weekly snaps](tags.html#weekly%20snaps-ref); collezioni atematiche di fotografie scattate in diverse condizioni temporali, geografiche ed emozionali. O, evitando il pretenzioso vocabolario da pseudo artisti e usando parole più terra terra, raccolta di foto prese un po' a casaccio dai miei archivi.
+Qualche tempo fa cercavo uno sfogo per la mia fotografia. L'ho trovato pubblicando i miei [weekly snaps](tags.html#weekly%20snaps-ref); collezioni atematiche di fotografie scattate in diverse condizioni temporali, geografiche ed emozionali. O, evitando il pretenzioso vocabolario da pseudo artista e usando parole più terra terra, raccolta di foto prese un po' a casaccio dai miei archivi.
 
-In questi post periodici mostro foto che non fanno parte di un progetto organico, ma che in qualche modo conservano un posto speciale nella mia memoria; solitamente cerco di pubblicare foto che siano almeno dal punto di vista tecnico ineccepibili, ma occasionalmente qualche immagine non perfettamente a fuoco o mal composta ci può scappare.
-
-Il giudizio altrui non è fondamentale; questa serie di post sono un modo per incanalare la mia energia fotografica, e quindi la scelta e riuscita di ognuna di queste mini raccolte deve appagare solo e soltanto me. Così facendo evito di imbarcarmi in quel periglioso processo di selezione che sfocia nella sottomissione del mio lavoro ad un pubblico giudicante. Che anche se fosse rappresentato da mia moglie o da un singolo sconosciuto formerebbe comunque un formidabile ostacolo da superare, critici da conquistare. 
+In questi post periodici mostro foto che non fanno parte di un progetto organico, ma che in qualche modo conservano un posto speciale nella mia memoria; solitamente cerco di pubblicare foto che siano almeno dal punto di vista tecnico ineccepibili. La scelta e riuscita di ognuna di queste mini raccolte deve appagare solo e soltanto me in quanto sono un modo per incanalare la mia energia fotografica; così facendo evito anche il lungo e rigoroso processo di selezione a cui mi sentirei obbligato se dovessi presentare il lavoro ad un pubblico giudicante. 
 
 Quindi i weekly snaps sono:
 
 * leggeri da preparare perché non c'è nessuna aspettativa;
 * veloci nell'assemblare perché posso raggruppare immagini con temi e elaborazioni differenti mischiando bianco nero e colore, foto di famiglia con nature morte;
 * appaganti perché sono uno sfogo creativo e un'illusione di prodotto finito;
-* istruttivi perché costringono ad esercitare il mio senso critico scegliendo delle foto che abbiano valore oggettivo e non soggettivo (dove per valore intendo un qualche merito artistico -- composizione originale o perlomeno interessante, tecnico -- messa a fuoco perfetta o post-processing che esalta colori e tonalità, narrativo -- c'è una storia che si intuisce dietro la fotografia? è una foto che racconta?).
+* istruttivi perché costringono ad esercitare il mio senso critico scegliendo delle foto che abbiano valore oggettivo e non soggettivo, dove per valore intendo un qualche merito artistico (composizione originale o interessante), tecnico (messa a fuoco perfetta o post-processing che esalta colori e tonalità), narrativo (c'è una storia che si intuisce? è una foto capace di "raccontare"?).
 
 Ma comunque mi rendo conto che restano un'esercizio, un divertissement abbastanza volatile -- laddove invece un "vero" fotografo sceglie un tema e si costruisce dei progetti come ad esempio: skateboarders festaioli; palazzi in costruzione; la miseria nei sobborghi urbani; malati di malattie incurabili; riccastri con automobili d'epoca; foglie autunnali; fiori di montagna; montagne della Patagonia; ghiacciai in scioglimento; i pasti dei voli intercontinentali; [oggetti rotondi](http://ink361.com/#/users/2934728/photos).
 
