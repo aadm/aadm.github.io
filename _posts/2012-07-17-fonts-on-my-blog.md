@@ -3,7 +3,7 @@ layout: post
 title: "fonts on my blog"
 description: ""
 category: 
-tags: [misc]
+tags: [misc, tech]
 ---
 {% include JB/setup %}
 

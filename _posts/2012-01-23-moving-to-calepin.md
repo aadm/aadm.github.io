@@ -2,7 +2,7 @@
 layout: post
 title: moving to calepin
 Date: 2012-01-23
-tags: misc
+tags: [misc, tech]
 ---
 {% include JB/setup %} 
 

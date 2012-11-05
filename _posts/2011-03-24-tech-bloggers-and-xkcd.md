@@ -2,7 +2,7 @@
 layout: post
 title: tech bloggers and xkcd
 Date: 2011-03-24 23:41
-tags: [misc]
+tags: [misc, tech]
 ---
 {% include JB/setup %} 
 

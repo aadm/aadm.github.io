@@ -21,7 +21,7 @@ Unless otherwise stated all the content appearing in aadm.github.com is my (Ales
 
 Read the [Creative Commons Attribution (CC BY-NC-ND 3.0)](http://creativecommons.org/licenses/by-nc-nd/3.0/) license for details.
 
-In other words: please do not manipulate or remix my photos, illustrations and content without my consent. You may link to the site and quote selected text on a fair use basis, providing a link back to the original content is provided. Re-publishing of complete posts or articles is not permitted.
+In other words: please do not manipulate or remix my photos, illustrations and content without my consent. You may link to the site and quote selected text but please put a a link back to the original content. Re-publishing of complete posts or articles is not permitted.
 
 If I put here something made by others I will clearly state it and never appropriate somebody else's work. I expect to be treated the same way.
 

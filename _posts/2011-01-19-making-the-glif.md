@@ -2,7 +2,7 @@
 layout: post
 title: making the glif
 Date: 2011-01-19 01:43
-tags: [misc, photo]
+tags: [misc, photo, tech]
 ---
 {% include JB/setup %} 
 

@@ -2,7 +2,7 @@
 layout: post
 title: network speeds
 Date: 2009-04-28 18:46:00
-tags: [misc]
+tags: [misc, tech]
 ---
 {% include JB/setup %} 
 

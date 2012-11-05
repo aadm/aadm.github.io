@@ -2,7 +2,7 @@
 layout: post
 title: ipad and photography
 Date: 2010-08-03 00:30:00
-tags: [apple, photo]
+tags: [apple, photo, tech]
 ---
 {% include JB/setup %} 
 

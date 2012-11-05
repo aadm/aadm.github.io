@@ -2,7 +2,7 @@
 layout: post
 title: italian gtd
 Date: 2005-08-24 08:26:00
-tags: [apple, misc]
+tags: [apple, misc, tech]
 ---
 {% include JB/setup %} 
 
