@@ -3,7 +3,7 @@ layout: post
 title: "weekly snaps 9"
 description: ""
 category: 
-tags: [photo]
+tags: [photo, weekly snaps]
 ---
 {% include JB/setup %}
 
