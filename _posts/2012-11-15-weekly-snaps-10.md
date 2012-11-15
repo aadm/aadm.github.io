@@ -1,0 +1,44 @@
+---
+layout: post
+title: "weekly snaps 10"
+description: ""
+category: 
+tags: [photo]
+---
+{% include JB/setup %}
+
+It just happened that all the past "weekly snaps" have featured photos linked by some sort of thread or connection. My original idea was to collect random shots [as you may recall](./2012-07-10-weekly-snaps-1.html), just to avoid the burden of searching for some sort of common theme.
+
+So today I was resolved in finding random shots that I liked; I went from folder to folder in my library, and selected these shots. But at the end I realized that even all of these are joined by something; it's a bit hidden, and unless you are a bit of a naturalist, you might not find it though (especially for that brown rocky patch)[^nota].
+
+[^nota]: It's the *sea* of course. Yes, even that brown patch with scattered pebbles.
+
+<a href="http://www.flickr.com/photos/aadm/8188490841/" title="_DSC8798 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8058/8188490841_70a8338813_z.jpg" width="640" height="426" alt="_DSC8798"></a>
+<center><i>Corfu/Kérkyra, Greece. Nikon D70s, 28mm f/2.8.</i></center>
+
+
+<a href="http://www.flickr.com/photos/aadm/8189567656/" title="DSC_5389_edit by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8059/8189567656_04e3b14c94_z.jpg" width="640" height="426" alt="DSC_5389_edit"></a>
+<center><i>Galway, Ireland. Nikon D70s, 50mm f/1.8.</i></center>
+
+<a href="http://www.flickr.com/photos/aadm/8189572114/" title="_DSC7829 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8065/8189572114_dd3ca2b969_z.jpg" width="640" height="426" alt="_DSC7829"></a>
+<center><i>Somewhere in the Pyrenees, Spain. Nikon D70s, 50mm f/1.8.</i></center>
+
+<a href="http://www.flickr.com/photos/aadm/8188493135/" title="_DSC7638 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8485/8188493135_5aa499b9ee_z.jpg" width="426" height="640" alt="_DSC7638"></a>
+<center><i>Somewhere in the Mediterranean sea, going from Genova to Barcelona. Nikon D70s, 28mm f/2.8.</i></center>
+
+<a href="http://www.flickr.com/photos/aadm/8189575104/" title="_1010003 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8485/8189575104_baf8d6b9d9_z.jpg" width="640" height="480" alt="_1010003"></a>
+<center><i>Lisbona, Portugal. Panasonic GF1, 17mm f/2.8.</i></center>
+
+***
+
+### Previously:
+
+* [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)
+* [Weekly snaps #2](./2012-07-19-weekly-snaps-2.html)
+* [Weekly snaps #3](./2012-07-27-weekly-snaps-3.html)
+* [Weekly snaps #4](./2012-08-08-weekly-snaps-4.html)
+* [Weekly snaps #5](./2012-08-31-weekly-snaps-5.html)
+* [Weekly snaps #6](./2012-09-14-weekly-snaps-6.html)
+* [Weekly snaps #7](./2012-09-22-weekly-snaps-7.html)
+* [Weekly snaps #8](./2012-10-11-weekly-snaps-8.html)
+* [Weekly snaps #9](./2012-11-05-weekly-snaps-9.html)
