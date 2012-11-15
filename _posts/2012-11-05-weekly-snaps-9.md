@@ -40,4 +40,4 @@ The other photographs that I have collected for this ninth installment have been
 * [Weekly snaps #5](./2012-08-31-weekly-snaps-5.html)
 * [Weekly snaps #6](./2012-09-14-weekly-snaps-6.html)
 * [Weekly snaps #7](./2012-09-22-weekly-snaps-7.html)
-* [Weekly snaps #7](./2012-10-11-weekly-snaps-8.html)
+* [Weekly snaps #8](./2012-10-11-weekly-snaps-8.html)

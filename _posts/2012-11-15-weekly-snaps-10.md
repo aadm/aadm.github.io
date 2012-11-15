@@ -3,15 +3,15 @@ layout: post
 title: "weekly snaps 10"
 description: ""
 category: 
-tags: [photo]
+tags: [photo, weekly snaps]
 ---
 {% include JB/setup %}
 
-It just happened that all the past "weekly snaps" have featured photos linked by some sort of thread or connection. My original idea was to collect random shots [as you may recall](./2012-07-10-weekly-snaps-1.html).
+It just happened that all the past "weekly snaps" have featured photos linked by some sort of thread or connection. But my original idea was to collect random shots [as you may recall](./2012-07-10-weekly-snaps-1.html).
 
 So today I was resolved in finding a few shots that I liked, with no connection between them; I went from folder to folder in my library, and selected these shots.
 
-But at the end I realized that even all of these are joined by something; it's a bit hidden, and unless you are a bit of a naturalist, you might not find it though (especially for that brown rocky patch)[^nota].
+But at the end I realized that even all of these are joined by something; it's a bit obscure, and unless you are a bit of a naturalist, you might not find it though (especially for that brown rocky patch)[^nota].
 
 [^nota]: It's *water* of course.
 
