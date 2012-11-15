@@ -7,11 +7,11 @@ tags: [photo, weekly snaps]
 ---
 {% include JB/setup %}
 
-It just happened that all the past "weekly snaps" have featured photos linked by some sort of thread or connection. But my original idea was to collect random shots [as you may recall](./2012-07-10-weekly-snaps-1.html).
+It just happened that all the past "weekly snaps" have featured photos linked by some sort of thread or connection. But my original idea was to collect random shots [as I wrote at the beginning](./2012-07-10-weekly-snaps-1.html).
 
-So today I was resolved in finding a few shots that I liked, with no connection between them; I went from folder to folder in my library, and selected these shots.
+So today I was resolved in finding a few shots that I liked, with nothing to link them; I went from folder to folder in my library, and selected these shots.
 
-But at the end I realized that even all of these are joined by something; it's a bit obscure, and unless you are a bit of a naturalist, you might not find it though (especially for that brown rocky patch)[^nota].
+However, I now realize that even all of these photographs are joined by something; it's a bit obscure, and unless you are a bit of a naturalist, you might not find it though (especially for that brown rocky patch)[^nota].
 
 [^nota]: It's *water* of course.
 
