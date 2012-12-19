@@ -17,7 +17,7 @@ To browse through the posts use either the [archive](archive.html) where everyth
 
 ***
 
-Unless otherwise stated all the content appearing in aadm.github.com is my (Alessandro Amato del Monte) exclusive property. You may share and distribute my work but you cannot modify it, and obviously you cannot make money out of it.
+Unless otherwise stated all the content appearing here on <aadm.github.com> is my (Alessandro Amato del Monte) exclusive property. You may share and distribute my work but you cannot modify it, and obviously you cannot make money out of it.
 
 Read the [Creative Commons Attribution (CC BY-NC-ND 3.0)](http://creativecommons.org/licenses/by-nc-nd/3.0/) license for details.
 

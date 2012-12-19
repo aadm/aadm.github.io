@@ -13,21 +13,21 @@ So today I was resolved in finding a few shots that I liked, with nothing to lin
 
 However, I now realize that even all of these photographs are joined by something; it's a bit obscure, and unless you are a bit of a naturalist, you might not find it though (especially for that brown rocky patch)[^nota].
 
-[^nota]: It's *water* of course.
+[^nota]: It's *water* of course. That brown and green photo from Spain above? An ancient river bed, obviously.
 
-<a href="http://www.flickr.com/photos/aadm/8188490841/" title="_DSC8798 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8058/8188490841_70a8338813_z.jpg" width="640" height="426" alt="_DSC8798"></a>
+<a href="http://www.flickr.com/photos/aadm/8188490841/" title="_DSC8798 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8058/8188490841_70a8338813_c.jpg" width="800" height="426" alt="_DSC8798"></a>
 <center><i>Corfu/Kérkyra, Greece. Nikon D70s, 28mm f/2.8.</i></center>
 
-<a href="http://www.flickr.com/photos/aadm/8189572114/" title="_DSC7829 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8065/8189572114_dd3ca2b969_z.jpg" width="640" height="426" alt="_DSC7829"></a>
+<a href="http://www.flickr.com/photos/aadm/8189572114/" title="_DSC7829 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8065/8189572114_dd3ca2b969_c.jpg" width="800" height="426" alt="_DSC7829"></a>
 <center><i>Somewhere in the Pyrenees, Spain. Nikon D70s, 50mm f/1.8.</i></center>
 
-<a href="http://www.flickr.com/photos/aadm/8189567656/" title="DSC_5389_edit by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8059/8189567656_04e3b14c94_z.jpg" width="640" height="426" alt="DSC_5389_edit"></a>
+<a href="http://www.flickr.com/photos/aadm/8189567656/" title="DSC_5389_edit by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8059/8189567656_04e3b14c94_c.jpg" width="800" height="426" alt="DSC_5389_edit"></a>
 <center><i>Galway, Ireland. Nikon D70s, 50mm f/1.8.</i></center>
 
-<a href="http://www.flickr.com/photos/aadm/8188493135/" title="_DSC7638 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8485/8188493135_5aa499b9ee_z.jpg" width="426" height="640" alt="_DSC7638"></a>
+<a href="http://www.flickr.com/photos/aadm/8188493135/" title="_DSC7638 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8485/8188493135_5aa499b9ee_c.jpg" height="800" alt="_DSC7638"></a>
 <center><i>Going to Barcelona. Nikon D70s, 28mm f/2.8.</i></center>
 
-<a href="http://www.flickr.com/photos/aadm/8189575104/" title="_1010003 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8485/8189575104_baf8d6b9d9_z.jpg" width="640" height="480" alt="_1010003"></a>
+<a href="http://www.flickr.com/photos/aadm/8189575104/" title="_1010003 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8485/8189575104_baf8d6b9d9_c.jpg" width="800" height="480" alt="_1010003"></a>
 <center><i>Lisbona, Portugal. Panasonic GF1, 17mm f/2.8.</i></center>
 
 ***
