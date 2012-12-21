@@ -4,13 +4,12 @@ title: "weekly snaps 12"
 description: ""
 category: 
 tags: [photo, weekly snaps]
-published: false
 ---
 {% include JB/setup %}
 
-Another selection of film photos. I consider this as "Weekly snaps 11, part 2" because last time I had too many pictures so I decided to split it in two. I also figured that this double bill could be a way to compensate for the entire month gone by without any updates.
+Second part of my selection of film photos (see [weekly snaps #11](./2012-12-19-weekly-snaps-11.html) for the first batch). I figured that this double bill could be a way to compensate for the entire month gone by without any updates.
 
-I will be off the grid for a couple of weeks for some family holiday from tomorrow, and hopefully I will have time to do some good photography, be it reading or studying or actually shooting something good.
+I will be off the grid for a couple of weeks for some family holiday from tomorrow, and hopefully I will have time to do some photography, be it reading or studying or actually shooting something good.
 
 
 <a href="http://www.flickr.com/photos/aadm/8288492651/" title="img_SUPERIA800_01_07 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8498/8288492651_ed640bca7a_c.jpg" width="800" height="530" alt="img_SUPERIA800_01_07"></a>
