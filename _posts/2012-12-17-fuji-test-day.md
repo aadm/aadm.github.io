@@ -10,9 +10,9 @@ tags: [photo]
 <a href="http://www.flickr.com/photos/aadm/8287861141/" title="S0027338 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8343/8287861141_28e1db8db9_c.jpg" width="800" height="534" alt="S0027338"></a>
 
 
-Last Sunday Fuji organized a test event in Milano and so I grabbed the opportunity, went there in the afternoon and managed to play with the XE-1 for a good fifteen minutes.
+Last Sunday Fuji organized a test event in Milano, so I grabbed the opportunity to play with the XE-1 for a good fifteen minutes.
 
-The event was a crowd-pleaser; a perfectly lit[^nota-modella], beautiful model striking sexy-annoyed poses for all those who were interested in this type of photography (a good number, from what I could see). Two street/documentary photographers leading hour-long walks in the surroundings. The possibility to get hold of any camera you wanted[^nota-camera], put your memory card in it and play for an hour or more, in the gallery or outside on the streets.
+The event was a crowd-pleaser; a perfectly lit[^nota-modella], beautiful model striking sexy-annoyed poses for all those who were interested in this type of photography (a good number, from what I could see). Two street/documentary photographers leading hour-long walks in the surroundings. The possibility to use any camera you wanted[^nota-camera], and play with it at will, in the gallery or outside on the streets.
 
 <a href="http://www.flickr.com/photos/aadm/8288916284/" title="S0037342 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8074/8288916284_90d712d148_c.jpg" width="800" height="533" alt="S0037342"></a>
 _You should check how sharp the kid is at 100% (you pixel-peeper)._
