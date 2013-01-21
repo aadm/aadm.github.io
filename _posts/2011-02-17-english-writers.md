@@ -20,6 +20,6 @@ english speaker, make these errors ?".
 
 And this is the shit I've read:
 
-> My first Mac was the 1GHz Titanium PowerBook G4 […] _It’s_ 15-inch widescreen display was stunning, and _it’s_ razor-thin case boggled the mind.
+> My first Mac was the 1GHz Titanium PowerBook G4 […] _It's_ 15-inch widescreen display was stunning, and _it's_ razor-thin case boggled the mind.
 
 Hell, do I even need to emphasize the error above ?
