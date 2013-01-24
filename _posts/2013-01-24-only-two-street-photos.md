@@ -13,6 +13,10 @@ I know that it's totally delusional to even hope for the best but you never know
 
 Only two photos as I said: the first is already taken ("Yankee Cap"), so help me choosing the other one.
 
+![](https://dl.dropbox.com/u/179731/_D7K8719%20FUJI400H.jpg)
+<i><center>Running</center></i>
+
+*** 
 
 ![](https://dl.dropbox.com/u/179731/Lloyds_04_uomo.jpg)
 <i><center>Lloyds</center></i>
