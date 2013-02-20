@@ -32,7 +32,7 @@ And I know that many times what comes out of this may very well be powerful shot
 
 So I argue that the aggressive street photographers are not documenting life on the streets anymore, assuming that's the spirit of street photography. But even if they are, and even if street photography is some other obscure artsy concept that I haven't quite grasped, that's what I want to say to whoever talks about getting close and not using long lenses: stop busting my balls with references to Robert Capa and Cartier-Bresson because it is very likely that _you are not anything like them_. Do not put barriers to those that on the other hand who want to capture expressions and gestures of people at ease with themselves; let me use my fucking 85mm, stop saying that long lens have no raison d'etre in street photography. 
 
-**Note**: The opening shot is maybe my first street photograph. It was taken in Rome with my F70 and a 50mm f/1.8 on a Fuji Tri-X 400, more than ten, less than twenty years ago.
+**Note** The opening shot is maybe my first street photograph. It was taken in Rome with my F70 and a 50mm f/1.8 on Tri-X 400, more than ten, less than twenty years ago.
 
 <a href="http://www.flickr.com/photos/aadm/8492578083/" title="usa1997_022 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8093/8492578083_7e530c2fa8_c.jpg" width="800" height="533" alt="usa1997_022"></a>
 
