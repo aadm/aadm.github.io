@@ -89,3 +89,19 @@ Send me an email or tweet me [@aadmtwi](http://twitter.com/aadmtwi) with the nam
 <i><center>Yankee Cap</center></i>
 
 *** 
+
+## update 27 january 2013
+
+A big thank you to all the friends who have actually emailed/tweeted me with their preference. It really helped me a lot. This is how you voted:
+
+* 5 votes: "Yankee cap"
+* 4 votes: "Ombrello #2", 
+* 3 votes: "Caldarroste", "Train station #2", "Lloyds"
+* 2 votes: "Fisarmonica", "Twilight in town", "Shoes", "Castello Svevo",  "Train station #1", "Red"
+* 1 vote: "Riverview"
+
+So what did I choose in the end apart from "Yankee cap"? I have to say, I really liked "Red" (D7000 and a manual focus 85mm AI-s) because of the little puff of smoke and the outrageous red coat on this 70-years old lady, but she really should have been more separated from the cars behind, so let's cross this out. "Ombrello #2" (shot in Parma with a Nikon D70 and my trusty 50mm/1.8) got really good comments from my english friends and I do like it because it creates a certain atmosphere, but there is no clear protagonist in this shot (is it really the umbrella? Or just all these people walking by in the rain? or is it maybe the big wall further back?) and I think that this is a shot that will not be liked by young hipsters (who I believe will form the majority of the voters who decide which photographs go into the final five).
+
+You know what's funny? That nobody liked "Running" -- and that was probably the one that I liked the most. Also no votes on "Beijing" but I think the reason is that it's not really a street photograph.
+
+So against the popular vote I have decided for "Train station #2". No wait, maybe "Twilight in town". Yes, "Twilight in town"; there's some hints of italian buildings, there's nice colours and a straight looking lady. Also makes a good contrast with the classical, all-american look of "Yankee cap".
