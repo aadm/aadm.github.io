@@ -7,9 +7,9 @@ tags: [photo]
 ---
 {% include JB/setup %}
 
-_Selezione di fotografie in 3 parti scattate durante il viaggio in Madagascar che io e Giulia abbiamo fatto [dopo esserci sposati](http://aadm.github.com/2011-08-24-giulia.html). Siamo partiti il 27 Agosto da Milano e rientrati il 17 Settembre 2011. La prima parte e' dedicata alle persone, la seconda ai [luoghi](http://aadm.github.com/2013-02-27-madagascar-places.html), la terza agli animali._  
+_Selezione di fotografie in 3 parti scattate durante il viaggio in Madagascar che io e Giulia abbiamo fatto [dopo esserci sposati](http://aadm.github.com/2011-08-24-giulia.html). Siamo partiti il 27 Agosto da Milano e rientrati il 17 Settembre 2011. La prima parte è dedicata alle persone, la seconda ai [luoghi](http://aadm.github.com/2013-02-27-madagascar-places.html), la terza alla [natura](http://aadm.github.com/2013-02-30-madagascar-nature.html)._  
 
-## prima parte: people
+***
 
 <a href="http://www.flickr.com/photos/aadm/8498059683/" title="_1040001 PORTRA160 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8376/8498059683_bfea937be5_c.jpg" width="800" height="600" alt="_1040001 PORTRA160"></a>
 
