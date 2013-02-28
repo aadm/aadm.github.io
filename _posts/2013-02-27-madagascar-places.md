@@ -107,8 +107,15 @@ _Viaggio da Tana a Andasibe, pranzo in un hotely: henan-omby per me e henan-akoh
 
 ***
 
+<a href="http://www.flickr.com/photos/aadm/8497971885/" title="_1050194 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8243/8497971885_7ee2ba2c16_c.jpg" width="800" height="600" alt="_1050194"></a>
+
+_Avenue des Baobabs._
+
+***
+
 <a href="http://www.flickr.com/photos/aadm/8498107427/" title="_1060316 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8390/8498107427_3743a7bc76_c.jpg" width="800" height="600" alt="_1060316"></a>
 
+_Tsarabanjina._
 
 <a href="http://www.flickr.com/photos/aadm/8499037292/" title="_1060146 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8233/8499037292_3798efcb4f_c.jpg" width="800" height="600" alt="_1060146"></a>
 
@@ -116,4 +123,3 @@ _Viaggio da Tana a Andasibe, pranzo in un hotely: henan-omby per me e henan-akoh
 
 <a href="http://www.flickr.com/photos/aadm/8510481307/" title="_1060409 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8384/8510481307_679fdcf0b9_c.jpg" width="800" height="450" alt="_1060409"></a>
 
-_Tsarabanjina._
