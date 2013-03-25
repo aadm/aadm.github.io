@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "madagascar/nature"
+title: "madagascar/natura"
 description: ""
 category: 
 tags: [photo]
-published: false
 ---
 {% include JB/setup %}
 
-_Selezione di fotografie in 3 parti scattate durante il viaggio in Madagascar che io e Giulia abbiamo fatto [dopo esserci sposati](http://aadm.github.com/2011-08-24-giulia.html). Siamo partiti il 27 Agosto da Milano e rientrati il 17 Settembre 2011. La prima parte è dedicata alle [persone](http://aadm.github.com/2013-02-23-madagascar-people.html), la seconda ai [luoghi](http://aadm.github.com/2013-02-27-madagascar-places.html), la terza alla natura._  
+_Selezione di fotografie in 3 parti scattate durante il viaggio in Madagascar che io e Giulia abbiamo fatto [dopo esserci sposati](http://aadm.github.com/2011-08-24-giulia.html). Siamo partiti il 27 Agosto da Milano e rientrati il 17 Settembre 2011. La prima parte è dedicata alle [persone](http://aadm.github.com/2013-02-23-madagascar-persone.html), la seconda ai [luoghi](http://aadm.github.com/2013-02-27-madagascar-luoghi.html), la terza alla natura._  
 
 ***
 
@@ -29,15 +28,11 @@ _Parco Andasibe-Mantadia._
 
 ***
 
-<a href="http://www.flickr.com/photos/aadm/8499237656/" title="_1050988 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8245/8499237656_6f110d0a11_c.jpg" width="800" height="600" alt="_1050988"></a>
-
 <a href="http://www.flickr.com/photos/aadm/8499235862/" title="_1050994 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8227/8499235862_4b744a3fe6_c.jpg" width="800" height="600" alt="_1050994"></a>
 
+<a href="http://www.flickr.com/photos/aadm/8499237656/" title="_1050988 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8245/8499237656_6f110d0a11_c.jpg" width="800" height="600" alt="_1050988"></a>
+
 <a href="http://www.flickr.com/photos/aadm/7693974058/" title="_1050999 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7125/7693974058_e2c0854633_c.jpg" width="600" height="800" alt="_1050999"></a>
-
-<a href="http://www.flickr.com/photos/aadm/8132937151/" title="_1050763 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8336/8132937151_612bbe73bc_c.jpg" width="800" height="600" alt="_1050763"></a>
-
-<a href="http://www.flickr.com/photos/aadm/8498127215/" title="_1060008 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8097/8498127215_25288f8736_c.jpg" width="800" height="600" alt="_1060008"></a>
 
 <a href="http://www.flickr.com/photos/aadm/8132916445/" title="_1060026 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8196/8132916445_2d9bf39d6b_c.jpg" width="800" height="600" alt="_1060026"></a>
 
