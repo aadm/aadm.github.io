@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "madagascar/people"
+title: "madagascar/persone"
 description: ""
 category: 
 tags: [photo]
