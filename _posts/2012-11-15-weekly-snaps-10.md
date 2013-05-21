@@ -27,7 +27,7 @@ However, I now realize that even all of these photographs are joined by somethin
 <a href="http://www.flickr.com/photos/aadm/8188493135/" title="_DSC7638 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8485/8188493135_5aa499b9ee_c.jpg" height="800" alt="_DSC7638"></a>
 <center><i>Going to Barcelona. Nikon D70s, 28mm f/2.8.</i></center>
 
-<a href="http://www.flickr.com/photos/aadm/8189575104/" title="_1010003 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8485/8189575104_baf8d6b9d9_c.jpg" width="800" alt="_1010003"></a>
+<a href="http://www.flickr.com/photos/aadm/8189575104/" title="_1010003 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8485/8189575104_baf8d6b9d9_c.jpg" width="800" height="600" alt="_1010003"></a>
 <center><i>Lisbona, Portugal. Panasonic GF1, 17mm f/2.8.</i></center>
 
 ***
@@ -43,3 +43,6 @@ However, I now realize that even all of these photographs are joined by somethin
 * [Weekly snaps #7](./2012-09-22-weekly-snaps-7.html)
 * [Weekly snaps #8](./2012-10-11-weekly-snaps-8.html)
 * [Weekly snaps #9](./2012-11-05-weekly-snaps-9.html)
+
+(See all the [weekly snaps here](http://aadm.github.io/tags.html#weekly%20snaps-ref)).
+

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "weekly snaps 14 - san siro"
+title: "weekly snaps 14 / san siro"
 description: ""
 category: 
 tags: [photo, weekly snaps]
@@ -9,6 +9,8 @@ tags: [photo, weekly snaps]
 
 
 San Siro, Milan-Napoli. Il calcio non mi interessa ma vedere una partita del genere tra le prime in classifica resta un'esperienza che colpisce per l'intensità del tifo e la partecipazione della gente. Per non parlare dei soggetti che si incontrano e delle occasioni fotografiche che ti ritrovi servite nel proverbiale piatto d'argento (ho fatto tutti i ritratti comodamente seduto dal mio posto con l'85mm f/1.8).
+
+_Football does not really interest me but a game between two great teams that are winning everything does really strikes you for the ferocious intensity of the supporters. Not to mention the human types that you see and the many photographic opportunities that are served on the proverbial gold platter (I shot all these people from the comfort of my seat with the 85mm f/1.8)._
 
 *** 
 ## partita
@@ -73,3 +75,5 @@ San Siro, Milan-Napoli. Il calcio non mi interessa ma vedere una partita del gen
 * [Weekly snaps #11](./2012-12-19-weekly-snaps-11.html)
 * [Weekly snaps #12](./2012-12-21-weekly-snaps-12.html)
 * [Weekly snaps #13](./2013-01-19-weekly-snaps-13.html)
+
+(See all the [weekly snaps here](./tags.html#weekly%20snaps-ref)).

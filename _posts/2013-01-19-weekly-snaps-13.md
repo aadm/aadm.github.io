@@ -52,3 +52,6 @@ _Color._
 * [Weekly snaps #10](./2012-11-15-weekly-snaps-10.html)
 * [Weekly snaps #11](./2012-12-19-weekly-snaps-11.html)
 * [Weekly snaps #12](./2012-12-21-weekly-snaps-12.html)
+
+(See all the [weekly snaps here](http://aadm.github.io/tags.html#weekly%20snaps-ref)).
+
