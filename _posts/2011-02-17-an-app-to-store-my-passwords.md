@@ -2,7 +2,7 @@
 layout: post
 title: an app to store my passwords
 Date: 2011-02-17 21:32
-tags: [apple]
+tags: [apple, tech]
 ---
 {% include JB/setup %} 
 
@@ -13,8 +13,8 @@ about not being able to have the same data available also on my two Macs (not
 to mention the stupid ads). So I started looking for something that had these
 features:
 
-  * quick 4-digits general password to access all the rest
-  * sync between iPhone and mac
+* quick 4-digits general password to access all the rest
+* sync between iPhone and mac
 
 About the first point, I know that it's a weak point and raises the question
 "why using AES 256-bit encryption if you rely on a 4-digit number to secure
@@ -30,8 +30,8 @@ come with a price. Hefty price for some, more reasonable for others.
 Option number one was [1password](http://agilewebsolutions.com/onepassword).
 Wonderful program, very effective, easy to use, lots of options but:
 
-  * it's expensive
-  * it's supposed to ease your life by making 1-click logins to ebanking sites and stuff like this but it doesn't work so well with Chrome (I can't even do the 1-click thing with Gmail !).
+* it's expensive
+* it's supposed to ease your life by making 1-click logins to ebanking sites and stuff like this but it doesn't work so well with Chrome (I can't even do the 1-click thing with Gmail !)
 
 So I got fed up pretty quickly (it was an all-in-a-night research), especially
 considering that I had to shell out how much ? -- about $35 for the Mac app
@@ -45,16 +45,16 @@ Then I looked at other options. Well it's actually hard to find _any_
 alternative to 1password on the net. Everybody seems to have bought that
 friggin' app, so if somebody asks: "Hi, can you recommend a cheap alternative
 to 1password", everybody replies like this: "Hey no you MUST get 1password".
-Thanks (you moron), but I did just say that I was looking at an _alternative_ ?
+Thanks (you moron), but I did just say that I was looking at an _alternative_?
 
 Anyway, after another couple of hours of googling around, I've found that the
 options out there are the following:
 
-  1. free but just for 30 days
-  2. free but just if you use the computer app
-  3. free but just if you use the mobile app
-  4. free but butt-ugly and no sync ([Password Safe](http://passwordsafe.sourceforge.net/))
-  5. free but too complicated and no apps ([KeePass](http://keepass.info/))
+1. free but just for 30 days
+2. free but just if you use the computer app
+3. free but just if you use the mobile app
+4. free but butt-ugly and no sync ([Password Safe](http://passwordsafe.sourceforge.net/))
+5. free but too complicated and no apps ([KeePass](http://keepass.info/))
 
 **The italian route: iAccounts**
 
@@ -96,14 +96,12 @@ This is a sample of the main .csv:
     Group Name,Record Name,Username,Password,Note
     Websites,photo.net,dummy@gmail.com,1234,better when there was Greenspun
     Computers,macbookair,genius,qwerty,login to my macbook air 11"
-    
 
 And this is the second file to import credit cards details:
 
     
     Group Name,Record Name,Issuer,Number,Holder,Valid From,Valid To,PIN,Note
-    Cards,Pig VISA,Pig Bank,4444 3333 2222 1111,NAME,01/10,01/13,0000,CCV=999
-    
+    Cards,Pig VISA,Pig Bank,4444 3333 2222 1111,NAME,01/10,01/13,0000,CCV=999  
 
 That's it, have fun with your passwords (me, I'm going to do some proper
 mountain biking this weekend).
