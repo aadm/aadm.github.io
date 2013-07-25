@@ -18,7 +18,7 @@ Comunque non sono solo gli sfigati che affollano google+ a farmi incavolare ma p
 
 http://erickimphotography.com/blog/2013/04/04/shooting-street-photography-as-a-corporate-pastime/
 
-
+aa
 
 # joel meyerotzsdf
 
