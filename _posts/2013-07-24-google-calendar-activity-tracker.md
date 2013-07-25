@@ -29,7 +29,7 @@ And this is what a typical month looks like in my Google Calendar (there is some
 
 Finally, here's the script (please read the notes below):
 
-{% highlight python %}
+<!-- {% highlight python %}
 from pylab import *
 import getpass
 import gdata.calendar.service
@@ -105,18 +105,18 @@ if __name__ == "__main__":
     out=main()
     show()
 {% endhighlight %}
-
+ -->
 A few notes about this script:
 
 * This is tested on Mac OS X using the latest [Canopy](https://www.enthought.com/products/canopy/) installation. 
 * You need to have the [gdata Python library](https://code.google.com/p/gdata-python-client/) installed. There is a way to avoid importing the library altogether[^nota-install-gdata]. What you need to do is just to make the `gdata` and `atom` subdirectories that you find below `src` after unpacking the tar.gz available in the directory where you run the script. By the way, I have used `gdata-2.0.18.tar.gz` which is the latest version at the time of writing.
 * Another way to avoid installing gdata but keeping things a bit more organized is to keep the gdata folder stored somewhere and then add its path by inserting these two lines at the beginning:
-
+<!-- 
 {% highlight python %}
 import sys
 sys.path.append("~/Documents/_PROG/PYTHON/gdata-2.0.18/src/gdata")
 {% endhighlight %}
-
+ -->
 * For some reasons however the above method only works if I run the script from within Canopy and not from Terminal. I have no idea why and I have no intention to spend any more time investigating this little bugger.
 * This script works from the terminal by typing `$ python gcal_sport.py` or whatever you want to call this script. To make the plots persistent I had to add the `show(block=False)` in the main function and `show()` at the end of the script. If you run it under iPython (Canopy for example uses iPython) then you can get rid of the `block=False` option and delete the last `show()` line.
 * I'm not a huge nerd but I can make this stuff work. I wanted to share this script because I find it useful and maybe some other poor devil will find some use for it. The point is that I have no intention nor time to help Windows users, or people that don't even know what Python is. For all of you sane people please go see my [photographs](http://aadm.github.io/tags.html#weekly%20snaps-ref) instead.
