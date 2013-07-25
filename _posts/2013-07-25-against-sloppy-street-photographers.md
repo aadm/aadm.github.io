@@ -7,7 +7,7 @@ tags: [comment, photo]
 ---
 {% include JB/setup %}
 
-Street photography is real big now. Everybody talks about it. Everybody *does* street photography. But this stuff is really getting on my nerves. To see these trivial shots of everyday life covered with a fine-art patina given by a bland conversion to black and white is really unnerving.
+Street photography is real big now. Everybody talks about it. Everybody *does* street photography nowadays. But this stuff is really getting on my nerves. To see these trivial shots of everyday life covered with a fine-art patina given by a bland conversion to black and white is really unnerving.
 
 I am looking right now at [35mm Street](http://35mmstreet.com), which is a very good example of this trend (for other similar examples just visit the countless examples of similar stuff on various Google+ groups or other similar venues).
 
