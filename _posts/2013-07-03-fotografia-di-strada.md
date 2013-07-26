@@ -8,6 +8,9 @@ published: false
 ---
 {% include JB/setup %}
 
+Also see here: <http://gist.io/6087078>
+
+
 # bazzicando su google+
 
 * street photography che comprende di tutto, tra cui foto di viaggio, di monumenti etc
