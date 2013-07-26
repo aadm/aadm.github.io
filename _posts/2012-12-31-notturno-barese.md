@@ -3,7 +3,7 @@ layout: post
 title: "notturno barese"
 description: ""
 category: 
-tags: []
+tags: [photo]
 ---
 {% include JB/setup %}
 

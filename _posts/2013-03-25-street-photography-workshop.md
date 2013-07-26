@@ -3,7 +3,7 @@ layout: post
 title: "street photography workshop"
 description: ""
 category: 
-tags: []
+tags: [photo]
 excerpt: Selezione di fotografie scattate durante il workshop di street photography con Giulio Di Meo a Milano.
 ---
 {% include JB/setup %}
