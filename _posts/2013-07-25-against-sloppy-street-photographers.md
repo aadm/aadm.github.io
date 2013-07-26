@@ -4,6 +4,7 @@ title: "against sloppy street photographers"
 description: ""
 category: 
 tags: [comment, photo]
+published: false
 ---
 {% include JB/setup %}
 
