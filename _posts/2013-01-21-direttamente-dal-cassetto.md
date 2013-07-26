@@ -15,7 +15,7 @@ Il primo ad esempio lo scrivevo a febbraio 2012 (rileggendolo, lo trovo ancora a
 
 * il portafoglio dei possessori di porsche carrera 4 GTS e Cayenne è sempre ricolmo.
 
-* diffidate delle buone intenzioni diffuse sui blog di quegli [esercizi commerciali](http://www.californiabakery.it/) che fanno i salutisti, i naturisti, gli ecologisti; dicono che ti offrono il caffè o il muffin se vai lì in bici, e tu ci vai, ma poi scopri che devi essere affiliato a qualche cosa [ciclohobby] che è gratis eh, e manco ti danno un tesserino, e quindi la prossima volta te lo diamo il caffè ma non oggi anche se sei l'unico cretino che è arrivato lì in bici col freddo che c'è.
+* diffidate delle buone intenzioni diffuse sui blog di quegli [esercizi commerciali](http://www.californiabakery.it/) che fanno i salutisti, i naturisti, gli ecologisti; dicono che ti offrono il caffè o il muffin se vai lì in bici, e tu ci vai, ma poi scopri che devi essere affiliato a qualche cosa (ciclohobby) che è gratis eh, e manco ti danno un tesserino, e quindi la prossima volta te lo diamo il caffè ma non oggi anche se sei l'unico cretino che è arrivato lì in bici col freddo che c'è.
 
 * il puzzo di inquinamento è asfissiante e insopportabile.
 
