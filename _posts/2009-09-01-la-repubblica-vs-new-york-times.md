@@ -70,7 +70,7 @@ Imbarazzante constatare la scarsa affidabilità della stessa rivista scientifica
 Infine stendiamo il proverbiale velo sulla conoscenza della lingua italiana di Amy Cortese. Quando infatti Rampini scrive:
 
 
-*[L'autore del libro 'Born to Run'] Christopher McDougall, ricorda che l'essere umano è una macchina geneticamente programmata per la corsa: è così che i nostri antenati sono sopravvissuti alle belve feroci che li braccavano, e a loro volta hanno potuto alimentarsi di selvaggina.*
+*L'autore del libro 'Born to Run', Christopher McDougall, ricorda che l'essere umano è una macchina geneticamente programmata per la corsa: è così che i nostri antenati sono sopravvissuti alle belve feroci che li braccavano, e a loro volta hanno potuto alimentarsi di selvaggina.*
 
 La giornalista del New York Times riporta:
  
