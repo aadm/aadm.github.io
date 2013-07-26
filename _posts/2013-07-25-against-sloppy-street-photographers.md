@@ -27,7 +27,7 @@ But I don't want to be too harsh. [Judge](http://35mmstreet.com/2013/07/10/wan-c
 
 ***
 
-Now, let me post here some photographs I've taken recently. They were all taken in the streets. Quick portraits of total strangers. No black and white! I am definetely not an artist. 
+Now, let me post here some photographs I've taken recently. They were all taken in the streets. Quick portraits of total strangers. No black and white -- I am definitely not an artist. 
 
 Just tell me if there's one picture of an homeless guy. Or somebody curved over his phone. Or some confuse mass of people where it is left to the viewer to decide what's the fucking point of the photo.
 
