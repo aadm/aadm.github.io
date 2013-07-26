@@ -3,7 +3,7 @@ layout: post
 title: "fotografia di strada"
 description: ""
 category: 
-tags: []
+tags: [photo]
 published: false
 ---
 {% include JB/setup %}
