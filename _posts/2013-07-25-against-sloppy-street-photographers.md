@@ -7,7 +7,7 @@ tags: [comment, photo]
 ---
 {% include JB/setup %}
 
-Street photography is real big now. Everybody talks about it. Everybody *does* street photography. But this stuff is really getting on my nerves. To see these trivial shots of everyday life covered with a fine-art patina given by a bland conversion to black and white is really unnerving.
+Street photography is real big now. All photographers do street photography. Everybody *talks* about it. But this is really getting on my nerves. I mean, these trivial shots of everyday life covered with fine-art pretensions given by a bland conversion to black and white -- it's really unnerving.
 
 I am looking right now at [35mm Street](http://35mmstreet.com), which is a very good example of this trend (for other similar examples just visit the countless examples of similar stuff on various Google+ groups or other similar venues).
 
@@ -23,11 +23,11 @@ I see unsharp, barely focused pictures and too many references to the hipster ca
 
 I see captions that look like they are written by a 15 years old willing to show off how clever he is ("These next two photos show how you stand your ground, even when spotted by your subject. You can see that in the first photo, I’m busted. I took the shot then kept the camera to my eye. She turned round to see what I was shooting, then goes back to her phone convinced it wasn’t her. Click"). And [these](http://35mmstreet.files.wordpress.com/2013/07/35mmstreet-com-dscf5123-edit.jpg) [pictures](http://35mmstreet.files.wordpress.com/2013/07/35mmstreet-com-dscf5124-edit.jpg) he's talking about are not even that good -- once again, they are snaps of a lady watching intently her phone.
 
-But I don't want to be too harsh. [Judge](http://35mmstreet.com/2013/07/10/wan-chai-market-hong-kong-part-1/) by [yourself](http://35mmstreet.com/2013/07/08/hong-kong-streets/). He must be [happy](http://35mmstreet.com/2013/06/27/glasgow-edinburgh-london-hong-kong-macao-philippines/). Good for him.
+But I don't want to be too harsh. [Judge](http://35mmstreet.com/2013/07/10/wan-chai-market-hong-kong-part-1/) by [yourself](http://35mmstreet.com/2013/07/08/hong-kong-streets/). He surely loves [his work](http://35mmstreet.com/2013/06/27/glasgow-edinburgh-london-hong-kong-macao-philippines/). Good for him.
 
 ***
 
-Now, let me post here some photographs I've taken recently. They were all taken in the streets. Quick portraits of total strangers. No black and white -- I am definitely not an artist. 
+Now, let me post here some photographs I've taken recently. They were all taken in the streets. Quick portraits of total strangers. No black and white (I am *definitely* not an artist). 
 
 Just tell me if there's one picture of an homeless guy. Or somebody curved over his phone. Or some confuse mass of people where it is left to the viewer to decide what's the fucking point of the photo.
 
