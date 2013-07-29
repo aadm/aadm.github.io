@@ -157,21 +157,6 @@ This xbmc is fantastic; does a perfect job of scanning your library and acquirin
 
 
 
-<!-- Da controllare
-==============
-
-(wifi)
-http://www.osx86.net/view/1653-lion_wifi_sitecom_608_usb_--_ralink_rt2870.html
-http://www.insanelymac.com/forum/index.php?showtopic=273872
-http://www.insanelymac.com/forum/index.php?showtopic=265443
-
-http://www.teddypig.com/2011/11/teddypig’s-hackintosh-the-final-hack/
-http://www.youtube.com/watch?v=HQ74zcReqQI
-
-http://wiki.osx86project.org/wiki/index.php/HCL_10.7.2#Bluetooth_Adapters -->
-
-
-
 [^1]: Late 2009 model with an Intel Core 2 Duo 2.66ghz, 4Gb ram and a solid state drive.
 
 [^2]: What I mean by everyday tasks: internet browsing, Matlab, hacking with python, office work with the Apple triumvirate (Keynote / Numbers / Pages), text editing and processing with Multimarkdown and LaTeX. You might have a different idea about your everyday tasks and what you really need a computer for. After all, that's why iPads are so common nowadays, because Joe Average just need to read stuff on the internet, check his email, occasionally edit a spreadsheet (oh, and watch pirated movies).
