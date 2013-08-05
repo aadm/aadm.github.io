@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "against sloppy street photographers"
+title: "on sloppy street photographers"
 description: ""
 category: 
 tags: [comment, photo]
