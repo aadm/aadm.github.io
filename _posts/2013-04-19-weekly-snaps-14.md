@@ -7,7 +7,6 @@ tags: [photo, weekly snaps]
 ---
 {% include JB/setup %}
 
-
 San Siro, Milan-Napoli. Il calcio non mi interessa ma vedere una partita del genere tra le prime in classifica resta un'esperienza che colpisce per l'intensità del tifo e la partecipazione della gente. Per non parlare dei soggetti che si incontrano e delle occasioni fotografiche che ti ritrovi servite nel proverbiale piatto d'argento (ho fatto tutti i ritratti comodamente seduto dal mio posto con l'85mm f/1.8).
 
 _Football does not really interest me but a game between two great teams that are winning everything does really strikes you for the ferocious intensity of the supporters. Not to mention the human types that you see and the many photographic opportunities that are served on the proverbial gold platter (I shot all these people from the comfort of my seat with the 85mm f/1.8)._

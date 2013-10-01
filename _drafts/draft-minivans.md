@@ -2,7 +2,7 @@ I could have never foreseen this. That is, finding myself contemplating minivans
 
 My first car was a Peugeot 106 Rallye; I was actually lusting after the real myth, the 205 Rallye, but back in 1990 the 106 was the new kid on the block and I went for it, also because the 205 was not in production anymore and I could not find a reliable second hand car. 
 
-So those who know already understand that I was a petrol head, and I wanted a real driver's car. Then the new Mini Cooper came, and I bought the base 115bhp model. The 160bhp 'S' version was just too expensive; again, the Mini appealed to me even in this slightly underpowered form, because it could oversteer and drift and had a wonderfully sensitive gearbox. I also had fun doing a trackday with my Mini, and I was able to catch and go faster than some Cooper S and Works (it was a Mini-only event, I was one of the 2-3 with base Cooper). 
+
 
 So I pictured myself graduating to more sporty and faster vehicles but then reality set in; after the Mini I bought a second-hand boring-grey, turbo diesel (!) Golf. It was a reasoned decision because I was also at that time deeply into that other very expensive but more satisfying form of motoring, i.e. motorbikes. More satisfying because the same amount of money spent on motorbikes gives you much more in terms of power and racing abilities; but this is a different story and involves my longstanding affair with Ducati and the Ducati Speedweek races. 
 
