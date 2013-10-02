@@ -1,6 +1,6 @@
 /* @override http://mark.reid.dev/files/css/screen.css */
 
-/* @override 
+/* @override
 	http://mark.reid.dev/files/css/screen.css
 	http://mark.reid.name/files/css/screen.css
 */
@@ -12,7 +12,7 @@
  *
  * Base font height: 16px
  * Base line length: 24px
- * 
+ *
  * AUTHOR: Mark Reid <mark@reid.name>
  */
 
@@ -24,7 +24,7 @@ body {
 	font-family: 'Quattrocento Sans', sans-serif;
 	background-color: #4A4A4A;
 	background-position: center -18em;
-	background-repeat: repeat-x; 
+	background-repeat: repeat-x;
 }
 
 /* Hack via Joel Spolsky to make image rescaling nicer in IE */
@@ -47,21 +47,21 @@ p { margin: 0.8em 0 1.2em 0; text-align: left; }
 
 a { text-decoration: underline; color: black}
 a:hover { color: red; }
-a.pdf:before { 
+a.pdf:before {
 	margin-right: 1em;
 	content: url(/files/css/icon_pdf.gif); }
 
-h1,h2,h3,h4 { 
-	line-height:1.5em; 
-	clear: left; 	
+h1,h2,h3,h4 {
+	line-height:1.5em;
+	clear: left;
 	font-family: 'News Cycle', sans-serif;
-	font-weight: bold; 
+	font-weight: bold;
 }
 h1 {font-size: 2.4em; }
 h2 {font-size: 1.6em; }
 h3 {font-size: 1.2em; }
 
-hr { 
+hr {
 	border-top: 1px solid silver;
 	border-bottom: none;
 	padding: 0;
@@ -88,7 +88,7 @@ sup { line-height: 1ex; }
 #page, #disqus_thread {
 	box-shadow: 2px 2px 8px #262626;
 	-webkit-box-shadow: 2px 2px 8px #262626;
-	-moz-box-shadow: 2px 2px 8px #262626;	
+	-moz-box-shadow: 2px 2px 8px #262626;
 }
 
 #disqus_thread { padding-top: 0; }
@@ -96,8 +96,8 @@ sup { line-height: 1ex; }
 
 .right { float: right; clear: left; }
 .left { float: left; clear: right; }
-.inset { 
-	border: 1px solid silver; 
+.inset {
+	border: 1px solid silver;
 	padding: 2px;
 	margin: 0em 0.8em 0.8em 0.8em;
 }
@@ -117,7 +117,7 @@ blockquote {
 }
 
 .note {
-	padding-top: 0.5em; 
+	padding-top: 0.5em;
 	background-color: #fafaff;
 	border-top: 1px solid silver;
 	border-bottom: 1px solid silver;
@@ -145,9 +145,9 @@ td
 }
 
 tr:hover th[scope=row], tr:hover td
-{ 
+{
 	background-color: lightgray;
-} 
+}
 
 table.neat {
 	width: 80%;
@@ -159,7 +159,7 @@ table.neat tr { text-align: center; }
 table.neat th { font-weight: normal; background-color: #eeeeee; }
 table.neat td { background-color: white; }
 table.neat th.title { border-bottom: 1px solid gray; border-top: 1px solid gray; vertical-align: bottom; background-color: lightgrey; }
-caption { 
+caption {
 	color: #333;
 	font-size: 0.875em;
 	margin: 0.875em auto 0 auto;
@@ -192,7 +192,7 @@ ul.compact li { list-style: ;
 	list-style-type: square;
 	list-style-position: inside;
 }
-ul.compact li span.date {	
+ul.compact li span.date {
 	display: none;
 	color: grey;
 	width: 20%;
@@ -204,14 +204,14 @@ ul.compact li a {
 
 /* @group Header */
 #header, #header a { color: #E6E5E6; }
-#header:hover a { color: #FFFFFF; }
+/*#header:hover a { color: #FFFFFF; }*/
 #header:hover a:hover { text-decoration: underline; }
 #header a { text-decoration: none; }
 
 #header {
 	font-family: 'News Cycle', sans-serif;
-	font-weight: bold; 
-	position: relative;	
+	font-weight: bold;
+	position: relative;
 	line-height: 1.5em;
 	margin-top: 1.5em;
 	margin-bottom: 0.0em;
@@ -219,7 +219,7 @@ ul.compact li a {
 
 #header h1 {
 	font-family: 'News Cycle', sans-serif;
-	font-weight: bold; 
+	font-weight: bold;
 	margin-bottom: 5pt;
 	line-height: 1.0em;
 	display: block;
@@ -227,7 +227,7 @@ ul.compact li a {
 
 #header ul {
 	font-family: 'News Cycle', sans-serif;
-	font-weight: bold; 
+	font-weight: bold;
 	position: absolute;
 	top: 20pt;
 	right: 0;
@@ -242,7 +242,7 @@ ul.compact li a {
 #header ul li { display: inline; }
 #header ul li a {
 	font-family: 'News Cycle', sans-serif;
-	font-weight: bold; 
+	font-weight: bold;
 	padding: 0.4em 0.3em 0 0.3em;
 	display: inline;
 }
@@ -264,15 +264,15 @@ ul.compact li a {
 .twitter-title a { display: inline; }
 /* @end */
 
-body#Work #header a.work, 
-body#Home #header a.home, 
+body#Work #header a.work,
+body#Home #header a.home,
 body#Play #header a.play,
 body#Info #header a.info,
 body#Code #header a.code,
 body#Past #header a.past,
 body#Kith #header a.kith
-{ 
-	border-bottom: 2px solid silver; 
+{
+	border-bottom: 2px solid silver;
 }
 
 /* @end */
@@ -290,9 +290,9 @@ body#Kith #header a.kith
 /* @end */
 
 /* @group Sections */
-.section { 
-	font-size: 87.5%; 
-	line-height: 1.43em; 
+.section {
+	font-size: 87.5%;
+	line-height: 1.43em;
 	margin-bottom: 1.43em;
 	margin-top: 1.43em;
 	margin-left: 7.5em;
@@ -319,40 +319,40 @@ p.excerpt { margin: 0; }
 .comments { font-size: smaller; position: absolute; color: silver; right: 0; top: 0; }
 .excerpt { color: black; }
 
-.date { 
+.date {
 	font-size: 110%;
 	line-height: 1.2em;
 	display: block;
 	font-family: 'Quattrocento Sans', sans-serif;
-    font-weight: normal;	
-	font-variant: small-caps; 		
+    font-weight: normal;
+	font-variant: small-caps;
 }
 
 
 /* @group Signature */
-.signature { 
-	margin-top: 3em; 
+.signature {
+	margin-top: 3em;
 	position: relative;
 }
-.signature .author { 
-	font-variant: small-caps; 
-	font-style: normal; 
+.signature .author {
+	font-variant: small-caps;
+	font-style: normal;
 	color: black;
 	display: block;
 	margin-bottom: 1.5em;
 }
-.signature .date { 
+.signature .date {
 	font-size: 90%;
 	line-height: 1.5em;
-	display: block; 
+	display: block;
 	font-family: "Quattrocento Sans",sans-serif;
-    font-weight: normal;	
+    font-weight: normal;
 /*	position: absolute;*/
 /*	right: 1;*/
 /*	top: 0;*/
 }
-.signature .location { 
-	display: block; 
+.signature .location {
+	display: block;
 	font-size: 87.5%;
 	line-height: 1.5em;
 	position: absolute;
@@ -364,8 +364,8 @@ p.excerpt { margin: 0; }
 /* @group Code */
 pre {
 	margin: 1em 0 1.5em 0;
-	font-size: 0.9em; /* Hack to make code look same size as body font */  
-	line-height: 1.25em;	
+	font-size: 0.9em; /* Hack to make code look same size as body font */
+	line-height: 1.25em;
 	color: #111;
 	background: #fffff0;
 	border: 1px solid #ddc;
@@ -418,12 +418,12 @@ pre > code {
 	margin-bottom: 1.15em !important;
 }
 .dsq-header-time { margin-left: 0 !important; }
-.dsq-comment-header cite { 
+.dsq-comment-header cite {
 	font-variant: small-caps;
 	margin-left: 0 !important;
 }
-.dsq-comment-footer { 
-	font-size: 75% !important; 
+.dsq-comment-footer {
+	font-size: 75% !important;
 	margin-top: 1px !important;
 }
 #dsq-options {
@@ -481,7 +481,7 @@ p.delicious-extended:before { content: ' — '; }
 #footer {
 	margin-top: 0;
 	font-family: "News Cycle", sans-serif;
-	font-weight: normal; 
+	font-weight: normal;
 	color: #E6E5E6;
 	font-size: 85%;
 	line-height: 1.3em;
@@ -542,9 +542,9 @@ img.maruku-png { }
 .prev-next {
 	position:relative;
 }
-.prev-next .next{ 
+.prev-next .next{
 	float:right;
-}	
+}
 
 /* tag_box ======================================================== */
 .tag_box {

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Home/Blog
+title:  
 ---
 {% include JB/setup %}
 
