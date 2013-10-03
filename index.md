@@ -10,7 +10,7 @@ title:
 
 <ul class="posts">
 {% for post in site.posts limit: 50 %}
-    <h3><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d-%m-%Y" }})</h3>
+    <h3>({{ post.date | date: "%d-%m-%Y" }}) <a href="{{ post.url }}">{{ post.title }}</a> </h3>
 {% endfor %}
 </ul>
 
