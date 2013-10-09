@@ -9,12 +9,11 @@ This page is currently under construction. It will be the starting page for a fe
 
 ### sdm: periferia sud milano
 ### paesaggi urbani / urban landscapes
-### valentina
+### [valentina](project-valentina.html)
 
 
 <!-- ### [sdm: periferia sud milano](project-sdm.html)
 
 ### [paesaggi urbani / urban landscapes](project-milano.html)
 
-### [valentina](project-valentina.html)
  -->

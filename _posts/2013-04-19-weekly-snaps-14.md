@@ -25,7 +25,6 @@ _Football does not really interest me but a game between two great teams that ar
 
 <a href="http://www.flickr.com/photos/aadm/8661940745/" title="_D6F2643 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8257/8661940745_deb3c15cba_c.jpg" width="800" height="534" alt="_D6F2643"></a>
 
-
 <a href="http://www.flickr.com/photos/aadm/8661956945/" title="_D6F2598 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8253/8661956945_49c616552f_c.jpg" width="800" height="534" alt="_D6F2598"></a>
 
 <a href="http://www.flickr.com/photos/aadm/8661943093/" title="_D6F2640 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8243/8661943093_b1824cf474_c.jpg" width="800" height="534" alt="_D6F2640"></a>
