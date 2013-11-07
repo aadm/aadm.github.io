@@ -8,25 +8,25 @@ tags: [photo]
 {% include JB/setup %}
 
 ![](/img/D6F0263.jpg)
-<center>"Leggiamo assieme".</center>
+<center>"Leggiamo assieme?".</center>
 
 ![](/img/D6F0266.jpg)
-<center>"Uhm, non lo so, facciami un gioco più divertente mentre questo chiacchiera":</center>
+<center><i>"Uhm, non lo so, facciami un gioco più divertente mentre questo chiacchiera".</i></center>
 
 ![](/img/D6F0267.jpg)
-<center>"Dai su fammi giocare!":</center>
+<center><i>"Dai su fammi giocare!"</i></center>
 
 ![](/img/D6F0268.jpg)
-<center>"E lasciami i capelli pero'!":</center>
+<center>"E lasciami i capelli pero'!"</center>
 
 ![](/img/D6F0269.jpg)
-<center>"E pure l'orecchio...":</center>
+<center>"E pure l'orecchio..."</center>
 
 ![](/img/D6F0275.jpg)
-<center>"Emmeeè, ha finito???":</center>
+<center>"Emmeeè, ha finito???"</center>
 
 ![](/img/D6F0276.jpg)
-<center>"Eddaiii smettila":</center>
+<center>"Eddaiii smettila".</center>
 
 ![](/img/D6F0280.jpg)
-<center>"Groooar, giuro che non respiro più eh!"</center>
+<center><i>"Groooar, giuro che non respiro più eh!"</i></center>
