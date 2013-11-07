@@ -1,11 +1,10 @@
 ---
 layout: post
-title: transprovence
+title: "trans-provence"
 tags: [cycling, photo]
 excerpt:
 published: false
 ---
-{% include JB/setup %}
 
 # Trans-Provence 2010
 

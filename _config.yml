@@ -14,6 +14,10 @@ permalink: /:year-:month-:day-:title.html
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
+markdown:      redcarpet
+redcarpet:
+  extensions: ["smart","tables", "no_intra_emphasis", "autolink"]
+
 
 # paginate: 10
 

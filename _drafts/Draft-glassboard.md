@@ -3,9 +3,7 @@ layout: post
 title: "glassboard"
 tags: [misc]
 excerpt:
-published: false
 ---
-{% include JB/setup %}
 
 BLOG glassboard
 

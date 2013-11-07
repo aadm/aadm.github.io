@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: [photo]
 ---
-{% include JB/setup %}
 
 My first 'real' camera was a fully manual, obviously film-based ,Yashica FX-3; now I have a Nikon D7000 which I would probably use even if I was a 'pro', since I appreciate the wonderful mix of lightness and robustness that high-end amateur cameras such as the D7000 offer. Yes, I do appreciate the feeling of operating a D700 (never used a top-end camera such as the Nikon D3 or D4 so I can't comment on that) but they are just too bulky and heavy for my taste; and I equally dislike those light, plasticky cameras such as D3100, D5100, Canon Rebels.
 

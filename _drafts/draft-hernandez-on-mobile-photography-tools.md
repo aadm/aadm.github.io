@@ -4,9 +4,7 @@ title: "hernandez on mobile photography tools"
 description: ""
 category: 
 tags: [links, photo, comment, video]
-published: false
 ---
-{% include JB/setup %}
 
 This guy Hernandez made this video asking if "mobile photography has made us more reliant on tools than on our eyes":
 

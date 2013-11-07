@@ -1,3 +1,11 @@
+---
+layout: post
+title: "straight colors"
+description: ""
+category: 
+tags: [photo]
+---
+
 It's an interesting question and Zack's response makes perfect sense. But in the case of VSCO I think a lot depends on how you actually use the presets.
 
 When I decided to switch to Lightroom a few weeks ago, the first thing I did was buy the new VSCO Film 02 kit. But I used the presets more as a learning tool than a one click image enhancer. I've said this before but the fact that VSCO uses tools native to each application to achieve its film emulations (at least in the Standard versions without profiling) provides a great learning opportunity. It's very easy to analyze and retro-engineer the looks you like, make them suit your style and provide better starting points. So even though I almost never use the actual presets anymore, they served as a crash course in Lightroom processing.

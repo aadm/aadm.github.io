@@ -1,3 +1,11 @@
+---
+layout: post
+title: "minivans"
+description: ""
+category: 
+tags: [moto, comment]
+---
+
 I could have never foreseen this. That is, finding myself contemplating minivans and discussing their merits the engines, their cornering ability. 
 
 My first car was a Peugeot 106 Rallye; I was actually lusting after the real myth, the 205 Rallye, but back in 1990 the 106 was the new kid on the block and I went for it, also because the 205 was not in production anymore and I could not find a reliable second hand car. 
