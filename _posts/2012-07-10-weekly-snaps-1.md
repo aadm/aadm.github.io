@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 Inspired by Pindelski's blog[^1] here's my first collection of snaps, something that I'll try to honour as a weekly appointment.
 

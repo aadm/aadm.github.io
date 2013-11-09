@@ -4,7 +4,7 @@ title: farewell facebook
 Date: 2010-08-03 08:21
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://dl.dropbox.com/u/179731/896799735.jpg)
 

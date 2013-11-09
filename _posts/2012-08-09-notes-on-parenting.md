@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [quote, links, comment]
 ---
-{% include JB/setup %}
+
 
 Lately I've been reading quite a lof of articles about parenting. Most of them are book reviews but I did not read any of these books though[^nota-zecchi], which could mean: (A) I'm a bit shallow, (B) stressed out New Yorkers, overproductive Chinese immigrants, rich Californians are not people that I feel entitled to give me directions on how to raise my kid (even though I acknowledge their superior education and intelligence and that their sons and daughters will surely rule the world).
 

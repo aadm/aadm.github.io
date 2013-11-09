@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [apple, tech]
 ---
-{% include JB/setup %}
+
 
 [Rumors](http://online.wsj.com/article/BT-CO-20120704-703673.html) of an upcoming iPad Mini are abundant.
 

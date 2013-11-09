@@ -4,7 +4,7 @@ title: panoramica monopoli alberobello
 Date: 2006-11-03 22:37:00
 tags: [moto, photo]
 ---
-{% include JB/setup %} 
+ 
 
 [![](http://static.flickr.com/85/223971403_f20a5706d9_m.jpg)](http://flickr.com/photos/72677765@N00/223971403)  
   

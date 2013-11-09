@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, misc, links]
 ---
-{% include JB/setup %}
+
 
 
 Quando diventi grande e hai la famiglia, il lavoro... le biciclette e la fotografia e l'hackintosh e i fumetti da leggere... perdi colpi, non sei più al corrente delle novità che ci sono su internet, e ti riduci a credere che kickstarter sia l'unico sito di finanziamento popolare[^nota-crowdfunding].

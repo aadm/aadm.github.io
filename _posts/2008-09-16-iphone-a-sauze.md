@@ -4,7 +4,7 @@ title: iphone a sauze
 Date: 2008-09-16 23:35:00
 tags: [cycling, photo]
 ---
-{% include JB/setup %} 
+ 
 
 Questo finesettimana ho fatto una delle mie solite improvvisate; sveglia alle 8, tempo indecente, cosa faccio allora: vado in Piemonte a controllare se li' invece il tempo e' buono. Piemonte significa [Sauze d'Oulx](http://www.sauzefreeride.net/), che non ho idea di come si pronunci quindi a voce direi "Salice d'Ulzio" (traduzione ufficiale). Significa anche: September Fest, una sorta di manifestazione di mountain bike con impianti di risalita aperti durante tutto il weekend, stand espositivi di varie marche, eccetera eccetera.  
   

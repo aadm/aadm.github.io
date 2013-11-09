@@ -4,7 +4,7 @@ title: beatiful apps
 Date: 2011-09-30 09:42
 tags: [apple]
 ---
-{% include JB/setup %} 
+ 
 
 
 ![](http://dl.dropbox.com/u/179731/tumblr_lsbs30wlsP1qb0fqco1_400.png)

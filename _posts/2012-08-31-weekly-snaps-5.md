@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 I haven't been able to publish these 'weekly snaps' for the past three weeks, but here I am with number 5; this time I'll start off with a couple of cliché photos.
 

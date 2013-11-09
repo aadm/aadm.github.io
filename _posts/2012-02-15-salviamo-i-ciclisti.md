@@ -4,7 +4,7 @@ title: salviamo i ciclisti
 Date: 2012-02-15
 tags: [comment, cycling, photo]
 ---
-{% include JB/setup %} 
+ 
 
 [http://www.rotafixa.it/?p=542](http://www.rotafixa.it/?p=542)
 

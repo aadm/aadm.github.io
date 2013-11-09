@@ -4,7 +4,7 @@ title: ultimo giro in bici
 Date: 2011-08-23 08:23
 tags: [cycling]
 ---
-{% include JB/setup %} 
+ 
 
 Nel senso di ultimo nella mia attuale condizione di scapolo ! Di giri in bici
 conto di farne ancora parecchi.

@@ -4,7 +4,7 @@ title: yet another diy strap
 Date: 2010-09-15 01:41
 tags: [photo]
 ---
-{% include JB/setup %} 
+ 
 
 The real thing looks wonderful and I bet works great too: Luma Loops. Another company that produces
 something similar (I believe they were the first, way before Luma Loops came to life) is [Blackrapid](http://www.blackrapid.com).
@@ -44,6 +44,6 @@ _Doesn't work: if you pull, it gets undone._
 _A split ring attachment to the camera which I don't like, because it's metal on metal._
 
 ---
-{% include JB/setup %} 
+ 
 
 _Update: Luma Labs fell prey to some patent issues since I wrote this post, so they have discontinued the original Luma Loop. They do have a plan to launch another strap, the Cinch. Check out their website [luma-labs.com](http://www.luma-labs.com/) and also this [open letter published on their blog](http://luma-labs.com/blogs/news/4540122-an-open-letter-to-our-customers-past-and-future)._

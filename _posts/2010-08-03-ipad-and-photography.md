@@ -4,7 +4,7 @@ title: ipad and photography
 Date: 2010-08-03 00:30:00
 tags: [apple, photo, tech]
 ---
-{% include JB/setup %} 
+ 
 
 I am wondering about the next iPad. What is available now is certainly enticing and must be a joy for light computing / intense internet reading. I do have limited budget, however, and think that probably the iPhone 4 is a better way to spend my money. But I look at the iPad and keep thinking that it could be a photographer's ideal machine; if only it had a straight usb port to connect a camera (if I travel light, I certainly do care about bringing yet another little piece of plastic).  
   

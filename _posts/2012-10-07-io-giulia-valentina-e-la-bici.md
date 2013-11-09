@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [cycling]
 ---
-{% include JB/setup %}
+
 
 Qualche giorno fa Valentina ha compiuto due mesi, e oggi ha fatto la sua prima escursione in montagna.
 

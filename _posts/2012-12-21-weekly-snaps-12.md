@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 Second part of my selection of film photos (see [weekly snaps #11](./2012-12-19-weekly-snaps-11.html) for the first batch). I figured that this double bill could be a way to compensate for the entire month gone by without any updates.
 

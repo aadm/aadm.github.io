@@ -4,7 +4,7 @@ title: corni di canzo con la neve
 Date: 2011-02-04 00:57
 tags: [cycling]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://dl.dropbox.com/u/179731/3094764241.jpg)
 

@@ -3,7 +3,7 @@ layout: post
 title: martin gardner on the road
 tags: [misc, comment]
 ---
-{% include JB/setup %} 
+ 
 
 Avevo da tempo in casa una versione di Alice in Wonderland annotata da Martin Gardner, famoso editor della colonna di giochi matematici di Scientific American.  
   

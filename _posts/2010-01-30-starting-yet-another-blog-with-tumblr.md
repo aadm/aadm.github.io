@@ -4,7 +4,7 @@ title: starting yet another blog with tumblr
 Date: 2010-01-30 17:48
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://dl.dropbox.com/u/179731/361556031.jpg)
 

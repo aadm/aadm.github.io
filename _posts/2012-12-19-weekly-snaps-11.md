@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 The black and white, London edition (yes, there's also one taken on the Dorset coast so it's not 100% London). Issue #12 will be online on Friday with a second batch of film photographs.
 

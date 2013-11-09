@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo]
 ---
-{% include JB/setup %}
+
 
 This is Bari by night, shot with Hueless on an iPhone 4S.
 

@@ -4,7 +4,7 @@ title: bewitched by his eloquence
 Date: 2011-10-25 08:21
 tags: quote
 ---
-{% include JB/setup %} 
+ 
 
 "Those of us who were bewitched by his eloquence on the campaign trail chose
 to ignore some disquieting aspects of his biography: that he had accomplished

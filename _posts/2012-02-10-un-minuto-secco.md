@@ -4,7 +4,7 @@ title: un minuto secco
 Date: 2012-02-11
 tags: [cycling, video, comment]
 ---
-{% include JB/setup %} 
+ 
 
 Ammetto che non mi ha un po' scocciato questa cosa.
 

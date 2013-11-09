@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 San Siro, Milan-Napoli. Il calcio non mi interessa ma vedere una partita del genere tra le prime in classifica resta un'esperienza che colpisce per l'intensità del tifo e la partecipazione della gente. Per non parlare dei soggetti che si incontrano e delle occasioni fotografiche che ti ritrovi servite nel proverbiale piatto d'argento (ho fatto tutti i ritratti comodamente seduto dal mio posto con l'85mm f/1.8).
 

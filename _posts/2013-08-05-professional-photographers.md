@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo,comment]
 ---
-{% include JB/setup %}
+
 
 Start here:
 

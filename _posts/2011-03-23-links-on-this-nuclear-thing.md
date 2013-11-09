@@ -4,7 +4,7 @@ title: links on this nuclear thing
 Date: 2011-03-23 23:05
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 How the story went first of all: [the Japan Syndrome](http://www.economist.com/blogs/babbage/2011/03/post-earthquake_nuclear_crisis), appeared on The Economist on March 15th.
 

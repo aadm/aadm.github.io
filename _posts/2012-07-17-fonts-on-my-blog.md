@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [misc, tech]
 ---
-{% include JB/setup %}
+
 
 Last time [I wrote something about this blog](2012-07-12-moving-to-github.html), how I moved everything to Jekyll and modified the original themes. 
 

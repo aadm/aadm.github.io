@@ -4,7 +4,7 @@ title: winter riding milano episode 2
 Date: 2012-02-09
 tags: [cycling, video]
 ---
-{% include JB/setup %} 
+ 
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/nb1_m14Q9oc?rel=0" frameborder="0"> </iframe>
 

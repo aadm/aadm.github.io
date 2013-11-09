@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [cycling, video, quote]
 ---
-{% include JB/setup %}
+
 
 A 1945 video on Raleigh bicycles, worth watching for historical reasons but also for something that the speaker says towards the end of the movie (around the 16'45" mark):
 

@@ -4,7 +4,7 @@ title: hereditary genius
 Date: 2011-03-14 09:04
 tags: [quote, comment]
 ---
-{% include JB/setup %} 
+ 
 
 "In his 1869 book _Hereditary Genius_ Sir Francis Galton argued that a person
 could improve at mental and physical activities until he hit a wall, which “he

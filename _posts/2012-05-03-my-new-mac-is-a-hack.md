@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [apple, tech]
 ---
-{% include JB/setup %}
+
 
 ![](http://dl.dropbox.com/u/179731/IMG_4551_hackintosh.jpg)
 

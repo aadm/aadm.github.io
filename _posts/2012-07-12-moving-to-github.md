@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: [apple, tech]
 ---
-{% include JB/setup %}
 
 If somebody would actually read these posts he'd start thinking something like "what a loser".
 

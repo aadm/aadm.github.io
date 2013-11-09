@@ -1,10 +1,11 @@
 ---
 layout: page
-title : Archive
-header : Post Archive
-group: navigation
+title: Archive
+description: "An archive of posts sorted by date."
 ---
-{% include JB/setup %}
 
-{% assign posts_collate = site.posts %}
-{% include JB/posts_collate %}
+<ul class="post-list">
+{% for post in site.posts %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>

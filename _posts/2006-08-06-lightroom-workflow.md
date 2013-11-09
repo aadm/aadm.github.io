@@ -4,7 +4,7 @@ title: lightroom workflow
 Date: 2006-08-06 20:43:00
 tags: [apple, photo]
 ---
-{% include JB/setup %} 
+ 
 
 Thanks to Lightroom and its beta status (which for me translates as 'free') I now have finally found a nice way to organize all my photos.  
 

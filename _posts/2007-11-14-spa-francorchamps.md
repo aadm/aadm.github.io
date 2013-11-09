@@ -4,7 +4,7 @@ title: spa-francorchamps
 Date: 2007-11-14 22:56:00
 tags: [misc, video]
 ---
-{% include JB/setup %} 
+ 
 
 _Riporto di seguito il racconto che mi ha fatto Daniele di una giornata che ha passato in pista con la sua Clio Cup; una pista speciale, si trattava dello storico tracciato di Spa-Francorchamps. E questo racconto mi è piaciuto così tanto che non potevo tenermi nella mia casella postale privata... Buona lettura._
 

@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [comment, photo]
 ---
-{% include JB/setup %}
+
 
 Street photography is real big now. All photographers do street photography. Everybody *talks* about it. But this is really getting on my nerves. I mean, these trivial shots of everyday life covered with fine-art pretensions given by a bland conversion to black and white -- it's really unnerving.
 

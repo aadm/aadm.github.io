@@ -3,7 +3,6 @@ layout: page
 title: "fotourbana"
 description: ""
 ---
-{% include JB/setup %}
 
 ## milano
 

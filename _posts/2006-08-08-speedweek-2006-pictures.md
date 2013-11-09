@@ -4,7 +4,7 @@ title: speedweek 2006 pictures
 Date: 2006-08-08 08:37:00
 tags: [moto, photo]
 ---
-{% include JB/setup %} 
+ 
 
 [![](http://static.flickr.com/86/209559792_7dd4dcc3cc_m.jpg)](http://www.flickr.com/photos/aadm/209559792/)  
 [Speedweek_1986.jpg](http://www.flickr.com/photos/aadm/209559792/)  

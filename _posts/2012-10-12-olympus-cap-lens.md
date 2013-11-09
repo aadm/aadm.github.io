@@ -4,7 +4,7 @@ title: "olympus c(r)ap lens"
 tags: [photo, links]
 excerpt:
 ---
-{% include JB/setup %}
+
 
 It might be quirky and it might be cool but I would argue this is something which should not appeal to anybody apart from facebook photographers.
 

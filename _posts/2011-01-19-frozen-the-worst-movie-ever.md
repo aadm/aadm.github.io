@@ -4,7 +4,7 @@ title: frozen the worst movie ever
 Date: 2011-01-19 23:56
 tags: [movies]
 ---
-{% include JB/setup %} 
+ 
 
 This is probably one of the worst movie I've ever watched. It is so bad that I
 actually enjoyed it. But the most incredible thing is that the three reviews

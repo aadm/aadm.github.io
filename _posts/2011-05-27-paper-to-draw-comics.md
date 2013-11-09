@@ -4,7 +4,7 @@ title: paper to draw comics
 Date: 2011-05-27 12:16
 tags: [quote]
 ---
-{% include JB/setup %} 
+ 
 
 INTERVIEWER
 

@@ -4,7 +4,7 @@ title: sud della francia in moto
 Date: 2007-07-04 23:23:00
 tags: [moto, photo]
 ---
-{% include JB/setup %} 
+ 
 
 
 ## Day 1 (venerdì 1 giugno)

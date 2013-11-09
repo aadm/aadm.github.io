@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo]
 ---
-{% include JB/setup %}
+
 
 First thing first: it's not *at all* a D7000 with a large sensor inside!
 

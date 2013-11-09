@@ -4,7 +4,7 @@ title: yoga sketches
 Date: 2010-09-07 23:34:00
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 [![yoga---05](http://farm5.static.flickr.com/4144/4969396048_c7c43f0860.jpg)](http://www.flickr.com/photos/aadm/4969396048/)  
 <center><i>Yoga sketches, detail #1.</i></center>

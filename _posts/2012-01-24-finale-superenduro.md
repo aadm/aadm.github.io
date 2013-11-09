@@ -4,7 +4,7 @@ title: finale superenduro
 Date: 2012-01-24
 tags: [photo, cycling]
 ---
-{% include JB/setup %} 
+ 
 
 Last October I've spent a great weekend riding and racing (and eating!) in Finale Ligure with Phil, Will and Fiona. I've collected all photos on flickr: [http://www.flickr.com/photos/aadm/sets/72157629004495851/with/6751815233/](http://www.flickr.com/photos/aadm/sets/72157629004495851/with/6751815233/)
 

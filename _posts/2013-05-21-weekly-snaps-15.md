@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 There is a certain kind of photograph that creates a particular atmosphere, and even though it may not be related to actual weather events, sometimes it does.
 

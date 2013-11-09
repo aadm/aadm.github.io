@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [cycling, apple, tech]
 ---
-{% include JB/setup %}
+
 
 A short recap on how to build and install open mtb maps under OS X.
 

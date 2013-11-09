@@ -4,7 +4,7 @@ title: making a really good coffe
 Date: 2011-03-08 23:08
 tags: [quote, comment]
 ---
-{% include JB/setup %} 
+ 
 
 [Making a really good coffee]()
 

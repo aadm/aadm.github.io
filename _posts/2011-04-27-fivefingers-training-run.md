@@ -4,7 +4,7 @@ title: fivefingers training run
 Date: 2011-04-27 00:11
 tags: [video]
 ---
-{% include JB/setup %} 
+ 
 
 Fivefingers training run:
 

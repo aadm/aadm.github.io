@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo]
 ---
-{% include JB/setup %}
+
 
 Il 4 agosto Valentina ha compiuto un anno.
 

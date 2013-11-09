@@ -4,7 +4,7 @@ title: critical mass milano ten years
 Date: 2012-02-24
 tags: [cycling, photo]
 ---
-{% include JB/setup %} 
+ 
 
 Yesterday evening I had the idea of taking a few shots during this special edition of Critical Mass Milano (special because it was the 10th year anniversary). It's carnival time too so I figured there would have been good photo opportunities.
 

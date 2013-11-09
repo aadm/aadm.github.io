@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo]
 ---
-{% include JB/setup %}
+
 
 È da quasi un anno che sono tornato al mondo reflex con una Nikon D7000, ma la piccola Panasonic GF-1 è ancora una presenza costante nel mio zaino. Nel frattempo sono uscite altre cento iterazioni della Panasonic sul tema mirrorless / micro quattroterzi ma solo l'ultima (GX-1) mi pare la vera evoluzione della GF-1[^nota-gx1].
 

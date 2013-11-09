@@ -4,7 +4,7 @@ title: the way I blog
 Date: 2005-08-25 15:28:00
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 This is the way:
 

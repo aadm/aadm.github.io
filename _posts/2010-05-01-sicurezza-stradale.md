@@ -4,7 +4,7 @@ title: sicurezza stradale
 Date: 2010-05-01 00:17
 tags: [cycling]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://farm4.staticflickr.com/3135/2986287362_b3fd473139.jpg)
 

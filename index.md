@@ -1,21 +1,19 @@
 ---
 layout: page
-title:  
+title: Latest Posts
+image:
+  feature: D7K7197-banner.jpg
+  credit: Alessandro Amato del Monte
+  creditlink: http://www.flickr.com/photos/aadm/
 ---
-{% include JB/setup %}
 
-<!-- ![]( {{site.url}}/assets/aadm-github-com-banner-_D7K6490.jpg) -->
-<!-- ![]( {{site.url}}/assets/aadm-github-io_D7K7197.jpg) -->
-![]( {{site.url}}/assets/aadm-github-io_D7K7197-bn.jpg)
-
-<ul class="posts">
-{% for post in site.posts limit: 50 %}
-    <h3>({{ post.date | date: "%d-%m-%Y" }}) <a href="{{ post.url }}">{{ post.title }}</a> </h3>
+<ul class="post-list">
+{% for post in site.posts limit:50 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
 
-_...and [many more](archive.html)!_
 
-Check the [archive](archive.html) for a chronological list of all the things I've written, and the [tags page](tags.html) to see all the articles grouped for subject.
+_For older articles please browse through the [ARCHIVE](articles.html) or [TAGS](tags.html) page._
 
-[![](http://i.creativecommons.org/l/by-nc-nd/3.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US)
+

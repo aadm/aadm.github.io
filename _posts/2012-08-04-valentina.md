@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [misc]
 ---
-{% include JB/setup %}
+
 
 Fatemi lasciare un segnalibro in questa data, perché Valentina è nata oggi, 4 agosto 2012.
 

@@ -4,7 +4,7 @@ title: the look of the trail
 Date: 2010-04-20 22:14:00
 tags: [cycling, photo]
 ---
-{% include JB/setup %} 
+ 
 
 Beatiful photos here: [http://nsmb.com/3326-dorado-tested/](http://nsmb.com/3326-dorado-tested/).  
   

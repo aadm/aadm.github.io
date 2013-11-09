@@ -4,7 +4,7 @@ title: 1 hour and 19 minutes
 Date: 2010-08-03 02:11
 tags: [apple, tech]
 ---
-{% include JB/setup %} 
+ 
 
 Using everytrail for iphone: the app shows for this particular trip 33km in 1
 hour and 19 minutes with a resulting average speed of 25km/h.

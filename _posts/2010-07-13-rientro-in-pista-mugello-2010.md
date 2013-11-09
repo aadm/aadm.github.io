@@ -4,7 +4,7 @@ title: rientro in pista mugello 2010
 Date: 2010-07-13 22:59:00
 tags: [moto]
 ---
-{% include JB/setup %} 
+ 
 
 Ieri sono ritornato in pista dopo quasi un anno. Anche quest'anno Mugello; come iniziare meglio la stagione? L'anno scorso uguale: prima volta che scendo in pista col 999, mi vado a infognare al Mugello. Pista facile e invitante per iniziare, col suo rettilineo infinito, i saliscendi e le curve cieche. I primi minuti sono abbastanza terrificanti se non hai un po' di esperienza sulle spalle. Io ne avrei, ma un pizzico di nervosismo ce l'avevo.  
   

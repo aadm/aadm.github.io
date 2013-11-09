@@ -4,7 +4,7 @@ title: british museum volumi sbilanciati
 Date: 2006-08-08 21:48:00
 tags: [photo]
 ---
-{% include JB/setup %} 
+ 
 
 [![](http://static.flickr.com/72/209545948_dca197aab9_m.jpg)](http://www.flickr.com/photos/aadm/209545948/)  
   

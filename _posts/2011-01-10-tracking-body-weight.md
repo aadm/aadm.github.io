@@ -4,7 +4,7 @@ title: tracking body weight
 Date: 2011-01-10 20:03
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 I discovered [this Withings wi-fi body scale](http://www.withings.com/en/bodyscale/features) after reading [this tweet by Neven Mrgan](https://twitter.com/mrgan/status/17993820817854464):
 

@@ -4,7 +4,7 @@ title: obree quotes
 date: 2012-07-11 08:26
 tags: [quote, cycling]
 ---
-{% include JB/setup %} 
+ 
 
 A comment on Italians' ability to manage confusion:
 

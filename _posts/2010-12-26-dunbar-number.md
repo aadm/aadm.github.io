@@ -4,7 +4,7 @@ title: dunbar number
 Date: 2010-12-26 23:58
 tags: [quote, comment]
 ---
-{% include JB/setup %} 
+ 
 
 [150 friends (Dunbar's number)](http://www.nytimes.com/2010/12/26/opinion/26dunbar.html)
 

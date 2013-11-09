@@ -4,7 +4,7 @@ title: moving to calepin
 Date: 2012-01-23
 tags: [misc, tech]
 ---
-{% include JB/setup %} 
+ 
 
 
 I moved my tumblr log to calepin. 

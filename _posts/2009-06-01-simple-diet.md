@@ -4,7 +4,7 @@ title: simple diet
 Date: 2009-06-01 23:12:00
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 A couple of quotes taken from [a nice article by Philip Greenspun](http://philip.greenspun.com/writing/changed-by-web-and-weblog) which does _not_ deal with diets:
 

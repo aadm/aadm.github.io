@@ -4,7 +4,7 @@ title: the energy of a labrador
 Date: 2010-10-12 15:27
 tags: [quote]
 ---
-{% include JB/setup %} 
+ 
 
 "It moves along at a vigorously restless pace, with the energy of a Labrador
 retriever off the leash, racing up to each person it encounters, pawing and

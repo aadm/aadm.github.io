@@ -4,7 +4,7 @@ title: reading fiction is important
 date: 2012-04-18 09:03:12
 tags: [links, quote]
 ---
-{% include JB/setup %} 
+ 
 
 So true:
 

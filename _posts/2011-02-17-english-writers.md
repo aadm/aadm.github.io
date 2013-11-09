@@ -4,7 +4,7 @@ title: english writers
 Date: 2011-02-17 21:35
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 I love tech bloggers such as [Gruber](http://daringfireball.net/),
 [Brooks](http://brooksreview.net/), [Arment](http:/marco.org/). Even if there

@@ -4,7 +4,7 @@ title: bici africa
 Date: 2010-08-17 16:41
 tags: [cycling]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://dl.dropbox.com/u/179731/967178859.jpg)
 

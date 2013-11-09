@@ -3,7 +3,6 @@ layout: page
 title: "valentina"
 description: ""
 ---
-{% include JB/setup %}
 
 <a href="http://www.flickr.com/photos/aadm/10178445526/" title="_D6F9110 by aadm, on Flickr"><img src="http://farm6.staticflickr.com/5517/10178445526_a576486078.jpg" width="500" height="334" alt="_D6F9110"></a>
 

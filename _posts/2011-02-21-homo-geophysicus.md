@@ -4,7 +4,7 @@ title: homo geophysicus
 Date: 2011-02-21 19:31
 tags: [photo]
 ---
-{% include JB/setup %} 
+ 
 
 [![](http://dl.dropbox.com/u/179731/3424019349.jpg)](http://instagr.am/p/BwSg0/)
 

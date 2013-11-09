@@ -4,7 +4,7 @@ title: lost hopes
 Date: 2010-06-16 00:26
 tags: [tv]
 ---
-{% include JB/setup %} 
+ 
 
 The creators of Lost, in an interview given in 2005 (right after the
 conclusion of season 1):

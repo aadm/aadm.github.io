@@ -4,7 +4,7 @@ title: it was unintentional
 Date: 2010-09-11 00:49
 tags: [photo]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://dl.dropbox.com/u/179731/1099159475.jpg)
 

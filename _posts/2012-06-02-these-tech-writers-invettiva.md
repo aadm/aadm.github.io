@@ -5,7 +5,7 @@ description: ""
 tags: [comment]
 excerpt: I used to love macstories. It's edited by a fellow italian who writes excellent english (unlike the rest of us), and it was a place to read reasoned commentaries that I enjoyed... 
 ---
-{% include JB/setup %}
+
 
 I used to love [macstories](http://macstories.net). 
 

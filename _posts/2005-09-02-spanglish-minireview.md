@@ -4,7 +4,7 @@ title: spanglish minireview
 Date: 2005-09-02 09:55:00
 tags: [movies]
 ---
-{% include JB/setup %} 
+ 
 
 C'e' una messicana bona dal cuore d'oro e con figlia a carico che si trasferisce a Los Angeles.
   

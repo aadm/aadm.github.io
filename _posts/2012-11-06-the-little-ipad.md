@@ -4,7 +4,7 @@ title: the little ipad
 tags: [apple, tech]
 excerpt:
 ---
-{% include JB/setup %}
+
 
 I wrote something about this little iPad [a while ago](http://aadm.github.com/2012-07-19-ipad-mini-needs.html), and on reading again that piece I find that it still represent my thoughts today. Yesterday Apple held the official announcement and among other cool things[^1] there was the iPad mini. 
 

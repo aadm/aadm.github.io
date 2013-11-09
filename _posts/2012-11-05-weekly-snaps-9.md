@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 I have been doing some experiments with this "stitching-bokeh" method; a neat idea to get the look of a medium-format camera but it takes too much computer work to get a good result; this is one of my attempts, definetely [not as flashy as Brenizer's](http://www.ryanbrenizer.com/category/brenizer-method/), and I am pretty sure only a minimal percentage of viewers would spot something 'different' here:
 

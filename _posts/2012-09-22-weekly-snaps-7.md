@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 Random photos this time. Some are very old, and I can't even recall which lens I used. The last two are reminders that today was Giulia's birthday (and this year there was nothing really which could compete with that special gift we're enjoying together since [the 4th of August](http://aadm.github.com/2012-08-04-valentina.html)).
 

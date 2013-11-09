@@ -6,7 +6,7 @@ category:
 tags: [photo]
 published: false
 ---
-{% include JB/setup %}
+
 
 Also see here: <http://gist.io/6087078>
 

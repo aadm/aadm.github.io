@@ -4,7 +4,7 @@ title: alpinist chiude
 Date: 2008-12-15 23:55:00
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 ![alpinist-26](http://aadm.files.wordpress.com/2008/12/alpinist-26.jpg)  
   

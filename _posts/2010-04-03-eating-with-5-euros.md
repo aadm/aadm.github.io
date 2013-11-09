@@ -4,7 +4,7 @@ title: eating with 5 euros
 Date: 2010-04-03 10:20
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://dl.dropbox.com/u/179731/492953769.jpg)
 

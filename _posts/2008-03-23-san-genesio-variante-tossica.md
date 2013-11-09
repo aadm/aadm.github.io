@@ -4,7 +4,7 @@ title: san genesio variante tossica
 Date: 2008-03-23 18:38:00
 tags: [cycling, video]
 ---
-{% include JB/setup %} 
+ 
 
 Altro video onboard girato sul San Genesio. Rispetto a [quell'altro](http://www.vimeo.com/772088) di cui ho [già parlato](http://aadm.github.com/2008-03-23-san-genesio-classic-trail-the-video.html), questo è venuto fuori un po' peggio. Le riprese sono traballanti purtroppo (colpa del poco nastro americano che ho usato per fissare la bullet camera al casco), c'è poca continuità d'azione (colpa ovviamente mia; non sono un improvvisatore, e quando mi trovo su un percorso difficile ho bisogno di studiarlo per bene prima di farlo tutto in sella).  
   

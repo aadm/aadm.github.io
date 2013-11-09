@@ -3,7 +3,6 @@ layout: page
 title: "sdm: periferia sud milano"
 description: ""
 ---
-{% include JB/setup %}
 
 A small project, born out of the desire to do a comprehensive project documenting the place where I live.
 

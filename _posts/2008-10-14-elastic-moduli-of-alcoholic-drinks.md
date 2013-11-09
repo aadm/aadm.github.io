@@ -4,7 +4,7 @@ title: elastic moduli of alcoholic drinks
 Date: 2008-10-14 13:14:00
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 I'm in charge of a very important research project here at Acme Ltd., a major player in the oil business. With the latest state-of-the-art equipment I study the effects of hydrocarbons on seismic data; one way to do that is to model a porous medium filled with fluid which is like a rock filled with oil or shit.  
   

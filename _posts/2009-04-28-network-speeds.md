@@ -4,7 +4,7 @@ title: network speeds
 Date: 2009-04-28 18:46:00
 tags: [misc, tech]
 ---
-{% include JB/setup %} 
+ 
 
 Useless stats on network speeds using [speedtest.net](http://www.speedtest.net).
   

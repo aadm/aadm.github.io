@@ -4,7 +4,7 @@ title: vota uno come te
 Date: 2009-06-05 14:05:00
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 Vero manifesto elettorale trovato a Bari.   
 

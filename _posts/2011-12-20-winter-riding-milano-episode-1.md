@@ -4,7 +4,7 @@ title: winter riding milano episode 1
 Date: 2011-12-20
 tags: [cycling, video]
 ---
-{% include JB/setup %} 
+ 
 
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/awLEDt8ze1Q" frameborder="0"> </iframe>

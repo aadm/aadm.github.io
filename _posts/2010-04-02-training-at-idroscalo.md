@@ -4,7 +4,7 @@ title: training at idroscalo
 Date: 2010-04-02 00:56
 tags: [cycling]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://dl.dropbox.com/u/179731/489909610.jpg)
 

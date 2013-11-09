@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 I did a few experiments with the camera over the past two weekends. Thought to share a few pictures here, even if they are not particularly inspired shots. But if you're trying to find how damn good is the D7000 sensor, just look at the green tomato shot.
 

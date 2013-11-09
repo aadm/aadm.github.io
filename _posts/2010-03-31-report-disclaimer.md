@@ -4,7 +4,7 @@ title: report disclaimer
 Date: 2010-03-31 14:07
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 "This report relates the results of an advanced, quantitative seismic
 characterization of the Alpha field, through simultaneous elastic inversion,

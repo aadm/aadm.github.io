@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [links, photo]
 ---
-{% include JB/setup %}
+
 
 There are still pearls to be found on the internet, [after all](http://aadm.github.com/2012-06-02-these-tech-writers-invettiva.html).
 

@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [misc, links, comment]
 ---
-{% include JB/setup %}
+
 
 Attenzione, arriva una serie di appunti che butto lì, tanto per levarli dall'eterno stato di DRAFT.
 

@@ -4,7 +4,7 @@ title: new york times on geothermal energy
 Date: 2009-06-25 12:29:00
 tags: [misc, comment]
 ---
-{% include JB/setup %} 
+ 
 
 This is the article: 
   

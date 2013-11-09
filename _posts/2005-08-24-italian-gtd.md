@@ -4,7 +4,7 @@ title: italian gtd
 Date: 2005-08-24 08:26:00
 tags: [apple, misc, tech]
 ---
-{% include JB/setup %} 
+ 
 
 Some time ago I stumbled upon this thing, the Getting Things Done thing, aka GTD. How do you wanna call it ? A geekish obsession ? A lifestyle idea for nerds ?
 

@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 
 Experimenting with interior shots. Il Montale, Parma (Nikon D600, 50mm f/1.4 AF).

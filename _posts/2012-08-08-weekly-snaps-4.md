@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 This week's post has been delayed by some [very expected news](http://aadm.github.com/2012-08-04-valentina.html).
 

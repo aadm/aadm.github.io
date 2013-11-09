@@ -4,7 +4,7 @@ title: definition of myself
 Date: 2006-09-15 05:46:00
 tags: [comment, quote]
 ---
-{% include JB/setup %} 
+ 
 
 Yesterday I was browsing [Merlin Mann's 43folders](http://www.43folders.com/) , and I've stumbled upon [his definition of geek](http://www.43folders.com/2004/09/08/getting-started-with-getting-things-done/):  
 

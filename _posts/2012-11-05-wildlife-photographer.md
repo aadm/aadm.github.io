@@ -4,7 +4,7 @@ title: wildlife photographer of the year
 tags: [photo]
 excerpt:
 ---
-{% include JB/setup %}
+
 
 Si tratta probabilmente dell'unica mostra a cui vado volentieri. È [a Milano fino al 18 dicembre](http://www.wpymilano.it/), ed è scontato consigliarlo a tutti gli appassionati di fotografia. 
 

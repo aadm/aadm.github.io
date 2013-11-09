@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, quote]
 ---
-{% include JB/setup %}
+
 
 Emphasis is mine:
 

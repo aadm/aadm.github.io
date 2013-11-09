@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
+
 
 Una domenica qualunque nella vita di una bimba di cinque mesi.
 

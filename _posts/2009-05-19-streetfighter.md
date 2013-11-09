@@ -4,7 +4,7 @@ title: streetfighter
 Date: 2009-05-19 22:30:00
 tags: [moto]
 ---
-{% include JB/setup %} 
+ 
 
 
 Venerdi': di nuovo in moto ! Negli ultimi giorni il mio ginocchio sta andando molto meglio, quindi ho preso lo spunto dell'Open Week Ducati per la prova della Streetfighter per tirare fuori il 999 e farmi un giretto.

@@ -4,7 +4,7 @@ title: golden another business trip
 Date: 2008-12-02 01:00:00
 tags: [cycling, photo]
 ---
-{% include JB/setup %} 
+ 
 
 Golden, Colorado.  
   

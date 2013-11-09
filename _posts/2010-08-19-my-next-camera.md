@@ -4,7 +4,7 @@ title: my next camera
 Date: 2010-08-19 10:36
 tags: [photo]
 ---
-{% include JB/setup %} 
+ 
 
 I've stopped using my old Nikon D70s after it gave up once again during my
 last vacation (random failures in recording the photos on the flash card). For

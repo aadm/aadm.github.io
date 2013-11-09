@@ -4,7 +4,7 @@ title: tech bloggers and xkcd
 Date: 2011-03-24 23:41
 tags: [misc, tech]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://dl.dropbox.com/u/179731/4071979061.png)
 

@@ -4,7 +4,7 @@ title: version 10 climbing partner
 Date: 2007-03-16 15:11:00
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 [![](http://farm1.static.flickr.com/145/422914532_1922bd7a94_m.jpg)](http://www.flickr.com/photos/aadm/422914532/)  
   

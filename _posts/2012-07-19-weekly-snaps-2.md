@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 This week a few pictures taken during a lazy Sunday in Ziano Piacentino. Good wine there, and a first experience using an old manual focus Nikkor 85mm f/1.8 which I had modified to AI-S to use it on my D7000.
 

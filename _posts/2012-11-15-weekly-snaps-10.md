@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 It just happened that all the past "weekly snaps" have featured photos linked by some sort of thread or connection. But my original idea was to collect random shots [as I wrote at the beginning](./2012-07-10-weekly-snaps-1.html).
 

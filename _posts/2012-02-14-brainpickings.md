@@ -4,7 +4,7 @@ title: brainpickings
 Date: 2012-02-14
 tags: comment
 ---
-{% include JB/setup %} 
+ 
 
 Ho scoperto un sito fantastico, di quelli che ti fanno riscoprire quanto Internet possa ancora essere fonte di meraviglie.
 

@@ -4,7 +4,7 @@ title: speedweek 2007 su mondoducati
 Date: 2008-03-23 21:45:00
 tags: [moto]
 ---
-{% include JB/setup %} 
+ 
 
 ![mondoducati_blog_dsc4964.jpg](http://aadm.files.wordpress.com/2008/03/mondoducati_blog_dsc4964.jpg)  
   

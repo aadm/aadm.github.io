@@ -4,7 +4,7 @@ title: egypt and the terrorists
 Date: 2011-06-25 19:24
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 Last Thursday I arrived in the States, and I went through the usual US border
 immigration procedure. The agent, after careful examination of my passport

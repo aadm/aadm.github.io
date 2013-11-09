@@ -4,7 +4,7 @@ title: ultimo allenamento per la trans provence
 Date: 2010-09-21 06:32:00
 tags: [cycling, photo]
 ---
-{% include JB/setup %} 
+ 
 
 ### Monte Bianco, 18-19 settembre 2010
 

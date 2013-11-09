@@ -4,7 +4,7 @@ title: the future according to google
 Date: 2008-09-17 07:34:00
 tags: [comment]
 ---
-{% include JB/setup %} 
+ 
 
 [![Parigi_4836](http://farm4.static.flickr.com/3205/2505105614_ea6910b0fd.jpg)](http://www.flickr.com/photos/aadm/2505105614/)  
   

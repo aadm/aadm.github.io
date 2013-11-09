@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 There is a thin line that connects these photographs, but I also put a couple that I just enjoyed as they were (if only to stay true to my original intention of using these posts to display photographs that do not fit into a larger story).
 

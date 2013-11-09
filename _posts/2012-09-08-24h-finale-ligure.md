@@ -4,7 +4,7 @@ title: "24h finale ligure"
 tags: [cycling, photo]
 excerpt:
 ---
-{% include JB/setup %}
+
 
 <a href="http://www.flickr.com/photos/aadm/7948006568/" title="_D7K4072 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8180/7948006568_16b75808b4_z.jpg" width="640" height="360" alt="_D7K4072"></a>
 

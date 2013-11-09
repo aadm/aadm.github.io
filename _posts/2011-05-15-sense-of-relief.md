@@ -4,7 +4,7 @@ title: sense of relief
 Date: 2011-05-15 12:30
 tags: [quote]
 ---
-{% include JB/setup %} 
+ 
 
 "I felt a sense of relief at his unshaven face and scruffy clothes. I have rarely seen a more disreputable bunch."
 

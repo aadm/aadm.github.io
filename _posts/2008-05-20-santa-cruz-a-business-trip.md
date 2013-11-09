@@ -4,7 +4,7 @@ title: santa cruz a business trip
 Date: 2008-05-20 22:41:00
 tags: [cycling, video]
 ---
-{% include JB/setup %} 
+ 
 
 Ovvero, come trasformare un viaggio di lavoro a Houston di un giorno in una vacanza a Santa Cruz all'insegna della mountain bike.  
   

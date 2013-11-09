@@ -4,7 +4,7 @@ title: about viral me
 Date: 2010-12-21 13:21
 tags: [quote, comment]
 ---
-{% include JB/setup %} 
+ 
 
 In [this previous post](http://aadm.github.com/2010-12-21-dailybooth.html) I linked to [an article that upset me](http://www.gq.com/news-politics/big-issues/201012/viral-me-silicon-valley-social-networking-devin-friedman).
 

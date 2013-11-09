@@ -4,7 +4,7 @@ title: il cameriere e la zuppa
 Date: 2009-10-05 22:30:00
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 Customer says, “Waiter, taste this soup.” 
   

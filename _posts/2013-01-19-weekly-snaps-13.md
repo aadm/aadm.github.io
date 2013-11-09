@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo, weekly snaps]
 ---
-{% include JB/setup %}
+
 
 Ziano Piacentino, part two. Part one is in [Weekly snaps #2](./2012-07-19-weekly-snaps-2.html).
 

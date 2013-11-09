@@ -4,7 +4,7 @@ title: she is snoring
 Date: 2011-08-25 01:11
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 [![](http://dl.dropbox.com/u/179731/9351429683.jpg)](http://www.flickr.com/photos/aadm/sets/72157627511661292/)
 

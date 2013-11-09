@@ -4,7 +4,7 @@ title: dailybooth
 Date: 2010-12-21 13:00
 tags: [quote]
 ---
-{% include JB/setup %} 
+ 
 
 "DailyBooth appeals to people who want even less friction than Twitter: Here,
 you don’t need to think of something witty or informative to say in 140

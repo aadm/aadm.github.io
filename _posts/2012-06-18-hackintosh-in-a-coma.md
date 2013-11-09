@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [apple, tech]
 ---
-{% include JB/setup %}
+
 
 
 I was very happy about [my hackintosh](2012-05-03-my-new-mac-is-a-hack.html), everything going smooth and easy... until it all broke down and I was left with no computer for almost a month. 

@@ -4,7 +4,7 @@ title: not jargon
 Date: 2011-08-23 00:23
 tags: [quote]
 ---
-{% include JB/setup %} 
+ 
 
 From a review of a soft-science book appeared recently [on the New York Times](http://www.nytimes.com/2011/08/16/science/16scibks.html):
 

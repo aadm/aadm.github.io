@@ -6,7 +6,7 @@ category:
 tags: [photo]
 excerpt: Selezione di fotografie scattate durante il workshop di street photography con Giulio Di Meo a Milano.
 ---
-{% include JB/setup %}
+
 
 Workshop di street photography con [Giulio Di Meo](http://www.giuliodimeo.it) a Milano.
 

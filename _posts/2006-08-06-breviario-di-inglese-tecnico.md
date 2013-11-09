@@ -4,7 +4,7 @@ title: breviario di inglese tecnico
 Date: 2006-08-06 21:05:00
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 Le fonti da cui ho attinto sono "senior professionals" dell'azienda presso cui lavoro.  
   

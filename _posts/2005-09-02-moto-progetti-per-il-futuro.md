@@ -4,7 +4,7 @@ title: moto progetti per il futuro
 Date: 2005-09-02 11:37:00
 tags: [moto]
 ---
-{% include JB/setup %} 
+ 
 
 Metti che resto a Milano, e riesco finalmente ad avere una casa tutta mia (un sogno che dura da ormai parecchi anni). Sai cosa mi piacerebbe avere ?  
  

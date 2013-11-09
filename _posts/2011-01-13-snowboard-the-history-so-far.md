@@ -4,7 +4,7 @@ title: snowboard the history so far
 Date: 2011-01-13 00:20
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://farm6.static.flickr.com/5246/5347824402_ef416d0cc2.jpg)
 

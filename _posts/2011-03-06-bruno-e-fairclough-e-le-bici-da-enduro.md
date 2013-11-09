@@ -4,7 +4,7 @@ title: bruno e fairclough e le bici da enduro
 Date: 2011-03-06 23:05
 tags: [cycling]
 ---
-{% include JB/setup %} 
+ 
 
 Dopo aver visto di persona come va Andrea Bruno sulla sua Covert, e poi
 un'altro video che mostra [quel matto di Brendan Fairclough sulla nuova Enduro S-Works](http://www.vitalmtb.com/videos/features/A-Day-on-Specialized-S-Works-Enduros,5948/sspomer,2) -- attenzione all'ultimo minuto del video, quando Brendan fa davvero una cosa esagerata!, davvero mi viene da chiedere se questa

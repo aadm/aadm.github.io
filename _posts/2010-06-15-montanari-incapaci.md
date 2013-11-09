@@ -4,7 +4,7 @@ title: montanari incapaci
 Date: 2010-06-15 22:12:00
 tags: [misc, comment]
 ---
-{% include JB/setup %} 
+ 
 
 Leggevo questo articolo: [Going Where A Lot of Other Dudes With Really Great Equipment Have Gone Before](http://www.nytimes.com/1998/07/26/magazine/going-where-a-lot-of-other-dudes-with-really-great-equipment-have-gone-before.html), di John Tierney (New York Times, 26 luglio 1998), e trovo questo passaggio che dà praticamente una giustificazione antropologica al desiderio che noi abbiamo di comprarci chiodi, martelli, piccozze, abbigliamento in tactel, etc etc:  
 

@@ -4,7 +4,7 @@ title: mountain bike movies
 Date: 2010-05-05 23:03:00
 tags: [cycling, movies]
 ---
-{% include JB/setup %} 
+ 
 
 I am an enthusiast mountain bike rider, but because I seem to be affected by a number of injuries associated with slow recovery times (my old age plays a big part here, as it is *physiologically* proven that is faster to recover from a broken bone when you're 20 than if you're approaching your 40s), I don't get as much time riding my bike as I'd like to.  
   

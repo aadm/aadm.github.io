@@ -4,7 +4,7 @@ title: a volte milano
 Date: 2010-07-11 23:29
 tags: [misc]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://dl.dropbox.com/u/179731/799171656.jpg)
 

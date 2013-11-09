@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo]
 ---
-{% include JB/setup %}
+
 
 <a href="http://www.flickr.com/photos/aadm/7932916442/" title="_D7K6342 Portra 160 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8319/7932916442_761bdee835_z.jpg" width="640" height="424" alt="_D7K6342 Portra 160"></a>
 

@@ -4,7 +4,7 @@ title: nnapulitano
 Date: 2011-07-26 18:21
 tags: [apple]
 ---
-{% include JB/setup %} 
+ 
 
 ![](http://dl.dropbox.com/u/179731/8089060874.png)
 

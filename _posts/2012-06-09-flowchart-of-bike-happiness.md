@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [cycling, quote]
 ---
-{% include JB/setup %}
+
 
 This is so good it's a shame it lies forgotten in an old issue of DirtRag.
 

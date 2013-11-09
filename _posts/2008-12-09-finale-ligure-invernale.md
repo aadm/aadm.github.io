@@ -4,7 +4,7 @@ title: finale ligure invernale
 Date: 2008-12-09 21:55:00
 tags: [cycling, photo]
 ---
-{% include JB/setup %} 
+ 
 
 [![FinaleDic08_Bric_dei_Crovi](http://farm4.static.flickr.com/3254/3111627278_7c9f0f4042.jpg)](http://www.flickr.com/photos/aadm/3111627278/)  
   
