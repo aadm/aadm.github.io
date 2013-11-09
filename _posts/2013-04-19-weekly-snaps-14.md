@@ -11,8 +11,9 @@ San Siro, Milan-Napoli. Il calcio non mi interessa ma vedere una partita del gen
 
 _Football does not really interest me but a game between two great teams that are winning everything does really strikes you for the ferocious intensity of the supporters. Not to mention the human types that you see and the many photographic opportunities that are served on the proverbial gold platter (I shot all these people from the comfort of my seat with the 85mm f/1.8)._
 
-*** 
-## partita
+***
+
+##partita
 
 <a href="http://www.flickr.com/photos/aadm/8663035146/" title="_D6F2657 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8241/8663035146_4ec6991eee_c.jpg" width="800" height="534" alt="_D6F2657"></a>
 
@@ -21,7 +22,8 @@ _Football does not really interest me but a game between two great teams that ar
 <a href="http://www.flickr.com/photos/aadm/8661945367/" title="_D6F2624 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8254/8661945367_62a62f7cfe_c.jpg" width="800" height="534" alt="_D6F2624"></a>
 
 *** 
-## spettatori
+
+##spettatori
 
 <a href="http://www.flickr.com/photos/aadm/8661940745/" title="_D6F2643 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8257/8661940745_deb3c15cba_c.jpg" width="800" height="534" alt="_D6F2643"></a>
 
@@ -34,7 +36,8 @@ _Football does not really interest me but a game between two great teams that ar
 <a href="http://www.flickr.com/photos/aadm/8661951705/" title="_D6F2617 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8242/8661951705_062d32a77b_c.jpg" width="800" height="534" alt="_D6F2617"></a>
 
 *** 
-## dopopartita
+
+##dopopartita
 
 <a href="http://www.flickr.com/photos/aadm/8661926255/" title="_D6F2693 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8243/8661926255_44ba0c5df3_c.jpg" width="534" height="800" alt="_D6F2693"></a>
 
@@ -58,7 +61,7 @@ _Football does not really interest me but a game between two great teams that ar
 
 ***
 
-### Previously:
+###Previously:
 
 * [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)
 * [Weekly snaps #2](./2012-07-19-weekly-snaps-2.html)

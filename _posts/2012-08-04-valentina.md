@@ -11,7 +11,7 @@ Fatemi lasciare un segnalibro in questa data, perché Valentina è nata oggi, 4 
 
 <a href="http://www.flickr.com/photos/aadm/7847295150/" title="IMG_5011 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7117/7847295150_3cacca4c4f_z.jpg" width="640" height="640" alt="IMG_5011"></a>
 
-## di getto
+##di getto
 
 uscire dall'ospedale, rientrare a casa con Giulia e la bambina e pensare che d'ora in avanti ci sarà sempre una terza persona in casa.
 
@@ -31,7 +31,7 @@ svegliarla, metterla sul letto tra me e Giulia, e guardarla, giocare con i suoi 
 
 prenderla in braccio, la mia valentina.
 
-## alcune foto
+##alcune foto
 
 <a href="http://www.flickr.com/photos/aadm/7847331512/" title="_D7K5370 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8291/7847331512_2770a6307d_z.jpg" width="424" height="640" alt="_D7K5370"></a>
 <center><i>"She's a tiny baby".</i></center>

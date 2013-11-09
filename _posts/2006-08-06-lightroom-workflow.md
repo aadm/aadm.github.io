@@ -14,11 +14,11 @@ I shoot with a Nikon D70s, and I've set up the color mode II (i.e., Adobe RGB co
 
 In this way all the jpegs and raw images that I shoot are tagged as being in Adobe RGB color space, but there is actually no color profile attached to the files. So I have to manually attach the proper color profile once I download the files to my computer.  
   
-### Hardware  
+###Hardware  
 
 The computer I'm using is an iMac with intel core duo processor 1.83Ghz with 1.5Gb of ram; I use an external 200Gb lacie firewire hard disc for backups.  
   
-### Software  
+###Software  
 
 I've always tried to stick with non-commercial software, even though I have to admit it's hard not to use Photoshop. Gimpshop is a free alternative to Photoshop; it's the well-known gimp (which many linux users may be familiar with) but with a redesigned interface which makes it similar to Photoshop; it's also intel-native for mac users, so I think it's a good alternative to Photoshop even if it's not as polished as the real thing.  
 
@@ -29,7 +29,7 @@ So here comes this new product from Adobe, Lightroom; as far as I'm concerned th
   
 It also feels lively with my hardware configuration (which is not exactly top of world); having struggled with an old G3 iBook and a mere 384Mb of ram first, then with a G4 macmini 1.25Ghz, this is by far the best system that I've ever had, which allows me to really work through a 100+ shoots in a breeze.  
   
-### The workflow  
+###The workflow  
 
 1) import with image capture, I've set the option to automatically assign to all the downloaded files the Adobe RGB profile.  
   

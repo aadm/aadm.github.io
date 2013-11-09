@@ -27,7 +27,7 @@ There is a thin line that connects these photographs, but I also put a couple th
 
 ***
 
-### Previously:
+###Previously:
 
 * [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)
 * [Weekly snaps #2](./2012-07-19-weekly-snaps-2.html)

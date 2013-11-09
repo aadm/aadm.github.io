@@ -16,7 +16,7 @@ La mia nuova due ruote è senza motore, ha le ruote tassellate, sospensioni raff
   
 [![Transition_PrestonFR_0672](http://farm2.static.flickr.com/1378/966420359_9c268a0bd5.jpg)](http://www.flickr.com/photos/aadm/966420359/)  
   
-### Letture in tema
+###Letture in tema
   
 
   * mtb-forum.it, [la presentazione della mia bici](http://www.bike-board.net/community/forum/showthread.php?t=74103)

@@ -14,7 +14,7 @@ Lately I've been reading quite a lof of articles about parenting. Most of them a
 Anyway, these articles are (as usual) very well written and are full of ideas that I have enjoyed. I want to keep updating this post every time I find something good. They may also help a future me because you never know what's behind the corner of becoming a dad.
 
 
-## excerpt 1: "Spoiled Rotten" by Elizabeth Kolbert
+##excerpt 1: "Spoiled Rotten" by Elizabeth Kolbert
 
 > In the L.A. families observed, no child routinely performed household chores without being instructed to. Often, the kids had to be begged to attempt the simplest tasks; often, they still refused.
 
@@ -28,7 +28,7 @@ Anyway, these articles are (as usual) very well written and are full of ideas th
 
 (Source:  <http://www.newyorker.com/arts/critics/books/2012/07/02/120702crbo_books_kolbert>).
 
-## excerpt 2: "Raising Successful Children" by Madeline Levine
+##excerpt 2: "Raising Successful Children" by Madeline Levine
 
 > The central task of growing up is to develop a sense of self that is autonomous, confident and generally in accord with reality. If you treat your walking toddler as if she can’t walk, you diminish her confidence and distort reality. Ditto nightly “reviews” of homework, repetitive phone calls to “just check if you’re O.K.” and “editing” (read: writing) your child’s college application essay.
 
@@ -42,7 +42,7 @@ Anyway, these articles are (as usual) very well written and are full of ideas th
 
 (Source: <http://www.nytimes.com/2012/08/05/opinion/sunday/raising-successful-children.html>).
 
-## excerpt 3: "How to Raise a Child" By Judith Warner
+##excerpt 3: "How to Raise a Child" By Judith Warner
 
 > (...) schools that worship at the altar of high achievement but do everything they can to undermine children’s growth and well-being: eliminating recess; assigning mind-deadening amounts of homework; and ranking, measuring and valuing kids by narrowly focused test scores, while cutting out other areas of creative education in which large numbers of students who don’t necessarily test well might find success and thrive.
 
@@ -51,7 +51,7 @@ Anyway, these articles are (as usual) very well written and are full of ideas th
 (Source: <http://www.nytimes.com/2012/07/29/books/review/teach-your-children-well-by-madeline-levine.html>).
 
 
-## excerpt 4: "America’s Top Parent - What’s behind the Tiger Mother craze?"  by Elizabeth Kolbert
+##excerpt 4: "America’s Top Parent - What’s behind the Tiger Mother craze?"  by Elizabeth Kolbert
 
 > Chua, the daughter of Chinese immigrants, is a Yale Law School professor. She is married to another Yale law professor and has two daughters, whom she drives relentlessly (...) In Chua’s binary world, there are just two kinds of mother. There are “Chinese mothers,” who, she allows, do not necessarily have to be Chinese (...) Then, there are “Western” mothers. (...) Chua chooses the instruments that her daughters will play and stands over them as they practice for three, four, sometimes five hours at a stretch.
 

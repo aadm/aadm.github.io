@@ -29,6 +29,6 @@ As a bonus, a wonderful old lady powering through the streets of central Milano.
 
 ***
 
-### Previously:
+###Previously:
 
 * [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)

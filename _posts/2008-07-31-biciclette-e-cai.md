@@ -31,13 +31,13 @@ A me uno che demonizza la derapata come manovra dannosa per l'ambiente mi fa rid
 (La Rivista del CAI, Luglio-Agosto 2008, pag.4)
   
   
-### la derapata
+###la derapata
 
 Allora, fatemi dire due cose: primo, io la derapata la considero un gesto di abilita' tecnica, quindi quando mi esce, la faccio; la derapata consiste nello spazzolare superficialmente il terreno in relativa velocita', e certo non la si fa su pietraie e su terreni 'difficili', ma quasi sempre su sterratoni e ghiaietti. Se il CAI vuole davvero puntare l'attenzione su una pratica che invece incide i sentieri, rovinandoli pesantemente, allora avrebbe dovuto parlare di quella maniera di affrontare sentieri ripidi col freno di dietro bloccato (tipico dei principianti); questa e' la vera pratica 'dannosa', sia per chi guida perche' avere la ruota dietro bloccata diminuisce il controllo del mezzo, e sia per la natura, perche' cosi' si scavano solchi profondi nel tracciato. Altra pratica da evitare, ad esempio, sarebbe quella di passare a lato delle pozzanghere d'acqua anziche' prenderle dritte al centro; in questo modo pian piano si allarga la sede naturale del sentiero. Un po' d'acqua e fango sulle gambe e' da mettere in conto se si gira in mountain bike.
 
 Ma la derapata come elemento di distruzione del paesaggio ?... Come ho detto sopra, mi fa solo ridere.
   
-### la bici da discesa
+###la bici da discesa
 
 Seconda cosa, la bici da discesa considerata 'estranea allo spirito CAI'. A me di fare qualcosa che rispecchi una qualsiasi filosofia francamente non me ne importa niente. Quello che mi importa invece e' questo ostracismo nei confronti di una disciplina giovane, divertentissima, debole economicamente, che si appoggia a strutture _pre-esistenti_ per il suo svolgimento.
   

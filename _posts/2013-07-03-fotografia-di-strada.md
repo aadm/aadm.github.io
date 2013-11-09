@@ -81,7 +81,7 @@ Comunque, non crediate che il workshop sia stato palloso, tutt'altro! L'aspetto 
 
 
 
-## tecnica
+##tecnica
 
 Giulio era dichiaratamente avverso a disquisizione tecniche. Dava per scontato la conoscenza delle regole di base della fotografia, cosa che condivido ampiamente. Era totalmente disinteressato anche di questioni relative a macchine fotografiche e obiettivi, tranne un accenno al tipo di macchina consigliata che dava nell'opuscolo illustrativo del workshop ("qualcosa di piccolo e non imponente come una reflex"; anche se poi lui stesso, dopo aver messo a disposizione una Fuji XE1, ha tirato fuori una Canon 5D MkII con uno zoom grandangolare  a corredo). Anche questo un'atteggiamento da condividere sopratutto pensando a quanti perditempo ci sono in giro con supermacchine che vengono sottosfruttate per far foto ai fiorellini e quante chiacchiere da forum ci sono in giro che parlano di morbose relazioni tra 
 
@@ -93,7 +93,7 @@ Non voglio dire che la tecnica viene prima di tutto, e ad esempio una fotografia
 
 Per inciso, io ero l'unico con un 50mm fisso, e tornando sull'aspetto della tecnica, che razza di risultati mi ha permesso di ottenere quest'obiettivo vecchio di 20 anni! E sopratutto mi sono reso conto che e' davvero l'obiettivo con cui mi trovo meglio, probabilmente perche' ho una visione abbastanza "tele" della realta', quindi trovo facile da inquadrare frammetni di realta' con un 50mm piu' che con il 35mm. Evoluzione individuale, visto che ricordo bene quanto penavo, ai tempi della Yashica FX-3, ad usare il 50mm, e quanto invece fosse stata liberatoria l'esperienza del primo viaggio americano in cui tentai un racconto un po' piu' organico di quanto vedevo in giro con la Nikon F70 e il bellissimo 35mm f/2 (che ho poi perso, o venduto, o mi e' stato rubato, non ricordo piu').
 
-## cos'e' la street
+##cos'e' la street
 
 Giulio aveva delle idee ben precise su cosa sia la street phtography. E a me non e' dispiaciuto per una volta seguire le idee di un altro e cercare di fare delle riprese seguendo delle 'direttive' (seppur blande e non cosi' rigorose come potrebbe sembrare; in realta' in fase di giudizio Giulio e' stata di manica larga e ha fatto passare parecchie immagine che probabilmente fossero state le sue non le avrebbe neanche immaginate).
 

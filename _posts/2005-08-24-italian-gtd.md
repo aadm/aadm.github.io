@@ -19,15 +19,15 @@ Just for the purpose of sharing, here's a list of my tools to do the lowlevel it
 
 Invaluable to keep my personal ife separated from my work. I always have my browser opened on gmail even when I'm in the office, so I can distinguish between work and pleasureand when I'm back home I wait 8pm (my broadband flat rate goes from 8pm to 8am), launch BitTorrent, then Safari, point to gmail, zap. I use labels a lot: have some filters to automatically label ebay messages and emails from my best buddies, others that archive the rss feeds coming from novatorrent so I'm updated on the new torrents available; an "info" label is for messages with information on my online accounts (forums, photo.net passwords etc.), "foto" is for emails containing photographs, "banking" is for my e-banking needs, "blog" to hold the posts that Blogger automatically sends me whenever I update this site. I then use the Drafts to keep a series of messages with to do things, blog drafts, web links to follow, and so on. To create these posts you only need to compose a new mail, leave the to-field empty, write a descriptive subject (e.g., "blog: my own gtd implementation", or "movies to check" and then fill in the body).
   
-### gigantic todo.txt
+###gigantic todo.txt
 
 Following [something read on an O'Reilly weblog](http://www.oreillynet.com/pub/wlg/7567), I decided to get rid of my HTMLs, my [tiddlywiki](http://www.tiddlywiki.com/), my sticky notes, my info stored as Excel or Word documents, and get back to text files. At the same time I also deleted all the fancy power-user text editors that I was trying (Textforge, BBEdit and so on), and rely on the very basic Text Editor that is part of OS X (same thing as Notepad, for you Windows folks out there). So now I have one todo.txt to keep everything, and I'm thinking to keep information already consolidated in separate files (e.g., unix.txt for everything related to the command line, such as scripts, tricks and hints). Other useful discussions about the big-ass text file are [here on 43folders.com](http://www.43folders.com/2005/08/life_inside_one.html) and on [macosxhints.com](http://www.macosxhints.com/article.php?story=20040922131625587&query=remind+cal).
   
-### mini hipster pda (and assorted pieces of paper)
+###mini hipster pda (and assorted pieces of paper)
 
 I've absorbed the idea of collecting together pieces of paper with a paper clip and then tear the notes off when I've completed the tasks, that's right. Since it's difficult to get hold of the 3x5 sheets as originally suggested in 43folders, I use either a stack of my old business cards, or something similar which I usually "borrow" from my office. The good thing is to lay these papers on my table back home and "fill in the blanks".
   
-### post-it
+###post-it
 
 Well, difficult to get rid of these yellow things ! The grocery list is for example something that invariably comes up in my mind while at work, so I write down on a post-it which I then put into my wallet for later use.
   

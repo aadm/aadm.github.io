@@ -28,7 +28,7 @@ My gut feeling is that Quattrocento Sans (and its serif counterpart, Quattrocent
 
 For the headings, as of today, Averia Sans Libre won. 
 
-## evolution of the style
+##evolution of the style
 
 I started with a very simple combination of Helvetica Neue and Optima:
 
@@ -50,6 +50,6 @@ And now the site looks (almost) the same also on PC running Windows:
 
 ![](https://dl.dropbox.com/u/179731/blog-style-2-pc.png)
 
-## update August 2012
+##update August 2012
 
 I have changed fonts once again. Now the headers are News Cycle, and the body fonts are still Quattrocento Sans (proportional) and Cousine (fixed width). 

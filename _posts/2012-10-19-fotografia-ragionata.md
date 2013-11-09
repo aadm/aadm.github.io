@@ -32,7 +32,7 @@ Invariabilmente le mie raccolte più organiche di fotografie sono sempre relativ
 
 E quindi un progetto puramente fotografico svolgerebbe anche una funzione di fuga da queste costrizioni, e potrebbe fornire un insieme di immagini che (finalmente!) potrei giudicare e selezione ed editare unicamente in base a criteri quanto più oggettivi possibili. 
 
-### Idee per progetti:
+###Idee per progetti:
 
 * le grondaie di Milano
 * portoni e piccioni

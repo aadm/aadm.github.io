@@ -9,7 +9,7 @@ tags: [moto]
 
 Venerdi': di nuovo in moto ! Negli ultimi giorni il mio ginocchio sta andando molto meglio, quindi ho preso lo spunto dell'Open Week Ducati per la prova della Streetfighter per tirare fuori il 999 e farmi un giretto.
 
-### Accurato test con rilevamenti strumentali
+###Accurato test con rilevamenti strumentali
 
 Prima operazione: abbassare e avanzare la pedana destra del 999 (quanto mi piace questa cosa del 999 ! La 1098, tanto per dirne una, mica ce l'ha la possibilita' di cambiare la posizione delle pedane, cambiare l'inclinazione del cannotto di sterzo, etc etc...). Nonostante questo, le ginocchia restano molto piegate e questo un po' mi da fastidio, quindi la prima cosa che apprezzo della Streetfighter e' appunto la comodita' della posizione di guida; molto 'moderna', piu' vicina alla Hypermotard che non alla vecchia Monster insomma. Impugni il manubrio e sei li' sulla ruota davanti, con un po' piu' di serbatoio in mezzo rispetto alla Hyper.
 
@@ -31,7 +31,7 @@ Continua a non piacermi la linea, ma apprezzo la compatezza dell'insieme; aspett
 
 L'unica cosa che mi lascia interdetto e' il motore; io sono sempre stato per i motori facili e sfruttabili, per me il Ducati 2V resta insuperabile su strada; mi chiedo se basti un po' di abitudine per poter sfruttare tranquillamente questo 1098 della Streetfighter, o se invece ti costringa in qualche maniera a non sentirti mai completamente rilassato; insomma, sara' possibile con questa moto "semplicemente" divertirsi come ti permette di fare una Hypermotard ?
 
-### Continuando in tema (domenica sul 999)
+###Continuando in tema (domenica sul 999)
 
 Sabato e domenica ho poi montato il telaietto posteriore alleggerito sul 999, montato il codone monoposto e sono uscito per fare un giretto; da Parma giu' per la statale della Cisa e poi rientro lungo il passo di Lagastrello.
 
@@ -40,7 +40,7 @@ Era per avere un'idea della tenuta fisica su lunghe distanze, cosa poi ripetuta 
 A freddo poi ho ripensato a quel bloccaggio e mi e' venuto in mente che queste strade, un po' gibbose, con varie sconnessioni, mettono sotto stress le sospensioni un po' corte della 999; con la Multistrada insomma non mi era capitata una cosa simile, evidentemente la forcella dalla lunga escursione (unita forse ai freni piu' civili) si mangiava gli avvallamenti.
 
 
-### Alla fine di questo weekend motoristico
+###Alla fine di questo weekend motoristico
 
 
 1. Ducati ha fatto una impresa terroristica mettendo sul mercato questa Streetfighter, sopratutto considerando che la maggior parte delle moto andra' a finire in mano a bambini ricchi che la metteranno in posa davanti al bar. Dovrebbero venderla solo in versione S (tanto i bambini ricchi hanno soldi da spendere) e col DTC bloccato sul livello 8. Solo dopo aver girato al Mugello in meno di 2'10" (o in alternativa, un anno di statali appenniniche senza incidenti) il servizio assistenza potrebbe levare il blocco.

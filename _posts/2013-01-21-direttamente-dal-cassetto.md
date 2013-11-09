@@ -11,7 +11,7 @@ Attenzione, arriva una serie di appunti che butto lì, tanto per levarli dall'et
 
 Il primo ad esempio lo scrivevo a febbraio 2012 (rileggendolo, lo trovo ancora attuale):
 
-## situazione della città di milano addì 14 febbraio 2012
+##situazione della città di milano addì 14 febbraio 2012
 
 * il portafoglio dei possessori di porsche carrera 4 GTS e Cayenne è sempre ricolmo.
 
@@ -22,7 +22,7 @@ Il primo ad esempio lo scrivevo a febbraio 2012 (rileggendolo, lo trovo ancora a
 * i negozi e i negozianti farebbero bene a svegliarsi perché non venderanno più una cippa appena muoiono quelli che ancora non si fidano a usare la carta di credito per gli acquisti online. Sono andato nel negozio di fotografia più professionale di Milano; cercavo un'aggeggio piccolo, inusuale ma sicuramente professionale, e il vecchiaccio che mi ha dato credito (mentre come al solito gli altri del negozio pensavano ai cazzi loro) mi ha detto in modo brusco e scontroso "ueeehhhh mica ce l'abbiamo !!!". Io ci ho provato a far lavorare questi italiani ma dopo che mi sono fatto 25km di bici in pausa pranzo per andare a trovare 'staffare qui adesso lo ordino da un venditore cinese su ebay, e in vacca il principio del 'buy local'.
 
 
-## scientific writing
+##scientific writing
 
 Great insights by [drdrang](http://www.leancrew.com/all-this/) on Dennis Ritchie (creator of C and co-creator of Unix) who died recently. To me it's yet another advice on the beauty of scientific writing and the combined effectiveness of brevity clarity.
 
@@ -34,7 +34,7 @@ Great insights by [drdrang](http://www.leancrew.com/all-this/) on Dennis Ritchie
 
 ([http://www.leancrew.com/all-this/2011/10/dennis-ritchie-unix-and-clarity/](http://www.leancrew.com/all-this/2011/10/dennis-ritchie-unix-and-clarity/)).
 
-## prezzo di un libro
+##prezzo di un libro
 
 _Questi erano degli appunti che avevo preso perché tempo fa mi stupivo del prezzo sproporzionato dei libri in formato Kindle rispetto ai libri veri, su carta. Mi chiedevo dunque quanto del prezzo di un libro cartaceo andasse agli autori, per poi trarre delle conclusioni sul giusto prezzo di un libro elettronico. Non sono mai riuscito a trarne delle conclusioni, anche perché a distanza di quasi tre anni finalmente i prezzi dei libri Kindle è sceso di parecchio tanto._
 
@@ -52,13 +52,13 @@ Dunque restano $1.80 con cui un publisher deve coprire costi di affitto, editing
 
 (da "Books After Amazon", di Onnesha Roychoudhuri, <http://www.bostonreview.net/BR35.6/roychoudhuri.php>).
 
-## usare ipad e iphone sull'aereo
+##usare ipad e iphone sull'aereo
 
 > Moreover, the F.A.A. said pilots at the two airlines would not have to shut off and store their iPads during taxiing, takeoff and landing because they had demonstrated that the devices would not impair the functioning of onboard electronics. Alaska Airlines pilots, like passengers, still have to put their iPads away during those critical phases of the flight.
 
 (tratto da qualche articolo del New York Times di cui ho perso il link).
 
-## riguardo l'uso di parole come "negro":
+##riguardo l'uso di parole come "negro":
 
 > a small publisher, NewSouth Books, announced a new edition of Mark Twain’s "Huckleberry Finn" that will replace its uses of the word "nigger" with "slave". [...]
 
@@ -70,7 +70,7 @@ Da leggere per tutti coloro che s'incagliano sulle parole senza pensare alle azi
 
 (<http://www.nytimes.com/2011/01/08/opinion/08kirsch.html>).
 
-## la ragnatela
+##la ragnatela
 
 Ovvero, uno strumento di valutazione delle capacità personali di approfondimento.
 
@@ -84,7 +84,7 @@ _Qui avrei sviluppato l'idea che un film perfetto, a mio parere, è uno talmente
 * la [recensione di Syriana](http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20051208/REVIEWS/51130002/1023) di Roger Ebert
 * [Robert Baer](http://www.npr.org/templates/story/story.php?storyId=5041385), agente CIA la cui storia ha ispirato Syriana 
 
-## python and monkeys
+##python and monkeys
 
 > Well, I don’t really know, but that's how wève always done things around here.
 

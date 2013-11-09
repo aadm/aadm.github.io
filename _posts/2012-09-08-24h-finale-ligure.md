@@ -72,7 +72,7 @@ Dopo venti minuti circa, uscito dal bosco e andando verso il tratto che dà sul 
 
 Nonostante ci sia poco tempo e voglia di scambiare parole con gli altri compari corridori, nonostante quello davanti a te è sempre invariabilmente un bastardo che devi prendere e castigare, mentre quello che ti supera uno sfigato che passa tutta la sua vita sui rulli (a meno che non ti superi in discesa, e allora è colpa della bici), nonostante tutto questo insomma un briciolo di amore universale ti prende per quei lucini che indicano la presenza di un essere umano magari con un cuore anche lui, che come te sta su una dannata bici ad ore improbabili a pedalare senza che nessun medico gliel'abbia prescritto (l'amore universale svanisce appena riesci a raggiungere il bastardone e a castigarlo, naturalmente).
 
-## considerazioni tecniche
+##considerazioni tecniche
 
 Ho fatto la gara con la mia vecchia Merlin da cross country, una bici da pochi soldi che comprai forse dieci anni fa in Inghilterra, e che ha goduto di ben poche attenzioni nel corso del tempo. Gli ultimi aggiornamenti sono stati una forcellina Rock Shox Recon da 100mm, presa di seconda mano, dei pedalini a sgancio rapido Crank Bros che però non sono mai arrivati in tempo per la gara (quindi ho dovuto usare i flat, sarò stato tra i pochi lì con pedaloni e scarpe Five Ten da freeride) e un cambio posteriore Alivio a 8 rapporti che comandava il pacco pignoni da 9, montato la settimana prima dai grandi smanettoni della [Stazione delle Biciclette](http://www.lastazionedellebiciclette.com/).
 
@@ -105,7 +105,7 @@ Per il prossimo anno, sicuramente dovrò essere più allenato sopratutto se rius
 | 52'05" | aadm    | giro 3, notturno
 | 46'21" | aadm    | giro 4
 
-## altre foto
+##altre foto
 
 Una selezione qui di seguito, tutte le altre foto sono su [flickr](http://www.flickr.com/photos/aadm/sets/72157631447122442/).
 
@@ -133,7 +133,7 @@ Una selezione qui di seguito, tutte le altre foto sono su [flickr](http://www.fl
 <a href="http://www.flickr.com/photos/aadm/7947984568/" title="_D7K4160 - Version 2 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8438/7947984568_d47c953b4f_z.jpg" width="640" height="424" alt="_D7K4160 - Version 2"></a>
 
 <!-- 
-## prossimo anno
+##prossimo anno
 
 In otto come dicevo all'inizio è facile e divertente. In quattro è molto più impegnativo perché significa due turni consecutivi e meno tempo per riposarsi tra un turno e l'altro. E se un giro a tutta di 40-50' riesco a farlo anche senza grossi allenamenti, per farne due no. Cioè devo prepararmi un minimo. Almeno io, perché gli altri tre che ho in mente (Stefano, Paolo e Filippo) è gente che i due turni se li mangia come niente.
  -->

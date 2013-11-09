@@ -9,7 +9,7 @@ tags: [photo]
 
 È da quasi un anno che sono tornato al mondo reflex con una Nikon D7000, ma la piccola Panasonic GF-1 è ancora una presenza costante nel mio zaino. Nel frattempo sono uscite altre cento iterazioni della Panasonic sul tema mirrorless / micro quattroterzi ma solo l'ultima (GX-1) mi pare la vera evoluzione della GF-1[^nota-gx1].
 
-## recensione fuori tempo massimo
+##recensione fuori tempo massimo
 
 Pubblico quindi solo ora, fuori tempo massimo[^nota-fuori-tempo], alcune impressioni e note sulla GF-1. Potrà interessare gli squattrinati che vogliono cercare una buona e piccola macchina fotografica sul mercato dell'usato o convincere i maniaci dell'acquisto compulsivo a ritardare il pensionamento della propria GF-1.
 
@@ -17,7 +17,7 @@ Tutte le foto che vedete qui sono ovviamente state scattate da me con la GF-1.
 
 <a href="http://www.flickr.com/photos/aadm/5725746660/" title="_1010831.jpg by aadm, on Flickr"><img src="http://farm6.staticflickr.com/5308/5725746660_b027f4978d_z.jpg" width="480" height="640" alt="_1010831.jpg"></a>
 
-## il mio commento iniziale
+##il mio commento iniziale
 
 Proprio vero quello che si diceva in giro quando uscì la GF-1; è una macchina che ti fa tornare il divertimento nella fotografia. Abbastanza piccola da potertela portare dietro anche nelle mie gite in bicicletta, schiacciata nel minizaino tra un panino, una maglia sudata e una camera d'aria di scorta. E con tutta la potenza di una reflex a tua disposizione.
 
@@ -45,7 +45,7 @@ E poi scrissi un breve post intitolato ["my next camera"](http://aadm.github.com
 
 <a href="http://www.flickr.com/photos/aadm/5401364927/" title="_1000664.jpg by aadm, on Flickr"><img src="http://farm6.staticflickr.com/5259/5401364927_7a9ca37738_z.jpg" width="480" height="640" alt="_1000664.jpg"></a>
 
-## il corredo
+##il corredo
 
 Il mio corredo di ottiche non è ottimale; innanzitutto ho un solo obiettivo quindi è pure sbagliato parlare di "corredo" o "parco" ottiche. E poi non ho il famoso 20mm f/1.7 Panasonic ma l'Olympus 17mm f/2.8 che viene sempre bistrattato nelle recensioni -- forse perché il Panasonic è un obiettivo così superiore alla media che fa fare brutte figure a tutti gli altri.
 
@@ -59,7 +59,7 @@ L'anello adattatore mi ha permesso di divertirmi con un paio di ottiche Nikon ch
 
 <center><i>Panasonic GF-1, anello adattatore Nikon-m4/3 e obiettivo Nikon 50mm f/1.8, ISO 200, 1/80s, diaframma non registrato.</i></center>
 
-### test comparativo-ossessivo-compulsivo: Panasonic vs Olympus
+###test comparativo-ossessivo-compulsivo: Panasonic vs Olympus
 
 È vero, l'Olympus 17mm fa un po' schifo rispetto al Panasonic; non c'è recensione sulla rete che non arrivi a queste conclusioni. E io dico sempre chissenefrega, le foto a scale micrometriche e le analisi a livello di pixel non mi interessano. Ammetto però di essermi lasciato prendere dal pixel-peeping convulsivo (malattia che colpisce gli assidui frequentatori di dpreview) a Natale 2010, quando rimasi bloccato a casa di Daniele ad Oxford a causa delle nevicate eccezionali che colpirono la Gran Bretagna.
 
@@ -77,7 +77,7 @@ Ecco i risultati, dei ritagli al 100% di noiosissime nature morte (biscotti Tesc
 ![](https://dl.dropbox.com/u/179731/_1010368-lumix-20mm-crop.jpg)
 <center><i>Panasonic Lumix 20mm, 1.3s, f/11, ISO 100.</i></center>
 
-### fotografia con focali fisse
+###fotografia con focali fisse
 
 Comunque sia, la GF-1 con il 17mm Olympus resta una macchina compattissima e minimale. Non soffro della mancanza dello zoom visto che sono sempre stato abituato con le reflex ad andare in giro con due sole ottiche: un 28mm f/2.8 e un 50mm f/1.8. Tra l'altro, il mio primo esperimento con ottiche fisse fu proprio col bellissimo 35mm f/2 Nikkor montato sulla F70 a pellicola; quindi la GF-1 col 17mm (=34mm equivalente) replica quasi perfettamente quella visione del mondo che avevo con la F70.
 
@@ -105,7 +105,7 @@ Sul tema degli obiettivi a focale fissa vi riporto un commenti di Steve Huff, un
 
 (fonte: <http://www.stevehuffphoto.com/2011/05/03/the-fuji-x100-digital-camera-real-world-review-by-steve-huff>)
 
-## scattare con la gf-1
+##scattare con la gf-1
 
 Non ho consigli o suggerimenti da dare. Vi potrei raccontare che solitamente scatto a priorità di diaframmi, che ho sempre la macchina settata a 100 ISO e poi aumento la sensibilità all'occorrenza; che mi fido dell'autofocus della macchina ma non dei sistemi più avanzati tipo multi-point AF o face-detection - uso un punto singolo che poi sposto all'occorrenza con le freccette (ma anche questa è una conquista relativamente recente, visto che mi viene comunque più istintivo usare il focus lock sul punto prescelto e riposizionare fisicamente la macchina). Del bilanciamento del bianco me ne frego perché scatto sempre in RAW.
 
@@ -119,7 +119,7 @@ L'SSP mode lo uso per poter scattare al volo delle foto in condizioni difficili 
 
 <a href="http://www.flickr.com/photos/aadm/6751767403/" title="_1060738 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7035/6751767403_7f48cf8fb1_z.jpg" width="640" height="480" alt="_1060738"></a>
 
-## video
+##video
 
 La GF-1 permette di creare facili video in formato HD (1280x720); 'facilè qui è la parola chiave, visto che trovo molto più immediato usare la GF-1 della Nikon D7000, che richiede un approccio più ragionato, anche a causa delle dimensioni. [Come dice Craig Mod](http://craigmod.com/journal/gf1-fieldtest-video/):
 
@@ -136,7 +136,7 @@ _Arp Vieille, Monte Bianco, settembre 2010._
 _Oxford, dicembre 2010._
 
 
-## una critica negativa
+##una critica negativa
 
 Come ho scritto all'inizio, non voglio far qui una recensione ragionata della GF-1 visto che ormai se ne è parlato abbondantemente. All'inizio pensavo anche di raccogliere i pareri trovati in giro sulla rete e fare una meta-critica. Poi la voglia mi è passata, ma è restato qualcosa, e cioè un senso di stizza per una [recensione molto miope di Thom Hogan](http://www.sansmirror.com/cameras/a-note-about-camera-reviews/panasonic-camera-reviews/panasonic-gf1-review.html).
 
@@ -166,7 +166,7 @@ So, while the major advantage of SLRs is to have dedicated buttons that control 
 
 <a href="http://www.flickr.com/photos/aadm/6751705477/" title="_1060611 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7161/6751705477_b86cdcda37_z.jpg" width="640" height="480" alt="_1060611"></a>
 
-## dove ci porta il futuro
+##dove ci porta il futuro
 
 Ormai viziato dall'incredibile sensore della D7000, tendo a usare la GF-1 come compatta adatta a gite escursionistiche, quando lo spazio (nello zaino) e il peso sono gli elementi principali di cui tener conto. Spesso continuo a fare errori grossolani come ad esempio quello di scattare in jpg[^nota-raw], e allora i risultati sono così deludenti (colori smorti e tendenti al viola malato) che mi viene voglia di darla via questa inutile macchinetta, usare l'iPhone per fare istantanee al volo da condividere con amici e tenere come semplice memorandum di dove sono stato. 
 
@@ -178,7 +178,7 @@ Oppure abbandonare completamente il sistema micro quattroterzi e buttarmi sul mo
 
 <a href="http://www.flickr.com/photos/aadm/7693544200/" title="_1010333 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7253/7693544200_d1d8e00cbd_z.jpg" width="640" height="480" alt="_1010333"></a>
 
-## altre letture interessanti
+##altre letture interessanti
 
 La principale lettura che suggerirei a chi ancora non la conoscesse è ["GF-1 field test" di Craig Mod](http://craigmod.com/journal/GF-1-fieldtest/), un bellissimo diario di viaggio in Himalaya inframmezzato di considerazioni tecniche da perfetto nerd e belle foto.
 

@@ -17,7 +17,7 @@ I like the new multi-controller, it feels more snappy and clickable than on the 
 
 And despite my now subdued love for the [new Fuji cameras](http://aadm.github.com/2012-12-17-fuji-test-day.html) and their wonderful simplicity (little knobs, real aperture ring) I still feel that the shape of a larger DSLR is ergonomically perfect. The little rangefinder-style cameras on the other hand (such as the Fuji XE-1 which I have tried, and loved, and wanted to buy) they don't feel that right to me.
 
-## lunchtime break, a few snaps later...
+##lunchtime break, a few snaps later...
 
 ![](https://dl.dropbox.com/u/179731/_D6F0067.jpg)
 
@@ -25,7 +25,7 @@ Am I crazy? It seems to me that D600+50mm f/1.8D gives a me a brand new experien
 
 Speaking of which, you know how I made this purchase possible? By getting rid of two or three of my old DX lenses: the little 35mm f/1.G (sad to see this little fella go!), a really good Tokina 12-24 f/4 and the cheapo-uberplastik Nikon 55-200 VR f/4-5.6; the idea was that I could replace the 35mm f/1.8 (surely my most used lens on the D7000) with one of my three 50mm[^nota-50mm], and the 12-24 with an old 18mm f/3.5 AIS[^nota-18mm]. I did have a longer lens, the wonderful 85mm f/1.8G, and then I have realized I really don't need anything else since I don't do sports or birds or stalking. So off they go these DX lenses, less is more, right?, and here it comes a full frame camera which hopefully will keep me satisfied and engaged for a long time.
 
-## D600 after a D7000
+##D600 after a D7000
 
 Is it right to replace the D7000 with a D600? Well the D7000 remains a true little gem, considering how cheap it now goes in the second hand market (I sold mine for 550 euros), and its image quality and responsiveness and build quality is really something that will keep its owners happy for a long time. If I have to write one thing I didn't like about the D7000, I'd say the fact that required a good deal of fine-tuning its AF system before getting really sharp pictures; but it was probably my camera only, I understand the issue of quality control on such large numbers and I can't really say "DON'T buy a D7000 because it has a fine-tuning issue". Very likely you won't have this problem -- you may have another! But you got to live with that, I guess if you want a perfect body not even a camera in the class of D800-Eos 5D Mk3 can guarantee you that, you need to be prepared to spend lots of money and buy a D4, maybe that one will be truly foolproof and built and checked to higher standards.
 

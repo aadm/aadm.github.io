@@ -7,7 +7,7 @@ tags: [moto, photo]
  
 
 
-## Day 1 (venerdì 1 giugno)
+##Day 1 (venerdì 1 giugno)
  
 Partiamo da Milano venerdì 1 maggio; doveva essere il solito appuntamento annuale con gli amici di Bari in qualche punto dell'Appennino ma alla fine eravamo rimasti solo io, Daniele (che aveva preso un volo da Londra apposta apposta per questo giro) e Vittorio. E dopo la buca che ci hanno dato Piero, Beppe & Giacomo, io e Daniele per non essere da meno diamo buca a Vittorio. Il motivo però era semplice; per trovarci a metà strada tra Milano e la repubblica Ceca dovevamo incontrarci in Austria, e purtroppo le previsioni del tempo danno pioggia continua al di là delle Alpi.  
 Dunque partiamo venerdì mattina con tutta calma, come meta abbiamo qualche posto da trovare in Provenza; lì le previsioni danno bel tempo per tutto il fine settimana. Ci dirigiamo verso Genova, perché ad attraversare il confine dalle parti del Monginevro, passando per Briancon, rischiamo di beccare acqua. Peccato, perché quella zona me l'ero gustata da spettatore, quando l'anno scorso ci sono stato col corso di alpinismo; e mi ricordo quanta gola mi faceva il suono delle moto che passavano giù mentre ero lì attaccato sul verticale.  
@@ -20,7 +20,7 @@ Dopo una breve sosta a Finale ci rimettiamo in autostrada per accelerare i tempi
   
 Arriviamo a Castellane che siamo sfatti, ed è già tutto buio; becchiamo il primo albergo che troviamo e siamo felici e contenti fino a quando decidiamo di andare a letto. Infatti, noi alle dieci e mezza siamo cotti e pronti per una sana dormita, e stiamo a tessere le lodi del tranquillo paesino sperduto nella campagna francese, quando ci accorgiamo di una marea di gente che esce da chissà dove e va a popolare una specie di luna park allestito sulla piazza principale, proprio di fronte -– indovinate un po' -– alla nostra camera. Il bordello pauroso tira avanti fino alle due di notte; noi tiriamo avanti a dormire fino alle otto del giorno dopo.  
   
-## Day 2 (sabato 2 giugno)
+##Day 2 (sabato 2 giugno)
  
 La giornata inizia male; la mia moto ha preso freddo durante la notte e non ne vuole sapere di partire; la spingiamo, la malediciamo, la smontiamo, fino a che, allo scontato ultimo tentativo, lei si mette in moto. Meno male, proseguiamo adesso che dobbiamo fare un po' di roba seria.  
   
@@ -40,7 +40,7 @@ Passo invece ad un capolavoro di strada: il giro che passa attraverso il massicc
   
 Un po' di pioggia sul finire della serata ci rinfresca e ci prepara per l'ultimo giorno.  
   
-## Day 3 (domenica 3 giugno)
+##Day 3 (domenica 3 giugno)
   
 Il ritorno a casa è fatto da una riedizione del passaggio attraverso l'Esterel (con anche un pizzico di pepe dato da un supermotard che mi piomba alle spalle mentre vengo rallentato da un'auto, e poi rinuncia al mio invito a passare davanti, costringendomi quindi a tirare il collo alla mia Multi per evitare l'umiliazione), poi una veloce corsa fino a Ventimiglia, dove arriviamo alle due di pomeriggio in tempo per prendere un tavolo in una pizzeria qualsiasi e goderci la gara del Mugello. Alla fine, dopo una corsa abbastanza insipida e noiosa, siamo forse dispiaciuti di esserci fermati a guardare degli altri andare in moto anziché andarci noi stessi (lezione da tenere a mente !). Ci rifacciamo allora buttandoci subito verso l'interno all'altezza di Imperia, prendendo una strada che pare promettere bene: la sp28 in direzione colle di Nava. Durante il primo tratto troviamo qualche altro motociclista, quindi proseguiamo fiduciosi nella strada; e in effetti dopo un po' la strada inizia ad innervosirsi, e poi ad incazzarsi per bene: asfalto un po' sconnesso, corsie strette e zero spazio per errori, curve ciechissime -– mammamia come si vede che siamo in Italia ! Altro che quelle belle e pacifiche curve che c'erano in Francia ! Comunque un divertimento pure qui sopra; non c'è nessuno che ci resta dietro (anche qui...) poi proseguiamo un po' a zonzo facendoci portare dagli scarichi di altre moto. Ad esempio mi piacerebbe attaccarmi a questo gruppetto di VFR guidato da intutati, che sono piantati tipo paracarro in curva e poi si sparano le marce sui rettilinei. Non fa per noi la missilata sul rettilineo, quindi li perdiamo di vista e vabbene così.  
 Andiamo così, godendoci le ultime curve, fino ad Aqui Terme, dove ci fermiamo per un caffè e scopriamo dove erano tutte le moto che ci saremmo aspettati di trovare sulle strade di montagna in questo bel pomeriggio di inizio estate. Erano tutte al bar ovviamente ! E i loro proprietari (un insulto alla categoria chiamarli “piloti”), con tute in pelle pulitissime, caschi luccicanti, avevano bisogno di vestirsi così per andare al bar ? E cosa ci fanno al bar poi... se uno è appassionato di moto, gli piace andare in moto, non stare al bar ! Che polemica sterile. Ognuno fa quello che vuole. Meglio forse così, da non avere troppi ostacoli semoventi in mezzo alla strada.  

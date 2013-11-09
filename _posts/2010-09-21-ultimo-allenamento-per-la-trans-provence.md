@@ -6,7 +6,7 @@ tags: [cycling, photo]
 ---
  
 
-### Monte Bianco, 18-19 settembre 2010
+###Monte Bianco, 18-19 settembre 2010
 
 Le previsioni meteo danno bel tempo per il sabato. Arrivo a Courmayeur alle 12, in netto ritardo sul mio piano originario che mi voleva pronto sulla bici alle nove del mattina. E, naturalmente, piove. Ma sono qui, due ore e mezza di auto, che faccio — mi tiro indietro ? Sicuro che prima o poi il sole esce inizio a pedalare.
 
@@ -22,7 +22,7 @@ La salita finale al colle è un misto tra spinta e qualche timido accenno a peda
 
 ![http://www.flickr.com/photos/aadm/5010582889](http://farm5.static.flickr.com/4111/5010582889_03810cdba5.jpg)
 
-### Francese per avventurieri in mountain-bike
+###Francese per avventurieri in mountain-bike
  
 Il piano originale era di arrivare in serata fino su al rifugio della Croix du Bonhomme e sfruttare il locale invernale. Impossibile pero’ partendo alle 12 del mattino, con un tempo pessimo come quello incontrato. Quindi, considerando il bagaglio che avevo dietro (un paio di calzini di ricambio, una maglia di lana extra che avevo indosso fin dalla discesa dal col de Seigne) ho pure avuto culo a beccare questo rifugio aperto, perché tutti gli altri erano chiusi.
 
@@ -34,7 +34,7 @@ _“Avez-vous une place pour ce-soire”_ (importante assicurarsi che il ciclist
 
 _“Il ya une place pour garder mon velo”_ (ma anche la bici è importante che stia al riparo).
 
-### Cormet de Roselend
+###Cormet de Roselend
 
 Alle cinque del pomeriggio dunque ero con un posto per la notte assicurato; ma di voglia di bici ne avevo ancora, quindi continuo a pedalare e mi trovo, più per caso che per altro, sulla strada che porta al Cormet de Roselend, di cui avevo letto qualcosa nei giorni precedenti; una salita famosa del Tour de France, o qualcosa del genere.
 
@@ -48,13 +48,13 @@ Gli chiedo: da dove vieni ? E lui: da Londra. Gli chiedo: dove vai ? E lui: a Lo
 
 Il ragazzo naturalmente è inglese. E mi sorprende una volta di più quando mi chiede se gli posso fare una foto, e tira fuori una Yashica T4. Per chi non lo sapesse: una compatta a pellicola, con obiettivo Zeiss. Pellicola, capito ? Ce l’avevo anche io una T4. Improbabile davvero. Se non gli avessi fatto una foto, mi starei adesso a chiedere “ma me lo sono sognato questo qui ?”.
 
-### Cena al rifugio
+###Cena al rifugio
 
 Con le mani completamente paralizzate dal freddo, volo giù a les Chapieux, al rifugio. Controllo finale sul gps: [45km e 1800m di dislivello](http://connect.garmin.com/activity/49726288). Al rifugio mi trovo a cena con due giapponesi, due danesi e un francese. Alle nostre spalle, una chiassosa tavolata di francesi, con mamme, papa’ e bambini. Tutti in giro allegramente per il Monte Bianco; dove sono gli italiani ? Sotto una tettoia a ripararsi dall’acqua ?
 
 Comunque sia, la compagnia è stimolante e divertente; mi accorgo di come faccia fatica a ritrovarmi tra sconosciuti ormai, ma siamo tutti ugualmente autistici, noi che andiamo in montagna, quindi mi rilasso e mi gusto una brodaglia di verdure che mai avrei sognato di apprezzare così tanto.
 
-### Prima o poi il sole esce
+###Prima o poi il sole esce
 
 Domenica quindi mi sveglio con calma; prima o poi il sole esce, appunto !
 
@@ -70,11 +70,11 @@ Arrivo infine in cima, e mi faccio la mia merenda (piadina alla mortadella #2). 
 
 ![http://www.flickr.com/photos/aadm/5011150104/](http://farm5.static.flickr.com/4147/5011150104_dea3ba87ae.jpg)
 
-### Torinesi
+###Torinesi
 
 Ieri dunque: un inglese che sta in giro per l'Europa in bici da un mese e mezzo, i giapponesi affascinati dal Monte Bianco, i danesi che mi parlavano della loro ‘Sky Mountain’ di cento e passa metri di quota. Oggi: italiani. Picci e Pucci, due ragazzi torinesi, con degli inconfondibili rayban da struscio e pantaloncini corti per mettere in mostra il tatuaggio sul polpaccio. La prima cosa che mi chiedono (e che, francamente, me li squalifica all’istante) è: scusa ma sai dove siamo ?. Poi: no perché’ abbiamo fatto questa salita in due ore, siamo molto in forma capisci ?… noi ogni giorno corsa-palestra-bici, capito ? Ah, ma tu se in bici ? Eh mi piacerebbe, anche io faccio bici eh ? Spinning, due volte a settimana, ma duro eh ?, centosessanta-centosettanta ! (suona il cellulare, picci risponde) “Uè mamma ma diglielo a quella stronza che io la licenzio eh !”.
 
-### Ultimi trecento metri
+###Ultimi trecento metri
 
 La discesa dal Col de Seigne è facile e divertentissima; poi c’è il sole che ti rincuora, e finalmente mi ritorna il gusto; la bici galleggia sulle pietre, e un paio di curvette scavate nella terra sono da sogno.
 

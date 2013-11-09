@@ -31,7 +31,7 @@ The other photographs that I have collected for this ninth installment have been
 
 ***
 
-### Previously:
+###Previously:
 
 * [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)
 * [Weekly snaps #2](./2012-07-19-weekly-snaps-2.html)

@@ -29,7 +29,7 @@ Random photos this time. Some are very old, and I can't even recall which lens I
 
 ***
 
-### Previously:
+###Previously:
 
 * [Weekly snaps #1](./2012-07-10-weekly-snaps-1.html)
 * [Weekly snaps #2](./2012-07-19-weekly-snaps-2.html)

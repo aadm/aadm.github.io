@@ -24,7 +24,7 @@ And did I mention that it's all free? GitHub has infinite space for my site and 
 
 So yes, I'm an old git playing with [Git](http://git-scm.com/).
 
-## the reason behind
+##the reason behind
 
 I guess it all started when I wanted to free myself from the "chains" of [Tumblr](http://aadm.tumblr.com/) and [Wordpress](http://aadm.wordpress.com/).
 
@@ -36,7 +36,7 @@ I started converting all my posts in a format suitable for Jekyll. I was already
 
 What was left was just some more tinkering with the local installation of Jekyll, but the [instructions I followed](http://jekyllbootstrap.com/) were very well made and I had very few problems (worth reminding that I'm a 60% nerd myself, so for my brother or computer-challenged people I would still recommend Tumblr). 
 
-## you got the look
+##you got the look
 
 I spent *far* more time customizing the CSS, i.e. what my blog looks like, but that's because I don't know CSS. I started with a minimalist, white on black, all-Helvetica style based on [mark-reid's theme](http://mark.reid.name/) because:
 

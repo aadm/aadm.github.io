@@ -39,7 +39,7 @@ Also I'm running the stupid HD3000 gpu which is integrated into these Intel Core
 
 About the wifi USB stick: basically you can buy whatever brand you want, but you need to be aware of the chipset inside to find the correct drivers and make it work. For example this TP-Link TL-WN727N that I bought can either have a Ralink  RT3070 or RT5370 depending on the version (v1: RT3070, v3: RT5370). 
 
-## building the ugly box 
+##building the ugly box 
 
 It was fun and easy; the Gigabyte manual is very detailed and there's lots of figures and schematics so you just need to pay attention to the pin layout for the various connectors.
 
@@ -53,7 +53,7 @@ I don't need no optical disc so I used the only two hard drive connectors to plu
 
 As I said before, I used two USB sticks for wifi and bluetooth. I could have used an internal wifi card but I wanted to keep the only PCI slot on the motherboard available for a possible upgrade (a graphic card). And this little fucker was the only thing that gave me troubles; more on that later in the software installation.
 
-## installing the system
+##installing the system
 
 That was a piece of cake. Until I had to make wifi working, I mean.
 
@@ -103,7 +103,7 @@ To make the little shit (usb wifi) work that's what I did (see also <http://www.
 
 *That's the kind of crap you gotta do to enable the wifi usb stick.*
 
-## results and benchmarks ##
+##results and benchmarks ##
 
 Man, now I have a mac that really flies! Only it's not a mac but a hack!
 
@@ -117,7 +117,7 @@ macmini      | 3744           | 215
 mb pro i7    | 9608           | --  
 
 
-## references ##
+##references ##
 
 _tonymacx86_ is the place to go. First wet your appetites with the _lifehacker_ guide though. I also suggest if you have time to read the _howtogeek_ guide because it does add some extra bits of information which could be useful if you are in trouble and need to navigate into tonymacx86's forums; as usual these are shady places, full of nerds that speak their own language and it's easy to stumble onto obscure acronyms such as S/L/E[^4].
 
@@ -131,7 +131,7 @@ If you're curious about the level of nerdiness that you can find on the internet
 ![](http://dl.dropbox.com/u/179731/IMG_4552_hackintosh.jpg)
 
 
-## extra: Filippo's build
+##extra: Filippo's build
 
 My pal Filippo is also following the idea and building another hackintosh, slightly less powerful than mine (he's got a Nikon D100 with 6Mp files after all). The main difference from my setup (apart from the dual-core i3 cpu) is the use of the TP-Link TL-WN951N 300Mbps Wireless PCI Adapter based on an Atheros chip (which should make it easy to have it up and running with no sweating over drivers etc.).
 
@@ -149,7 +149,7 @@ My pal Filippo is also following the idea and building another hackintosh, sligh
 | card      | DELOCK Card Reader 3,5"       | 10.19       | stele.it  
 
 
-## extra: the macmini upgraded to the living room
+##extra: the macmini upgraded to the living room
 
 Another good thing that came out of this is that I now have an incredible media player in my living room. I've stripped down the macmini and installed the free and oustanding [xbmc media player](http://xbmc.org/) (which I knew from the time when I had a hacked xbox doing the job; xbmc was born on the xbox and then migrated to other shores).
 

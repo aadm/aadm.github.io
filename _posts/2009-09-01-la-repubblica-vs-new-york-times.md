@@ -16,7 +16,7 @@ Sensazione di déjà vu.
 
 Lo rileggo, e lo confronto con l'articolo del New York Times. 
 
-### Articoli a confronto
+###Articoli a confronto
 
 _Vibram con la linea Five Fingers […] ha visto le sue vendite triplicare ogni anno, dopo il lancio nel 2006._
  
@@ -59,7 +59,7 @@ _È in totale disaccordo Lewis Maharam, consulente medico dei New York Road Runn
 > “In 95 percent of the population or higher, running barefoot will land you in my office,” said Dr. Lewis G. Maharam, medical director for the New York Road Runners, the group that organizes the New York City Marathon. “A very small number of people are biomechanically perfect,” he said, so most need some sort of supportive or corrective footwear.
 
 
-### Rampini dovrebbe citare il New York Times per danni
+###Rampini dovrebbe citare il New York Times per danni
 
 Mi stupisco che non l'abbia ancora fatto. Un chiaro esempio di plagio. Certo, la povera Amy Cortese non ha il dono della sintesi di Rampini; scopiazzando gli appunti segreti del giornalista italiano, riempe il suo articolo di troppi dettagli (nomi, fatti, numeri) su cui il 'nostro' non si sofferma.
 
@@ -78,6 +78,6 @@ La giornalista del New York Times riporta:
 
 Sbagliando quindi sia l'attribuzione della frase (non lo scrittore McDougall ma il prof. Lieberman) che il significato stesso; si è mai sentito di un uomo preistorico che grazie alla capacità di correre a lungo riusciva a sfiancare la sua vittima (_prey_) ? Macché… meno male che c'è Rampini a dirci invece che l'uomo preistorico correva per sfuggire alle "belve feroci" (_predators_).
 
-### Giustizia è fatta
+###Giustizia è fatta
 
 Consiglio all'autorevole [Rampini](http://it.wikipedia.org/wiki/Federico_Rampini) di mettersi al riparo da eventuali dubbi di plagio che potrebbero ritorcersi contro di lui sulla base delle date di pubblicazione dei due articoli citando, ad esempio, tutte le fonti a cui ha attinto per scrivere questo suo pezzo.

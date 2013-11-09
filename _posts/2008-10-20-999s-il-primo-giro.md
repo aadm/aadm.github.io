@@ -21,7 +21,7 @@ Ok, ho parlato del vile denaro, fatemi aggiungere anche che non e' stato solo il
 
 Cercavo un 999 perche' tutti dicevano che in termini di efficacia e facilita' di guida questa era migliore sia della vecchia 916/998 che (eresia ?) della nuova 1098 (che e' forse un po' piu' incavolata a causa del motore strapotente e dell'assetto meno piatto rispetto al 999). La cercavo perche' a me la moto dura e pura, quella che non si veste da puttana per piacere a tutti, mi affascina. La volevo perche' nel momento che tutti si prendono la 1098 io ci godo da matti a farmi la 999 e poi andare piu' veloce.
 
-### Dal sellino
+###Dal sellino
 
 Sali su, o meglio: ti ci cali dentro. Rispetto alla posizione di guida del Multistrada e della fantastica Hypermotard, qui sei proprio parte del mezzo. Non ho mai guidato prima supersportive; i mezzimanubri piu' sportivi che ho avuto sono stati quelli di una Honda CBR600F del 2000, praticamente una granturismo secondo i canoni sportivi attuali. Sul 999 ti ci cali dentro e poi scopri molto spazio per arretrare; un'ottima sella che ti fa scivolare agevolmente da una parte all'altra della moto quando sei in attack mode; dei semimanubri belli lontani ma non troppo piu' in basso rispetto alla sella; un ponte di comando molto evocativo, con un bel contagiri analogico a fondo bianco e una piastra di sterzo che pare uscito fuori dalla NCR da quanto e' curata.
   
@@ -33,7 +33,7 @@ E poi, da fermo, non puoi fare a meno di notare quanto tutta la moto sia stretta
 
 Oggi, dopo aver smontato specchietti e pedane del passeggero, la riguardavo nel cortile e sono rimasto ancora una volta folgorato da quanto questa 999 sia un vero animale da pista; un leopardo, cosi' allungato e sottile, acquattato sulle Ohlins dorate, con lo scheletro del traliccio che lascia intravedere i muscolacci del cilindro verticale ...cavolo se mi sono lasciato trasportare.
 
-### In movimento
+###In movimento
 
 Giro classico tanto per iniziare. Oggi e' sabato 18 ottobre 2008, primo giorno con la 999s. Iniziamo con la scontata accoppiata Passo del Penice / Valtrebbia. L'autostrada fino a Piacenza Sud e' un tranquillo prendere le misure alla moto nuova. Manco mi azzardo a spalancare il gas che di traffico ce n'e' un po' troppo; 'sta moto in 3 decimi di secondo mi spara a duecento all'ora, devo un po' aggiustarmi al nuovo continuum spaziotemporale.
 
@@ -49,7 +49,7 @@ Ritorno sui miei passi e trovo finalmente la stradina che mi porta dritto sulla 
 
 Chiudo qui con due scene agguntive, tipo gli extra dei dvd; quelle scene che magari a qualche fanatico interessa ma che non si sa bene come ficcarle nel contesto generale.
 
-## Scena 1
+##Scena 1
 
 Passo del Bracco, in Liguria. Parto dal bar e subito mi superano una Ktm Supermoto e una Erreerremillejap. La Ktm era arrivata nel piazzale poche decine di minuti prima tutta allegra, uscendo dalla curva col piedino fuori e poi scodinzolando fino a fermarsi; la guidava un tipo che chiamero' Capellofluente.
 
@@ -61,7 +61,7 @@ Succede che mentre stiamo tirando, Capellofluente sulla Supermoto e io dietro, i
 
 Fammi rallentare, da bravo.
 
-## Scena 2
+##Scena 2
 
 _Aggiornamento di Gennaio 2012: Qui avrei voluto raccontare il ritorno sulla Cisa al buio, di come mi godetti questo rientro, di come riuscii a guidare e a curvare pure di notte con la bellissima novenovenove. Ma poi il tempo e' passato e non ho piu' la memoria fresca di quelle emozioni; potrei inventare ma non voglio._
   

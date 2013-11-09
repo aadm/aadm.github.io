@@ -14,7 +14,7 @@ And what was even stranger was that also Filippo's hackintosh, built at the same
 
 Ok let me say that there's a happy ending to this story: the motherboards were not dead but only in a coma. It was necessary to reinstall the bios and use an external graphic card to redirect the display because for some reasons the integrated HD3000 gpus were not working.
 
-## details of a hackintosh entering  a coma ##
+##details of a hackintosh entering  a coma ##
 
 So I built [these two hackintosh](http://aadm.github.com/2012-05-03-my-new-mac-is-a-hack.html), one for me (A) one for a friend (B). 
 
@@ -47,7 +47,7 @@ Yes I had to play a little bit more to have the graphical card working ok on my 
 
 I just hope Giulia doesn't notice it because you know women want to have clean stuff around, especially if this half-assed mechanical monster happens to live in the baby room (another month and a half to go before my yet un-named babygirl comes into the world).
 
-## sidenotes
+##sidenotes
 
 When I installed in the PCI-E slot the graphic card I couldn't get any display once OS X was loaded, so I had to use this switch at boot:
 
@@ -67,7 +67,7 @@ Finally I also added these other two lines (to have the card identified as a 540
     <key>AtiConfig</key>
     <string>Eulemur</string>
 
-## a magical QE/CI world ##
+##a magical QE/CI world ##
 
 Trying to find information to make the graphic card work I stumbled once more on some acronyms that these nerds in the forums use a lot. Let me write those down so I will remember them:
 
@@ -81,7 +81,7 @@ These are things that make the graphical magic happens in OS X; sometimes a card
 
 > If the Finder menu-bar is transparent, if a water ripple effect appears when you add a desktop widget and if you can zoom in/out on the desktop by holding ctrl while moving the mouse wheel then you have QE/CI.
 
-## update to lion 10.7.4
+##update to lion 10.7.4
 
 Since everything was working I wanted some more troubles so I updated my system to 10.7.4 using the [Combo package](http://support.apple.com/kb/DL1524).
 
@@ -96,7 +96,7 @@ I then ran Multibeast 4.5.2 using the [updated DSDT for my motherboard](http://t
 It all worked out in the end except for the graphic card which was not recognized as a 5400; I edited again the `/Extra/org.chameleon.Boot.plist` and added the AtiConfig/Eulemur strings (see above) so I reckon the correct way to install this card is just to use the `ATI5000Injector.kext` and these two lines in the `chameleon.Boot.plist`.
 
 
-## final results
+##final results
 
 So this is the updated list of components and total price for my hackintosh:
 
