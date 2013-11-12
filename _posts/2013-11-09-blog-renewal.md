@@ -15,7 +15,9 @@ I have googled the net and finally I have landed on something, a "responsive"  (
 
 The theme is called [So Simple](http://mmistakes.github.io/so-simple-theme/) and I like it because is clean and refined. I like it so much that I haven't changed anything -- and I would like to keep it that way. I mean, let's focus on the content!
 
-So there you go. And here's what <aadm.github.io> looked before:
+So there you go. This is the new look.
+
+And here's what this site looked before:
 
 ![](/images/old-blog-design-1.jpg)
 

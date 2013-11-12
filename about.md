@@ -8,8 +8,6 @@ image:
   creditlink: http://www.flickr.com/photos/aadm/
 ---
 
-<!-- 1060010_camaleonte.jpg  -->
-
 I can be reached via Twitter ([@aadmtwi](http://twitter.com/aadmtwi)).
 
 My photos are [on flickr](http://www.flickr.com/photos/aadm/). I used to have a solid instagram feed but then I got bored so [that](http://instagram.com/aadm) is pretty much a dead end. 

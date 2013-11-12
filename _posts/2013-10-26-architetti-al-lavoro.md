@@ -6,6 +6,7 @@ category:
 tags: [photo]
 ---
 
+(For an english introduction see here: [Photographic Projects]({{site.url}}/2013-11-11-photographic-projects.html)).
 
 Un sabato mattina a Parma c'erano degli architetti al lavoro. 
 

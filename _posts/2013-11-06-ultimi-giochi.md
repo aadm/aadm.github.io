@@ -6,6 +6,7 @@ category:
 tags: [photo]
 ---
 
+(For an english introduction see here: [Photographic Projects]({{site.url}}/2013-11-11-photographic-projects.html)).
 
 A fine ottobre 2013 Filippo, Amy e Gemma lasciano l'Italia e vanno in Norvegia.
 
