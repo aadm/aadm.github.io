@@ -3,7 +3,7 @@ layout: post
 title: "progetti fotografici"
 description: ""
 category:
-tags: [photo]
+tags: [photo, comment]
 ---
 
 _Lo dico prima: questa non è una traduzione letterale del [pezzo che ho scritto in inglese]({{site.url}}/2013-11-11-photographic-projects.html). Non sono un traduttore, e quando scrivo in inglese ho un certo vocabolario ed espressioni che mi vengono e che se mi mettessi a tradurre letteralmente in italiano farei delle schifezze. Questa cosa vale anche al contrario ovviamente. Questo il motivo per cui un sacco di miei post sono scritti o in inglese o in italiano; a seconda di come mi sento li scrivo in una lingua o l'altra e li lascio così. Questa volta però mi premeva esprimere il concetto sia in inglese che italiano._ 
@@ -24,6 +24,6 @@ Il mio amico Dylan ad esempio ha come eroi fotografici Steve McCurry e altri fot
 
 Per questo mi sono deciso a pubblicare queste due raccolte di fotografie, [Architetti al lavoro](http://aadm.github.io/2013-10-26-architetti-al-lavoro.html) e [Ultimi giochi](http://aadm.github.io/2013-11-06-ultimi-giochi.html).
 
-Quest'ultimo in particolare mi sta a cuore perché racconta dell'ultima volta che Valentina ha giocato con Gemma. Sono rimasto un po' scosso a vedere la gioia e l'energia di queste due bellissime bambine che irradiavano in un pomeriggio un po' cupo e grigio; scosso perché la prossima volta che si incontreranno saranno bimbe diverse, magari parleranno già, magari Valentina non farà più ridere Gemma come fa adesso con ogni sua smorfia e faccetta; cresceranno insomma, e questi momenti sono già parte del passato.
+Quest'ultimo in particolare mi sta a cuore perché racconta dell'ultima volta che Valentina ha giocato con Gemma. C'erano queste due bellissime bambine che irradiavano gioia e allegria in un pomeriggio un po' cupo e grigio; e io non potevo fare a meno di pensare che la prossima volta che si incontreranno saranno bimbe diverse, magari parleranno già, magari Valentina non farà più ridere Gemma come fa adesso con ogni sua smorfia e faccetta.
 
-E naturalmente a questo si associa anche il mio dispiacere personale per la partenza di questi due ottimi amici, e mi pare come che io abbia perso l'ultimo treno di una relativa e schietta intimità tra amici maschi, che a quaranta e passa anni ormai tutti noi abbiamo delle maschere che non ci tiriamo più via.
+E questo mi faceva pensare anche alla contemporanea perdita per un ottimo amico, forse l'ultimo con cui riuscivo a parlare sinceramente, senza nessuna maschera; e dico perdita a ragione, perche' nonostante tutti i social networks di questo mondo, la vicinanza fisica resta insostituibile.
