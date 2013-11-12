@@ -26,4 +26,4 @@ Per questo mi sono deciso a pubblicare queste due raccolte di fotografie, [Archi
 
 Quest'ultimo in particolare mi sta a cuore perché racconta dell'ultima volta che Valentina ha giocato con Gemma. C'erano queste due bellissime bambine che irradiavano gioia e allegria in un pomeriggio un po' cupo e grigio; e io non potevo fare a meno di pensare che la prossima volta che si incontreranno saranno bimbe diverse, magari parleranno già, magari Valentina non farà più ridere Gemma come fa adesso con ogni sua smorfia e faccetta.
 
-E questo mi faceva pensare anche alla contemporanea perdita per un ottimo amico, forse l'ultimo con cui riuscivo a parlare sinceramente, senza nessuna maschera; e dico perdita a ragione, perche' nonostante tutti i social networks di questo mondo, la vicinanza fisica resta insostituibile.
+E questo mi faceva pensare anche alla contemporanea perdita per un ottimo amico, forse l'ultimo con cui riuscivo a parlare sinceramente, senza nessuna maschera; e dico perdita a ragione, perché nonostante tutti i social networks di questo mondo, la vicinanza fisica resta insostituibile.
