@@ -6,7 +6,7 @@ category:
 tags: [photo]
 ---
 
-*Giovedì scorso ho fatto una presentazione delle mie foto al circolo fotografico di San Donato, di cui ero socio da un anno. Mi pareva una cosa da fare sia in ottica di contribuire alla vita del circolo, sia per mettere alla prova del pubblico alcuni delle mie foto. L'obiettivo era di farsi conoscere, e quindi ho deciso di raccontare brevemente da dove venissi e mostrare una selezione ragionata delle foto che più mi sono care o che ritenevo avere una qualche dote o qualità che potesse essere apprezzata anche da altri. La mia impressione è stata positiva come commenti e critiche ricevute; e credo che almeno una o due fotografie siano piaciute. Non ho fatto una presentazione 'appariscente', non c'erano effetti o transizioni speciali ne' una colonna sonora; ci ho parlato su, cercando di collegare con una narrativa i gruppi di foto che avevo scelto. Anche se difficile riportare per scritto quella che avevo pensato come esposizione orale, ci provo per fermare nel tempo il mio primo 'outing' fotografico.*
+*Giovedì scorso ho fatto una presentazione delle mie foto al circolo fotografico di San Donato, di cui ero socio da un anno. Mi pareva una cosa da fare sia in ottica di contribuire alla vita del circolo, sia per mettere alla prova del pubblico alcuni delle mie foto. L'obiettivo era di farsi conoscere, e quindi ho deciso di raccontare brevemente da dove venissi e mostrare una selezione ragionata delle foto che più mi sono care o che ritenevo avere una qualche dote o qualità che potesse essere apprezzata anche da altri. La mia impressione è stata positiva come commenti e critiche ricevute; e credo che almeno una o due fotografie siano piaciute. Non ho fatto una presentazione 'appariscente', non c'erano effetti o transizioni speciali ne' una colonna sonora; ci ho parlato su, cercando di collegare con una narrativa i gruppi di foto che avevo scelto. Anche se difficile riportare per scritto quella che avevo pensato come esposizione orale, ci provo, anche per fermare nel tempo il mio primo 'outing' fotografico.*
 
 ## origini
 
@@ -126,7 +126,11 @@ Queste foto le ho raccolte in un libro fotografico che per adesso è ancora allo
 
 # street
 
-Genere che più mi piace; anche il più inflazionato. Foto del '98 a NY, manco sapevo che esistesse un genere *street*; Pechino, cosa sono queste: street o viaggio o documentario? Per queste foto, lascio che siano loro a parlare.
+Questo e' il genere che più mi piace attualmente, anche se il più inflazionato.
+
+Queste sono foto scattate nel 1998 a NY, e sono indubbiamente 'street photography' ma allora manco sapevo che esistesse un genere *street*.
+
+Queste invece sono foto piu' recenti scattate a Pechino, cosa sono queste: street o viaggio o documentario? Per queste foto, lascio che siano loro a parlare.
 
 
 # paesaggi
