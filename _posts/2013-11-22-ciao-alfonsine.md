@@ -10,9 +10,9 @@ image:
   creditlink: http://www.flickr.com/photos/aadm/
 ---
 
-L'undici di Ottobre abbiamo detto ciao alla casa dove abbiamo passato gli ultimi 4 anni; queste sono alcune foto scattate durante gli ultimi giorni di permanenza.
+Un piccolo omaggio alla casa dove abbiamo vissuto negli ultimi 4 anni. 
 
-_On the 11th of October we said good-bye to the place we have called home for the past 4 years; this is a small collection of photographs taken during the last days._
+_A small tribute to the place we have called home for the past 4 years._
 
 - - -
 
