@@ -49,3 +49,7 @@ Chissà quando torneranno a giocare assieme Valentina e Gemma.
 * * * 
 
 ![](/images/D6F0845.jpg)
+
+
+Tutte le foto in alta risoluzione sono raccolte su questo fotoset di flickr: 
+[http://www.flickr.com/photos/aadm/sets/72157638258040253/](http://www.flickr.com/photos/aadm/sets/72157638257568895/).

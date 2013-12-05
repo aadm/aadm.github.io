@@ -48,4 +48,6 @@ Negli stessi giorni, si narrava di una [fantomatica](http://nikonrumors.com/2013
 
 ![](/images/D6F0473.jpg)
 
-<!-- _Tutte le foto in alta risoluzione sono anche su flickr._ -->
+Tutte le foto in alta risoluzione sono raccolte su questo fotoset di flickr: 
+[http://www.flickr.com/photos/aadm/sets/72157638257071194/](http://www.flickr.com/photos/aadm/sets/72157638257071194/).
+

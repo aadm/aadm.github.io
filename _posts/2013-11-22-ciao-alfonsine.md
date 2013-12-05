@@ -16,7 +16,6 @@ _A small tribute to the place we have called home for the past 4 years._
 
 - - -
 
-
 ![](/images/D6F0144.jpg)
 
 ![](/images/D6F0148.jpg)
@@ -33,13 +32,10 @@ _A small tribute to the place we have called home for the past 4 years._
 
 ![](/images/D6F0163.jpg)
 
-
 ![](/images/D6F0237.jpg)
-
-
 
 ![](/images/D6F5163.jpg)
 
 
-- - -
-<!-- _Tutte le foto in alta risoluzione sono anche su flickr._ -->
+Tutte le foto in alta risoluzione sono raccolte su questo fotoset di flickr: 
+[http://www.flickr.com/photos/aadm/sets/72157638257568895/](http://www.flickr.com/photos/aadm/sets/72157638257568895/).
