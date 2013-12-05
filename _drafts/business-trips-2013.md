@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "file naming"
+title: "business trips 2013"
 description: ""
 category:
-tags: [photo, tech, apple]
+tags: [photo]
 ---
 
 In 2013 I traveled too much for business.
@@ -21,3 +21,11 @@ So I tried to make the most out of it, and make every minute of my very short, f
 I took a lot of photographs of many places around the world but I'm not prentending that all of these photos count, like I could tell the story of a city or an entire country when you visit it for maybe a couple of hours between a meeting and a taxi ride to the next airport.
 
 These are just moments that I want to remember because despite being in sometimes beautiful places, there was not one single time that I felt like I'd rather be at home with Giulia and Valentina. But to make those moments when I was away not wasted entirely, I tried very hard to 
+
+
+* Stavanger
+* Abu Dhabi
+* Jordan
+* Maputo
+* Jakarta
+* Trondheim
