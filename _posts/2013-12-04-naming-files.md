@@ -34,9 +34,9 @@ _(You can tell I'm old because I still call Aperture and Lightroom "software" or
 
 After setting up the camera I have Aperture renaming automatically my files during import. The renaming scheme is this:
 
-    [image year]-[image month]-[image day]-[original file name]
+    [image year][image month][image day][original file name]
     
-I apply this scheme to my versions (i.e., the virtual copies in Aperture's terminology) as well as to the original files. So that from `_AA10000.NEF` I eventually get to a file named `2013-12-03_AA10000.NEF`.
+I apply this scheme to my versions (i.e., the virtual copies in Aperture's terminology) as well as to the original files. So that from `_AA10000.NEF` I eventually get to a file named `20131203_AA10000.NEF`.
 
 And that's a file name that tells me all that I need to know when I look into a directory like the nerd I still am. I have the date when that file was captured and I know whether or not it's been taken when my D600 was still young or in its later days. Incidentally, by adding the extra information on capture date, I also have no fear or ever getting duplicate names again, even if I would abuse of my camera and take more than 100,000 photos.
 
