@@ -12,6 +12,6 @@ And the explanation for doing this, again from the same guy:
 
 ## License
 
-I have used stuff which is copyrighted by Tom Preston-Werner and other guys: Jekyll, Jekyll Bootstrap, Google Web Fonts, Mark Reid's template. 
+I have used stuff which is copyrighted by Tom Preston-Werner and other guys: Jekyll, Jekyll Bootstrap, Google Web Fonts, Mark Reid's template. More recently I switched to a template made by Michael Rose, (<http://mademistakes.com/articles/so-simple-jekyll-theme.html>).
 
 All the content and further customization is mine though, so please don't steal anything and ask me if you want to borrow something. The license I'm using is a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution (CC BY-NC-ND 3.0)</a>.
