@@ -12,6 +12,7 @@ This page is currently under construction. It will be the starting page for a fe
 
 * [valentina](project-valentina.html)
 
+* [test GalleryView](test-galleryview.html)
 
 <!-- ### [sdm: periferia sud milano](project-sdm.html)
 

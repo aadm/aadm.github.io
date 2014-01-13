@@ -75,3 +75,35 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 # redcarpet:
 #   extensions: ["smart","tables", "no_intra_emphasis", "autolink"]
 
+
+
+# flickr_set:
+#   gallery_tag:   'p'
+#   gallery_class: 'gallery'
+#   a_href:        nil
+#   a_target:      '_blank'
+#   image_rel:     ''
+#   image_size:    'l'
+#   api_key:       '8105bdb9c28f61b889b7dca33d71cf8d'
+
+
+# gallery:
+#   # path to the gallery
+#   dir: images
+#   # title for gallery index
+#   title: "Photos"
+#   # title prefix for gallery page. title=title_prefix+gallery_name
+#   title_prefix: "Photos: "
+#   # field to control sorting of galleries for the index page
+#   # (possible values are: title, date_time, best_image)
+#   sort_field: "date_time"
+#   # sizes for thumbnails
+#   thumbnail_size:
+#     x: 400
+#     y: 400
+#   # custom configuration for individual gallery
+#   # best_image is image for the index page (defaults to last image)
+#   galleries:
+#     parma:
+#       best_image: 20130413_AA02274.NEF.jpg
+
