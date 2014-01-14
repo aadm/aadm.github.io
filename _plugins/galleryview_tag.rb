@@ -9,22 +9,22 @@
 # Usage: {% gallery_view GALLERY_FOLDER_NAME %}
 #
 # 1) put galleryview_tag.rb in your _plugins folder
-# 2) setup your site for GalleryView -> http://spaceforaname.com/galleryview/ 
+# 2) setup your site for GalleryView -> http://spaceforaname.com/galleryview/
 #    load JavaScript and CSS files into your page
 # 3) create GALLERIES_FOLDER and add folders with images (each folder represents a single gallery)
 # 4) place {% gallery_view GALLERY_FOLDER_NAME %} on your site
 # 5) update GalleryView options in config()
 
 # Base folder of your gallery, relative to jekyll root
-GALLERIES_FOLDER = "images/gallery"
+GALLERIES_FOLDER = "images/gallery/"
 
 module Jekyll
 	class GalleryViewTag < Liquid::Tag
 
 	    def initialize(tag_name, markup, tokens)
-			super		
+			super
 			@display = true
-			params = @markup.split(',')					
+			params = @markup.split(',')
 			@folder = params[0].rstrip().lstrip()
 
 			if params.count >= 2
@@ -32,17 +32,17 @@ module Jekyll
 			end
 	    end
 
-		def render(context)	
-			if @display	== true	
-				script + list			
+		def render(context)
+			if @display	== true
+				script + list
 			end
-		end	
+		end
 
 		def script()
 			'<script type="text/javascript">' + config() + '</script>'
 		end
 
-		# all possible options 
+		# all possible options
 		# transition_speed: 2000, 		//INT - duration of panel/frame transition (in milliseconds)
 		# transition_interval: 4000, 	//INT - delay between panel/frame transitions (in milliseconds)
 		# easing: 'swing', 				//STRING - easing method to use for animations (jQuery provides 'swing' or 'linear', more available with jQuery UI or Easing plugin)
@@ -62,7 +62,7 @@ module Jekyll
 		# show_filmstrip_nav: true, 	//BOOLEAN - flag indicating whether to display navigation buttons
 		# enable_slideshow: false,		//BOOLEAN - flag indicating whether to display slideshow play/pause button
 		# autoplay: false,				//BOOLEAN - flag to start slideshow on gallery load
-		# show_captions: true, 			//BOOLEAN - flag to show or hide frame captions	
+		# show_captions: true, 			//BOOLEAN - flag to show or hide frame captions
 		# filmstrip_size: 3, 			//INT - number of frames to show in filmstrip-only gallery
 		# filmstrip_style: 'scroll', 	//STRING - type of filmstrip to use (scroll = display one line of frames, scroll filmstrip if necessary, showall = display multiple rows of frames if necessary)
 		# filmstrip_position: 'bottom', //STRING - position of filmstrip within gallery (bottom, top, left, right)
@@ -76,16 +76,23 @@ module Jekyll
 		def config()
 			"$(function(){
 				$('##{@folder}').galleryView({
-					panel_width: 800,
-					panel_height: 600,
-					panel_scale: 'crop',
-					panel_animation: 'crossfade',
-					pan_images: true,
-					pan_style: 'drag',					
+					panel_width: 640,
+					panel_height: 430,
+					panel_scale: 'fit',
+					panel_animation: 'fade',
+					pan_images: false,
+					pan_style: 'drag',
 					filmstrip_position: 'bottom',
-					frame_opacity: 0.5,
+					frame_opacity: 0.6,
+					infobar_opacity: 0.6,
 					frame_scale: 'crop',
-					frame_gap: 5	
+					frame_gap: 5,
+					show_panel_nav: false,
+					enable_overlays: false,
+					show_captions: false,
+					frame_width: 90,
+					frame_height: 60,
+					show_infobar: true
 				});
 			});"
 		end
@@ -96,9 +103,9 @@ module Jekyll
 
 		def imagetags()
 			imagelist = ""
-			Dir.foreach("./#{GALLERIES_FOLDER}/#{@folder}") do |file|							
+			Dir.foreach("./#{GALLERIES_FOLDER}/#{@folder}") do |file|
 				if !file.start_with?(".")
-					imagelist += '<li><img src="/'+GALLERIES_FOLDER+'/'+@folder+'/'+file+'" alt="" /></li>'			
+					imagelist += '<li><img src="/'+GALLERIES_FOLDER+'/'+@folder+'/'+file+'" alt="" /></li>'
 				end
 			end
 			imagelist

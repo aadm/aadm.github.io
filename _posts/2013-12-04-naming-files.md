@@ -8,7 +8,7 @@ tags: [photo, tech, apple]
 
 File naming has always been a bit of an obsession for me. Recently, after seeing the proliferation of too many duplicate filenames in my photography folder, I decided to solve this problem once and for all.
 
-Something to bear in mind: using programs like iPhoto or Lightroom or Aperture (also known as DAM[^nota-dam]) you should not be worried about how to name your camera files, because these programs are made just for that, i.e. to manage your digital library and forget the intricancies of the filesystem. But for old maniacs who still like to feel like they're in control of their files and not rely on the search tools offered by the new operating systems today (e.g., Spotlight), then carry on reading this bceause you could find something of use.
+Something to bear in mind: using programs like iPhoto or Lightroom or Aperture (also known as DAM[^nota-dam]) you should not be worried about how to name your camera files, because these programs are made just for that, i.e. to manage your digital library and forget the intricancies of the filesystem. But for old maniacs who still like to feel like they're in control of their files and not rely on the search tools offered by the new operating systems today (e.g., Spotlight), then carry on reading this because you could find something of use.
 
 # Part 0: assumptions
 
