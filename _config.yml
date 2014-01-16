@@ -76,6 +76,9 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 #   extensions: ["smart","tables", "no_intra_emphasis", "autolink"]
 
 
+flickr:
+  api_key:       '8105bdb9c28f61b889b7dca33d71cf8d'
+
 
 # flickr_set:
 #   gallery_tag:   'p'
