@@ -3,22 +3,22 @@
 # A script to build a Jekyll site
 
 # Check for the existence of a config file.
-if [ -f ./config ]
-then
-  # If the config file exists, parse it and
-  # extract the 'source' and 'built' branch names
-  scriptdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-  . $scriptdir/config-parser.sh
-  echo "Config file found"
-  echo "Source branch is $source"
-  echo "Site branch is $built"
-else
+# if [ -f ./config ]
+# then
+#   # If the config file exists, parse it and
+#   # extract the 'source' and 'built' branch names
+#   scriptdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+#   . $scriptdir/config-parser.sh
+#   echo "Config file found"
+#   echo "Source branch is $source"
+#   echo "Site branch is $built"
+# else
   # If the file doesn't exist, use these defaults
   source="source"
   built="master"
   echo "No config file found"
   echo "Using default config values"
-fi
+# fi
 
 # Make sure you're on the 'source' branch
 git checkout $source > /dev/null 2>&1
@@ -26,7 +26,7 @@ git checkout $source > /dev/null 2>&1
 # Let's check for a clean working directory
 # If the working directory is NOT clean, we'll stash the changes
 # . $scriptdir/stasher.sh
-./stasher.sh
+# ./stasher.sh
 
 # Build the Jekyll site
 jekyll build > /dev/null 2>&1
@@ -89,7 +89,7 @@ fi
 git checkout $source > /dev/null 2>&1
 
 # Push the source to the server
-git push origin $source > /dev/null 2>&1
+git push -f origin $source > /dev/null 2>&1
 if [ $? = 0 ]
 then
   echo "Source push successful"
@@ -97,7 +97,7 @@ else
   echo "Source push failed"
 fi
 
-# If anything is stashed, let's get it back
-if [ $stashed = 1 ]; then
-  git stash apply
-fi
+# # If anything is stashed, let's get it back
+# if [ $stashed = 1 ]; then
+#   git stash apply
+# fi
