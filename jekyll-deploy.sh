@@ -77,7 +77,7 @@ git add .
 git commit -m "$message" > /dev/null 2>&1
 
 # Delete the temporary folder
-rm -r ~/$tmp_dir
+# rm -r ~/$tmp_dir
 
 # Push new site to server
 git push origin $built > /dev/null 2>&1

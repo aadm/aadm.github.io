@@ -60,11 +60,8 @@ Finally, he also mentions editing (as in processing and modification of an image
 
 I would argue that if you prefer to manipulate your photos on a small screen you're not really that interested in the quality. 
 
-For other interesting reactions to this piece, go to the Online Photographer and read these comments. The comments here are high quality stuff, written by people that do actually have something to say and not the brainless morons that post comments on youtube:
+For other interesting reactions to this piece, go to [the Online Photographer and read the comments to "Connectedness"](http://theonlinephotographer.typepad.com/the_online_photographer/2014/01/connectedness.html). The comments here are high quality stuff, written by people that do actually have something to say and not the brainless morons that post comments on youtube.
 
-<http://theonlinephotographer.typepad.com/the_online_photographer/2014/01/connectedness.html>
-
-<!-- 
 
 ## versione italiana
 
