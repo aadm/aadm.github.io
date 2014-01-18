@@ -6,11 +6,11 @@ category:
 tags: [links, photo, comment, video]
 ---
 
-This guy Hernandez made this video asking if "mobile photography has made us more reliant on tools than on our eyes":
+[Richard Koci Hernandez](http://kocistudios.com/about-koci/) made this video asking if "mobile photography has made us more reliant on tools than on our eyes":
 
-<iframe width="560" height="315" src=""http://www.youtube.com/embed/4AkDBFsQZ7U frameborder="0"></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/4AkDBFsQZ7U" frameborder="0"> </iframe>
 
-Sometimes youtube comments carry more weight than the video itself. For example this guy is absolutely right:
+It's not very common, but sometimes you can find smart youtube commenters. For example this guy wrote:
 
 > Hernandez makes a valid point - the image shouldn't be defined by the camera﻿ it's captured with. It's a shame he had to spend five minutes saying what he could easily have said in five seconds. I turned off after that - couldn't take the pretentiousness of his language any more.
 
@@ -22,13 +22,12 @@ But what do I know, I have never been able to read poetry.
 
 ## sidenotes
 
-I wanted 
+Having said that, I should really go back and check some of the work that Koci Hernandez has put online. He's incredibily productive, he's frickin' famous too (Emmy award winning, Pulitzer Prize nominee, assistant professor at UC Berkeley), and I hate to admit that I like some of his work (but he's definetely too frickin' successfull for my taste). 
 
-http://edition.cnn.com/2012/10/14/opinion/hernandez-mobile-photography/index.html
-
-http://www.flickr.com/photos/koci/
-
-http://multimediashooter.com/
-
-http://lens.blogs.nytimes.com/2011/06/09/a-distinctive-voice-on-instagram/
-
+These are a few places that I want to visit soon:
+ 
+<http://edition.cnn.com/2012/10/14/opinion/hernandez-mobile-photography> 
+<http://www.flickr.com/photos/koci> 
+<http://multimediashooter.com> 
+<http://lens.blogs.nytimes.com/2011/06/09/a-distinctive-voice-on-instagram> 
+<http://kocistudios.com> 

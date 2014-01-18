@@ -6,7 +6,7 @@ category:
 tags: [photo, video, comment, cycling]
 ---
 
-# tale of two stolen bikes
+# two stolen bikes
 
 Last month my two bikes were stolen from my garage. Well not _my_ garage but a temporary one; the one we have now as we stay in this rented apartment until our new apartment is being renovated. We've been here since last October and probably we'll stay until February. Yes, renovation (as intended in my wife's plans) takes a long time. 
 
@@ -52,7 +52,7 @@ But it was bloody good fun for some serious mountain biking, requiring full comm
 
 In the bad mood I was after discovering what happened in that garage, I found some relief in thinking back at the previous two weeks, when by pure chance (as I haven't been riding much these past few months) I had the opportunity of doing two rides with both bikes -- and these rides, although short, they were absolutely brilliant, reigniting in me the passion for mountain biking.
 
-# tale of a new bike 
+# new bike 
 
 So where I am now? Well it seems that I have bought myself a new bike, a do-it-all bike -- which I don't have it yet because it's in the UK now (in the capable hands of my friend Phil that has recommended it, found it, and fetched it).
 

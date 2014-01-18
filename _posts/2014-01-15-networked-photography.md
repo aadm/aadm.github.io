@@ -62,8 +62,8 @@ I would argue that if you prefer to manipulate your photos on a small screen you
 
 For other interesting reactions to this piece, go to [the Online Photographer and read the comments to "Connectedness"](http://theonlinephotographer.typepad.com/the_online_photographer/2014/01/connectedness.html). The comments here are high quality stuff, written by people that do actually have something to say and not the brainless morons that post comments on youtube.
 
-
-## versione italiana
+<!-- 
+**versione italiana** 
 
 Di Craig Mod mi ricordo la recensione della GF1 (trekking in himalaya, fotografie molto belle scattate con quella che all'epoca era un piccolo gioiello che poi mi convinse ad andare mirrorless e abbandonare -- anche se solo temporaneamente -- le reflex).
 
@@ -79,9 +79,8 @@ Cioe' mi sembra questo il suo punto:
 [...]
 Today, it turns out, it’s whatever can’t be networked that becomes less important.
 
-A parte che uno che non vede la differenza tra le foto scattate con un iphone e quelle fatte con una macchina seria, mi fa dubitare sulle sue capacita' di giudizio; cioe' chiaro che se te le guardi su un telefonino lo so benissimo che e' difficile apprezzare le qualita' di una foto scattate con una D800, ma e' lo schermo del telefonino il mezzo principale per gustarsi certe cose? Non credo che un regista tipo Scorsese o Coppola facciano i loro film con l'idea che poi questi film vengano visti sugli schermini da 5". 
+A parte che uno che non vede la differenza tra le foto scattate con un iphone e quelle fatte con una macchina seria, mi fa dubitare sulle sue capacita' di giudizio; cioe' chiaro che se te le guardi su un telefonino lo so benissimo che e' difficile apprezzare le qualita' di una foto scattate con una D800, ma e' lo schermo del telefonino il mezzo principale per gustarsi certe cose? Non credo che un regista tipo Scorsese o Coppola facciano i loro film con l'idea che poi questi film vengano visti sugli schermini da 5".  -->
 
- -->
 
 [^nota-gf1]: I posted my first idea on the appeal of a smaller camera in ["my next camera"](http://aadm.github.com/2010-08-19-my-next-camera.html), then shortly after I [bought my GF1](http://aadm.github.com/2010-09-11-it-was-unintentional.html). Two years later, after moving back to DSLRs, I posted [a sort of review of the GF1](2012-07-31-panasonic-gf1-recensione-fuori-tempo.html); it's written in italian, but there are some photographs and links in there that may be useful also for those of you that don't know the language.
 
