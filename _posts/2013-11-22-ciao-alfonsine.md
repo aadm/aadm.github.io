@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [photo]
 image:
-  feature: D6F0175_crop.jpg
+  feature: 20131011_AA10175_crop.jpg
   credit: Alessandro Amato del Monte
   creditlink: http://www.flickr.com/photos/aadm/
 ---

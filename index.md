@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Latest Posts
+title: aadm.github.io
 image:
   feature: D7K7197-banner.jpg
   credit: Alessandro Amato del Monte
