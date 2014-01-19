@@ -26,23 +26,24 @@
 	</div><!-- /.search-form -->
 </div><!-- ./search-wrapper -->{% endif %}
 
+<!-- VERSIONE PRECEDENTE AL 19-01-2014, TENTATIVO DI INSERIRE NOME SITO E DESCRIZIONE
 {% if page.image.feature %}<header class="masthead" itemscope itemtype="http://schema.org/Organization">
  	<div class="wrap">
-		<h1 class="site-title"><a href="{{ site.url }}">  . </a></h1>
-		<h2 class="site-description" itemprop="description"> .  </h2>
+		<h1 class="site-title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
+		<h2 class="site-description" itemprop="description">{{ site.description }}</h2>
 	</div>
 </header>
 {% else %}
 <header class="masthead" itemscope itemtype="http://schema.org/Organization">
 	<div class="wrap">
-<!-- 		<h1 class="site-title animated fadeIn"><a href="{{ site.url }}">{{ site.title }}</a></h1>
+		<h1 class="site-title animated fadeIn"><a href="{{ site.url }}">{{ site.title }}</a></h1>
 		<h2 class="site-description animated fadeIn" itemprop="description">{{ site.description }}</h2>
- -->	</div>
+	</div>
 </header>
 {% endif %}
+ -->
 
-
-<!--
+<!-- ORIGINALE
 {% if page.image.feature %}<header class="masthead" itemscope itemtype="http://schema.org/Organization">
  	<div class="wrap">
 		<a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}" itemprop="url"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated bounceInDown" itemprop="logo"></a>

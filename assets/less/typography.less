@@ -87,12 +87,12 @@ figcaption {
 // Blockquotes
 // --------------------------------------------------
 blockquote {
-	font-family: @alt-font;
+	font-family: @base-font;
 	font-style: italic;
-	.font-size(18);
+//	.font-size(20);
 	padding-left: 20px;
-	border-left: 2px solid @text-color;
-	color: @text-color;
+	border-left: 2px solid lighten(@text-color, 40);
+	color: lighten(@text-color, 40);
 }
 
 // Footnotes

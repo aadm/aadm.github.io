@@ -138,10 +138,8 @@ body {
 }
 .site-title {
 	margin-bottom: 0;
-	font-family: @alt-font;
-	.font-rem(50);
 	-webkit-animation-duration: 1s;
-	-moz-animationuration: 1s;
+	-moz-animation-duration: 1s;
 	-o-animation-duration: 1s;
 	animation-duration: 1s;
     -webkit-animation-delay: .75s;
@@ -152,7 +150,7 @@ body {
 }
 .site-description {
 	margin-top: 0;
-	font-family: @base-font;
+	font-family: @alt-font;
 	.font-rem(16);
 	font-weight: 400;
 	font-style: italic;
@@ -184,10 +182,10 @@ body {
 	margin: 20px 0 0;
 	width: 100%;
 	@media @medium {
-		margin-top: -25px;
+		margin-top: -75px;
 	}
 	@media @large {
-		margin-top: -25px;
+		margin-top: -145px;
 	}
 }
 .entry-header {
