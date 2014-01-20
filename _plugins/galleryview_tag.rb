@@ -76,8 +76,8 @@ module Jekyll
 		def config()
 			"$(function(){
 				$('##{@folder}').galleryView({
-					panel_width: 640,
-					panel_height: 430,
+					panel_width: 800,
+					panel_height: 540,
 					panel_scale: 'fit',
 					panel_animation: 'fade',
 					pan_images: false,

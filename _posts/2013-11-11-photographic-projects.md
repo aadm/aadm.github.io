@@ -30,13 +30,13 @@ And this is hard for me to say because I have always been (and still am) a dream
 
 So that's my long-winding introduction to two posts I have recently published here, with very little details -- and in italian too, so this post should fix that.
 
-## Architetti a lavoro (Architects at work)
+## architetti al lavoro
 
 <http://aadm.github.io/2013-10-26-architetti-al-lavoro.html>
 
 This is about a Saturday morning when we were discussing with my father and sister-in-law and their young assistant Francesco (all of them architects) the renewal of our future house. There was also my daughter playing with us, and a hint of the retro-chic new Nikon camera thrown in the mix. 
 
-## Ultimi giochi (Last games)
+## ultimi giochi
 
 <http://aadm.github.io/2013-11-06-ultimi-giochi.html>
 

@@ -6,49 +6,48 @@ category:
 tags: [photo]
 ---
 
-(For an english introduction see here: [Photographic Projects]({{site.url}}/2013-11-11-photographic-projects.html)).
-
 A fine ottobre 2013 Filippo, Amy e Gemma lasciano l'Italia e vanno in Norvegia.
 
 Chissà quando torneranno a giocare assieme Valentina e Gemma.
 
-![](/images/D6F0759.jpg)
+<figure><img src="/images/20131101_AA10759.NEF.jpg"></figure>
 
-![](/images/D6F0710.jpg)
+<figure><img src="/images/20131101_AA10710.NEF.jpg"></figure>
 
-![](/images/D6F0734.jpg)
+<figure><img src="/images/20131101_AA10734.NEF.jpg"></figure>
 
-![](/images/D6F0735.jpg)
+<figure class="half">
+    <img src="/images/20131101_AA10735.NEF.jpg">
+    <img src="/images/20131101_AA10737.NEF.jpg">
+</figure>
 
-![](/images/D6F0737.jpg)
+<figure><img src="/images/20131101_AA10727.NEF.jpg"></figure>
 
-![](/images/D6F0727.jpg)
+<figure><img src="/images/20131101_AA10730.NEF.jpg"></figure>
 
-![](/images/D6F0730.jpg)
+<figure><img src="/images/20131101_AA10815.NEF.jpg"></figure>
 
-![](/images/D6F0815.jpg)
+<figure><img src="/images/20131101_AA10781.NEF.jpg"></figure>
 
-![](/images/D6F0781.jpg)
 
-![](/images/D6F0823.jpg)
+<figure><img src="/images/20131101_AA10824.NEF.jpg"></figure>
 
-![](/images/D6F0824.jpg)
+<figure><img src="/images/20131101_AA10809.NEF.jpg"></figure>
 
-![](/images/D6F0809.jpg)
+<figure><img src="/images/20131101_AA10806.NEF.jpg"></figure>
 
-![](/images/D6F0806.jpg)
+<figure><img src="/images/20131101_AA10794.NEF.jpg"></figure>
 
-![](/images/D6F0794.jpg)
+<figure class="half">
+    <img src="/images/20131101_AA10816.NEF.jpg">
+    <img src="/images/20131101_AA10818.NEF.jpg">
+</figure>
 
-![](/images/D6F0818.jpg)
-
-![](/images/D6F0816.jpg)
-
-![](/images/D6F0839.jpg)
+<figure><img src="/images/20131101_AA10839.NEF.jpg"></figure>
 
 * * * 
 
-![](/images/D6F0845.jpg)
+<figure><img src="/images/20131101_AA10845.NEF.jpg"></figure>
 
 
 Tutte le foto in alta risoluzione sono raccolte su questo fotoset di flickr: 

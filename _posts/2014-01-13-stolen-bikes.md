@@ -40,8 +40,9 @@ After that I continued to race for fun, knowing full well that I was never, and 
 
 The 29er was supposed to be a bike that should have really grow old with me. It was a custom made frame, with geometry stolen (i.e., inspired and then slightly modified) from the Genesis Fortitude. All steel obviously, with a rigid carbon fork and some other parts taken from the bin or bought for little money. My idea was to use it as a winter training bike, and then in the future convert it to slick tires and maybe some drop bars to commute, travel, or transport my kid around.
 
-<figure>
+<figure class="half">
     <img src="/images/20131214_AA12520.NEF.jpg">
+    <img src="/images/20131214_AA12539.NEF.jpg">
     <figcaption>Latest incarnation, with brand new Maxxis Crossmarks and Fizik Airone.</figcaption>
 </figure>
 
