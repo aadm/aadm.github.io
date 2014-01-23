@@ -6,7 +6,103 @@ category:
 tags: [photo]
 ---
 
-*Giovedì scorso ho fatto una presentazione delle mie foto al circolo fotografico di San Donato, di cui ero socio da un anno. Mi pareva una cosa da fare sia in ottica di contribuire alla vita del circolo, sia per mettere alla prova del pubblico alcuni delle mie foto. L'obiettivo era di farsi conoscere, e quindi ho deciso di raccontare brevemente da dove venissi e mostrare una selezione ragionata delle foto che più mi sono care o che ritenevo avere una qualche dote o qualità che potesse essere apprezzata anche da altri. La mia impressione è stata positiva come commenti e critiche ricevute; e credo che almeno una o due fotografie siano piaciute. Non ho fatto una presentazione 'appariscente', non c'erano effetti o transizioni speciali ne' una colonna sonora; ci ho parlato su, cercando di collegare con una narrativa i gruppi di foto che avevo scelto. Anche se difficile riportare per scritto quella che avevo pensato come esposizione orale, ci provo, anche per fermare nel tempo il mio primo 'outing' fotografico.*
+*A settembre 2013 ho fatto una presentazione delle mie foto al circolo fotografico di San Donato. Ero parte del circolo da un anno, e mi pareva una cosa da fare sia per contribuire alla vita del circolo, sia per mettere alla prova del pubblico alcuni delle mie foto. L'obiettivo era di farsi conoscere, e quindi ho deciso di raccontare brevemente da dove venissi e mostrare una selezione ragionata delle foto che più mi sono care o che ritenevo avere una qualche dote o qualità che potesse essere apprezzata anche da altri. Non ho fatto una presentazione 'appariscente', non c'erano effetti o transizioni speciali né una colonna sonora; ci ho parlato su, cercando di collegare con una narrativa i gruppi di foto che avevo scelto. Anche se difficile riportare per scritto quella che avevo pensato come esposizione orale, ci provo, anche per fermare nel tempo il mio primo 'outing' fotografico.*
+
+<script type="text/javascript">$(function(){
+                $('#circolo-sdm-2013-09').galleryView({
+                    panel_width: 800,
+                    panel_height: 540,
+                    panel_scale: 'fit',
+                    panel_animation: 'fade',
+                    pan_images: false,
+                    pan_style: 'drag',
+                    filmstrip_position: 'bottom',
+                    frame_opacity: 0.6,
+                    infobar_opacity: 0.6,
+                    frame_scale: 'crop',
+                    frame_gap: 5,
+                    show_panel_nav: true,
+                    enable_overlays: true,
+                    show_captions: true,
+                    frame_width: 120,
+                    frame_height: 80,
+                    show_infobar: true
+                });
+            });</script>
+<ul id="circolo-sdm-2013-09">
+    <li><img src="/images/gallery/circolo-sdm-2013-09/circolo-sdm-2013-09.001.jpg" alt="" title="aadm/fotografie" data-description="Circolo Fotografico San Donato Milanese, 12 Settembre 2013"/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/circolo-sdm-2013-09.002.jpg" alt="" title="inizio/pellicola" data-description="Parte 1: pellicola."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/imgTX4000312.jpg" alt="" title="caldarroste" data-description="Roma, Nikon F70, 50mm f/1.8, Kodak Tri-X 400."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/imgTX4000304.jpg" alt="" title="turista" data-description="Roma, Nikon F70, 50mm f/1.8, Kodak Tri-X 400."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/Lloyds04uomo.jpg" alt="" title="lloyds" data-description="Londra: Lloyds building, Nikon F70, 50mm f/1.8, Kodak Tri-X 400."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/TateMarsyas03.jpg" alt="" title="tate" data-description="Londra (Tate Modern): Marsyas di Anish Kapoor, Nikon F70, 50mm f/1.8, Kodak Tri-X 400."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/imgTX4000237.jpg" alt="" title="concerto" data-description="Mendrisio: concerto US3, Nikon F70, 50mm f/1.8, Kodak Tri-X 400."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/circolo-sdm-2013-09.003.jpg" alt="" title="digitale/bianconero" data-description="Parte 2: digitale, ma sempre bianconero."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K1875.jpg" alt="" title="critical mass/1" data-description="Milano, Nikon D7000, 35mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K1906.jpg" alt="" title="critical mass/2" data-description="Milano, Nikon D7000, 35mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/1040339 TRIX400.jpg" alt="" title="madagascar/1" data-description="Madagascar: villaggio Tanala, Panasonic GF1, 17mm f/2.8."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/1040334 TRIX400.jpg" alt="" title="madagascar/2" data-description="Madagascar: villaggio Tanala, Panasonic GF1, 17mm f/2.8."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/1050695 TRIX400.jpg" alt="" title="madagascar/3" data-description="Madagascar: Manuel e Nino, Panasonic GF1, 17mm f/2.8."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/1050729.jpg" alt="" title="madagascar/4" data-description="Madagascar: mangiare in un hotely, in viaggio da Tana a Andasibe, Panasonic GF1, 17mm f/2.8."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/circolo-sdm-2013-09.004.jpg" alt="" title="mare" data-description="Parte 3: mare."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130810_AA07789.NEF.jpg" alt="" title="bagnino/1" data-description="Rosamarina (Marina di Ostuni), Nikon D600, 70-300mm f/4.5-5.6."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K6398 PORTRA160.jpg" alt="" title="bagnino/2" data-description="Rosamarina (Marina di Ostuni), Nikon D7000, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K6339 PORTRA160.jpg" alt="" title="tricolore" data-description="Rosamarina (Marina di Ostuni), Nikon D7000, Nikkor-H 85mm f/1.8."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K6190 PORTRA160.jpg" alt="" title="leggere" data-description="Rosamarina (Marina di Ostuni), Nikon D7000, 35mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K6231 PORTRA160.jpg" alt="" title="bagnasciuga/1" data-description="Rosamarina (Marina di Ostuni), Nikon D7000, 35mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K6401 PORTRA160.jpg" alt="" title="bagnasciuga/2" data-description="Rosamarina (Marina di Ostuni), Nikon D7000, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130815_AA08206.NEF.jpg" alt="" title="sagome/1" data-description="Rosamarina (Marina di Ostuni), Nikon D600, 85mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130814_AA08092.NEF.jpg" alt="" title="sagome/2" data-description="Rosamarina (Marina di Ostuni), Nikon D600, 70-300mm f/4.5-5.6."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130816_AA08328.NEF.jpg" alt="" title="nuovo/vecchio" data-description="Rosamarina (Marina di Ostuni), Nikon D600, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130816_AA08307.NEF.jpg" alt="" title="orizzonte" data-description="Rosamarina (Marina di Ostuni), Nikon D600, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/circolo-sdm-2013-09.005.jpg" alt="" title="paesaggi urbani" data-description="Parte 4: paesaggi urbani"/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/usa1997_061.jpg" alt="" title="torri gemelle/1" data-description="New York, Nikon F70, 35mm f/2, Fuji Sensia 100."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/usa1997_083.jpg" alt="" title="torri gemelle/2" data-description="New York, Nikon F70, 35mm f/2, Fuji Sensia 100."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K4830.jpg" alt="" title="cupo/1" data-description="Milano, Nikon D7000, 85mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K7197.jpg" alt="" title="cupo/2" data-description="Berkeley, Nikon D7000, 55-200m f/4-5.6."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K0879.jpg" alt="" title="dubai" data-description="Dubai, Nikon D7000, Tokina 12-24mm f/4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130507_AA03966.NEF.jpg" alt="" title="jakarta" data-description="Jakarta, Nikon D600, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130413_AA02274.NEF.jpg" alt="" title="tetti" data-description="Parma: tetti, Nikon D600, 85mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/IMG_6275.jpg" alt="" title="aereo" data-description="San Donato Milanese, iPhone 4S."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/circolo-sdm-2013-09.006.jpg" alt="" title="foto di strada" data-description="Parte 5: fotografia di strada"/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/usa1997_022.jpg" alt="" title="baseball cap" data-description="New York, Nikon F70, 35mm f/2, Fuji Sensia 100."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/usa1997_099.jpg" alt="" title="ritratto" data-description="New York, Nikon F70, 35mm f/2, Fuji Sensia 100."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/DSC8831.jpg" alt="" title="canto" data-description="Beijing, Nikon D70s, Sigma 17-70mm f/2.8-4.5."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/DSC8939.jpg" alt="" title="impalcatura" data-description="Beijing, Nikon D70s, Sigma 17-70mm f/2.8-4.5."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K0544.jpg" alt="" title="mamma/1" data-description="Bari: Castello Svevo, Nikon D7000, 85mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/DSC1285.jpg" alt="" title="mamma/2" data-description="Berkeley, Nikon D700, 180mm f/2.8."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130323_AA01289.NEF.jpg" alt="" title="mamma/3" data-description="Milano, Nikon D600, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130407_AA02219.NEF.jpg" alt="" title="incantata" data-description="Milano (Spazio Oberdan): mostra Doisneau, Nikon D600, 85mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130407_AA02219.NEF.jpg" alt="" title="incantata" data-description="Milano (Spazio Oberdan): mostra Doisneau, Nikon D600, 85mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K3030.jpg" alt="" title="rosso" data-description="Milano, Nikon D7000, Nikkor-H 85mm f/1.8."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130625_AA05822.NEF.jpg" alt="" title="bici/1" data-description="Genova, Nikon D600, 70-300mm f/4.5-5.6G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130323_AA01361.NEF.jpg" alt="" title="bici/2" data-description="Milano, Nikon D600, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130323_AA01354.NEF.jpg" alt="" title="suore" data-description="Milano, Nikon D600, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130324_AA01631.NEF.jpg" alt="" title="duomo" data-description="Milano, Nikon D600, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130323_AA01328.NEF.jpg" alt="" title="ritratto posato" data-description="Milano, Nikon D600, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130323_AA01362.NEF.jpg" alt="" title="ritratto non posato" data-description="Milano, Nikon D600, 50mm f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130414_AA02702.NEF.jpg" alt="" title="birra" data-description="Milano, Nikon D600, 85mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130709_AA06232.NEF.jpg" alt="" title="birra" data-description="Milano, Nikon D600, 85mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130625_AA05923.NEF.jpg" alt="" title="verde" data-description="Genova, Nikon D600, 70-300m f/4.5-5.6G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/circolo-sdm-2013-09.007.jpg" alt="" title="paesaggi" data-description="Parte 6: paesaggi"/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130717_AA06725.NEF.jpg" alt="" title="lago" data-description="Laghi di Colbricon, Parco Naturale di Paneveggio, Nikon D600, 50m f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K9464.jpg" alt="" title="esse" data-description="Ziano Piacentino, Nikon D7000, Nikkor-H 85mm f/1.8."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130716_AA06631.NEF.jpg" alt="" title="cimon della pala" data-description="Cimon della Pala, Nikon D600, 85m f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/D7K0361.jpg" alt="" title="bari" data-description="Bari, Nikon D7000, 35mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130302_AA00692.NEF.jpg" alt="" title="in fila" data-description="Montevecchia, Nikon D600, 50m f/1.4."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130715_AA06465.NEF.jpg" alt="" title="picnic" data-description="Malga Bocche, Parco Naturale di Paneveggio, Nikon D600, 85m f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130715_AA06510.NEF.jpg" alt="" title="mucca/1" data-description="Malga Bocche, Parco Naturale di Paneveggio, Nikon D600, 85m f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130721_AA07238.NEF.jpg" alt="" title="mucca/2" data-description="Latemar, Nikon D600, 85m f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130829_AA08937.NEF.jpg" alt="" title="addio" data-description="Maputo (Mozambico), Nikon D600, 85m f/1.8G."/></li>
+</ul>
+
+
+
+
+
+
+
+
 
 ## origini
 
@@ -16,7 +112,7 @@ Ultimamente avrete notato che da un lato si constata il definitivo tracollo dal 
 
 Ora, la mia idea è che la pellicola venga osannata solo da chi non ha mai affrontato le pene dell'analogico: l'attesa prima di vedere i risultati, la delusione per interi rullini buttati via per essersi dimenticati di settare gli ISO corretti, il costo stesso di ogni singola fotografia. 
 
-Dicono questi nuovi "santoni": usate la pellicola perché insegna il 'rigore', cioè l'intenzionalità, il rifiuto di affidarsi alla raffica per cogliere una buona immagine (gli americani dicono *"spray and pray"*). Ok, tutto corretto in linea di primcipio, io stesso sono un gran fautore dell'intenzionalita dello scatto; ma questa è disciplina mentale che chiunque si può imporre -- non c'è bisogno di una Yashica FX3 con rullino di Velvia per ragionare prima di scattare. 
+Dicono questi nuovi "santoni": usate la pellicola perché insegna il 'rigorè, cioè l'intenzionalità, il rifiuto di affidarsi alla raffica per cogliere una buona immagine (gli americani dicono *"spray and pray"*). Ok, tutto corretto in linea di primcipio, io stesso sono un gran fautore dell'intenzionalita dello scatto; ma questa è disciplina mentale che chiunque si può imporre -- non c'è bisogno di una Yashica FX3 con rullino di Velvia per ragionare prima di scattare. 
 
 Sono relativamente pochi i rullini che ho scansionato; ancora di meno le foto che davvero mi soddisfano. E quelle che ho selezionato hanno tutte un certo valore affettivo, perché mi ricordano ad esempio quella sensazione di aver ripreso esattamente quello che avevo in mente:
 
@@ -126,11 +222,11 @@ Queste foto le ho raccolte in un libro fotografico che per adesso è ancora allo
 
 # street
 
-Questo e' il genere che più mi piace attualmente, anche se il più inflazionato.
+Questo è il genere che più mi piace attualmente, anche se il più inflazionato.
 
 Queste sono foto scattate nel 1998 a NY, e sono indubbiamente 'street photography' ma allora manco sapevo che esistesse un genere *street*.
 
-Queste invece sono foto piu' recenti scattate a Pechino, cosa sono queste: street o viaggio o documentario? Per queste foto, lascio che siano loro a parlare.
+Queste invece sono foto più recenti scattate a Pechino, cosa sono queste: street o viaggio o documentario? Per queste foto, lascio che siano loro a parlare.
 
 
 # paesaggi

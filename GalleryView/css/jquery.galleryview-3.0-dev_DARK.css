@@ -37,7 +37,7 @@
 	position: absolute;
 	width: 20px;
 	height: 20px;
-	background: url(themes/light/info.png) #222;
+	background: url(themes/dark/info.png) #222;
 	cursor: pointer;
 	z-index: 200;
 }
@@ -155,35 +155,35 @@
 	height: 30px;
 	width: 30px;
 	cursor: pointer;
-	background: url(themes/light/play-big.png) top left no-repeat;
+	background: url(themes/dark/play-big.png) top left no-repeat;
 }
 .gv_navPause {
 	height: 30px;
 	width: 30px;
 	cursor: pointer;
-	background: url(themes/light/pause-big.png) top left no-repeat;
+	background: url(themes/dark/pause-big.png) top left no-repeat;
 }
 .gv_navNext {
 	height: 20px;
 	width: 20px;
 	cursor: pointer;
-	background: url(themes/light/next.png) top left no-repeat;
+	background: url(themes/dark/next.png) top left no-repeat;
 }
 .gv_navPrev {
 	height: 20px;
 	width: 20px;
 	cursor: pointer;
-	background: url(themes/light/prev.png) top right no-repeat;
+	background: url(themes/dark/prev.png) top right no-repeat;
 }
 .gv_panelNavNext {
 	height: 20px;
 	width: 20px;
 	cursor: pointer;
-	background: url(themes/light/panel-next.png) top left no-repeat;
+	background: url(themes/dark/panel-next.png) top left no-repeat;
 }
 .gv_panelNavPrev {
 	height: 20px;
 	width: 20px;
 	cursor: pointer;
-	background: url(themes/light/panel-prev.png) top right no-repeat;
+	background: url(themes/dark/panel-prev.png) top right no-repeat;
 }

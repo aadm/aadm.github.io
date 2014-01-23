@@ -16,7 +16,7 @@
 # 5) update GalleryView options in config()
 
 # Base folder of your gallery, relative to jekyll root
-GALLERIES_FOLDER = "images/gallery/"
+GALLERIES_FOLDER = "images/gallery"
 
 module Jekyll
 	class GalleryViewTag < Liquid::Tag
