@@ -6,13 +6,9 @@ category:
 tags: [photo]
 ---
 
-*A settembre 2013 ho fatto una presentazione delle mie foto al circolo fotografico di San Donato. Ero parte del circolo da un anno, e mi pareva una cosa da fare sia per contribuire alla vita del circolo, sia per mettere alla prova del pubblico alcune delle mie foto.* 
+*A settembre 2013 ho fatto una presentazione delle mie foto al circolo fotografico di San Donato. Ero parte del circolo da un anno, e mi pareva una cosa da fare sia per contribuire alla vita del circolo, sia per mettere alla prova del pubblico alcune delle mie foto. L'obiettivo era di raccontare brevemente da dove venissi, fotograficamente parlando, e mostrare alcune delle foto più care o dotate di una qualche qualità che potesse essere apprezzata anche da altri. Non ho fatto una presentazione appariscente, non c'erano effetti o transizioni speciali né una colonna sonora; ci ho parlato su, cercando di collegare con una narrativa i gruppi di foto che avevo scelto.* 
 
-*L'obiettivo era di raccontare brevemente da dove venissi, fotograficamente parlando, e mostrare alcune delle foto più care o dotate di una qualche qualità che potesse essere apprezzata anche da altri. Non ho fatto una presentazione 'appariscentè, non c'erano effetti o transizioni speciali né una colonna sonora; ci ho parlato su, cercando di collegare con una narrativa i gruppi di foto che avevo scelto.* 
-
-*In un articolo separato pubblicherò anche questa narrativa, pur nella consapevolezza di quanto potrebbe suonare stonata quella che era stata pensata come esposizione orale. Qui invece riporto la mia presentazione, adattata e sfoltita per la visualizzazione web.*
-
-*La navigazione è semplice e non necessita di spiegazioni, mi limito a ricordarvi di premere la (i) per avere informazioni su località e dati di scatto.* 
+*In un articolo separato pubblicherò anche questa narrativa, pur nella consapevolezza di quanto potrebbe suonare stonata quella che era stata pensata come esposizione orale. Qui invece riporto la mia presentazione, adattata e sfoltita per la visualizzazione web. La navigazione è semplice e non necessita di spiegazioni, mi limito a ricordarvi di premere la (i) per avere informazioni su località e dati di scatto.* 
 
 
 <script type="text/javascript">$(function(){
