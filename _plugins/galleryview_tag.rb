@@ -90,8 +90,8 @@ module Jekyll
 					show_panel_nav: false,
 					enable_overlays: false,
 					show_captions: false,
-					frame_width: 90,
-					frame_height: 60,
+					frame_width: 120,
+					frame_height: 80,
 					show_infobar: true
 				});
 			});"

@@ -69,7 +69,7 @@ git rm -r --cached * > /dev/null 2>&1
 cp -r ~/$tmp_dir/* $current_dir
 
 # Commit the changes to the built branch
-orario=( $(date) )
+orario=($(date "+%Y-%m-%d-%H%M"))
 
 
 message="$orario - Updated built site from 'source' - $last_SHA"
@@ -77,7 +77,7 @@ git add .
 git commit -m "$message" > /dev/null 2>&1
 
 # Delete the temporary folder
-# rm -r ~/$tmp_dir
+rm -r ~/$tmp_dir
 
 # Push new site to server
 git push origin $built > /dev/null 2>&1

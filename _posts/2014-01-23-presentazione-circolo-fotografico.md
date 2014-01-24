@@ -6,7 +6,11 @@ category:
 tags: [photo]
 ---
 
-*A settembre 2013 ho fatto una presentazione delle mie foto al circolo fotografico di San Donato. Ero parte del circolo da un anno, e mi pareva una cosa da fare sia per contribuire alla vita del circolo, sia per mettere alla prova del pubblico alcuni delle mie foto. L'obiettivo era di farsi conoscere, e quindi ho deciso di raccontare brevemente da dove venissi e mostrare una selezione ragionata delle foto che più mi sono care o che ritenevo avere una qualche dote o qualità che potesse essere apprezzata anche da altri. Non ho fatto una presentazione 'appariscentè, non c'erano effetti o transizioni speciali né una colonna sonora; ci ho parlato su, cercando di collegare con una narrativa i gruppi di foto che avevo scelto. In un articolo separato pubblicherò anche questa narrativa, pur nella consapevolezza di quanto potrebbe suonare stonata quella che era stata pensata come esposizione orale -- ma volevo comunque fermare nel tempo questa prima esposizione di mie fotografie. Qui invece riporto la mia presentazione, adattata e sfoltita per la visualizzazione web.*
+*A settembre 2013 ho fatto una presentazione delle mie foto al circolo fotografico di San Donato. Ero parte del circolo da un anno, e mi pareva una cosa da fare sia per contribuire alla vita del circolo, sia per mettere alla prova del pubblico alcune delle mie foto.* 
+
+*L'obiettivo era di raccontare brevemente da dove venissi, fotograficamente parlando, e mostrare alcune delle foto più care o dotate di una qualche qualità che potesse essere apprezzata anche da altri. Non ho fatto una presentazione 'appariscentè, non c'erano effetti o transizioni speciali né una colonna sonora; ci ho parlato su, cercando di collegare con una narrativa i gruppi di foto che avevo scelto.* 
+
+*In un articolo separato pubblicherò anche questa narrativa, pur nella consapevolezza di quanto potrebbe suonare stonata quella che era stata pensata come esposizione orale. Qui invece riporto la mia presentazione, adattata e sfoltita per la visualizzazione web.*
 
 *La navigazione è semplice e non necessita di spiegazioni, mi limito a ricordarvi di premere la (i) per avere informazioni su località e dati di scatto.* 
 
@@ -75,8 +79,7 @@ tags: [photo]
     <li><img src="/images/gallery/circolo-sdm-2013-09/D7K0544.jpg" alt="" title="mamma/1" data-description="Bari: Castello Svevo, Nikon D7000, 85mm f/1.8G."/></li>
     <li><img src="/images/gallery/circolo-sdm-2013-09/DSC1285.jpg" alt="" title="mamma/2" data-description="Berkeley, Nikon D700, 180mm f/2.8."/></li>
     <li><img src="/images/gallery/circolo-sdm-2013-09/20130323_AA01289.NEF.jpg" alt="" title="mamma/3" data-description="Milano, Nikon D600, 50mm f/1.4."/></li>
-    <li><img src="/images/gallery/circolo-sdm-2013-09/20130407_AA02219.NEF.jpg" alt="" title="incantata" data-description="Milano (Spazio Oberdan): mostra Doisneau, Nikon D600, 85mm f/1.8G."/></li>
-    <li><img src="/images/gallery/circolo-sdm-2013-09/20130407_AA02219.NEF.jpg" alt="" title="incantata" data-description="Milano (Spazio Oberdan): mostra Doisneau, Nikon D600, 85mm f/1.8G."/></li>
+    <li><img src="/images/gallery/circolo-sdm-2013-09/20130407_AA02219.NEF.jpg" alt="" title="incantata" data-description="Milano (Spazio Oberdan): mostra Doisneau e riflesso di mia figlia Valentina che stava sorridendo alla signora, Nikon D600, 85mm f/1.8G."/></li>
     <li><img src="/images/gallery/circolo-sdm-2013-09/D7K3030.jpg" alt="" title="rosso" data-description="Milano, Nikon D7000, Nikkor-H 85mm f/1.8."/></li>
     <li><img src="/images/gallery/circolo-sdm-2013-09/20130625_AA05822.NEF.jpg" alt="" title="bici/1" data-description="Genova, Nikon D600, 70-300mm f/4.5-5.6G."/></li>
     <li><img src="/images/gallery/circolo-sdm-2013-09/20130323_AA01361.NEF.jpg" alt="" title="bici/2" data-description="Milano, Nikon D600, 50mm f/1.4."/></li>
