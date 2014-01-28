@@ -80,7 +80,7 @@ git commit -m "$message" > /dev/null 2>&1
 rm -r ~/$tmp_dir
 
 # Push new site to server
-git push origin $built > /dev/null 2>&1
+git push -f origin $built > /dev/null 2>&1
 if [ $? = 0 ]
 then
   echo "Site push successful"

@@ -8,9 +8,11 @@ tags: [photo, video, comment, cycling]
 
 # two stolen bikes
 
-Last month my two bikes were stolen from my garage. Well not _my_ garage but a temporary one; the one we have now as we stay in this rented apartment until our new apartment is being renovated. We've been here since last October and probably we'll stay until February. Yes, renovation (as intended in my wife's plans) takes a long time. 
+Last month two bikes were stolen from a certain garage in San Donato Milanese. Those were my mountain bikes; the garage, well that wasn't _mine_[^nota-garage].
 
-Anyway, it was dead easy to open the garage for these gentlemen. Not only did they steal my two most precious bikes, leaving the city bikes untouched, but also my tire pump and all of my tools like allen keys and sockets etc. These gentlemen, they were really into bikes and knew their stuff pretty well. I hope they won't be so stupid to go ride my bikes in Finale Ligure. 
+[^nota-garage]: This garage is the one we have now as we stay in this rented apartment until our new apartment is being renovated. We’ve been here since last October and probably we’ll stay until February. Yes, renovation (as intended in my wife’s plans) takes a long time.
+
+And it was dead easy to open the garage for these gentlemen. Not only did they steal my two most precious bikes, leaving the city bikes untouched, but also my tire pump and all of my tools like allen keys and sockets etc. These gentlemen, they were really into bikes and knew their stuff pretty well. I hope they won't be so stupid to go ride my bikes in Finale Ligure. 
 
 Anyway, that has left a huge hole in my life. Yes, they were only bikes, but bikes for a biker are very personal things; probably because it's so easy to change parts and make them better or different as your ability increases or your interests with regards to terrain or type of riding evolves. So they grow with you, and you start to feel an affection for them -- which I have never experienced with my motorbikes.
 
@@ -38,14 +40,13 @@ After that I continued to race for fun, knowing full well that I was never, and 
 </figure>
 
 
-The 29er was supposed to be a bike that should have really grow old with me. It was a custom made frame, with geometry stolen (i.e., inspired and then slightly modified) from the Genesis Fortitude. All steel obviously, with a rigid carbon fork and some other parts taken from the bin or bought for little money. My idea was to use it as a winter training bike, and then in the future convert it to slick tires and maybe some drop bars to commute, travel, or transport my kid around.
+The 29er was supposed to be a bike that should have really grow old with me. It was a custom made frame built with love (so they say) by my friends at [La Stazione delle Biciclette](http://www.lastazionedellebiciclette.com). Its geometry was stolen (i.e., inspired and then slightly modified) from the [Genesis Fortitude](http://www.bikeradar.com/mtb/gear/category/bikes/mountain-bikes/hardtail/product/review-genesis-bikes-fortitude-race-12-46745/). All steel obviously, with a rigid carbon fork and some other parts taken from the bin or bought for little money. My idea was to use it as a winter training bike, and then in the future convert it to slick tires and maybe some drop bars to commute, travel, or transport my kid around.
 
 <figure class="half">
     <img src="/images/20131214_AA12520.NEF.jpg">
     <img src="/images/20131214_AA12539.NEF.jpg">
     <figcaption>Latest incarnation, with brand new Maxxis Crossmarks and Fizik Airone.</figcaption>
 </figure>
-
 
 But it was bloody good fun for some serious mountain biking, requiring full committment, a very active riding style and accurate line selection. I had a dream to race the 24h in Finale with this bike; in this past year I did the famous loop in Finale several times and the bike was perfect on these trails. Like [somebody else has written](articolo pinkbike), a lesser bike requires you to increase your skills and ability, and a tame, well known trail becomes again something to conquer.
 
