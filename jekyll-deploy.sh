@@ -26,7 +26,7 @@ git checkout $source > /dev/null 2>&1
 # Let's check for a clean working directory
 # If the working directory is NOT clean, we'll stash the changes
 # . $scriptdir/stasher.sh
-# ./stasher.sh
+./stasher.sh
 
 # Build the Jekyll site
 jekyll build > /dev/null 2>&1
@@ -40,6 +40,11 @@ fi
 
 # Get the latest commit SHA in 'source'
 last_SHA=( $(git log -n 1 --pretty=oneline) )
+
+#--aggiunta di aadm
+copia_sorgente="temp_source_$last_SHA"
+mkdir ~/$copia_sorgente
+cp -r ./* ~/$copia_sorgente
 
 # Copy the contents of the '_site' folder in the
 # working directory to a temporary folder.
@@ -71,7 +76,6 @@ cp -r ~/$tmp_dir/* $current_dir
 # Commit the changes to the built branch
 orario=($(date "+%Y-%m-%d-%H%M"))
 
-
 message="$orario - Updated built site from 'source' - $last_SHA"
 git add .
 git commit -m "$message" > /dev/null 2>&1
@@ -100,7 +104,7 @@ else
   echo "Source push failed"
 fi
 
-# # If anything is stashed, let's get it back
-# if [ $stashed = 1 ]; then
-#   git stash apply
-# fi
+# If anything is stashed, let's get it back
+if [ $stashed = 1 ]; then
+  git stash apply
+fi
