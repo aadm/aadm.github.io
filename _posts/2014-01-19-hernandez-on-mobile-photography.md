@@ -10,7 +10,7 @@ tags: [links, photo, comment, video]
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/4AkDBFsQZ7U" frameborder="0"> </iframe>
 
-Sometimes you can find smart youtube comments. For example this guy wrote:
+Sometimes you _can_ find smart youtube comments. For example this guy wrote:
 
 > Hernandez makes a valid point - the image shouldn't be defined by the camera﻿ it's captured with. It's a shame he had to spend five minutes saying what he could easily have said in five seconds. I turned off after that - couldn't take the pretentiousness of his language any more.
 

@@ -11,7 +11,7 @@ tags: [photo]
 <center>"Leggiamo assieme?".</center>
 
 ![](/images/D6F0266.jpg)
-<center><i>"Uhm, non lo so, facciami un gioco più divertente mentre questo chiacchiera".</i></center>
+<center><i>"Uhm, non lo so, facciamo un gioco più divertente mentre questo chiacchiera".</i></center>
 
 ![](/images/D6F0267.jpg)
 <center><i>"Dai su fammi giocare!"</i></center>

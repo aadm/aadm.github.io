@@ -19,18 +19,21 @@ Essentially, a shorter version of the [detailed instructions given on mtb-forum.
 
 ##data ##
 
-The latest version of the [openmtb maps](http://openmtbmap.org/) are here[^1]: [ftp://ftp5.gwdg.de/pub/misc/openstreetmap/openmtbmap](ftp://ftp5.gwdg.de/pub/misc/openstreetmap/openmtbmap)
+The latest version of the [openmtb maps](http://openmtbmap.org/) for Italy are here[^1]: [http://openmtbmap.org/donate/odbl/download_italy_en.html
+](http://openmtbmap.org/donate/odbl/download_italy_en.html)[^2].
 
-[^1]: available as a self-decompressing .exe file, use Unarchiver to unzip them.
+[^1]: available as a self-decompressing .exe file, use Unarchiver to unzip them on a Mac.
+
+[^2]: This links to <ftp://ftp5.gwdg.de/pub/misc/openstreetmap/openmtbmap/odbl/mtbitaly.exe?>
 
 ##what next ##
 
 
-Launch gmapbuilder, select the TDB file, then the TYP file and then click `convert`.
+Launch gmapbuilder, select the TDB file `mapsetc.tdb`, then the TYP file and then click `convert`.
 
 The TDB file can be:
 
-* mapsetc: map + contourlines
+* mapsetc: map + contourlines (default)
 * mapsetx: map only
 * mapsetz: contourlines only
 
