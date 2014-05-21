@@ -10,7 +10,7 @@ image:
   creditlink: http://www.flickr.com/photos/aadm/
 ---
 
-Un piccolo omaggio alla casa dove abbiamo vissuto negli ultimi 4 anni:
+Un piccolo omaggio alla casa dove abbiamo vissuto negli ultimi 4 anni.
 
 _A small tribute to the place we have called home for the past 4 years._
 
@@ -40,8 +40,9 @@ _A small tribute to the place we have called home for the past 4 years._
 ![](/images/D6F5163.jpg)
 
  -->
-Tutte le foto in alta risoluzione sono raccolte su questo fotoset di flickr: 
-[http://www.flickr.com/photos/aadm/sets/72157638257568895/](http://www.flickr.com/photos/aadm/sets/72157638257568895/).
 
+<!-- Tutte le foto in alta risoluzione sono raccolte su questo fotoset di flickr: 
+[http://www.flickr.com/photos/aadm/sets/72157638257568895/](http://www.flickr.com/photos/aadm/sets/72157638257568895/).
+ -->
 
 
