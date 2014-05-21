@@ -17,8 +17,6 @@ _A small tribute to the place we have called home for the past 4 years._
 [http://www.flickr.com/photos/aadm/sets/72157638257568895/](http://www.flickr.com/photos/aadm/sets/72157638257568895/)
 
 
-<!-- {% gallery_view alfonsine %} -->
-
 <!-- - - -
 
 ![](/images/D6F0144.jpg)
