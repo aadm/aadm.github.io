@@ -8,9 +8,9 @@ image:
   creditlink: http://www.flickr.com/photos/aadm/
 ---
 
-I can be reached via Twitter ([@aadmtwi](http://twitter.com/aadmtwi)).
+I can be reached via Twitter, [@aadmtwi](http://twitter.com/aadmtwi), [Google+](http://plus.google.com/+AlessandroAmatodelMonte/) or through my [flickr account](http://www.flickr.com/photos/aadm/), where I also collect my  photographs. I used to have a solid instagram feed but then I got bored so [that](http://instagram.com/aadm) is pretty much a dead end.
 
-My photos are [on flickr](http://www.flickr.com/photos/aadm/). I used to have a solid instagram feed but then I got bored so [that](http://instagram.com/aadm) is pretty much a dead end. 
+If you're not on twitter or flickr, you can use [my tumblr ask page](http://aadm-fotografia.tumblr.com/ask) to send me any question or comment. 
 
 Unless otherwise stated all the content appearing here on [aadm.github.io](http://aadm.github.io) is my (Alessandro Amato del Monte) exclusive property. You may share and distribute my work but you cannot modify it, and obviously you cannot make money out of it.
 

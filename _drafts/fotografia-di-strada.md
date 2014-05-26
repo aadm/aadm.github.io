@@ -8,18 +8,58 @@ tags: [photo]
 
 Also see here: <http://gist.io/6087078>
 
+{% gist parkr/931c1c8d465a04042403 %}
 
-# bazzicando su google+
 
-* street photography che comprende di tutto, tra cui foto di viaggio, di monumenti etc
-* foto insulse di gente che si fa i cazzi suoin in mezzo alla strada
-* unico requisito: obbligatoria conversione in b/n, spesso sbiadito, pallido e mortificante, giusto perche' b/n fa figo e molto artista.
+La *street photography* e' diventato un raccoglitore che comprende di tutto, basta bazzicare i vari gruppi di Google+ e Flickr dedicati alla street photogaphy.
 
-Comunque non sono solo gli sfigati che affollano google+ a farmi incavolare ma pure gente come Eric Kim che per quanto mi faccia incavolare come personaggio e stile di fotografia e' sicuramente un vero appassionato con una certa cultura da cui imparare. Bene, cosa ti fa vedere nel suo blog? Illavoro di un tizio che scatta foto in pausa pranzo, foto assolutamente anonime come contenuti e mediocri tecnicamente, e viene pure ftto passare come artista:
+C'e' foto di viaggio, di monumenti, primi piani di gente qualsiasi che privati del contesto diventano anonimi e inutili; la maggioranza sono comunque foto insulse di gente in mezzo alla strada che si fa i fatti suoi.
 
-http://erickimphotography.com/blog/2013/04/04/shooting-street-photography-as-a-corporate-pastime/
+L'unico requisito sembra essere la obbligatoria conversione in bianco e nero, spesso sbiadito, pallido e mortificante, giusto perche' il bianconero fa molto artista.
 
-aa
+Fossero solo i tristi individui che riversano queste loro inutili immagini in rete (e che mi vedo gia' nel giro di qualche anno girare per la strada coi loro Google Glass), passi; in fondo e' sempre stato facile ignorare la massa.
+Ma poi c'e' gente come quello che un tempo si autodefiniva "international street photographer", e che pur nella sua superficialita' come interprete e autore ha svolto nel corso degli ultimi anni una meritevole azione di propaganda e diffusione della cultura coi suoi articoli tipo "10 things I have learnt from Elliot Erwitt".
+
+Bene, che pure un ragazzo come Eric Kim che sicuramente sa distinguere il fieno dall'avena, pubblichi [il lavoro di un tizio che scatta foto in pausa pranzo](http://erickimphotography.com/blog/2013/04/04/shooting-street-photography-as-a-corporate-pastime/), assolutamente anonime come contenuti e mediocri tecnicamente, facendolo passare come "artista", questo davvero e' troppo.
+
+Fatemi provare a raccogliere i miei pensieri allora. E [fatemi sapere](./about.html) cosa ne pensate.
+
+## cos'e' la street photography
+
+Questa e' una domanda pesante, eh. Non mi metto certo a competere con altri dotati di maggior eloquio e acume del mio, ma provo a raccontare qui il nocciolo del mio pensiero, formato ai tempi del [workshop che feci nel 2013 con Giulio Di Meo](./2013-03-25-street-photography-workshop.html).
+
+Giulio aveva delle idee ben precise su cosa sia la street phtography. E a me non e' dispiaciuto per una volta seguire le idee di un altro e cercare di fare delle riprese seguendo delle "direttive" (seppur blande e non cosi' rigorose come potrebbe sembrare; in realta' in fase di giudizio Giulio e' stata di manica larga e ha fatto passare parecchie immagini -- il solito problema del maestro che vuole tenersi buoni i suoi discepoli a scapito della loro crescita).
+
+Lui e' essenzialmente concentrato sulle persone, e sulle loro espressioni ed atteggiamenti. E le persone devono essere indaffarate sui loro affari quotidiani; cioe' per Giulio la street e' documentazione (passiva, non inteso in senso negativo ma fattuale) della vita di strada. Particolari urbani e elementi della citta' interessanti dal punto di vista grafico, a Giulio semplicemente non interessano. A me si', e molto, e sono portato piu' naturalmente a foto come questa:
+
+**scarpa, senigallia**
+
+Mentre non sono naturalmente portato all'interazione con sconosciuti. Ma mi sono sforzato, e forse sono caduto nell'atteggiamento opposto di chi invece si ferma a chiacchierare con sconosciuti e poi chiede i loro ritratti (vedi ad es. n.X, X, X). Anche questi (i famosi ritratti ambientati) non sono street photography per Giulio. Quindi qui non documenti piu' la persona che si comporta con naturalezza ms risulta evidente l'intromissione del fotografo.
+
+Un esempio che viene spesso citato e' quello di XXX, il fotografo che spara il flash in faccia ad ignari passanti provocando quelle reazioni "forti" che indicano la pesante intromissione del fotografo.
+
+
+## il problema della privacy
+
+E' un argomento interessante e che mi sta molto a cuore. Scontato il mio rifuggire dal far fotografie a mendicanti, poveracci di varia natura, gente impegnata in attivita' delicate come le preghiere dei musulmani (che mi e' capitato spessissimo di vedere negli ultimi viaggi), tutto il resto e' soggetto al mio personale senso di appropriazione indebita dello spazio altrui.
+
+Cioe' lascio che il mio senso di decenza mi guidi e cerco sempre di immaginare come mi possa sentire se qualche sconosciuto mi venisse a fotografare mentre sono indaffarato o arrabbiato.
+
+A volte, lo riconosco, questo senso di decenza mi serve per giustificare la mancata azione, perche' capita specie se la tua natura e' riservata, di non avere voglia di dove ribattere, discutere, affrontare in qualunque modo il potenziale contrattacco che uno sconosciuto potrebbe farti. E qui entrano in gioco tanti fattori, come la familiarita' del posto, la conoscenza di lingua e costumi locali se sei fuori dal tuo paese, come ti sei svegliato la mattina, la sensazione di sicurezza che Abu Dhabi puo' darti ma non una cittadina turca di cui non sai niente.
+
+Dal punto di strettamente legale pero', riporto la citazione da un [articolo di Mickey Osterreicher pubblicato sul NYT Lens Blog](http://lens.blogs.nytimes.com/2012/08/14/criminalizing-photography/>)):
+
+> If you’re in public, you have no reasonable expectation of privacy. That’s the difference between what is public and what is private. It’s the reason that all those security cameras that are on every city street are allowed to photograph us, because when we’re out in public we have no reasonable expectation of privacy.
+
+> There’s a big difference of taking a picture and the use of a picture. If I take a picture of someone on the street they don’t really have a right to tell me that I can’t take their picture. They can ask nicely, “Hey, would you mind not taking my picture?” But they can’t enforce it, because there isn’t a law.
+
+> Now, if I use your picture in an advertisement or use your picture with story about obese people or smoking in America? That’s different. But that’s a whole other issue then the taking of the picture.
+
+
+
+** vivian maier
+
+http://thenewinquiry.com/essays/permission-slips/
 
 # joel meyerotzsdf
 
@@ -90,28 +130,3 @@ Riguardo il tipo di messaggio che dava Giulio, non sono troppo d'accordo sull'ac
 Non voglio dire che la tecnica viene prima di tutto, e ad esempio una fotografia perfetta di un fiorellino o del gattino per me resta di una inutilita' assoluta. Ma che il messaggio di una foto deve essere accompagnato dalla corretta esecuzione tecnica. E posso accettare il mosso di una fotografia che documenta un evento storico significativo degli anni '50, visto che all'epoca non c'era ne' autofocus ne' i 6400 ISO. Ma con le macchine di adesso, assolutamente no! Anche la composizione, cioe' escludere/includere elementi estranei dalla cornice del fotogramma, va assolutamente bastonata se non perfetta. E Giulio lo ha fatto, ma non abbastanza, sopratutto considerando che molti del gruppo usavano degli zoom con cui e' relativamente facile fare un ritaglio piu' efficace dell'immagine.
 
 Per inciso, io ero l'unico con un 50mm fisso, e tornando sull'aspetto della tecnica, che razza di risultati mi ha permesso di ottenere quest'obiettivo vecchio di 20 anni! E sopratutto mi sono reso conto che e' davvero l'obiettivo con cui mi trovo meglio, probabilmente perche' ho una visione abbastanza "tele" della realta', quindi trovo facile da inquadrare frammetni di realta' con un 50mm piu' che con il 35mm. Evoluzione individuale, visto che ricordo bene quanto penavo, ai tempi della Yashica FX-3, ad usare il 50mm, e quanto invece fosse stata liberatoria l'esperienza del primo viaggio americano in cui tentai un racconto un po' piu' organico di quanto vedevo in giro con la Nikon F70 e il bellissimo 35mm f/2 (che ho poi perso, o venduto, o mi e' stato rubato, non ricordo piu').
-
-## cos'e' la street
-
-Giulio aveva delle idee ben precise su cosa sia la street phtography. E a me non e' dispiaciuto per una volta seguire le idee di un altro e cercare di fare delle riprese seguendo delle 'direttive' (seppur blande e non cosi' rigorose come potrebbe sembrare; in realta' in fase di giudizio Giulio e' stata di manica larga e ha fatto passare parecchie immagine che probabilmente fossero state le sue non le avrebbe neanche immaginate).
-
-Lui e' essenzialmente concentrato sulle persone, e sulle loro espressioni ed atteggiamenti. E le persone devono essere indaffarate sui loro affari quotidiani; cioe' per Giulio la street e' documentazione 'passiva' della vita di strada. Particolari urbani e elementi della citta' interessanti dal punto di vista grafico, a Giulio semplicemente non interessano. A me si', e molto, e probabilmente sono portato naturalmente a foto come la n.X (scarpa, senigallia) proprio perche' non sono spontaneamente attratto dall'interazione con altre persone. Ma mi sono sforzato, e forse sono caduto nell'atteggiamento opposto di chi invece si ferma a chiacchierare con sconosciuti e poi chiede i loro ritratti (vedi ad es. n.X, X, X). Anche questi (i famosi ritratti ambientati) non sono street photography per Giulio.
-
-
-
-
-
-
-
-# street photography
-
-This quote from Mickey Osterreicher may help people who are into street photography:
-
-> If you’re in public, you have no reasonable expectation of privacy. That’s the difference between what is public and what is private. It’s the reason that all those security cameras that are on every city street are allowed to photograph us, because when we’re out in public we have no reasonable expectation of privacy.
-
-> There’s a big difference of taking a picture and the use of a picture. If I take a picture of someone on the street they don’t really have a right to tell me that I can’t take their picture. They can ask nicely, “Hey, would you mind not taking my picture?” But they can’t enforce it, because there isn’t a law.
-
-> Now, if I use your picture in an advertisement or use your picture with story about obese people or smoking in America? That’s different. But that’s a whole other issue then the taking of the picture.
-
-(source: <http://lens.blogs.nytimes.com/2012/08/14/criminalizing-photography/>)
-

@@ -10,7 +10,7 @@ tags: [photo]
 
 *[Aggiornamento maggio 2014]: In una precedente versione di questo post avevo raccolto un sottoinsieme di 64 fotografie presentate sotto forma di galleria; per motivi tecnici deciso di eliminare tutti i plugin Jekyll come questo GallerView che mi davano problemi nel manutenere e nel rendere snello ed efficiente il blog, quindi mi trovo costretto a ridurre ulteriormente il numero di fotografie che vi mostro qui di seguito.*
 
-*Ho diviso in due parti questo post. La seconda parte si trova qui: [2014-01-23-presentazione-circolo-fotografico-2](./2014-01-23-presentazione-circolo-fotografico-2.html).* 
+*Ho diviso in due parti questo post. La [seconda parte si trova qui](./2014-01-23-presentazione-circolo-fotografico-2.html).* 
 
 
 ## origini
@@ -68,11 +68,12 @@ Una volta ho fatto un'esperimento preimpostando la macchina per salvare jpg in u
 Quando vedevo i volti di bimbi africani, santoni indiani, mi dicevo; vabbè ci vorrà mica tanto, basta andare in Africa o India con una macchina decente e vedi cosa ti tiro fuori. Ebbene, ci sono andato in Africa ed è proprio così, è davvero facile tirare fuori ritratti "alla National Geographic"[^nota-ritratti-africani].
 
 ![](/images/circolo-sdm-2013-09/1040339 TRIX400.jpg)
+
 ![](/images/circolo-sdm-2013-09/1040334 TRIX400.jpg)
 
 *Villaggio Tanala, Madagascar, Panasonic GF1, 17mm f/2.8.*
 
-[^nota-ritratti-africani]: Poi ci sono quelli che vogliono fare sempre di più, e vanno in Africa con troupe tipo set cinematografico, tutto l'armamentario da studio, mettono in posa la gente del posto vestita con abiti tradizionali, e vengono proclamati santi subito. Roba come quella di Johnny B. Non il mio genere, come si può capire.
+[^nota-ritratti-africani]: Poi ci sono quelli che vogliono fare sempre di più, e vanno in Africa con troupe tipo set cinematografico, tutto l'armamentario da studio, mettono in posa la gente del posto vestita con abiti tradizionali, e vengono proclamati santi subito. Non il mio genere, come si può capire.
 
 Ma l'Africa pura non esiste forse più, e dovunque tu vada ci sono i locali che si fanno fotografare in cambio di soldi o di caramelle, ci sono i giapponesi che si appostano nei punti suggeriti dalle loro guide, e allora forse è addirittura più interessante fotografare quei romantici come Manuel e Nino che credono ancora nel viaggio avventuroso, nel mangiare da indigeni, nell'usare i *taxi-brousse* anziché le jeep con autista.
 

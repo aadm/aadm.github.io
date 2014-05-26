@@ -19,9 +19,9 @@ owner:
   linkedin:
   instagram:      aadm
   flickr:         aadm
-  tumblr:
+  tumblr:         aadm-fotografia
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/+AlessandroAmatodelMonte
+  google_plus:    plus.google.com/+AlessandroAmatodelMonte
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   'UA-32354823-1'
@@ -46,7 +46,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Rome
 future:      true
-pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
