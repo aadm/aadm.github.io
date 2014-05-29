@@ -6,7 +6,6 @@ category:
 tags: [comment, photo]
 ---
 
-
 Street photography is real big now. All photographers do street photography. Everybody *talks* about it. But this is really getting on my nerves. I mean, these trivial shots of everyday life covered with fine-art pretensions given by a bland conversion to black and white -- it's really unnerving.
 
 I am looking right now at [35mm Street](http://35mmstreet.com), which is a very good example of this trend (for other similar examples just visit the countless examples of similar stuff on various Google+ groups or other similar venues).

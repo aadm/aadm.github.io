@@ -6,12 +6,13 @@ category:
 tags: [misc, comment]
 ---
 
+_Please see below for an english version._
+
 Breve comunicazione di servizio per dire a tutti quelli che mi seguono che presto, prestissimo, riprenderanno le trasmissioni.
 
-Ho avuto da fare con trasloco, lavoro, stare con la famiglia, il collegamento internet che non si collegava, e varie altre robe che occupano la quotidianità insomma. Alcune di queste ti prosciugano mentalmente, altre sono semplicemente impegni da cui non voglio sottrarmi perché nonostante il tempo che ti prendono, ti danno in cambio sensazioni ed emozioni introvabili nell'universo (vedi le due foto qui sotto).
+Ho avuto da fare con trasloco, lavoro, stare con la famiglia, il collegamento internet che non si collegava, e varie altre robe che occupano la quotidianità insomma. Alcune di queste ti prosciugano mentalmente, altre sono semplicemente impegni da cui non voglio sottrarmi perché nonostante il tempo che ti prendono, ti danno in cambio sensazioni ed emozioni irripetibili e sfuggenti (vedi le due foto qui sotto).
 
-![](./images/20140331_AA16945.jpg)
-
+![](./images/20140331_AA16945.jpg)  
 ![](./images/20140331_AA16947.jpg)
 
 La conseguenza dunque è stata una mancanza di aggiornamenti sul mio blog da gennaio 2014, una uguale assenza da altri canali ([twitter](http://twitter.com/aadmtwi), [Google+](http://plus.google.com/+AlessandroAmatodelMonte/)) dove di tanto in tanto mi affacciavo, e una traballante pila di idee, spunti, bozze prevalentemente di argomento fotografico che avrò difficoltà a riordinare e rendere pubblica.
@@ -38,7 +39,19 @@ Infine, e in parziale contraddizione col mio allontanamento dai social network d
 * Variazioni sul tema "Dall'alto", [parte 1](http://aadm-fotografia.tumblr.com/post/86823298186/sempre-in-tema-di-concorso-fotografico-spesso-mi) e [parte 2](http://aadm-fotografia.tumblr.com/post/86823500781/oppure-se-avessi-usato-delle-fotografie-piu).
 * Valentina che fa le smorfie, [parte 1](http://aadm-fotografia.tumblr.com/post/86931116786/valentina-fa-le-smorfie-1) e [parte 2](http://aadm-fotografia.tumblr.com/post/86931497736/valentina-fa-le-smorfie-2).
 
-Have faith, stay tuned.
+---
+
+### almost the same stuff written above, but in english
+
+_This is a short post just to let the readers know that I am ready to be back on track with some brand new content -- and apologies for not being very active these past few months here or on my other channels like [twitter](http://twitter.com/aadmtwi) or [Google+](http://plus.google.com/+AlessandroAmatodelMonte/)._
+
+_I have been busy with moving to the new house, stay with my family, work and all this sort of things that simply takes your time away; I have to say, some of these things are exhausting mentally (e.g., the moving!), others are quite different, you simply enjoy having your time taken away (and that's why I've put those two photographs of my daughter Valentina)._
+
+_But I have finally sorted out a few things, and despite being in Turkey at the moment I am able to start again with some new things which I hope will be of interest to someone (if not, no worries, I mainly do this blog for myself)._
+
+_My ideas are to finally complete and put out in my Projects sections two fairly large collections on San Donato and Milano; to update my progress on my 365 project and talk a little about a Python script I've written to graphically illustrate my progress; to create my personal portfolio -- the paper one I mean, thanks to the fancy inkjet printer I'm getting soon; to tell some other Python stories related to its use in my daily work and finally talk a bit about bikes and photography in general._
+
+_Last but not least, I have setup a new Tumblr website just because it's fun and I like the look of it, where I have dumped a few photographs with slightly less editorial curation than my usual. Check it out at [aadm-fotografia.tumblr.com](http://aadm-fotografia.tumblr.com)._
 
 
 [^nota-tumblr]: Nei 4 mesi di internet shutdown che ho sofferto, ho scoperto che (1) potevo arrivare con più facilità su tumblr per mettere online delle foto, (2) avevo trovato questo template minimalista ma elegante, che mi permetteva di pubblicare foto belle grandi come piace a me. Nonostante il desiderio di semplificare le cose, a volte la voglia di novità continua ad avere il sopravvento su di me. 

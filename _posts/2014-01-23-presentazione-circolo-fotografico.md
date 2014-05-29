@@ -8,9 +8,9 @@ tags: [photo]
 
 *A settembre 2013 ho fatto una presentazione delle mie foto al circolo fotografico di San Donato. Ero parte del circolo da un anno, e mi pareva una cosa da fare sia per contribuire alla vita del circolo, sia per mettere alla prova del pubblico alcune delle mie foto. L'obiettivo era di raccontare brevemente da dove venissi, fotograficamente parlando, e mostrare alcune delle foto più care o dotate di una qualche qualità che potesse essere apprezzata anche da altri. Non ho fatto una presentazione appariscente, non c'erano effetti o transizioni speciali né una colonna sonora; ci ho parlato su, cercando di collegare con una narrativa i gruppi di foto che avevo scelto. Anche se difficile riportare per scritto quella che avevo pensato come esposizione orale, ci provo, anche per fermare nel tempo il mio primo 'outing' fotografico.* 
 
-*[Aggiornamento maggio 2014]: In una precedente versione di questo post avevo raccolto un sottoinsieme di 64 fotografie presentate sotto forma di galleria; per motivi tecnici deciso di eliminare tutti i plugin Jekyll come questo GallerView che mi davano problemi nel manutenere e nel rendere snello ed efficiente il blog, quindi mi trovo costretto a ridurre ulteriormente il numero di fotografie che vi mostro qui di seguito.*
+*[Aggiornamento maggio 2014]: In una precedente versione di questo post avevo raccolto un sottoinsieme di 64 fotografie presentate sotto forma di slideshow, comandato da un plugin Jekyll; per motivi tecnici ho deciso di eliminare tutti i plugins, visti i problemi che mi davano nel manutenere e nel rendere snello ed efficiente il blog. Rispetto dunque alla presentazione originaria fatta al circolo ho ridutto ulteriormente il numero di fotografie.*
 
-*Ho diviso in due parti questo post. La [seconda parte si trova qui](./2014-01-23-presentazione-circolo-fotografico-2.html).* 
+*Ho diviso in due parti questo post. La seconda parte si trova qui: [Presentazione Circolo Fotografico, parte 2](./2014-01-23-presentazione-circolo-fotografico-2.html).* 
 
 
 ## origini
@@ -21,7 +21,7 @@ Ultimamente ho notato che, se da un lato si constata il definitivo tracollo dal 
 
 Ora, la mia idea è che la pellicola venga osannata solo da chi non ha mai affrontato le pene dell'analogico: l'attesa prima di vedere i risultati, la delusione per interi rullini buttati via per essersi dimenticati di settare gli ISO corretti, il costo stesso di ogni singola fotografia. 
 
-Dicono questi nuovi "santoni": usate la pellicola perché insegna il rigore, l'intenzionalità, il rifiuto di affidarsi alla raffica per cogliere una buona immagine (gli americani dicono *"spray and pray"*). Ok, tutto corretto in linea di primcipio, io stesso sono un gran fautore dell'intenzionalità dello scatto; ma questa è disciplina mentale che chiunque si può imporre -- non c'è bisogno di una Yashica FX3 con rullino di Velvia per ragionare prima di scattare. 
+Dicono i nuovi santoni: usate la pellicola perché insegna il rigore, l'intenzionalità, il rifiuto di affidarsi alla raffica per cogliere una buona immagine (gli americani dicono *"spray and pray"*). Ok, tutto corretto in linea di primcipio, io stesso sono un gran fautore dell'intenzionalità dello scatto; ma questa è disciplina mentale che chiunque si può imporre -- non c'è bisogno di una Yashica FX3 con rullino di Velvia per ragionare prima di scattare. 
 
 ![](/images/circolo-sdm-2013-09/TateMarsyas03.jpg)
 
@@ -117,20 +117,17 @@ Ho fatto fotografie quando il tempo minacciava:
 
 *Bagnino/1, Rosamarina (Marina di Ostuni), Nikon D600, 70-300mm f/4.5-5.6.* 
 
-
 Quando alle sette del mattino c'era quella luce meravigliosa che solo dopo mezz'ora scompare e diventa accecante;
 
 ![](/images/circolo-sdm-2013-09/D7K6398 PORTRA160.jpg)
 
 *Bagnino/2, Rosamarina (Marina di Ostuni), Nikon D7000, 50mm f/1.4.* 
 
-
 Ci sono ritornato al pomeriggio, quando finalmente la spiaggia si inizia a svuotare e qualcuno lascia un qualcosa di tricolore;
 
 ![](/images/circolo-sdm-2013-09/D7K6339 PORTRA160.jpg)
 
 *Tricolore, Rosamarina (Marina di Ostuni), Nikon D7000, Nikkor-H 85mm f/1.8.*
-
 
 Ho fotografato vecchi signori che leggono e mamme che passeggiano sul bagnasciuga con un bimbo piccolo piccolo:
 
@@ -139,7 +136,6 @@ Ho fotografato vecchi signori che leggono e mamme che passeggiano sul bagnasciug
 ![](/images/circolo-sdm-2013-09/D7K6231 PORTRA160.jpg)
 
 *Letture e mamma con bimbo, Rosamarina (Marina di Ostuni), Nikon D7000, 35mm f/1.8G.*  
-
 
 Il povero illuso che fa jogging solo durante i mesi estivi che tu gli vuoi dire che non è davvero il momento ideale dell'anno per riscoprirsi sportivi;
 
@@ -174,7 +170,7 @@ Ho fotografato sopratutto questo signore, che vedo ogni anno, puntuale, tutti i 
 
 # paesaggi urbani
 
-Dopo il mare arriva scontatamente la foto di paesaggio, ma anziché le solite foto di paesaggi naturali, mostro qui dei paesaggi urbani.
+Dopo il mare arriva scontatamente la foto di paesaggio, ma anziché le solite foto di paesaggi naturali, mostro qui dei paesaggi urbani. I paesaggi naturali, quelli sono nella [seconda parte](./2014-01-23-presentazione-circolo-fotografico-2.html).
 
 Le prime due sono vecchie foto scannerizzate da diapositiva con un certo valore storico:
 
@@ -212,5 +208,10 @@ Non ne faccio mistero di preferire i panorami nostrani:
 ![](images/circolo-sdm-2013-09/20130413_AA02274.NEF.jpg)
 
 *Tetti di Parma, Nikon D600, 85mm f/1.8G.* 
+
+![](images/circolo-sdm-2013-09/IMG_6275.jpg)
+
+*Aereo su San Donato Milanese, iPhone 4S.* 
+
 
 **fine parte 1, [clicca qui](./2014-01-23-presentazione-circolo-fotografico-2.html) per la seconda parte**

@@ -3,28 +3,27 @@ layout: post
 title: "fotografia di strada"
 description: ""
 category: 
-tags: [photo]
+tags: [photo, comment]
 ---
 
-Also see here: <http://gist.io/6087078>
 
-{% gist parkr/931c1c8d465a04042403 %}
+<!-- {% gist parkr/931c1c8d465a04042403 %} -->
 
+La *street photography* e' diventato un raccoglitore che comprende di tutto,  basta guardare i vari gruppi di Google+ e Flickr dedicati.
 
-La *street photography* e' diventato un raccoglitore che comprende di tutto, basta bazzicare i vari gruppi di Google+ e Flickr dedicati alla street photogaphy.
+C'e' foto di viaggio, di monumenti, primi piani di gente qualsiasi, i barboni, quelli chinati sui loro telefonini; la maggioranza sono comunque foto insulse di gente che si fa i fatti suoi in mezzo alla strada.
 
-C'e' foto di viaggio, di monumenti, primi piani di gente qualsiasi che privati del contesto diventano anonimi e inutili; la maggioranza sono comunque foto insulse di gente in mezzo alla strada che si fa i fatti suoi.
+Quelli che vogliono fare qualcosa di piu' procedono alla scontata conversione in bianco e nero, spesso sbiadito, pallido e mortificante, giusto perche' il bianconero fa molto artista.
 
-L'unico requisito sembra essere la obbligatoria conversione in bianco e nero, spesso sbiadito, pallido e mortificante, giusto perche' il bianconero fa molto artista.
+Ma non voglio stare qui a giudicare dal mio scrannetto i tanti appassionati che riversano le loro inutili immagini in rete (e che mi vedo gia' nel giro di qualche anno girare per la strada coi loro Google Glass).
 
-Fossero solo i tristi individui che riversano queste loro inutili immagini in rete (e che mi vedo gia' nel giro di qualche anno girare per la strada coi loro Google Glass), passi; in fondo e' sempre stato facile ignorare la massa.
-Ma poi c'e' gente come quello che un tempo si autodefiniva "international street photographer", e che pur nella sua superficialita' come interprete e autore ha svolto nel corso degli ultimi anni una meritevole azione di propaganda e diffusione della cultura coi suoi articoli tipo "10 things I have learnt from Elliot Erwitt".
+C'e' pero' gente come quello che un tempo si autodefiniva "international street photographer", Eric Kim, che pur nella sua superficialita' come interprete e autore ha svolto nel corso degli ultimi anni una meritevole azione di propaganda e diffusione della cultura coi suoi articoli tipo "10 things I have learnt from Elliot Erwitt".
 
-Bene, che pure un ragazzo come Eric Kim che sicuramente sa distinguere il fieno dall'avena, pubblichi [il lavoro di un tizio che scatta foto in pausa pranzo](http://erickimphotography.com/blog/2013/04/04/shooting-street-photography-as-a-corporate-pastime/), assolutamente anonime come contenuti e mediocri tecnicamente, facendolo passare come "artista", questo davvero e' troppo.
+E che Eric Kim, che sicuramente sa distinguere il fieno dall'avena, scada pure lui nella pubblicazione del [lavoro di un tizio che scatta foto in pausa pranzo](http://erickimphotography.com/blog/2013/04/04/shooting-street-photography-as-a-corporate-pastime/), anonime e mediocri, facendolo passare come "artista", questo davvero e' troppo.
 
 Fatemi provare a raccogliere i miei pensieri allora. E [fatemi sapere](./about.html) cosa ne pensate.
 
-## cos'e' la street photography
+# cos'e' la street photography
 
 Questa e' una domanda pesante, eh. Non mi metto certo a competere con altri dotati di maggior eloquio e acume del mio, ma provo a raccontare qui il nocciolo del mio pensiero, formato ai tempi del [workshop che feci nel 2013 con Giulio Di Meo](./2013-03-25-street-photography-workshop.html).
 
@@ -34,9 +33,56 @@ Lui e' essenzialmente concentrato sulle persone, e sulle loro espressioni ed att
 
 **scarpa, senigallia**
 
-Mentre non sono naturalmente portato all'interazione con sconosciuti. Ma mi sono sforzato, e forse sono caduto nell'atteggiamento opposto di chi invece si ferma a chiacchierare con sconosciuti e poi chiede i loro ritratti (vedi ad es. n.X, X, X). Anche questi (i famosi ritratti ambientati) non sono street photography per Giulio. Quindi qui non documenti piu' la persona che si comporta con naturalezza ms risulta evidente l'intromissione del fotografo.
+Mentre non sono naturalmente portato all'interazione con sconosciuti. Ma mi sforzo di farlo, perche' riconosco l'impatto e la potenza che la figura umana porta nella fotografia.
 
-Un esempio che viene spesso citato e' quello di XXX, il fotografo che spara il flash in faccia ad ignari passanti provocando quelle reazioni "forti" che indicano la pesante intromissione del fotografo.
+Ai tempi del workshop ricordo di essermi ritrovato spesso dall'altra parte della barricata, mettendomi a chiacchierare con gli sconosciuti e poi chiedere i loro ritratti (vedi ad es. n.X, X, X). Anche questi (i famosi ritratti ambientati) non sono street photography per Giulio, evidentemente perche' non hai piu' la persona che si comporta con naturalezza ms risulta evidente l'intromissione del fotografo. E' evidente come la vera ritrattistica sia tutt'altra cosa, e non e' un caso che i principali fotografi ritrattisti facciano presente come l'interazione col soggetto sia la parte piu' difficile di questo tipo di fotografia. Per la strada, un'interazione simile e' solo un sogno.
+
+La terza via e' quella di Bruce Gilden, il fotografo che spara il flash in faccia ad ignari passanti provocando quelle reazioni "forti" che indicano la pesante intromissione del fotografo.
+
+Quindi abbiamo gia' tre modi diversi di ritrarre le persone nella street photography:
+
+1. di nascosto
+2. di comune accordo
+3. di scontro
+
+Poi c'e' una quarta via, che sarebbe quella di usare le persone come accessori alla scena (mi viene in mente la famosa fotografia di Cartier-Bresson alla scala a chiocciola col passante in bicicletta), cioe' dove il soggetto non e' solo la persona, ma e' una vera e propria foto in ambiente urbano dove la presenza di una persona e' pero' caratterizzante e probabilmente senza della quale l'immagine non funzionerebbe.
+
+Poi c'e' da considerare tutto il resto: la foto urbana senza gli elementi umani, e' ancora street photography? La foto che noi fotoamatori scattiamo quando andiamo in viaggio, e' foto documentaristica o 'street'? C'e' bisogno di levare l'elemento esotico, -- cosa che quindi renderebbe relativa l'interpretazione della fotografia di strada a seconda che l'interprete sia italiano o cileno o coreano? Le foto agli amici balordi che si ubriacano come pezze sulle strade di Birmingham, merita di essere trasferita dall'ambito personale a quello pubblico/artistico? 
+
+Riguardo l'ultimo punto, ci sono fotografi che si sono affermati con una fotografia fatta nell'ambito della cerchia di amici, magari un po' iperbelli, ovviamente giovani, scontatamente sballati -- cosa che mi spinge a chiedermi: perche' questo successo? Perche' il nostro gusto collettivo premia il guardone che ci fa entrare nella compagnia di quelli 'giusti', quelli che si divertono, quelli che se la fanno coi modelli o con le modelle? 
+
+Tornando in tema, si possono contare insomma infinite variazioni e sfumature a quella che chiamiamo street photography. Direi che l'ambientazione urbana sia un requisito abbastanza fondamentale dato il nome stesso e le origini del genere; non penso sia fondamentale discriminare tra presenza umana o meno. Tutto il resto, e' sempre la solita cosa; ricerca della condizioni di luce ideale, avere un minimo senso di decenza e non ricercare lo scatto a effetto o intromettersi nella vita altrui, soprattutto alla fine giudicare onestamente i propri scatti e chiedersi: ma questa foto, funziona o no? E' bella o e' brutta? Contiene un nocciolo di qualcosa di intrigante che possa interessare anche un pubblico minimale? qualcosa che ti faccia tornare anche dopo tanto tempo a pensare a quella scena che hai ripreso? 
+
+# pensieri scaturiti durante l'unico momento formativo che ho avuto in campo fotografico
+
+Cioe' il gia' citato [workshop di Giulio Di Meo](2013-03-25-street-photography-workshop.html).
+
+## cacciatori e pescatori
+
+Durante il workshop abbiamo avuto anche una specie di "lezione" da parte di Amedeo Novelli, uno che trita parole a velocita' doppia del normale. Ha tirato fuori una metafora che all'inizio mi sembrava interessante:
+
+> Siete cacciatori o pescatori?
+
+La risposta che bisogna dare, in questo caso, e': "pescatori". Perche' il pescatore trova la perla, o il pesce, o quello che e', nel mare delle occasioni e opportunita' che la vita di strada ti offre. Il cacciatore invece insegue la preda, la provoca magari, fino a che non cade sfinita nella tua rete. Ops, attenzione, ma non era il pescatore quello?
+
+Ecco, non ho capito una mazza di questa metafora. Si vede che non sono tipo da metafore. Manco Giulio pero', ai fini pratici, si comportava come un pacifico pescatore che attende che il pesce spontaneamente abbocchi all'amo, visto come si divertiva ad inseguire i soggetti interessanti nel piccolo teatrino della Galleria fino a che non li immortalava.
+
+## fotografia impegnata
+
+Durante questo workshop di street photography, Giulio voleva portare tutti i partecipanti sulla sua "strada", sbilanciandosi fortemente sul contenuto piuttosto che sulla tecnica, stimolando la ricerca di foto come piacciono a lui; se non ci sono persone, la foto non vale niente.
+
+Questo accento sul contenuto e' sicuramente un punto di vista liberatorio rispetto allo sterile insegnamento di diaframmi, aperture, esposizione a destra e la benedetta regola dei terzi; come ci ha detto tra una cosa e l'altra lo stesso Giulio, se volete imparare quelle cose basta andare online e in un paio di ore si impara tutto quanto quello che c'e' da imparare sulla tecnica.
+
+Mi e' piaciuto comunque parlare di quando funziona una fotografia e quando no; di come la composizione e l'idea devono guidare il fotografo, non la ricerca di una qualche espressione grafica fine a se stessa.
+
+Un piccolo, sfuggente, sentimento di inquietudine l'ho comunque provato; probabilmente dovuto al fatto che Giulio, mettendosi dichiaratamente su un piano di autore impegnato che cerca, coi suoi reportage, di fare denuncia sociale di situazioni scomode, si autoesclude dalla ricerca in cui io invece mi sento molto coinvolto; e cioe' quella di creare, semplicemente, belle immagini. E non che le sue non lo siano (vedi ad esempio Pig Iron, molto piu' efficace e della carrettata di fotografie di strada di Barcellona).
+
+Solo che ho la sensazione che quando dietro alle foto c'e' un intento "sociale", allora tutto il resto passa in secondo piano e questioni formali, tecniche, contenutistiche diventano quasi irrilevanti e tu che ricerchi semplicemente "il bello", non puoi piu' criticare.
+
+Per fortuna, ci sono autori rinomati che si 'contentano' di fare arte, e che mi sono probabilmente piu' vicini come intenzioni e come obiettivi. Ad esempio [Jay Maisel](http://www.jaymaisel.com) (vedi anche il minidocumentario di [The Big Picture](http://vimeo.com/29118097)).
+
+
+
 
 
 ## il problema della privacy
@@ -57,76 +103,59 @@ Dal punto di strettamente legale pero', riporto la citazione da un [articolo di 
 
 
 
-** vivian maier
+# cosa possiamo imparare da quelli bravi
 
-http://thenewinquiry.com/essays/permission-slips/
+## joel
 
-# joel meyerotzsdf
+[Joel Meyerowitz](link), uno di quelli "grandi", di quelli che andavano a caccia con Garry Winongrad, che ha portato il colore a laurearsi anche in campo artistico (link fotobook), in una [intervista con Ibarionex Perello](candid frame #19), ecco come si definisce:
 
-citazione Joel Meyerowitz, candid frame #19 Ibarionex Perello
+> I am an urban realist: I look what is in front of me and I photograph it.
 
-urban realist: look what is in front of me and I photograph it.
+E nel corso dell'intervista dice anche un'altra cosa da ricordare, la prossima volta che qualcuno che si e' sporcato le mani col chimico o che vi rompe le balle con l'estrema tecnicita' da cui spesso i fotografi si lasciano prendere:
 
-i had no technical experience, I didny know sbout darkroom
-i just wanted to see the pictures
+> I had no technical experience, I didn't know about darkroom -- I just wanted to see the pictures!  
 
-2013-02-20-getting-close-in-street-photography.md
+## jay
 
-2013-03-25-street-photography-workshop.md
+Jay Meisel, anche lui bravissimo fotografo (guardatevi il suo portfolio e ditemi come fare a definire street/available light/fashion photographer uno come questo qui), va in giro per New York con un corpo macchina Nikon professionale e indovinate che obiettivo?
 
-Nikon AF Nikkor 50mm f/1.4s MK II standard lens
-http://www.mir.com.my/rb/photography/companies/nikon/nikkoresources/50mmnikkor/index7.htm
+Un 28mm forse, perche' nella street photography "[you gotta get close](2013-02-20-getting-close-in-street-photography.html)" come dicono fotografi molto ma molto piu' scarsi di lui (ma presuntuosi all'eccesso)?
 
-# lenti, veloci
+No, usa un "misero" 70-300 Nikon, uno di quelli plasticosi dall'apertura variabile f4-5.6, uno di quegli obiettivi che nessun segaiolo che disquisisce di arte e tecnica sui forum online potrebbe mai prendere in considerazione perche' "lento", perche' "a 300mm non e' abbastanza incisivo" etc. etc. 
 
-Lenti nel senso di obiettivi da usare: mi sono accorto in questi due giorni quanto adori il 50mm. Mi ha permesso di fare ritratti ambientati sfocando lo sfondo o il primo piano. Mi ha permesso di rubare alcune immagini facendo degli scatti volanti. Una lente che ti permette di andare veloce insomma.
+Su Linda.com si puo' comprare una bella video intervista in cui si segue Jay Meisel in giro per New York, mentre cattura immagini bellissime e fa arte, pura e semplice, con un umile 70-300, dispensando arguti insegnamenti di fotografia.
 
-Confrontando i risultati con chi aveva focali grandangolari (28mm) o zoom tuttofare, i vantaggi sono enormi. Il 28mm costringeva Patrizio a dover ritagliare troppo, specie in situazioni affollate. Gli zoom comportavano spesso fastidiose distorsioni e incapacita' di isolare il soggetto aprendo i diaframmi (evidentemente con uno zoom di fascia alta, f2.8 o similare, il problema potrebbe risolversi, ma poi statti a puntare un cannoncino simile in faccia ai passanti... ti credo che le persone si sentono 'violate'!).
+## vivian
 
-Salto carpiato, e fatemi accennare a un bellissimo video-intervista che ho guardato recentemente; il protagonista e' Jay Meisel, bravissimo street/available light photographer (che definizioni insulse queste; guardatevi il suo portfolio, mi chiedo come fare a definire correttamente uno come questo qui). Va in giro per New York con un corpo macchina Nikon professionale e indovinate che obiettivo? Un 35mm, perche' nella street photography "you gotta get close" come dicono fotografi molto ma molto piu' scarsi di lui (ma presuntuosi all'eccesso)? Un 50mm? No, usa un "misero" 70-300 Nikon, uno di quelli plasticosi dall'apertura variabile f4-5.6, uno di quegli obiettivi che nessun segaiolo che disquisisce di arte e tecnica sui forum online potrebbe mai prendere in considerazione perche' "lento", perche' "a 300mm non e' abbastanza incisivo" etc. etc. Guardate Jay Meisel catturare immagini bellissime e fare arte, pura e semplice, con un umile 70-300! 
-E per stare in tema, avevo scritto recentemente anche io qualcosa di simile su questi presunti dettami da seguire per faer la street photography.
+Vivian Maier non dice piu' nulla ormai, visto che e' morta da tempo. La sua storia e' ben conosciuta ormai[^nota-vivian-storia], e quello che ho imparato da lei non riguarda direttamente le sue fotografie, che pure sono interessanti e in molti casi accattivanti.
 
-# amedeo novelli
+Quello che si impara da lei, anzi, a sue spese, riguarda alcuni temi che mi sono cari: le foto sono per se stessi o per la pubblica condivisione? Quanto e' importante operare una selezione sugli scatti (pena la possibile misinterpretazione da parte di chi ritrovera' le tue scatole di negativi -- o hard disk, o dropbox)?.
 
-Interessante chiacchierata fatta a velocita' doppia di Amedeo Novelli. Da ricordare:
+La storia di Vivian e' esemplare per molti versi: da un lato c'e' lei che ha scattato innumerevoli fotografie per pure gusto personale, senza mai condividerle con il mondo. E questo aspetto lo prenderei come esempio per guidare le anime che trovano una giustificazione nelle loro fotografia solo in seguito alla pubblica condivisione, partecipazione compulsiva a concorsi, necessita' di raccogliere quanti piu' "likes" possibili da parte di perfetti sconosciuti; direi a queste anime, vedete, la vera passione per la fotografia e' quella che vi porta a riprendere scene e creare immagini innanzitutto per vostro gusto personale -- la pubblica ammirazione e' un sottoprodotto su cui non avete controllo e che potrebbe arrivare cosi' come potrebbe non arrivare mai.
 
-> Siete cacciatori o pescatori?
+L'altro lato della storia e' relativo alla mancanza di supervisione e di controllo della sua opera, cosa di cui lo scaltro Maloof ha approfittato riversando in giro per la rete prima (con le prime scansioni pubblicate su flickr), e poi nel mondo intero (con libri e film), una caterva di materiale di qualita' altalenante che non fa altro se non degradare il giudizio complessivo che si puo' avere dell'opera di Vivian.
 
-La risposta che bisogna dare, in questo caso, e': "pescatori". Perche' il pescatore trova la perla, o il pesce, o quello che e', nel mare delle occasioni e opportunita' che la vita di strada ti offre. Il cacciatore invece insegue la preda, la provoca magari, fino a che non cade sfinita nella tua rete. Ops, attenzione, ma non era il pescatore quello?
+Tralasciando dunque la mia particolare antipatia per questo signore che piu' che amore per la fotografia dimostra un senso degli affari indubbiamente acuto, ma totalmente agli antipodi della mia concezione personale di fotografia, qui la colpevole principale e' la stessa Vivian che avrebbe dovuto operare selezionare, cancellare, raggruppare le sue foto -- perche' si sa che nel mondo ci sono gli avvoltoi che potrebbero piombare su di te all'improvviso e approppriarsi di quello che hai a cuore.
 
-Ecco, non ho capito una mazza di questa metafora. Si vede che non sono tipo da metafore. Manco Giulio pero', ai fini pratici, si comportava come un pacifico pescatore che attende che il pesce spontaneamente abbocchi all'amo, visto come si divertiva ad inseguire i soggetti interessanti nel piccolo teatrino della Galleria fino a che non li immortalava.
+Per una analisi e dei commenti approfonditi anche sulla questione della mancanza di background culturale manifestato da Maloof consiglio questo:
 
-Tra parentesi, interessante pensare come in inglese "scattare" si dica "to shoot", e quando dici I shot someone, vuol dire che gli hai fatto una foto, non che tu l'abbia pistolettato (ma un killer userebbe esattamente la stessa frase per dire che ha sparato a qualcuno). E interessante anche pensare a come in italiano si usi immortalare come verbo che indica l'aver fermato qualcuno nel suo 'attimo decisivo'. Interessante anche pensare agli appassionati di caccia fotografica, che si forniscono di "cannoni" da 400mm di focale per colpire, pardon, scattare foto ad uccellini e uccellacci e bestie selvatiche. Insomma, i fotografi parlano sempre di quanto siano pacifici e poi a sentirli parlare sono tutto tranne che pacifici; sono tutti quanti in realta', dal ritrattista al naturalista, le solite spietate macchine da combattimento umane, che puntano a catturare l'anima di una persona o immagini preziose (per loro) di nature sfuggenti.
+**link al vblog del ciccione**
+
+Per una lettura che sviscera a fondo la questione del pubblico/privato:
+
+**link all'articolo serio che ho su instapaper**
+
+# fine
 
 
- Gruppo vario e interessante. Sbilanciato fortemente sul contenuto piuttosto che sulla tecnica. Giulio ci ha stimolato a fare foto come piacciono a lui; se non ci sono persone, la foto non vale niente.
-
-A chi e' nuovo del campo, e' sicuramente un punto di vista interessante e probabilmente piu' liberatorio rispetto allo sterile insegnamento di diaframmi, aperture, esposizione a destra e la benedetta regola dei terzi; come ci ha detto tra una cosa e l'altra lo stesso Giulio, se volete imparare quelle cose basta andare online e in un paio di ore si impara tutto quanto quello che c'e' da imparare sulla tecnica[^nota-tecnica].
-
-[^nota-tecnica]: Forse un attimo esagerato, a mio avviso; in questi giorni sto provando a imparare la fotografia con flash ed e' tutto tranne che immediato la calibrazione in manuale di esposizione del flash e della macchina.
-
-Mi e' piaciuto comunque parlare di quando funziona una fotografia e quando no; di come la composizione e l'idea devono guidare il fotografo, non la ricerca di una qualche espressione grafica fine a se stessa.
-
-Un piccolo, sfuggente, sentimento di inquietudine l'ho comunque provato; probabilmente dovuto al fatto che Giulio, mettendosi dichiaratamente su un piano di autore impegnato che cerca, coi suoi reportage, di fare denuncia sociale di situazioni scomode, si autoesclude dalla ricerca in cui io invece mi sento molto coinvolto; e cioe' quella di creare, semplicemente, belle immagini.
-
-E non che le sue non lo siano, assolutamente (comunque ho preferito quelle di Pig Iron alla carrellata di fotografie di strada di Barcellona). Solo che quando dietro alle foto c'e' un progetto socialmente impegnato, tutto il resto passa in secondo piano e non puoi allora piu' portare la tua critica.
-
-Per fortuna, ci sono autori rinomati che si 'contentano' di fare arte, e che mi sono probabilmente piu' vicini come intenzioni e come obiettivi. Ad esempio [Jay Maisel](http://www.jaymaisel.com) (vedi anche il minidocumentario di [The Big Picture](http://vimeo.com/29118097)).
-
-Comunque, non crediate che il workshop sia stato palloso, tutt'altro! L'aspetto serio e impegnato della fotografia di Giulio e' ristretto al reportage, invece quando ci si sposta sulla fotografia di strada e' stato di un entusiasmo contagioso, perche' per lui significa andare a cercare persone e situazioni ed espressioni interessanti -- e catturarle in macchina.
+* [On sloppy street photographers](2013-07-25-on-sloppy-street-photographers.html)
+* [Street photography workshop](2013-03-25-street-photography-workshop.html)
+* [Getting close in street photography](2013-02-20-getting-close-in-street-photography.html)
+* [Only two street photos](2013-01-24-only-two-street-photos.html)
+* [Presentazione Circolo Fotografico, parte 2](2014-01-23-presentazione-circolo-fotografico-2.html)
 
 
 
 
+[^nota-vivian-storia]: In breve: Vivian faceva la balia nella Chicago degli anni '50-'60. Va in giro nel tempo libero per la citta' con una Rolleiflex e scatta migliaia di fotografie, documentando con indubbio senso artistico e un certo coraggio nell'approcciare sconosciuti, la vita di strada di quel tempo. Si tiene tutte le sue foto per se' senza mai condividerle. Anni dopo la sua morte alcuni collezionisti tra cui John Maloof (il secondo protagonista della storia di Vivian Maier, il primo sarebbero le sue foto mentre definirei la stessa Vivian un attore secondario) trovano scatole dei suoi negativi e iniziano a pubblicarle con l'evidente fine di trarne beneficio economico. L'arte, la fotografia, bah, quelle sono cose accessorie alla conquista di fama e soldi.
 
-## tecnica
-
-Giulio era dichiaratamente avverso a disquisizione tecniche. Dava per scontato la conoscenza delle regole di base della fotografia, cosa che condivido ampiamente. Era totalmente disinteressato anche di questioni relative a macchine fotografiche e obiettivi, tranne un accenno al tipo di macchina consigliata che dava nell'opuscolo illustrativo del workshop ("qualcosa di piccolo e non imponente come una reflex"; anche se poi lui stesso, dopo aver messo a disposizione una Fuji XE1, ha tirato fuori una Canon 5D MkII con uno zoom grandangolare  a corredo). Anche questo un'atteggiamento da condividere sopratutto pensando a quanti perditempo ci sono in giro con supermacchine che vengono sottosfruttate per far foto ai fiorellini e quante chiacchiere da forum ci sono in giro che parlano di morbose relazioni tra 
-
-Contrariamente a Giulio, avverso a disquisire di tecnica e di attrezzatura, qualche nota sulla mia D600. E' stato il mio primo test serio della macchina, che finora avevo usato solo in casa praticamnete. In poche parole: strabiliante su tutti i fronti. Autofocus efficace e velocissimo, resa dei colori fedele e piacevole tanto che mi sono limitato solo a ritoccare il bilanciamento del bianco su alcuni scatti e qualche crop / raddrizzamento di immagini. Eccezionale versatilita' anche in condizioni di luce scarse grazie all'intervallo di ISO sfruttabile senza alcun problema di rumore (anche se in questo tipo di fotografia la pulizia dell'immagine passa in secondo piano). Andando a guardare al 100% gli scatti piu' riusciti poi ho notato una incredibile precisione e incisivita', cosa che davvero non mi aspettavo di molti scatti fatti sollevando la macchina all'improvviso e scattando al volo.
-
-Riguardo il tipo di messaggio che dava Giulio, non sono troppo d'accordo sull'accettare immagini abbastanza approssimative nelle intenzioni e nella tecnica di scatto, e giudicate da lui 'passabili' in base al contenuto o all'idea. Secondo me, con l'attrezzatura che oggigiorno abbiamo a disposizione (e non parlo della mia D600 o delle varie Canon 5D mk II/III che ho visto in mano ad altri, ma mi riferisco alle prestazioni di una umile reflex entry level di qualsiasi marca), non e' assolutamente accettabile prendere neanche in considerazione fotografie anche con un solo accenno di mosso o inquadrature sbilenche o esposizione sbagliata.
-
-Non voglio dire che la tecnica viene prima di tutto, e ad esempio una fotografia perfetta di un fiorellino o del gattino per me resta di una inutilita' assoluta. Ma che il messaggio di una foto deve essere accompagnato dalla corretta esecuzione tecnica. E posso accettare il mosso di una fotografia che documenta un evento storico significativo degli anni '50, visto che all'epoca non c'era ne' autofocus ne' i 6400 ISO. Ma con le macchine di adesso, assolutamente no! Anche la composizione, cioe' escludere/includere elementi estranei dalla cornice del fotogramma, va assolutamente bastonata se non perfetta. E Giulio lo ha fatto, ma non abbastanza, sopratutto considerando che molti del gruppo usavano degli zoom con cui e' relativamente facile fare un ritaglio piu' efficace dell'immagine.
-
-Per inciso, io ero l'unico con un 50mm fisso, e tornando sull'aspetto della tecnica, che razza di risultati mi ha permesso di ottenere quest'obiettivo vecchio di 20 anni! E sopratutto mi sono reso conto che e' davvero l'obiettivo con cui mi trovo meglio, probabilmente perche' ho una visione abbastanza "tele" della realta', quindi trovo facile da inquadrare frammetni di realta' con un 50mm piu' che con il 35mm. Evoluzione individuale, visto che ricordo bene quanto penavo, ai tempi della Yashica FX-3, ad usare il 50mm, e quanto invece fosse stata liberatoria l'esperienza del primo viaggio americano in cui tentai un racconto un po' piu' organico di quanto vedevo in giro con la Nikon F70 e il bellissimo 35mm f/2 (che ho poi perso, o venduto, o mi e' stato rubato, non ricordo piu').

@@ -26,7 +26,7 @@ Anyway, what do I know, I have never been able to understand poetry.
 
 Having said that, I should really go back and check some of the work that Koci Hernandez has put online. He's incredibily productive, he's frickin' famous too (Emmy award winning, Pulitzer Prize nominee, assistant professor at UC Berkeley), and I hate to admit that I like some of his work (but he's definetely too frickin' successfull for my taste). 
 
-These are a few places that I want to visit soon:
+These are a few places that I need to (re)visit soon -- and which I'd recommend to visit if you're intrigued with the guy:
  
 * <http://edition.cnn.com/2012/10/14/opinion/hernandez-mobile-photography> 
 * <http://www.flickr.com/photos/koci> 
