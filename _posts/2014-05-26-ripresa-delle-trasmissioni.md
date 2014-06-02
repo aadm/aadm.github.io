@@ -13,6 +13,7 @@ Breve comunicazione di servizio per dire a tutti quelli che mi seguono che prest
 Ho avuto da fare con trasloco, lavoro, stare con la famiglia, il collegamento internet che non si collegava, e varie altre robe che occupano la quotidianità insomma. Alcune di queste ti prosciugano mentalmente, altre sono semplicemente impegni da cui non voglio sottrarmi perché nonostante il tempo che ti prendono, ti danno in cambio sensazioni ed emozioni irripetibili e sfuggenti (vedi le due foto qui sotto).
 
 ![](./images/20140331_AA16945.jpg)  
+
 ![](./images/20140331_AA16947.jpg)
 
 La conseguenza dunque è stata una mancanza di aggiornamenti sul mio blog da gennaio 2014, una uguale assenza da altri canali ([twitter](http://twitter.com/aadmtwi), [Google+](http://plus.google.com/+AlessandroAmatodelMonte/)) dove di tanto in tanto mi affacciavo, e una traballante pila di idee, spunti, bozze prevalentemente di argomento fotografico che avrò difficoltà a riordinare e rendere pubblica.
