@@ -143,10 +143,18 @@ Quindi dalla storia di Vivian Maier io traggo conforto nel continuare la mia esp
 Per un commento approfondito sulla questione della mancanza di background culturale dei curatori improvvisati come John Maloof e come questo influenzi negativamente l'opera di un altrimenti bravo fotografo, consiglio questo vblog di NNN:
 
 **link al vblog del ciccione**
+Episode 179 :: Vivian Maier
+
+http://theartofphotography.tv/episodes/179-vivian-maier/
 
 Per una bella lettura che sviscera a fondo la questione del pubblico/privato:
 
 **link all'articolo serio che ho su instapaper**
+
+What Does Art Look Like?
+By RICHARD B. WOODWARD
+http://online.wsj.com/news/articles/SB10001424052702303978304579473381260992254?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702303978304579473381260992254.html
+
 
 # inconclusione
 
