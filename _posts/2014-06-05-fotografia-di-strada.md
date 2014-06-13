@@ -150,8 +150,16 @@ Per una bella lettura che sviscera a fondo la questione del pubblico/privato:
 
 What Does Art Look Like?
 By RICHARD B. WOODWARD
-http://online.wsj.com/news/articles/SB10001424052702303978304579473381260992254?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702303978304579473381260992254.html
+http://on.wsj.com/1g3qBlt
 
+Permission Slips
+By NATHAN JURGENSON
+http://thenewinquiry.com/essays/permission-slips/
+
+Misplaced: ethics and the photographs of Vivian Maier
+by Kevin Coffee
+http://www.tandfonline.com/doi/abs/10.1080/09647775.2014.888817#.U5qSNJSwLC8
+found on Danny Lyon's blog http://dektol.wordpress.com/
 
 # inconclusione
 
