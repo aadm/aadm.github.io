@@ -7,9 +7,6 @@ tags: [photo, comment]
 published: false
 ---
 
-
-<!-- {% gist parkr/931c1c8d465a04042403 %} -->
-
 La *street photography* è diventato un raccoglitore che comprende di tutto,  basta guardare i vari gruppi di Google+ e Flickr dedicati.
 
 C'è foto di viaggio, di monumenti, primi piani di gente qualsiasi, i barboni, quelli chinati sui loro telefonini; la maggioranza sono comunque foto insulse di gente che si fa i fatti suoi in mezzo alla strada.
