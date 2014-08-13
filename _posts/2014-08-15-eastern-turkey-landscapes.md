@@ -10,7 +10,7 @@ tags: [photo]
 
 This is the second part of my selection of photographs from Eastern Turkey. 
 
-The [first part](./2014-08-13-eastern-turkey-fieldtrip.html) features cityscapes and city dwellers and people in general.
+The [first part](./2014-08-13-eastern-turkey.html) features cityscapes and city dwellers and people in general.
 
 This second part is all about landscapes and geology which hopefully would interest even those of you who are not into geology. After all, geology has at its core a certain fascination with the natural beauty you find in nature -- but sometimes those who work in the field seem to neglect this simple fact and then geology can become truly boring.
 
