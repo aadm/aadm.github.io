@@ -8,12 +8,12 @@ tags: [photo]
 
 <a href="https://www.flickr.com/photos/aadm/14832767096" title="20140530_AA19609 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3890/14832767096_a1910bbee1_c.jpg" width="800" height="534" alt="20140530_AA19609"></a>
 
+Last May I went to Eastern Turkey to see some geology. I also had the opportunity to hit the streets of cities that were unknown to me.
 
-Last June I went to Eastern Turkey to see some geology. I also had the opportunity to hit the streets of cities that were unknown to me.
+I have collected my favourite photographs in two separate posts[^nota-flickr]. This is part 1, featuring street portraits, cityscapes and other stuff I liked while walking on the streets of Adana, Kahramanmaras and Elazig.
 
-I have collected my favourite photographs in three separate posts[^nota-flickr]. This is part 1, featuring street portraits, cityscapes and other stuff I liked while walking on the streets of Adana, Kahramanmaras and Elazig.
+[Part 2](./2014-08-15-eastern-turkey-landscapes.html) is all about landscapes and geology which hopefully would interest even those of you who are not into geology. 
 
-<!-- Part 2 is all about landscapes and some non-didascalic geology. -->
 
 ***
 
@@ -33,21 +33,15 @@ I have collected my favourite photographs in three separate posts[^nota-flickr].
 
 <a href="https://www.flickr.com/photos/aadm/14899375962" title="20140530_AA19679 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3850/14899375962_d38c0548fc_c.jpg" width="800" height="534" alt="20140530_AA19679"></a>
 
-<a href="https://www.flickr.com/photos/aadm/14713755398" title="20140530_AA19721 by Alessandro Amato, on Flickr"><img src="https://farm6.staticflickr.com/5566/14713755398_441297198e_c.jpg" width="800" height="533" alt="20140530_AA19721"></a>
+<a href="https://www.flickr.com/photos/aadm/14713755398" title="20140530_AA19721 by Alessandro Amato, on Flickr"><img src="https://farm6.staticflickr.com/5566/14713755398_2672bfe189_c.jpg" width="800" height="534" alt="20140530_AA19721"></a>
 
 <a href="https://www.flickr.com/photos/aadm/14877378486" title="20140530_AA19735 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3907/14877378486_67b0e796cc_c.jpg" width="800" height="534" alt="20140530_AA19735"></a>
 
-
 <a href="https://www.flickr.com/photos/aadm/14853087001" title="20140523_AA18812 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3924/14853087001_7eb8c6b466_c.jpg" width="800" height="534" alt="20140523_AA18812"></a>
 
-
 <a href="https://www.flickr.com/photos/aadm/14669072520" title="20140530_AA19616 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3895/14669072520_83074e0852_c.jpg" width="800" height="534" alt="20140530_AA19616"></a>
->
 
 <a href="https://www.flickr.com/photos/aadm/14855374342" title="20140530_AA19729 by Alessandro Amato, on Flickr"><img src="https://farm6.staticflickr.com/5571/14855374342_1d97f7acdb_c.jpg" width="800" height="534" alt="20140530_AA19729"></a>
-
-
-
 
 <a href="https://www.flickr.com/photos/aadm/14832981996" title="20140527_AA19226 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3835/14832981996_6436103d91_c.jpg" width="800" height="534" alt="20140527_AA19226"></a>
 
@@ -64,22 +58,17 @@ I have collected my favourite photographs in three separate posts[^nota-flickr].
 
 <a href="https://www.flickr.com/photos/aadm/14669349639" title="20140527_AA19244 by Alessandro Amato, on Flickr"><img src="https://farm6.staticflickr.com/5566/14669349639_dc134fe799_c.jpg" width="800" height="534" alt="20140527_AA19244"></a>
 
-
 <center>
 <a href="https://www.flickr.com/photos/aadm/14853264784" title="20140530_AA19649 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3889/14853264784_2b700a8f9a_c.jpg" width="534" height="800" alt="20140530_AA19649"></a>
 </center>
 
-
 <a href="https://www.flickr.com/photos/aadm/14855768992" title="20140524_AA18879 by Alessandro Amato, on Flickr"><img src="https://farm6.staticflickr.com/5557/14855768992_4a29ce6be5_c.jpg" width="800" height="534" alt="20140524_AA18879"></a>
-
 
 <center>
 <a href="https://www.flickr.com/photos/aadm/14833084266" title="20140525_AA18988 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3874/14833084266_2b4bebb8c0_c.jpg" width="534" height="800" alt="20140525_AA18988"></a>
 </center>
 
-
 <a href="https://www.flickr.com/photos/aadm/14832958396" title="20140527_AA19258 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3888/14832958396_061cd11248_c.jpg" width="800" height="534" alt="20140527_AA19258"></a>
-
 
 <center>
 <a href="https://www.flickr.com/photos/aadm/14669263860" title="20140527_AA19264 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3835/14669263860_f35280a479_c.jpg" width="534" height="800" alt="20140527_AA19264"></a>
@@ -88,7 +77,6 @@ I have collected my favourite photographs in three separate posts[^nota-flickr].
 ***
 
 # OUT OF TOWN
-
 
 <a href="https://www.flickr.com/photos/aadm/14876820806" title="20140528_AA19422 by Alessandro Amato, on Flickr"><img src="https://farm6.staticflickr.com/5570/14876820806_d332f24abb_c.jpg" width="800" height="534" alt="20140528_AA19422"></a>
 
@@ -114,10 +102,9 @@ I have collected my favourite photographs in three separate posts[^nota-flickr].
 
 <a href="https://www.flickr.com/photos/aadm/14669287828" title="20140528_AA19353 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3863/14669287828_2402c3845a_c.jpg" width="800" height="534" alt="20140528_AA19353"></a>
 
-<a href="https://www.flickr.com/photos/aadm/14669291888" title="20140528_AA19350 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3842/14669291888_f9773b8902_c.jpg" width="800" height="534" alt="20140528_AA19350"></a>
+<a href="https://www.flickr.com/photos/aadm/14669291888" title="20140528_AA19350 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3842/14669291888_b7713df1d0_c.jpg" width="800" height="534" alt="20140528_AA19350"></a>
 
 <a href="https://www.flickr.com/photos/aadm/14855746295" title="20140530_AA19562 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3866/14855746295_97362ece02_c.jpg" width="800" height="534" alt="20140530_AA19562"></a>
-
 
 <a href="https://www.flickr.com/photos/aadm/14899417062" title="20140530_AA19581 by Alessandro Amato, on Flickr"><img src="https://farm6.staticflickr.com/5560/14899417062_eb3aa443f9_c.jpg" width="800" height="534" alt="20140530_AA19581"></a>
 
