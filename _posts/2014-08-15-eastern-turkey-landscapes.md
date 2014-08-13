@@ -37,6 +37,8 @@ This second part is all about landscapes and geology which hopefully would inter
 
 <a href="https://www.flickr.com/photos/aadm/14857675665" title="20140525_AA18884 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3901/14857675665_75565ee07d_c.jpg" width="800" height="534" alt="20140525_AA18884"></a>
 
+<a href="https://www.flickr.com/photos/aadm/14713172220" title="20140527_AA19208 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3925/14713172220_2696730a68_c.jpg" width="800" height="534" alt="20140527_AA19208"></a>
+
 <center><a href="https://www.flickr.com/photos/aadm/14875917533" title="20140526_AA19072 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3840/14875917533_693a7e14e4_c.jpg" width="534" height="800" alt="20140526_AA19072"></a>
 </center>
 
