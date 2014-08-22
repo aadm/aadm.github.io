@@ -152,9 +152,21 @@ What Does Art Look Like?
 By RICHARD B. WOODWARD
 http://on.wsj.com/1g3qBlt
 
+Il saggio di Jurgenson e' solo marginalmente interessato a Vivian Maier, e quello che interessa maggiormente riguarda l'insaziabile sete di condivisione che pervade l'iper-connesso mondo dei social networks, dove tutta la moderna street photography cresce rigogliosa. In misura minore, avverto anche una certa insofferenza alla costante necessita' di monetizzare qualsiasi cosa a scapito della passione pura (ma forse sono troppo sensibile su questo aspetto e potrei aver dato qui un'accezione diversa da quella intesa dall'autore). Difficile provare simpatia per Maloof:
+
+> In the film, Maloof pointedly shows his stamp on the back of her photographs to demonstrate ownership and control of Vivian-as-brand.
+> [...]
+> Structuring the film as the rescue of Maier’s artistic legacy and reputation is [...] an effort to retroactively impart her blessing on Maloof’s business of selling prints of her photos. Maloof portrays himself as the Great Man who "uncovered" the artist, taking her "out of the shadows".
+
+Quello che viene dimostrato e' come il film documentario di Maloof condivida gli stessi principi che informano la street photography contemporanea: ricerca spasmodica di attenzione ("likes", "followers", etc.), appropriazione anzi espropriazione di personaggi, vite e situazioni che si presentano davanti agli occhi del rapace street-photographer,
+
 Permission Slips
 By NATHAN JURGENSON
 http://thenewinquiry.com/essays/permission-slips/
+
+There is no single definition or universal practice of street or candid photography, but descriptions by Joel Meyerowitz and Colin Westerbeck in Bystander, Clive Scott in Street Photography, and Gilles Mora in Photo Speak all revolve around the idea of image making in a public place, where you don’t know your subjects, they don’t know you, and they are oblivious to your presence.
+
+
 
 Misplaced: ethics and the photographs of Vivian Maier
 by Kevin Coffee

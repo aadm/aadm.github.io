@@ -21,6 +21,7 @@ I have collected my favourite photographs in two separate posts[^nota-flickr]. T
 
 <center>
 <a href="https://www.flickr.com/photos/aadm/14853052491" title="20140524_AA18863 by Alessandro Amato, on Flickr"><img src="https://farm6.staticflickr.com/5581/14853052491_76720f8848_c.jpg" width="534" height="800" alt="20140524_AA18863"></a>
+<i>1 - Adana, view from hotel room.</i>
 </center>
 
 <a href="https://www.flickr.com/photos/aadm/14713739708" title="20140530_AA19707 by Alessandro Amato, on Flickr"><img src="https://farm6.staticflickr.com/5586/14713739708_764654808b_c.jpg" width="800" height="534" alt="20140530_AA19707"></a>
