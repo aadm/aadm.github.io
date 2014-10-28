@@ -3,7 +3,7 @@ layout: post
 title: "essere giovani"
 description: ""
 category: 
-tags: [photo, comment]
+tags: [photo, notes, links]
 
 ---
 

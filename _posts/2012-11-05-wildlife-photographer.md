@@ -1,7 +1,7 @@
 ---
 layout: post
 title: wildlife photographer of the year
-tags: [photo]
+tags: [photo, quote, notes]
 excerpt:
 ---
 

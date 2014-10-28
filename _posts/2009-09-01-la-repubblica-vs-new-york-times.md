@@ -1,8 +1,8 @@
 ---
 layout: post
-title: La Repubblica vs New York Times
+title: la repubblica vs new york times
 Date: 2009-09-01 23:21:00
-tags: [misc]
+tags: [notes, links]
 ---
  
 

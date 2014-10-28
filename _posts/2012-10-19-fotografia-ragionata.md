@@ -3,7 +3,7 @@ layout: post
 title: "fotografia estemporanea o ragionata"
 description: ""
 category: 
-tags: [photo, comment]
+tags: [photo, notes]
 ---
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "progetti fotografici"
 description: ""
 category:
-tags: [photo, comment]
+tags: [photo, notes, links]
 ---
 
 _Lo dico prima: questa non è una traduzione letterale del [pezzo che ho scritto in inglese]({{site.url}}/2013-11-11-photographic-projects.html). Non sono un traduttore, e quando scrivo in inglese ho un certo vocabolario ed espressioni che mi vengono e che se mi mettessi a tradurre letteralmente in italiano farei delle schifezze. Questa cosa vale anche al contrario ovviamente. Questo il motivo per cui un sacco di miei post sono scritti o in inglese o in italiano; a seconda di come mi sento li scrivo in una lingua o l'altra e li lascio così. Questa volta però mi premeva esprimere il concetto sia in inglese che italiano._ 
@@ -12,7 +12,7 @@ Il punto dunque è che la foto singola, per quanto possa venire bene o sia addir
 
 Invece mi è sempre piaciuto collegare e unire delle sequenze di foto in qualcosa di organico, in modo da raccontare una storia. E ho scoperto grazie a una conversazione sulla comunità di [On Taking Pictures](http://5by5.tv/otp) su Google+ di non essere il solo a godere del piacere del raccontare una storia per immagini (in inglese si dice con la solita efficacia "visual storytelling").
 
-Gli esempi che venivano citati dai rispettivi autori (Cody: (<http://codylovesandrea.com/blog/2013/11/10/life-in-motion>, Jessica: <http://www.sienafallsmedia.com/callandresponse/depth-3>) magari non mi piacevano, e magari gli esempi che ho portato io possono benissimo non piacere o essere giudicati come inutili -- ma chi se ne importa; scattiamo forse fotografie per gli altri o per noi stessi? Io sono di quelli che scatta per sé stesso principalmente, perché è una attività che in qualche modo inspiegabile mi appaga.
+Gli esempi che venivano citati dai rispettivi autori (Cody: [Life in Motion](http://codylovesandrea.com/blog/2013/11/10/life-in-motion), Jessica: [Call and Response](http://www.sienafallsmedia.com/callandresponse/depth-3)) magari non mi piacevano, e magari gli esempi che ho portato io possono benissimo non piacere o essere giudicati come inutili -- ma chi se ne importa; scattiamo forse fotografie per gli altri o per noi stessi? Io sono di quelli che scatta per sé stesso principalmente, perché è una attività che in qualche modo inspiegabile mi appaga.
 
 Qual'è il problema: che sembra quasi che reportage sia sempre da associare a qualcosa di straordinario: guerre in Afghanistan, i dolori di anime in pena, ex-belle ragazze drogate, delinquenti che vogliono rifarsi una vita, le morti o meglio ancora i deliri finali di un qualche vecchio parente che tira le cuoia.
 

@@ -3,7 +3,7 @@ layout: post
 title: "networked photography"
 description: ""
 category:
-tags: [photo, comment, links]
+tags: [photo, notes, links]
 ---
 
 I have always liked Craig Mod, since I read years ago his [travelogue/review of the Panasonic GF1](http://craigmod.com/journal/gf1-fieldtest/). He traveled to Himalaya, captured some great shot with this little camera, and wrote extensive and very well written thoughts about 'gear' -- linking tech talk to excellent photography and interesting, deep commentary about how it feels to use a camera to capture your emotions. So far, this has been the best review of a camera that I've ever read. And it has been that review that inspired me to abandon (although only temporarily) DSLRs and got myself that little micro 4/3 jewel that was the GF1[^nota-gf1].

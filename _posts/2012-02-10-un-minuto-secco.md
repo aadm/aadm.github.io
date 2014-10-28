@@ -2,7 +2,7 @@
 layout: post
 title: un minuto secco
 Date: 2012-02-11
-tags: [cycling, video, comment]
+tags: [cycling, video, notes]
 ---
  
 

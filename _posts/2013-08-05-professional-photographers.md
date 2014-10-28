@@ -3,7 +3,7 @@ layout: post
 title: "professional photographers"
 description: ""
 category: 
-tags: [photo,comment]
+tags: [photo,notes]
 ---
 
 
@@ -33,9 +33,9 @@ I wanted to say something about the appalling quality of the photographs that ar
 
 Which takes me back to the issue of professional photography, and the fact that very recently another local newspaper took some photographs I shot in Parma and put them out on their website without any sort of attribution. What happened is that I sent these small jpegs to the newspaper, specifically saying that I was willing to give them full-res images pending proper attribution[^nota-attribution]. I didn't get any reply, and then I discovered my small jpegs on the website. It's kind of hopeless and sad and infuriating at the same time. The reason I didn't do anything with this is that I am not making a living out of photography, there wasn't much soul in these photographs as they were simply documenting a small event in a small town, but still this is:
 
-1. disconcerting for the well-behaved and enthusiast photographer, somebody who wants to actually help a small-city newspaper, allowing them to use for free[^nota-attribution] his work and get the high-res images in return for simple and honest attribution;
-2. sad for the state in which these newspapers are run; not even a reply to my email but grab the low-quality jpgs and put them out on the website? really?
-3. infuriating to see the poor taste that the curator of these websites have, striving to just slap whatever comes to your desk just to put out some 'news'; and by extension I assume that the same kind of approach and attitude are shared also by photographers and editors -- so what I'm saying is: are these 'professionals' the ones I should envy?
+1. _disconcerting_ for the well-behaved and enthusiast photographer, somebody who wants to actually help a small-city newspaper, allowing them to use for free his work and get the high-res images in return for simple and honest attribution;
+2. _sad_ for the state in which these newspapers are run; not even a reply to my email but grab the low-quality jpgs and put them out on the website? really?
+3. _infuriating_ to see the poor taste that the curator of these websites have, striving to just slap whatever comes to your desk just to put out some 'news'; and by extension I assume that the same kind of approach and attitude are shared also by photographers and editors -- so what I'm saying is: are these 'professionals' the ones I should envy?
 
 <a href="http://www.flickr.com/photos/aadm/9447711526/" title="Screen Shot 2013-06-06 at 18.40.43 by aadm, on Flickr"><img src="http://farm4.staticflickr.com/3739/9447711526_836c50eccb_c.jpg" width="720" height="800" alt="Screen Shot 2013-06-06 at 18.40.43"></a>
 

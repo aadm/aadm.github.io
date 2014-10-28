@@ -3,7 +3,7 @@ layout: post
 title: "ripresa delle trasmissioni"
 description: ""
 category: 
-tags: [misc, comment]
+tags: [misc, notes]
 ---
 
 _Please see below for an english version._

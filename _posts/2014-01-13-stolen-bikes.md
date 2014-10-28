@@ -3,7 +3,7 @@ layout: post
 title: "stolen bikes and new bike"
 description: ""
 category:
-tags: [photo, video, comment, cycling]
+tags: [photo, video, notes, cycling]
 ---
 
 # two stolen bikes

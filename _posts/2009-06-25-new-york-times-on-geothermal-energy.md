@@ -2,7 +2,7 @@
 layout: post
 title: new york times on geothermal energy
 Date: 2009-06-25 12:29:00
-tags: [misc, comment]
+tags: [misc, notes, links]
 ---
  
 

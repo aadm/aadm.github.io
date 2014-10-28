@@ -3,7 +3,7 @@ layout: post
 title: "direttamente dal cassetto"
 description: ""
 category: 
-tags: [misc, links, comment]
+tags: [misc, links, notes]
 ---
 
 

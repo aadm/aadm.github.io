@@ -1,9 +1,9 @@
----
+s---
 layout: post
 title: "hernandez on mobile photography tools"
 description: ""
 category: 
-tags: [links, photo, comment, video]
+tags: [links, photo, notes, video]
 ---
 
 [Richard Koci Hernandez](http://kocistudios.com/about-koci/) made this video asking if "mobile photography has made us more reliant on tools than on our eyes":

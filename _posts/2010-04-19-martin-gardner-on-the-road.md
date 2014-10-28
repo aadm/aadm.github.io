@@ -1,7 +1,7 @@
 ---
 layout: post
 title: martin gardner on the road
-tags: [misc, comment]
+tags: [notes, quote]
 ---
  
 

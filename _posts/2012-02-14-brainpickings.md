@@ -2,7 +2,7 @@
 layout: post
 title: brainpickings
 Date: 2012-02-14
-tags: comment
+tags: [notes, links, quote]
 ---
  
 

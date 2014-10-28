@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "dogs chasing fake rabbits"
-tags: [misc, comment]
+tags: [misc, notes, moto]
 excerpt:
 ---
 

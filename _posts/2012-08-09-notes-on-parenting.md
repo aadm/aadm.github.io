@@ -3,7 +3,7 @@ layout: post
 title: "notes on parenting"
 description: ""
 category: 
-tags: [quote, links, comment]
+tags: [quote, links, notes]
 ---
 
 

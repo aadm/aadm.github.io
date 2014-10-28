@@ -2,7 +2,7 @@
 layout: post
 title: montanari incapaci
 Date: 2010-06-15 22:12:00
-tags: [misc, comment]
+tags: [misc, notes]
 ---
  
 

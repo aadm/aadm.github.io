@@ -1,8 +1,8 @@
 ---
 layout: post
-title: making a really good coffe
+title: making a really good coffee
 Date: 2011-03-08 23:08
-tags: [quote, comment]
+tags: [links, misc]
 ---
  
 

@@ -2,7 +2,7 @@
 layout: post
 title: definition of myself
 Date: 2006-09-15 05:46:00
-tags: [comment, quote]
+tags: [misc, quote]
 ---
  
 

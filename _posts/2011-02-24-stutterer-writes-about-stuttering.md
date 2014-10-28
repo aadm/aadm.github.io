@@ -2,7 +2,7 @@
 layout: post
 title: stutterer writes about stuttering
 Date: 2011-02-24 21:10
-tags: [links, comment]
+tags: [links]
 ---
  
 

@@ -2,7 +2,7 @@
 layout: post
 title: salviamo i ciclisti
 Date: 2012-02-15
-tags: [comment, cycling, photo]
+tags: [misc, cycling, photo]
 ---
  
 
