@@ -49,7 +49,7 @@ Valentina was 15 months old and Gemma 18 months. Maybe, hopefully, they will get
 Technically I've put here also some shots that are not really that great, I know that, but I felt that in the economy of the story they were adding something. When darkness came I used my flash which I never do so technique is lacking there; I used it off-camera with no modifiers. 
 
 
-[^google-plus-links]: If only I understand where Google+ puts the link to individual posts! So while I look for those, let me link the two blog posts of Cody (<http://codylovesandrea.com/blog/2013/11/10/life-in-motion>) and Jessica (<http://www.sienafallsmedia.com/callandresponse/depth-3/>).
+[^google-plus-links]: Google+ is a mess and can't find anymore that conversation. What I do remember is that ideas came to me after reading Jessica' posts (<http://www.sienafallsmedia.com/callandresponse/depth-3/>).
 
 [^normal-things]: The non-normal things I do are just things that I have no interest or time or desire to document photographically. Like when I go riding my bike, it is such a hurried thing that I need to focus 100% on that. Or when I used to go racing my motorbike when I was living in the UK; I only have a few snapshot of that, but I was most of the times on my own, loading the bike in rented vans, sleeping in the vans, racing my everyday bike with usually mediocre results. Sometimes the camera does not fit in even the largest of the backpacks.
 [^five-star]: And the irony of it all is that I'm writing these hippy things from a five-star hotel in Abu Dhabi.

@@ -7,7 +7,7 @@ tags: [quote, links]
  
 [150 friends (Dunbar's number)](http://www.nytimes.com/2010/12/26/opinion/26dunbar.html)
 
-I have deleted [my Facebook account a long time ago](http://aadm.tumblr.com/post/896799735/farewell-facebook-by-aadm-i-got-very-bored) and I can confirm that I can live very happily with no Facebook around.
+I have deleted [my Facebook account a long time ago](http://aadm.github.io/2010-08-03-farewell-facebook.html) and I can confirm that I can live very happily with no Facebook around.
 
 This article by Robin Dunbar (did you know about "Dunbar's number" ?) is very
 interesting however. It does say that Facebook can be a positive thing. But it
