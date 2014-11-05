@@ -10,7 +10,7 @@ Months ago [I asked the OTP community](https://plus.google.com/10397077461165829
 
 Anyway, my idea is that yes, books give you something else, something that takes you away for longer times, requiring a committment to the act of reading and comprehension that is essential if you really want to go deep into a subject.
 
-But the blogs I read are _also_ useful and fun and clever and insightful; in other words, I love "my" bloggers (how bad this word sounds to me now that I spell it out; I'd love to simply call them "writers" -- and for a short list of them [see below](#addendum-my-favourite-photography-blogs-circa-2014).
+But the blogs I read are _also_ useful and fun and clever and insightful; in other words, I love "my" bloggers (how bad this word sounds to me now that I spell it out; I'd love to simply call them "writers" -- and for a short list of them [see below](#addendum-my-favourite-photography-blogs-circa-2014)).
 
 All of this to say that I have found another one brilliant writer, and I'm simply astounded he doesn't have more recognition or traction.
 
