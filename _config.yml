@@ -79,7 +79,6 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 flickr:
   api_key:       '8105bdb9c28f61b889b7dca33d71cf8d'
 
-
 # flickr_set:
 #   gallery_tag:   'p'
 #   gallery_class: 'gallery'
@@ -110,3 +109,4 @@ flickr:
 #     parma:
 #       best_image: 20130413_AA02274.NEF.jpg
 
+exclude: [vendor]
