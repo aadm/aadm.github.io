@@ -12,10 +12,10 @@ Gem::Specification.new do |s|
   s.email = ["parkrmoore@gmail.com"]
   s.homepage = "https://github.com/jekyll/jekyll-sass-converter"
   s.licenses = ["MIT"]
-  s.rubygems_version = "2.4.3"
+  s.rubygems_version = "2.4.4"
   s.summary = "A basic Sass converter for Jekyll."
 
-  s.installed_by_version = "2.4.3" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.4.4" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 4

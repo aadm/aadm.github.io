@@ -18,10 +18,10 @@ Gem::Specification.new do |s|
   s.licenses = ["BSD"]
   s.rdoc_options = ["--exclude=ext/ffi_c/.*\\.o$", "--exclude=ffi_c\\.(bundle|so)$"]
   s.required_ruby_version = Gem::Requirement.new(">= 1.8.7")
-  s.rubygems_version = "2.4.3"
+  s.rubygems_version = "2.4.4"
   s.summary = "Ruby FFI"
 
-  s.installed_by_version = "2.4.3" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.4.4" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 4

@@ -11,10 +11,10 @@ Gem::Specification.new do |s|
   s.date = "2011-03-16"
   s.email = "rubygems@6brand.com"
   s.homepage = "http://github.com/masover/blankslate"
-  s.rubygems_version = "2.4.3"
+  s.rubygems_version = "2.4.4"
   s.summary = "BlankSlate extracted from Builder."
 
-  s.installed_by_version = "2.4.3" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.4.4" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 3

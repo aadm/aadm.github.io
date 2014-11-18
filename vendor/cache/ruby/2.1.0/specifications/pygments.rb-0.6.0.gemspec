@@ -13,10 +13,10 @@ Gem::Specification.new do |s|
   s.email = ["aman@tmm1.net"]
   s.homepage = "https://github.com/tmm1/pygments.rb"
   s.licenses = ["MIT"]
-  s.rubygems_version = "2.4.3"
+  s.rubygems_version = "2.4.4"
   s.summary = "pygments wrapper for ruby"
 
-  s.installed_by_version = "2.4.3" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.4.4" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 4

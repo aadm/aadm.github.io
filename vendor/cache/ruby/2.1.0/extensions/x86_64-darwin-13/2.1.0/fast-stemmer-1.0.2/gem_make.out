@@ -1,4 +1,4 @@
-/Users/aadm/.rvm/rubies/ruby-2.1.4/bin/ruby -r ./siteconf20141112-30375-1fktiry.rb extconf.rb 
+/Users/aadmlite/.rvm/rubies/ruby-2.1.5/bin/ruby -r ./siteconf20141118-28829-dvyxrp.rb extconf.rb 
 creating Makefile
 
 make "DESTDIR=" clean
@@ -551,5 +551,5 @@ porter_wrap.c:30:39: warning: implicit conversion loses integer precision: 'unsi
 linking shared-object stemmer.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 stemmer.bundle ./.gem.20141112-30375-4sbcdt
+/usr/bin/install -c -m 0755 stemmer.bundle ./.gem.20141118-28829-4ehodr
 installing default stemmer libraries

@@ -1,4 +1,4 @@
-/Users/aadm/.rvm/rubies/ruby-2.1.4/bin/ruby -r ./siteconf20141112-30375-107rv5.rb extconf.rb 
+/Users/aadmlite/.rvm/rubies/ruby-2.1.5/bin/ruby -r ./siteconf20141118-28829-113qjrf.rb extconf.rb 
 creating Makefile
 
 make "DESTDIR=" clean
@@ -66,5 +66,5 @@ compiling stack.c
 linking shared-object redcarpet.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 redcarpet.bundle ./.gem.20141112-30375-his7ux
+/usr/bin/install -c -m 0755 redcarpet.bundle ./.gem.20141118-28829-1sage3c
 installing default redcarpet libraries

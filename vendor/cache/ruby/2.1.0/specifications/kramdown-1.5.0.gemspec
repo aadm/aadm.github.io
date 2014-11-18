@@ -16,10 +16,10 @@ Gem::Specification.new do |s|
   s.homepage = "http://kramdown.gettalong.org"
   s.licenses = ["MIT"]
   s.rdoc_options = ["--main", "lib/kramdown/document.rb"]
-  s.rubygems_version = "2.4.3"
+  s.rubygems_version = "2.4.4"
   s.summary = "kramdown is a fast, pure-Ruby Markdown-superset converter."
 
-  s.installed_by_version = "2.4.3" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.4.4" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 4

@@ -1,4 +1,4 @@
-/Users/aadm/.rvm/rubies/ruby-2.1.4/bin/ruby -r ./siteconf20141112-30375-eja7h4.rb extconf.rb 
+/Users/aadmlite/.rvm/rubies/ruby-2.1.5/bin/ruby -r ./siteconf20141118-28829-1m5k72i.rb extconf.rb 
 creating Makefile
 
 make "DESTDIR=" clean
@@ -13,5 +13,5 @@ compiling hitimes_stats.c
 linking shared-object hitimes/2.1/hitimes.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 hitimes.bundle ./.gem.20141112-30375-klp57o/hitimes/2.1
+/usr/bin/install -c -m 0755 hitimes.bundle ./.gem.20141118-28829-1dwxky6/hitimes/2.1
 installing default hitimes libraries
