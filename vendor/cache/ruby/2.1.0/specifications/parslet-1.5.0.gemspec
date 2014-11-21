@@ -14,10 +14,10 @@ Gem::Specification.new do |s|
   s.files = ["README"]
   s.homepage = "http://kschiess.github.com/parslet"
   s.rdoc_options = ["--main", "README"]
-  s.rubygems_version = "2.4.4"
+  s.rubygems_version = "2.4.3"
   s.summary = "Parser construction library with great error reporting in Ruby."
 
-  s.installed_by_version = "2.4.4" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.4.3" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 3

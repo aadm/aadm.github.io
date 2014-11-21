@@ -18,10 +18,10 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/copiousfreetime/hitimes"
   s.licenses = ["ISC"]
   s.rdoc_options = ["--main", "README.md", "--markup", "tomdoc"]
-  s.rubygems_version = "2.4.4"
+  s.rubygems_version = "2.4.3"
   s.summary = "Hitimes is a fast, high resolution timer library for recording performance metrics.  It uses the appropriate low method calls for each system to get the highest granularity time increments possible."
 
-  s.installed_by_version = "2.4.4" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.4.3" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 4

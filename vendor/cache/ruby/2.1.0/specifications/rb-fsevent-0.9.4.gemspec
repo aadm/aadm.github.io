@@ -13,10 +13,10 @@ Gem::Specification.new do |s|
   s.email = ["thibaud@thibaud.gg", "ttilley@gmail.com"]
   s.homepage = "http://rubygems.org/gems/rb-fsevent"
   s.licenses = ["MIT"]
-  s.rubygems_version = "2.4.4"
+  s.rubygems_version = "2.4.3"
   s.summary = "Very simple & usable FSEvents API"
 
-  s.installed_by_version = "2.4.4" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.4.3" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
