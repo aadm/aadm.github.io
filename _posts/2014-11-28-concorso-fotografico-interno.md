@@ -6,7 +6,7 @@ category:
 tags: [photo]
 ---
 
-The only type of competition I have ever enjoyed is two-wheeled racing. I have raced motorbikes and mountain bikes in the past, and I will probably continue to do so once this daddy thing wears off. 
+The only type of competition I have ever enjoyed is two-wheeled racing; I have raced motorbikes and mountain bikes in the past (and I will probably continue to do so once this daddy thing wears off). 
 
 In this sort of competition there is no subjectivity; if you go faster than everybody else, you finish first. If you are slow, if you make mistakes, you finish last[^nota-winning]. I have always been a middle-pack kind of guy. But I still enjoyed racing even after finishing behind elders and youngsters, males or females -- if somebody is faster than me that is pretty darn objective and I respect that.
 
