@@ -8,21 +8,21 @@ tags: [photo]
 
 The only type of competition I have ever enjoyed is two-wheeled racing. I have raced motorbikes and mountain bikes in the past, and I will probably continue to do so once this daddy thing wears off. 
 
-There is no subjectivity in this sort of competition; you go fast, you finish first. You are slow, you make mistakes, you finish last[^nota-winning]. I have always been a middle-pack kind of guy. But still I enjoyed it even after finishing behind elders, youngsters, male, female -- if somebody is faster than me that is pretty darn objective and I respect that.
+In this sort of competition there is no subjectivity; if you go faster than everybody else, you finish first. If you are slow, if you make mistakes, you finish last[^nota-winning]. I have always been a middle-pack kind of guy. But I still enjoyed racing even after finishing behind elders and youngsters, males or females -- if somebody is faster than me that is pretty darn objective and I respect that.
 
 Photographic competitions on the other hand -- they are not for me. I mean how can you judge in any sort of objective way photographs? I'm not even able to judge my own photos and decide which one gets one star or five. One day picture "A" looks amazing, the next day I wish I've never taken it.
 
-The idea of having somebody else judging photographs and decide which onés a winner? That's the worst idea ever. But there is an entire ecosystem around photoclubs and amateurs, and I have discovered that many people get excited by this, and they seem to make photographs only to "win" something (be it an award, or social networks' "likes").
+The idea of having somebody else judging photographs and decide which one's a winner? That's the worst idea ever. But there is an entire ecosystem around photoclubs and amateurs, and I have discovered that many people get excited by this, and they seem to make photographs only to "win" something (be it an award, or social networks' "likes").
 
-But last year I decided to take part to the contest organized by my local photoclub. Partly out of respect for the group, partly because I believe in the need to feed the life of these clubs otherwise they would be dead and people would stay home watching football.
+Despite all of that, last year I decided to take part to the contest organized by my local photoclub. Partly out of respect for the group, partly because I believe in the need to feed the life of these clubs otherwise they would be dead and people would stay home watching football.
 
 I have decided to show here the photographs I have chosen for the 2013-2014 contest. The idea behind last year's contest was to show small 'portfolios' (3 pictures each) following certain themes assigned beforehand.
 
 The decision to use prints was certainly good, since the current trend in the photographic world is to avoid printing altogether. And there is so much you can discover of your own photos after you print them out; some that have hit you with their sparkles and beautiful colours may look just dull and missing a strong subject when they are transferred from the transmissive lighting of a screen to the reflective lighting of a print.
 
-And how did I fare? Not very good: all of my portfolios were pretty much ignored. And did I happen to respect or admire the photos of the many other photographers who ended up above me? Or simply understand why they were collectively judged "better" than mine? I'm afraid I did not. Not one bit.
+And how did I fare? Not very good: all of my portfolios were pretty much ignored. And did I happen to respect or admire the photos of the many other photographers who ended up above me? Or simply understand why they were collectively judged "better" than mine? I'm afraid I did not.
 
-But what happens now is that I am back on the same ship, awaiting for even more frustration. And yes, last Thursday there was the first instalment of the 2014-2015 contest, and I placed [second from last](https://www.flickr.com/photos/aadm/15899781815), which is my worst ever result. But that's the story for another time.
+What happens now is that I am back on the same ship, awaiting for even more frustration. And yes, last Thursday there was the first instalment of the 2014-2015 contest, and I placed [second from last](https://www.flickr.com/photos/aadm/15899781815), which is my worst result ever. But that's a story for another time.
 
 For now, enjoy my very unsuccessful 2013-2014 photographs.
 
