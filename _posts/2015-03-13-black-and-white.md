@@ -6,9 +6,9 @@ category:
 tags: [photo]
 ---
 
-I have had this Nikon FM2 laying around for some time now. Not seen much use in my hands though.
+I have had this Nikon FM2 laying around for some time now; not seen much use in my hands though.
 
-You see, I started taking photos when I was sixteen or seventeen with a Yashica FX3, and I don't really have any kind of nostalgia for those times when I had to wait days before realizing I missed a certain shot, or that I focused on the table _behind_ my subject.
+You see, I started taking photos when I was sixteen or seventeen with a Yashica FX3, and I don't really have any kind of nostalgia for those times when I had to wait days before realizing I missed a certain shot, or that I focused on that insignificant detail _behind_ my subject.
 
 My first digital SLR was a Nikon D70 back in 2005. And I never looked back to using film again.
 
@@ -40,7 +40,7 @@ And it will be loaded with this Acros 100 black and white.
     <a href="https://www.flickr.com/photos/aadm/16511591827" title="201409xx_FUJIACROS100_37 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8678/16511591827_79b0e9896e_c.jpg"></a>
     <figcaption>Vale in a box.</figcaption>
 </center>
-<p>
+<p></p>
 
 ## street
 
@@ -60,7 +60,7 @@ And it will be loaded with this Acros 100 black and white.
     <a href="https://www.flickr.com/photos/aadm/16531490780" title="201409xx_FUJIACROS100_24 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8599/16531490780_48a3d60df7_c.jpg"></a>
     <figcaption>Parma, La Pilotta: looking up.</figcaption>
 </center>
-<p>
+<p></p>
 
 
 ## outdoor
