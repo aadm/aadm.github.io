@@ -23,24 +23,22 @@ And it will be loaded with this Acros 100 black and white.
 ## family
 
 <center>
-    <a href="https://www.flickr.com/photos/aadm/16693069136" title="201409xx_FUJIACROS100_03 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8580/16693069136_747780c61b_c.jpg"></a>
-    <figcaption>Dylan, days before leaving for <a href="http://www.dylankier.com/blog/faces-trinidad">South America</a>.</figcaption>
-</center>
-
-<center>
     <a href="https://www.flickr.com/photos/aadm/16531503390" title="201409xx_FUJIACROS100_14 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8577/16531503390_713f0e5f15_c.jpg"></a>
     <figcaption>A mother.</figcaption>
 </center>
+<p>
 
 <center>
-    <a href="https://www.flickr.com/photos/aadm/16531511760" title="201409xx_FUJIACROS100_13 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8574/16531511760_c48d7da0da_c.jpg"></a>
-    <figcaption>Family portrait with cyclist and random stroller.</figcaption>
+    <a href="https://www.flickr.com/photos/aadm/16693069136" title="201409xx_FUJIACROS100_03 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8580/16693069136_747780c61b_c.jpg"></a>
+    <figcaption>Dylan, days before leaving for <a href="http://www.dylankier.com/blog/faces-trinidad">South America</a>.</figcaption>
 </center>
+<p>
 
 <center>
     <a href="https://www.flickr.com/photos/aadm/16511591827" title="201409xx_FUJIACROS100_37 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8678/16511591827_79b0e9896e_c.jpg"></a>
     <figcaption>Vale in a box.</figcaption>
 </center>
+<p>
 
 ## street
 
@@ -48,16 +46,20 @@ And it will be loaded with this Acros 100 black and white.
     <a href="https://www.flickr.com/photos/aadm/16531497000" title="201409xx_FUJIACROS100_23 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8671/16531497000_4ca5855b91_c.jpg"></a>
     <figcaption>Parma, La Pilotta: dark alleyway.</figcaption>
 </center>
+<p>
+
+<center>
+    <a href="https://www.flickr.com/photos/aadm/16717644631" title="201409xx_FUJIACROS100_26 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8572/16717644631_8bdc81f7fa_c.jpg"></a>
+    <figcaption>Parma, piazza Duomo: cobblestones.</figcaption>
+</center>
+<p>
 
 <center>
     <a href="https://www.flickr.com/photos/aadm/16531490780" title="201409xx_FUJIACROS100_24 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8599/16531490780_48a3d60df7_c.jpg"></a>
     <figcaption>Parma, La Pilotta: looking up.</figcaption>
 </center>
+<p>
 
-<center>
-    <a href="https://www.flickr.com/photos/aadm/16717644631" title="201409xx_FUJIACROS100_26 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8572/16717644631_8bdc81f7fa_c.jpg"></a>
-    <figcaption>Parma, cobblestones in Piazza Duomo.</figcaption>
-</center>
 
 ## outdoor
 
@@ -65,18 +67,22 @@ And it will be loaded with this Acros 100 black and white.
     <a href="https://www.flickr.com/photos/aadm/16717824302" title="201409xx_FUJIACROS100_30 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8566/16717824302_bf4c66aa0e_c.jpg"></a>
     <figcaption>Mountain behind a window with reflections.</figcaption>
 </center>
-
-<center>
-    <a href="https://www.flickr.com/photos/aadm/16717616531" title="201409xx_FUJIACROS100_31 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8619/16717616531_734255cf89_c.jpg"></a>
-    <figcaption>Mountain behind a window.</figcaption>
-</center>
+<p>
 
 <center>
     <a href="https://www.flickr.com/photos/aadm/16098950093" title="201409xx_FUJIACROS100_29 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8617/16098950093_d95c7bcce3_c.jpg"></a>
     <figcaption>Sara.</figcaption>
 </center>
+<p>
+
+<center>
+    <a href="https://www.flickr.com/photos/aadm/16717616531" title="201409xx_FUJIACROS100_31 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8619/16717616531_734255cf89_c.jpg"></a>
+    <figcaption>Mountain behind a window.</figcaption>
+</center>
+<p>
 
 <center>
     <a href="https://www.flickr.com/photos/aadm/16692977766" title="201409xx_FUJIACROS100_33 by Alessandro Amato, on Flickr"><img src="https://farm9.staticflickr.com/8671/16692977766_2f0f7beec3_c.jpg"></a>
     <figcaption>Sara and Vale.</figcaption>
 </center>
+<p>
