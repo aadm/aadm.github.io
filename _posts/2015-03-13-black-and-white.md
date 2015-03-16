@@ -6,13 +6,11 @@ category:
 tags: [photo]
 ---
 
-I have had this Nikon FM2 laying around for some time now; not seen much use in my hands though.
+I have had this Nikon FM2 laying around in my house for some time now. It has not seen much action though.
 
 You see, I started taking photos when I was sixteen or seventeen with a Yashica FX3, and I don't really have any kind of nostalgia for those times when I had to wait days before realizing I missed a certain shot, or that I focused on that insignificant detail _behind_ my subject.
 
-My first digital SLR was a Nikon D70 back in 2005. And I never looked back to using film again.
-
-But this Nikon FM2 is a lovely piece of metal, and some time ago I thought let's put some film in and give it a go. After a few half-assed attempts using expired film, I loaded a roll of Fuji Acros 100 back in September 2014, shot with it on a couple of occasions, and a couple of weeks ago I finally got it developed.
+But this Nikon is a lovely piece of metal, so I said to myself, let's put some film in and give it a go. After a few half-assed attempts using expired film, I loaded a roll of Fuji Acros 100 back in September 2014, shot with it on a couple of occasions, and a couple of weeks ago I finally got it developed.
 
 And boy, was I surprised to see the results. Was I excited to look at these pictures that I almost forgot having taken.
 
