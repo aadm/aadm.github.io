@@ -1,6 +1,6 @@
 ---
 layout: post
-title: black and white
+title: "black and white"
 description: ""
 category:
 tags: [photo]
