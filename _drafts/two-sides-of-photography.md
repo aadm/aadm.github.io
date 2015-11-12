@@ -6,11 +6,14 @@ category:
 tags: [photo, comment]
 ---
 
+> Who reads poetry anyway? Only other poets.
+> (Blake Andrews, during and [interview with Bryan Formhals](http://lpvshow.com/the-lpv-show-episode-14-blake-andrews/))
+
 It is a strange place to be, this one where I am now. My passion and love for photographs (taking them, editing and discussing and commenting) is something in between two sides that I see.
 
-One side collects all those photographs that most people would judge beautiful, the kind of photographs that appear on glossy magazines, large exhibitions and contests of relevance; think Avedon, McCurry, Leibovitz and the winners of awards like Wildlife Photographer.
+On one side there are all those photographs that most people would judge beautiful, the kind of photographs that appear on glossy magazines, large exhibitions and contests of relevance; think Avedon, McCurry, Leibovitz and the winners of awards like Wildlife Photographer.
 
-On this side I also see another large (very large!) set of photographs; photographs; apologies in advance is someone feels this is blasphemy, but I would put in here also the various shots that make the homepage of Flickr, 500px and Petapixel, i.e. those technically perfect shots of surreal landscapes (blurry skies, ancient ruins, colours like you never see for real, silky smooth water) or beatiful young women with maybe wings on their back, or caressing a swan, swimming in a sea of petals, or some other silly setting like those.
+Also here another very large group of photographs; someone could say this is blasphemy, but I would put in here also the various shots that make the homepage of Flickr, 500px and Petapixel, i.e. those technically perfect shots of surreal landscapes (blurry skies, ancient ruins, colours like you never see for real, silky smooth water) or beatiful young women with maybe wings on their back, or caressing a swan, swimming in a sea of petals, or some other silly thing.
 
 These are, in other words, the photographs that are easy to enjoy, filled to the brim of fake-happiness, and that would get the approval of my mum.
 

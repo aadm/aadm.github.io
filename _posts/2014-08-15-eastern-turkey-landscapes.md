@@ -2,13 +2,14 @@
 layout: post
 title: "eastern turkey landscapes"
 description: ""
-category: 
+category:
 tags: [photo]
+share: true
 ---
 
 <a href="https://www.flickr.com/photos/aadm/14875941193" title="20140526_AA19049 by Alessandro Amato, on Flickr"><img src="https://farm6.staticflickr.com/5568/14875941193_243334a612_c.jpg" width="800" height="450" alt="20140526_AA19049"></a>
 
-This is the second part of my selection of photographs from Eastern Turkey. 
+This is the second part of my selection of photographs from Eastern Turkey.
 
 The [first part](./2014-08-13-eastern-turkey.html) features cityscapes and city dwellers and people in general.
 

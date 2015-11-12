@@ -1,17 +1,30 @@
-## "This is the data for my blog" as somebody once said
+# So Simple Theme
 
-The best definition comes from the creator of this thing (Jekyll), [Tom Preston-Werner](http://tom.preston-werner.com/):
+Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-> This is the data for my blog. It is automatically transformed by Jekyll into a static site whenever I push this repository to GitHub.
+[![Build Status](https://travis-ci.org/mmistakes/so-simple-theme.svg?branch=master)](https://travis-ci.org/mmistakes/so-simple-theme)
 
-And the explanation for doing this, again from the same guy:
+## So Simple Theme is all about:
 
-> I was tired of having my blog posts end up in a database off on some remote server. That is backwards. I've lost valuable posts that way. I want to author my posts locally in Textile or Markdown. My blog should be easily stylable and customizable any way I please. It should take care of creating a feed for me. And most of all, my site should be stored on GitHub so that I never lose data again.
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
+* Minimal embellishments and subtle animations.
+* Optional large feature images for posts and pages.
+* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
+* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
+* Support for Disqus Comments
 
-(source: <http://github.com/mojombo/mojombo.github.com>)
+![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
 
-## License
+See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
 
-I have used stuff which is copyrighted by Tom Preston-Werner and other guys: Jekyll, Jekyll Bootstrap, Google Web Fonts, Mark Reid's template. More recently I switched to a template made by Michael Rose, (<http://mademistakes.com/articles/so-simple-jekyll-theme.html>).
+---
 
-All the content and further customization is mine though, so please don't steal anything and ask me if you want to borrow something. The license I'm using is a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution (CC BY-NC-ND 3.0)</a>.
+## Getting Started
+
+So Simple takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
+
+To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+

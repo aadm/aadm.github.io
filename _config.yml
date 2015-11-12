@@ -1,112 +1,48 @@
-title:            Alessandro Amato del Monte
-description:      Things I want to remember. And some photographs too.
-logo:
-disqus_shortname:
-search:           true
-#Change url to your domain. Leave localhost server or blank when working locally.
-url:
+# Site wide configuration
 
-# Owner/author information
-owner:
-  name:           Alessandro Amato del Monte
-  avatar:
-  email:          alessandro.adm@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        aadmtwi
-  facebook:
-  github:
-  stackexchange:
-  linkedin:
-  instagram:      aadm
-  flickr:         aadm
-  tumblr:         aadm-fotografia
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    http://plus.google.com/+AlessandroAmatodelMonte
+title: aadm.github.io
+locale: en_US
+description: "photography and personal stories by Alessandro Amato del Monte"
+logo: #site-logo.png
+search: true
+url: http://localhost:4000
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:   'UA-32354823-1'
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Jekyll configuration
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: index.html
-  - title: About
-    url: about.html
-  - title: Archive
-    url: archive.html
-  - title: Tags
-    url: tags.html
-  - title: Projects
-    url: projects.html
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Rome
-future:      true
-highlighter: pygments
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:year-:month-:day-:title.html
+# permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..2
   use_coderay: false
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
-# exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-
-# markdown:      redcarpet
-# redcarpet:
-#   extensions: ["smart","tables", "no_intra_emphasis", "autolink"]
-
-
-flickr:
-  api_key:       '8105bdb9c28f61b889b7dca33d71cf8d'
-
-# flickr_set:
-#   gallery_tag:   'p'
-#   gallery_class: 'gallery'
-#   a_href:        nil
-#   a_target:      '_blank'
-#   image_rel:     ''
-#   image_size:    'l'
-#   api_key:       '8105bdb9c28f61b889b7dca33d71cf8d'
-
-
-# gallery:
-#   # path to the gallery
-#   dir: images
-#   # title for gallery index
-#   title: "Photos"
-#   # title prefix for gallery page. title=title_prefix+gallery_name
-#   title_prefix: "Photos: "
-#   # field to control sorting of galleries for the index page
-#   # (possible values are: title, date_time, best_image)
-#   sort_field: "date_time"
-#   # sizes for thumbnails
-#   thumbnail_size:
-#     x: 400
-#     y: 400
-#   # custom configuration for individual gallery
-#   # best_image is image for the index page (defaults to last image)
-#   galleries:
-#     parma:
-#       best_image: 20130413_AA02274.NEF.jpg
-
-exclude: [vendor]
+# Site owner
+owner:
+  name: Alessandro Amato del Monte
+  avatar:
+  email: alessandro.adm@gmail.com
+  twitter: aadmtwi
+  github: aadm
+  instagram: aadm
+  flickr: aadm
+  tumblr: aadm-fotografia
+  google:
+    plus: AlessandroAmatodelMonte
+    analytics: 'UA-32354823-1'
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

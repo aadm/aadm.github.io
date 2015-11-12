@@ -1,0 +1,27 @@
+//...Site footer
+
+.footer-wrapper {
+  @include clearfix;
+  margin: 2em auto;
+  text-align: center;
+  @include font-size(14);
+  font-style: italic;
+  color: $black;
+  a {color: $black;
+      &:hover {
+      border-bottom: 1px solid $link-color;
+      }
+  }
+}
+
+//...Social media icons
+.social-icons {
+  margin: 1em 0 2em;
+  a {
+    padding: 4px 8px;
+    &:hover {
+      color: lighten($black,40);
+      border-bottom: 0;
+    }
+  }
+}

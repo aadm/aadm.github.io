@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: HOME
+  url: /
+
+- title: BLOG
+  url: /blog.html
+
+- title: PROJECTS
+  url: /projects.html
+
+- title: ABOUT
+  url: /about.html
