@@ -86,9 +86,16 @@ stopserver:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-gh:	publish
-	ghp-import -m "Generate Pelican site $(DATE0)" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	git push origin $(GITHUB_PAGES_BRANCH)
+# vecchio comando per la pubblicazione su gh-pages = aadm.github.io/the-liquid-steppe
+# gh:
+# 	publish
+# 	ghp-import -m "Generate Pelican site $(DATE0)" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+# 	git push origin $(GITHUB_PAGES_BRANCH)
+
+gh:
+	publish
+	ghp-import -m "Generate Pelican site $(DATE0)" $(OUTPUTDIR)
+	git push
 
 ghmaster:
 	git add -A
@@ -118,7 +125,7 @@ ifdef NAME
 	@echo "Slug: $(SLUG)" >> $(PAGESDIR)/$(SLUG).$(EXT)
 	@echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
 	@echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
-	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
+	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT) &
 else
 	@echo 'Variable NAME is not defined.'
 	@echo 'Do make newpage NAME='"'"'Page Name'"'"

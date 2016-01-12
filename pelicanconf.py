@@ -23,7 +23,7 @@ DEFAULT_LANG = u'en'
 # '2013-07-31-weekly-snaps-17.md',
 # ]
 
-# INDEX_SAVE_AS = 'blog_index.html'
+INDEX_SAVE_AS = 'blog_index.html'
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # THEME = "pelican-bootstrap3"
@@ -97,44 +97,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# # Feeds
-# FEED_ALL_ATOM = 'feeds/all.atom.xml'
-# FEED_ALL_RSS = 'feeds/all.rss.xml'
-# CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-# CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
-# TAG_FEED_ATOM = 'feeds/%s.atom.xml'
-# TAG_FEED_RSS = 'feeds/%s.rss.xml'
-
-
-
-# MD_EXTENSIONS = ['toc', 'fenced_code', 'codehilite(css_class=highlight)', 'extra']
-
 CC_LICENSE = 'CC-BY-NC-ND'
-
-# {% gram shortcode [size] [width] [class name(s)] [title text | "title text" ["alt text"]] %}
-# You can specify a size with t, m, or l.
-
-
-
-# {% img [class name(s)] path/to/image [width [height]] [title text | "title text" ["alt text"]] %}
-# To insert an IPython notebook into your post, enable the liquid_tags.notebook plugin and add to your document:
-#
-# {% notebook filename.ipynb %}
-# The file should be specified relative to the notebooks subdirectory of the content directory. Optionally, this subdirectory can be specified in the config file:
-#
-# NOTEBOOK_DIR = 'notebooks'
-#
-
-# FLICKR_API_KEY
-# {% flickr image_id [small|medium|large] ["alt text"|'alt text'] %}
-
-# To insert youtube video into a post, enable the liquid_tags.youtube plugin, and add to your document:
-#
-# {% youtube youtube_id [width] [height] %}
-# To insert a Vimeo video into a post, enable the liquid_tags.vimeo plugin, and add to your document:
-#
-# {% vimeo vimeo_id [width] [height] %}
-
 
 # Blogroll
 # LINKS = (('Motomatters', 'https://motomatters.com/'),
@@ -159,5 +122,4 @@ TYPOGRIFY = True
 
 # code blocks with line numbers
 PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
-
 PYGMENTS_STYLE = 'tango'
