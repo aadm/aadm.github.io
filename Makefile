@@ -100,7 +100,7 @@ gh:
 ghmaster:
 	git add -A
 	git commit -m "Update $(DATE0)"
-	git push
+	git push origin source
 
 newpost:
 ifdef NAME
