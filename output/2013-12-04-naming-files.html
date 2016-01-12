@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>file naming - aadm</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="/favicon.png" rel="icon">
+
+<link rel="canonical" href="/2013-12-04-naming-files.html">
+
+        <meta name="author" content="Alessandro Amato del Monte" />
+        <meta name="keywords" content="photo,tech,apple" />
+        <meta name="description" content="File naming has always been a bit of an obsession for me. Recently, after seeing the proliferation of too many duplicate filenames in my photography folder, I decided to solve this problem once and for all. Something to bear in ..." />
+
+        <meta property="og:site_name" content="aadm" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="file naming"/>
+        <meta property="og:url" content="/2013-12-04-naming-files.html"/>
+        <meta property="og:description" content="File naming has always been a bit of an obsession for me. Recently, after seeing the proliferation of too many duplicate filenames in my photography folder, I decided to solve this problem once and for all. Something to bear in ..."/>
+        <meta property="article:published_time" content="2013-12-04" />
+            <meta property="article:section" content="misc" />
+            <meta property="article:tag" content="photo" />
+            <meta property="article:tag" content="tech" />
+            <meta property="article:tag" content="apple" />
+            <meta property="article:author" content="Alessandro Amato del Monte" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="/theme/css/bootstrap.journal.min.css" type="text/css"/>
+    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments/tango.css" rel="stylesheet">
+        <link href="/theme/css/typogrify.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+        <link href="/static/custom.css" rel="stylesheet">
+
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="/" class="navbar-brand">
+aadm            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="/pages/about.html">
+                             about
+                          </a></li>
+                         <li><a href="/pages/projects.html">
+                             projects
+                          </a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="/2013-12-04-naming-files.html"
+                       rel="bookmark"
+                       title="Permalink to file naming">
+                        file&nbsp;naming
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2013-12-04T00:00:00+01:00"> Wed 04 December 2013</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="/tag/photo.html">photo</a>
+        /
+	<a href="/tag/tech.html">tech</a>
+        /
+	<a href="/tag/apple.html">apple</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p>File naming has always been a bit of an obsession for me. Recently, after seeing the proliferation of too many duplicate filenames in my photography folder, I decided to solve this problem once and for&nbsp;all.</p>
+<p>Something to bear in mind: using programs like iPhoto or Lightroom or Aperture (also known as <span class="caps">DAM</span><sup id="fnref:nota-dam"><a class="footnote-ref" href="#fn:nota-dam" rel="footnote">1</a></sup>) you should not be worried about how to name your camera files, because these programs are made just for that, i.e. to manage your digital library and forget the intricancies of the filesystem. But for old maniacs who still like to feel like they&#8217;re in control of their files and not rely on the search tools offered by the new operating systems today (e.g., Spotlight), then carry on reading this because you could find something of&nbsp;use.</p>
+<h1>Part 0:&nbsp;assumptions</h1>
+<p>I will discuss the method as applied to my Nikon camera. Users of other cameras may need to adapt settings and terms&nbsp;accordingly.</p>
+<p>I use Aperture to manage my photographs but I&#8217;m pretty sure Lightroom users with a little bit of experience will have no trouble adapting my&nbsp;workflow.</p>
+<h1>Part 1: setting the&nbsp;camera</h1>
+<p>First of all you need to set the camera to never reset the sequential numbering. I&#8217;m also assuming you shoot raw and in Adobe color space and not sRGB so that the default filenames will have and underscore as first character (e.g., <code>_DSC0037.NEF</code>).  </p>
+<p>Then I change the naming scheme in the camera, getting rid of the default <code>DSC</code> prefix and changing it to <code>AAn</code>, where <code>n</code> is a number that goes from 0 to 9. Naturally, <code>AA</code> are my initials and you may want to change those two characters to whatever you&nbsp;like. </p>
+<p>The numerical code that completes my prefix is the key that guarantees that I will never have files with the same name, an issue that Aperture will solve by modifying it to something messy such as <code>DSC_0923 (1).NEF</code>. </p>
+<p>How it works is vey simple: say you have your brand new camera. Your prefix is set to <code>AA0</code>, so the first photo taken will have a name like <code>_AA00001.NEF</code>. After a year (or a month if you&#8217;re a prolific shooter, whatever), you will have completed a full cycle of 9999 photographs, so once you get to <code>_AA09999.NEF</code> you go back into the camera menu and change the prefix to <code>AA1</code>. So now the next photo taken will be called <code>_AA10000.NEF</code>, then <code>AA10001.NEF</code>, and so on. In this way I have unique filenames all the way up to 99,999 frames which I guess is enough for most people as the shutter in a Nikon D600 is tested for up to 150,000 activations (400,000 for professional bodies like&nbsp;D4). </p>
+<p>This is arguably the only minor annoyance in my setup, the fact that you need to remember to change the code when you approach your 9999th photo taken, but this is likely something that needs to be done only a few times along the lifespan of a&nbsp;camera. </p>
+<h1>Part 2: setting the&nbsp;software</h1>
+<p><em>(You can tell I&#8217;m old because I still call Aperture and Lightroom &#8220;software&#8221; or &#8220;programs&#8221; and not&nbsp;&#8220;apps&#8221;.)</em> </p>
+<p>After setting up the camera I have Aperture renaming automatically my files during import. The renaming scheme is&nbsp;this:</p>
+<div class="highlight"><pre><span class="p">[</span><span class="n">image</span> <span class="n">year</span><span class="p">][</span><span class="n">image</span> <span class="n">month</span><span class="p">][</span><span class="n">image</span> <span class="n">day</span><span class="p">][</span><span class="n">original</span> <span class="n">file</span> <span class="n">name</span><span class="p">]</span>
+</pre></div>
+
+
+<p>I apply this scheme to my versions (i.e., the virtual copies in Aperture&#8217;s terminology) as well as to the original files. So that from <code>_AA10000.NEF</code> I eventually get to a file named <code>20131203_AA10000.NEF</code>.</p>
+<p>And that&#8217;s a file name that tells me all that I need to know when I look into a directory like the nerd I still am. I have the date when that file was captured and I know whether or not it&#8217;s been taken when my D600 was still young or in its later days. Incidentally, by adding the extra information on capture date, I also have no fear or ever getting duplicate names again, even if I would abuse of my camera and take more than 100,000&nbsp;photos.</p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:nota-dam">
+<p><span class="caps">DAM</span>, or Digital Asset Management application, i.e. a program like Aperture or Lightroom or Adobe Bridge. Another one of those stupid acronyms invented to make life harder for non-techie.&#160;<a class="footnote-backref" href="#fnref:nota-dam" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+
+    <style type="text/css">
+    #navcontainer ul
+    {
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    }
+    #navcontainer ul li { display: inline; }
+    #navcontainer ul li a { padding: 1em 3em; }
+    </style>
+
+    <div id="navcontainer">
+    <ul id="navlist">
+        <li><a href="/2013-11-22-ciao-alfonsine.html"><i class="fa fa-angle-left"></i> PREVIOUS</a></li>
+        <li><a href="/2013-12-05-branzino.html">NEXT <i class="fa fa-angle-right"></i></a></li>
+    </div>
+
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2005-2015 Alessandro Amato del Monte              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+    Content is
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0 International License</a>.
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-angle-up"></i> <a href="#">TOP</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
+
+
+</body>
+</html>
