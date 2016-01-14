@@ -54,16 +54,24 @@ h1,h2,h3,h4,h5,h6 {
     border-style:hidden;
 }
 
+/*figure .image {
+    width: 100%;
+}*/
+
+figure {
+    text-align: center;
+    display: table;
+    max-width: 100%; /* demo; set some amount (px or %) if you can */
+    margin: 10px auto; /* not needed unless you want centered */
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 figcaption{
     font-style: italic;
     margin-top: 0.5em;
     margin-bottom: 2em;
     text-align: center;
-}
-
-figure {
-    margin-top: 2em;
-    margin-bottom: 2em;
 }
 
 pre{
