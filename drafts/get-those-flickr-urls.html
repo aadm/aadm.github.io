@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>get-those-flickr-urls - aadm</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="http://aadm.github.io/favicon.png" rel="icon">
+
+<link rel="canonical" href="http://aadm.github.io/drafts/get-those-flickr-urls.html">
+
+        <meta name="author" content="Alessandro Amato del Monte" />
+        <meta name="keywords" content="tech,python" />
+        <meta name="description" content="A word of warning: this is serious nerdy-land. Carry on reading if: you know what Python is you have a blog, but not the easy kind like Tumblr or Blogger, something that allows you to write in HTML (or Markdown), e.g. Pelican or Jekyll you have a Flickr account and arrange your photographs in albums you want to post ..." />
+
+        <meta property="og:site_name" content="aadm" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="get-those-flickr-urls"/>
+        <meta property="og:url" content="http://aadm.github.io/drafts/get-those-flickr-urls.html"/>
+        <meta property="og:description" content="A word of warning: this is serious nerdy-land. Carry on reading if: you know what Python is you have a blog, but not the easy kind like Tumblr or Blogger, something that allows you to write in HTML (or Markdown), e.g. Pelican or Jekyll you have a Flickr account and arrange your photographs in albums you want to post ..."/>
+        <meta property="article:published_time" content="2016-01-19" />
+            <meta property="article:section" content="misc" />
+            <meta property="article:tag" content="tech" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:author" content="Alessandro Amato del Monte" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://aadm.github.io/theme/css/bootstrap.journal.min.css" type="text/css"/>
+    <link href="http://aadm.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://aadm.github.io/theme/css/pygments/tango.css" rel="stylesheet">
+        <link href="http://aadm.github.io/theme/css/typogrify.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://aadm.github.io/theme/css/style.css" type="text/css"/>
+        <link href="http://aadm.github.io/static/custom.css" rel="stylesheet">
+
+        <link href="http://aadm.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="aadm ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://aadm.github.io/" class="navbar-brand">
+aadm            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/blog_index.html">journal</a></li>
+                    <li><a href="/pages/projects.html">projects</a></li>
+                    <li><a href="/pages/about.html">about</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <!-- <li><a href="http://aadm.github.io/blog_index.html"><i class="fa fa-th-list"></i><span class="icon-label">blog</span></a></li> -->
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="http://aadm.github.io/drafts/get-those-flickr-urls.html"
+                       rel="bookmark"
+                       title="Permalink to get-those-flickr-urls">
+                        get-those-flickr-urls
+                    </a>
+                </h1>
+            </header>
+            <div class="well well-sm">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2016-01-19T23:47:21+01:00"> 19/Jan/2016</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/tech.html">tech</a>
+        /
+	<a href="http://aadm.github.io/tag/python.html">python</a>
+    
+</footer><!-- /.post-info -->            </div>
+            <div class="entry-content">
+                <p>A word of warning: this is serious nerdy-land. Carry on reading&nbsp;if:</p>
+<ul>
+<li>you know what Python&nbsp;is</li>
+<li>you have a blog, but not the easy kind like Tumblr or Blogger, something that allows you to write in <span class="caps">HTML</span> (or Markdown), e.g. Pelican or&nbsp;Jekyll</li>
+<li>you have a Flickr account and arrange your photographs in&nbsp;albums</li>
+<li>you want to post in above blog a bunch of photos from your Flickr&nbsp;albums</li>
+</ul>
+<!-- PELICAN_END_SUMMARY -->
+
+<p>Basically you call this script&nbsp;with:</p>
+<div class="highlight"><pre>python flickr_staticurl.py ALBUM_ID
+</pre></div>
+
+
+<p>where <em>ALBUM_ID</em> is the numerical code you see in the <span class="caps">URL</span> of a Flickr Album, e.g. in the case of <em>https://www.flickr.com/photos/aadm/albums/72157656289357513</em>,<em>ALBUM_ID</em> is <em>72157656289357513</em>.</p>
+<p>What the script does is simply to print out to console a nicely formatted <code>&lt;figure&gt;</code> tag with the static <span class="caps">URL</span> of a 1600px (long-dimension) version of your original&nbsp;photo.</p>
+<p>Why would you use it over the usual web interface that Flickr has (the little curvy arrow that brings out a form to copy <span class="caps">HTML</span> or BBcode pointing at the desidered version)? Well that&#8217;s because I don&#8217;t want to do a click-fest wasting time (and bandwidth) to capture the links when I have more than a couple of photos to&nbsp;link.</p>
+<p>You obviously need albums with a reasonable number of photos (10-20 sounds good to me; if I had an album with 100 photos I wouldn&#8217;t want to post them all at&nbsp;once).</p>
+<p>Here&#8217;s the&nbsp;script:</p>
+<div class="highlight"><pre><span class="kn">import</span> <span class="nn">sys</span>
+<span class="kn">import</span> <span class="nn">flickrapi</span>
+
+<span class="n">api_key</span> <span class="o">=</span> <span class="s1">u&#39;nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn&#39;</span>
+<span class="n">api_secret</span> <span class="o">=</span> <span class="s1">u&#39;mmmmmmmmmmmmmmmm&#39;</span>
+<span class="n">user</span><span class="o">=</span>  <span class="s1">&#39;NSIDoooo@ooo&#39;</span>
+<span class="n">format</span><span class="o">=</span><span class="s1">&#39;Large 1600&#39;</span>
+<span class="n">flickr</span> <span class="o">=</span> <span class="n">flickrapi</span><span class="o">.</span><span class="n">FlickrAPI</span><span class="p">(</span><span class="n">api_key</span><span class="p">,</span> <span class="n">api_secret</span><span class="p">)</span>
+
+<span class="n">albumID</span><span class="o">=</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span>
+
+<span class="n">ff</span> <span class="o">=</span> <span class="n">flickr</span><span class="o">.</span><span class="n">photosets_getPhotos</span><span class="p">(</span><span class="n">photoset_id</span><span class="o">=</span><span class="n">albumID</span><span class="p">,</span> <span class="n">extras</span><span class="o">=</span><span class="s1">&#39;views,tags&#39;</span><span class="p">)</span>
+
+<span class="n">photolist</span><span class="o">=</span><span class="p">[]</span>
+<span class="k">for</span> <span class="n">ph</span> <span class="ow">in</span> <span class="n">ff</span><span class="p">[</span><span class="mi">0</span><span class="p">]:</span>
+    <span class="n">ii</span><span class="o">=</span><span class="n">ph</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;id&#39;</span><span class="p">)</span>
+    <span class="n">tt</span><span class="o">=</span><span class="n">ph</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;title&#39;</span><span class="p">)</span>
+    <span class="n">vv</span><span class="o">=</span><span class="n">ph</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;views&#39;</span><span class="p">)</span>
+
+
+    <span class="n">phdim</span><span class="o">=</span><span class="n">flickr</span><span class="o">.</span><span class="n">photos_getSizes</span><span class="p">(</span><span class="n">photo_id</span><span class="o">=</span><span class="n">ii</span><span class="p">,</span> <span class="n">format</span><span class="o">=</span><span class="s1">&#39;etree&#39;</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">phdim</span><span class="p">[</span><span class="mi">0</span><span class="p">]:</span>
+        <span class="k">if</span> <span class="n">i</span><span class="o">.</span><span class="n">attrib</span><span class="p">[</span><span class="s1">&#39;label&#39;</span><span class="p">]</span><span class="o">==</span><span class="s1">&#39;Large 1600&#39;</span><span class="p">:</span>
+            <span class="n">url</span><span class="o">=</span><span class="n">i</span><span class="o">.</span><span class="n">attrib</span><span class="p">[</span><span class="s1">&#39;source&#39;</span><span class="p">]</span>
+            <span class="n">xx</span><span class="o">=</span><span class="nb">int</span><span class="p">(</span><span class="n">i</span><span class="o">.</span><span class="n">attrib</span><span class="p">[</span><span class="s1">&#39;width&#39;</span><span class="p">])</span>
+            <span class="n">yy</span><span class="o">=</span><span class="nb">int</span><span class="p">(</span><span class="n">i</span><span class="o">.</span><span class="n">attrib</span><span class="p">[</span><span class="s1">&#39;height&#39;</span><span class="p">])</span>
+    <span class="k">print</span> <span class="s1">&#39;titolo={0}, id={1}, views={2}&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">tt</span><span class="p">,</span><span class="n">ii</span><span class="p">,</span><span class="n">vv</span><span class="p">)</span>
+
+    <span class="n">photolist</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s1">&#39;&lt;figure&gt;</span><span class="se">\n</span><span class="s1">&lt;a href=&quot;https://www.flickr.com/photos/{0}/{1}&quot; title=&quot;{2}&quot;&gt;&lt;img src=&quot;{3}&quot; width=&quot;{4}&quot; height=&quot;{4}&quot;&gt;&lt;/a&gt;</span><span class="se">\n</span><span class="s1">&lt;figcaption&gt;{5}&lt;/figcaption&gt;</span><span class="se">\n</span><span class="s1">&lt;/figure&gt;&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">user</span><span class="p">,</span><span class="n">ii</span><span class="p">,</span><span class="n">tt</span><span class="p">,</span><span class="n">url</span><span class="p">,</span><span class="n">xx</span><span class="p">,</span><span class="n">yy</span><span class="p">,</span><span class="n">tt</span><span class="p">))</span>
+
+<span class="k">print</span> <span class="s1">&#39;---BEGIN---&#39;</span>
+<span class="k">print</span> <span class="s1">&#39;</span><span class="se">\n\n</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">photolist</span><span class="p">)</span>
+<span class="k">print</span> <span class="s1">&#39;---END---&#39;</span>
+</pre></div>
+
+
+<p>The required information are <code>api_key</code>, <code>api_secret</code> and the user&#8217;s <span class="caps">NSID</span> (more information here: <a href="https://www.flickr.com/services/api/misc.urls.html">https://www.flickr.com/services/api/misc.urls.html</a>). The first two will be available after you <a href="https://www.flickr.com/services/api/keys/">request an <span class="caps">API</span> key</a>.</p>
+<p>The other thing you may want to change is the format of the requested photo in terms; valid formats are listed <a href="https://www.flickr.com/services/api/misc.urls.html">here</a> but the actual name to fed to the comparison above (<code>if i.attrib['label']=='Large 1600'</code>) it&#8217;s not reported there and I have found the size I wanted by trial and&nbsp;error.</p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+    <style type="text/css">
+    #navcontainer ul
+    {
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    }
+    #navcontainer ul li { display: inline; }
+    #navcontainer ul li a { padding: 1em 3em; }
+    </style>
+
+    <div id="navcontainer">
+    <ul id="navlist">
+    </div>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2005-2016 Alessandro Amato del Monte              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0 International License</a>
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-angle-up"></i> <a href="#">TOP</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://aadm.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://aadm.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://aadm.github.io/theme/js/respond.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-32354823-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+</body>
+</html>
