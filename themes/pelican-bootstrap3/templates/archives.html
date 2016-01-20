@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}archives{% endblock %}
+{% block breadcrumbs %}
+    {% if DISPLAY_BREADCRUMBS %}
+    <ol class="breadcrumb">
+        <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
+        <li class="active">archives</li>
+    </ol>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <section id="content">
+        <h1>archives</h1>
+        <div class="panel panel-default">
+          <div class="panel-heading"><h4>pages</h4></div>
+          <div class="panel-body">
+              {% for p in PAGES %}
+                  <p><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></p>
+              {% endfor %}
+          </div>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="panel-heading"><h4>articles</h4></div>
+          <div class="panel-body">
+              {% for article in dates %}
+                  <p><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                      <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}"> ({{ article.locale_date }})</time></span></p>
+              {% endfor %}
+          </div>
+        </div>
+
+        <!-- <div id="archives">
+            {% for article in dates %}
+                <p>
+                    <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+                    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a>
+                </p>
+            {% endfor %}
+        </div> -->
+    </section>
+{% endblock %}
