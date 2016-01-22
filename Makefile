@@ -37,7 +37,8 @@ help:
 	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make devserver [PORT=8000]          start/restart develop_server.sh    '
 	@echo '   make stopserver                     stop local server                  '
-	@echo '   make gh                             upload web site to github/gh-pages   '
+	@echo '   make gh                             push website to github             '
+	@echo '   make ghsrc                          push source code to github         '
 	@echo '   make newpost NAME=whatever'
 	@echo '   make newpage NAME=whatever'
 	@echo '                                                                          '
@@ -92,10 +93,10 @@ gh: publish
 	ghp-import -m "Generate Pelican site $(DATE0)" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-# ghmaster:
-# 	git add -A
-# 	git commit -m "Update $(DATE0)"
-# 	git push origin source
+ghsrc:
+	git add -A
+	git commit -a -m 'Source archive $(DATE0)'
+	git push origin source
 
 newpost:
 ifdef NAME
@@ -127,4 +128,4 @@ else
 endif
 
 
-.PHONY: html help clean regenerate serve serve-global devserver publish gh newpage newpost
+.PHONY: html help clean regenerate serve serve-global devserver publish gh ghsrc newpage newpost

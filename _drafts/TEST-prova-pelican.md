@@ -60,3 +60,33 @@ Se non funziona, controlla che `MD_EXTENSIONS` in `pelicanconf.py` sia cosi' set
     MD_EXTENSIONS = ['codehilite(css_class=highlight)','extra']
 
  Altre estensioni: [python markdown extension](http://pythonhosted.org/Markdown/extensions/)
+
+
+
+ 
+
+# {% gram shortcode [size] [width] [class name(s)] [title text | "title text" ["alt text"]] %}
+# You can specify a size with t, m, or l.
+
+
+
+# {% img [class name(s)] path/to/image [width [height]] [title text | "title text" ["alt text"]] %}
+# To insert an IPython notebook into your post, enable the liquid_tags.notebook plugin and add to your document:
+#
+# {% notebook filename.ipynb %}
+# The file should be specified relative to the notebooks subdirectory of the content directory. Optionally, this subdirectory can be specified in the config file:
+#
+# NOTEBOOK_DIR = 'notebooks'
+#
+
+# FLICKR_API_KEY
+# {% flickr image_id [small|medium|large] ["alt text"|'alt text'] %}
+
+# To insert youtube video into a post, enable the liquid_tags.youtube plugin, and add to your document:
+#
+# {% youtube youtube_id [width] [height] %}
+# To insert a Vimeo video into a post, enable the liquid_tags.vimeo plugin, and add to your document:
+#
+# {% vimeo vimeo_id [width] [height] %}
+
+
