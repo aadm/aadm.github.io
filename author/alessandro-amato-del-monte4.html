@@ -9,6 +9,162 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
+
+
+<style type="text/css">
+
+/*some stuff for output/input prompts*/
+div.cell{border:1px solid transparent;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;display:flex;flex-direction:column;align-items:stretch}div.cell.selected{border-radius:4px;border:thin #ababab solid}
+div.cell.edit_mode{border-radius:4px;border:thin #008000 solid}
+div.cell{width:100%;padding:5px 5px 5px 0;margin:0;outline:none}
+div.prompt{min-width:11ex;padding:.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em}
+@media (max-width:480px){div.prompt{text-align:left}}div.inner_cell{display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;display:flex;flex-direction:column;align-items:stretch;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;flex:1}
+div.input_area{border:1px solid #cfcfcf;border-radius:4px;background:#f7f7f7;line-height:1.21429em}
+div.prompt:empty{padding-top:0;padding-bottom:0}
+div.input{page-break-inside:avoid;display:-webkit-box;-webkit-box-orient:horizontal;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:horizontal;-moz-box-align:stretch;display:box;box-orient:horizontal;box-align:stretch;}
+div.inner_cell{width:90%;}
+div.input_area{border:1px solid #cfcfcf;border-radius:4px;background:#f7f7f7;}
+div.input_prompt{color:navy;border-top:1px solid transparent;}
+div.output_wrapper{margin-top:5px;position:relative;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;width:100%;}
+div.output_scroll{height:24em;width:100%;overflow:auto;border-radius:4px;-webkit-box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);-moz-box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);}
+div.output_collapsed{margin:0px;padding:0px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;width:100%;}
+div.out_prompt_overlay{height:100%;padding:0px 0.4em;position:absolute;border-radius:4px;}
+div.out_prompt_overlay:hover{-webkit-box-shadow:inset 0 0 1px #000000;-moz-box-shadow:inset 0 0 1px #000000;box-shadow:inset 0 0 1px #000000;background:rgba(240, 240, 240, 0.5);}
+div.output_prompt{color:darkred;}
+
+a.anchor-link:link{text-decoration:none;padding:0px 20px;visibility:hidden;}
+h1:hover .anchor-link,h2:hover .anchor-link,h3:hover .anchor-link,h4:hover .anchor-link,h5:hover .anchor-link,h6:hover .anchor-link{visibility:visible;}
+/* end stuff for output/input prompts*/
+
+
+.highlight-ipynb .hll { background-color: #ffffcc }
+.highlight-ipynb  { background: #f8f8f8; }
+.highlight-ipynb .c { color: #408080; font-style: italic } /* Comment */
+.highlight-ipynb .err { border: 1px solid #FF0000 } /* Error */
+.highlight-ipynb .k { color: #008000; font-weight: bold } /* Keyword */
+.highlight-ipynb .o { color: #666666 } /* Operator */
+.highlight-ipynb .cm { color: #408080; font-style: italic } /* Comment.Multiline */
+.highlight-ipynb .cp { color: #BC7A00 } /* Comment.Preproc */
+.highlight-ipynb .c1 { color: #408080; font-style: italic } /* Comment.Single */
+.highlight-ipynb .cs { color: #408080; font-style: italic } /* Comment.Special */
+.highlight-ipynb .gd { color: #A00000 } /* Generic.Deleted */
+.highlight-ipynb .ge { font-style: italic } /* Generic.Emph */
+.highlight-ipynb .gr { color: #FF0000 } /* Generic.Error */
+.highlight-ipynb .gh { color: #000080; font-weight: bold } /* Generic.Heading */
+.highlight-ipynb .gi { color: #00A000 } /* Generic.Inserted */
+.highlight-ipynb .go { color: #888888 } /* Generic.Output */
+.highlight-ipynb .gp { color: #000080; font-weight: bold } /* Generic.Prompt */
+.highlight-ipynb .gs { font-weight: bold } /* Generic.Strong */
+.highlight-ipynb .gu { color: #800080; font-weight: bold } /* Generic.Subheading */
+.highlight-ipynb .gt { color: #0044DD } /* Generic.Traceback */
+.highlight-ipynb .kc { color: #008000; font-weight: bold } /* Keyword.Constant */
+.highlight-ipynb .kd { color: #008000; font-weight: bold } /* Keyword.Declaration */
+.highlight-ipynb .kn { color: #008000; font-weight: bold } /* Keyword.Namespace */
+.highlight-ipynb .kp { color: #008000 } /* Keyword.Pseudo */
+.highlight-ipynb .kr { color: #008000; font-weight: bold } /* Keyword.Reserved */
+.highlight-ipynb .kt { color: #B00040 } /* Keyword.Type */
+.highlight-ipynb .m { color: #666666 } /* Literal.Number */
+.highlight-ipynb .s { color: #BA2121 } /* Literal.String */
+.highlight-ipynb .na { color: #7D9029 } /* Name.Attribute */
+.highlight-ipynb .nb { color: #008000 } /* Name.Builtin */
+.highlight-ipynb .nc { color: #0000FF; font-weight: bold } /* Name.Class */
+.highlight-ipynb .no { color: #880000 } /* Name.Constant */
+.highlight-ipynb .nd { color: #AA22FF } /* Name.Decorator */
+.highlight-ipynb .ni { color: #999999; font-weight: bold } /* Name.Entity */
+.highlight-ipynb .ne { color: #D2413A; font-weight: bold } /* Name.Exception */
+.highlight-ipynb .nf { color: #0000FF } /* Name.Function */
+.highlight-ipynb .nl { color: #A0A000 } /* Name.Label */
+.highlight-ipynb .nn { color: #0000FF; font-weight: bold } /* Name.Namespace */
+.highlight-ipynb .nt { color: #008000; font-weight: bold } /* Name.Tag */
+.highlight-ipynb .nv { color: #19177C } /* Name.Variable */
+.highlight-ipynb .ow { color: #AA22FF; font-weight: bold } /* Operator.Word */
+.highlight-ipynb .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight-ipynb .mf { color: #666666 } /* Literal.Number.Float */
+.highlight-ipynb .mh { color: #666666 } /* Literal.Number.Hex */
+.highlight-ipynb .mi { color: #666666 } /* Literal.Number.Integer */
+.highlight-ipynb .mo { color: #666666 } /* Literal.Number.Oct */
+.highlight-ipynb .sb { color: #BA2121 } /* Literal.String.Backtick */
+.highlight-ipynb .sc { color: #BA2121 } /* Literal.String.Char */
+.highlight-ipynb .sd { color: #BA2121; font-style: italic } /* Literal.String.Doc */
+.highlight-ipynb .s2 { color: #BA2121 } /* Literal.String.Double */
+.highlight-ipynb .se { color: #BB6622; font-weight: bold } /* Literal.String.Escape */
+.highlight-ipynb .sh { color: #BA2121 } /* Literal.String.Heredoc */
+.highlight-ipynb .si { color: #BB6688; font-weight: bold } /* Literal.String.Interpol */
+.highlight-ipynb .sx { color: #008000 } /* Literal.String.Other */
+.highlight-ipynb .sr { color: #BB6688 } /* Literal.String.Regex */
+.highlight-ipynb .s1 { color: #BA2121 } /* Literal.String.Single */
+.highlight-ipynb .ss { color: #19177C } /* Literal.String.Symbol */
+.highlight-ipynb .bp { color: #008000 } /* Name.Builtin.Pseudo */
+.highlight-ipynb .vc { color: #19177C } /* Name.Variable.Class */
+.highlight-ipynb .vg { color: #19177C } /* Name.Variable.Global */
+.highlight-ipynb .vi { color: #19177C } /* Name.Variable.Instance */
+.highlight-ipynb .il { color: #666666 } /* Literal.Number.Integer.Long */
+</style>
+
+<style type="text/css">
+/* Overrides of notebook CSS for static HTML export */
+div.entry-content {
+  overflow: visible;
+  padding: 8px;
+}
+.input_area {
+  padding: 0.2em;
+}
+
+a.heading-anchor {
+ white-space: normal;
+}
+
+.rendered_html
+code {
+ font-size: .8em;
+}
+
+pre.ipynb {
+  color: black;
+  background: #f7f7f7;
+  border: none;
+  box-shadow: none;
+  margin-bottom: 0;
+  padding: 0;
+  margin: 0px;
+  font-size: 13px;
+}
+
+/* remove the prompt div from text cells */
+div.text_cell .prompt {
+    display: none;
+}
+
+/* remove horizontal padding from text cells, */
+/* so it aligns with outer body text */
+div.text_cell_render {
+    padding: 0.5em 0em;
+}
+
+img.anim_icon{padding:0; border:0; vertical-align:middle; -webkit-box-shadow:none; -box-shadow:none}
+</style>
+
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+<script type="text/javascript">
+init_mathjax = function() {
+    if (window.MathJax) {
+        // MathJax loaded
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+            },
+            displayAlign: 'left', // Change this to 'center' to center equations.
+            "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}}
+            }
+        });
+        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+    }
+}
+init_mathjax();
+</script>
     <link href="http://aadm.github.io/favicon.png" rel="icon">
 
 
@@ -72,6 +228,31 @@ aadm            </a>
     <a href="http://aadm.github.io/archives.html">archives</a> / <a href="http://aadm.github.io/tags.html">tags</a>
     <p>
 
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-11-06-the-little-ipad.html">the little&nbsp;ipad</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-11-06T00:00:00+01:00"> 06/Nov/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/apple.html">apple</a>
+        /
+	<a href="http://aadm.github.io/tag/tech.html">tech</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>I wrote something about this little iPad <a href="http://aadm.github.com/2012-07-19-ipad-mini-needs.html">a while ago</a>, and on reading again that piece I find that it still represent my thoughts today. Yesterday Apple held the official announcement and among other cool things<sup id="fnref:1"><a class="footnote-ref" href="#fn:1" rel="footnote">1</a></sup> there was the iPad&nbsp;mini. </p>
+<p>I&#8217;m disappointed by two things; first is the lack of the retina display, but I now understand ...</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-11-06-the-little-ipad.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
             <article>
                 <div class="panel panel-default">
                   <div class="panel-heading">
@@ -505,7 +686,7 @@ aadm            </a>
             <article>
                 <div class="panel panel-default">
                   <div class="panel-heading">
-                      <h2><a href="http://aadm.github.io/2012-07-31-panasonic-gf1-recensione-fuori-tempo.html">panasonic <span class="caps">GF</span>-1 recensione fuori&nbsp;tempo</a></h2>
+                      <h2><a href="http://aadm.github.io/2012-07-31-panasonic-gf1-late-review.html">panasonic <span class="caps">GF</span>-1 late&nbsp;review</a></h2>
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
@@ -518,12 +699,14 @@ aadm            </a>
 	<a href="http://aadm.github.io/tag/photo.html">photo</a>
         /
 	<a href="http://aadm.github.io/tag/tech.html">tech</a>
-    
+    <span class="label label-default">Lang</span>
+	<a href="http://aadm.github.io/panasonic-gf1-late-review-it.html">it</a>
+
 </footer><!-- /.post-info -->                  </div>
                   <div class="panel-body">
                       <div class="summary"><p>È da quasi un anno che sono tornato al mondo reflex con una Nikon D7000, ma la piccola Panasonic <span class="caps">GF</span>-1 è ancora una presenza costante nel mio zaino. Nel frattempo sono uscite altre cento iterazioni della Panasonic sul tema mirrorless / micro quattroterzi ma solo l&#8217;ultima (<span class="caps">GX</span>-1) mi pare la vera evoluzione della <span class="caps">GF</span>-1<sup id="fnref:nota-gx1"><a class="footnote-ref" href="#fn:nota-gx1" rel="footnote">1</a></sup>.</p>
 <h2>recensione fuori ...</h2>
-                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-07-31-panasonic-gf1-recensione-fuori-tempo.html">more ...</a>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-07-31-panasonic-gf1-late-review.html">more ...</a>
                       </div>
                   </div>
                 </div>
@@ -547,32 +730,6 @@ aadm            </a>
                       <div class="summary"><p>This week, moody&nbsp;skies.</p>
 <p>All shots taken with a Nikon D7000 during last weekend&#8217;s walks in and around town with Giulia. I wanted to add &#8220;all shots were minimally processed except for <em>that one</em>&#8221; but the reality<sup id="fnref:1"><a class="footnote-ref" href="#fn:1" rel="footnote">1</a></sup> is that I used also some dodge and burn, at least one curve adjustment and several other little tweaks. As <a href="http://www.laroquephoto.com/blog/2012/7/19/seeing-mono.html">somebody ...</a></p>
                           <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-07-27-weekly-snaps-3.html">more ...</a>
-                      </div>
-                  </div>
-                </div>
-            <article>
-                <div class="panel panel-default">
-                  <div class="panel-heading">
-                      <h2><a href="http://aadm.github.io/2012-07-26-talking-photography.html">talking&nbsp;photography</a></h2>
-<footer class="post-info">
-    <span class="label label-default">Date</span>
-    <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2012-07-26T00:00:00+02:00"> 26/Jul/2012</time>
-    </span>
-
-
-
-<span class="label label-default">Tags</span>
-	<a href="http://aadm.github.io/tag/links.html">links</a>
-        /
-	<a href="http://aadm.github.io/tag/photo.html">photo</a>
-    
-</footer><!-- /.post-info -->                  </div>
-                  <div class="panel-body">
-                      <div class="summary"><p>There are still pearls to be found on the internet, <a href="http://aadm.github.com/2012-06-02-these-tech-writers-invettiva.html">after all</a>.</p>
-<p>In these days I have found three photography blogs which are full of interesting and well written articles; stimulating, instructive, much better of the crap that Popular Photography publishes (and I&#8217;m not even mentioning the countless websites and blogs of pixel-peepers and technology&nbsp;feticists).</p>
-<p>Worth bookmarking them ...</p>
-                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-07-26-talking-photography.html">more ...</a>
                       </div>
                   </div>
                 </div>

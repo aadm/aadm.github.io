@@ -9,6 +9,162 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
+
+
+<style type="text/css">
+
+/*some stuff for output/input prompts*/
+div.cell{border:1px solid transparent;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;display:flex;flex-direction:column;align-items:stretch}div.cell.selected{border-radius:4px;border:thin #ababab solid}
+div.cell.edit_mode{border-radius:4px;border:thin #008000 solid}
+div.cell{width:100%;padding:5px 5px 5px 0;margin:0;outline:none}
+div.prompt{min-width:11ex;padding:.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em}
+@media (max-width:480px){div.prompt{text-align:left}}div.inner_cell{display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;display:flex;flex-direction:column;align-items:stretch;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;flex:1}
+div.input_area{border:1px solid #cfcfcf;border-radius:4px;background:#f7f7f7;line-height:1.21429em}
+div.prompt:empty{padding-top:0;padding-bottom:0}
+div.input{page-break-inside:avoid;display:-webkit-box;-webkit-box-orient:horizontal;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:horizontal;-moz-box-align:stretch;display:box;box-orient:horizontal;box-align:stretch;}
+div.inner_cell{width:90%;}
+div.input_area{border:1px solid #cfcfcf;border-radius:4px;background:#f7f7f7;}
+div.input_prompt{color:navy;border-top:1px solid transparent;}
+div.output_wrapper{margin-top:5px;position:relative;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;width:100%;}
+div.output_scroll{height:24em;width:100%;overflow:auto;border-radius:4px;-webkit-box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);-moz-box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);}
+div.output_collapsed{margin:0px;padding:0px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;width:100%;}
+div.out_prompt_overlay{height:100%;padding:0px 0.4em;position:absolute;border-radius:4px;}
+div.out_prompt_overlay:hover{-webkit-box-shadow:inset 0 0 1px #000000;-moz-box-shadow:inset 0 0 1px #000000;box-shadow:inset 0 0 1px #000000;background:rgba(240, 240, 240, 0.5);}
+div.output_prompt{color:darkred;}
+
+a.anchor-link:link{text-decoration:none;padding:0px 20px;visibility:hidden;}
+h1:hover .anchor-link,h2:hover .anchor-link,h3:hover .anchor-link,h4:hover .anchor-link,h5:hover .anchor-link,h6:hover .anchor-link{visibility:visible;}
+/* end stuff for output/input prompts*/
+
+
+.highlight-ipynb .hll { background-color: #ffffcc }
+.highlight-ipynb  { background: #f8f8f8; }
+.highlight-ipynb .c { color: #408080; font-style: italic } /* Comment */
+.highlight-ipynb .err { border: 1px solid #FF0000 } /* Error */
+.highlight-ipynb .k { color: #008000; font-weight: bold } /* Keyword */
+.highlight-ipynb .o { color: #666666 } /* Operator */
+.highlight-ipynb .cm { color: #408080; font-style: italic } /* Comment.Multiline */
+.highlight-ipynb .cp { color: #BC7A00 } /* Comment.Preproc */
+.highlight-ipynb .c1 { color: #408080; font-style: italic } /* Comment.Single */
+.highlight-ipynb .cs { color: #408080; font-style: italic } /* Comment.Special */
+.highlight-ipynb .gd { color: #A00000 } /* Generic.Deleted */
+.highlight-ipynb .ge { font-style: italic } /* Generic.Emph */
+.highlight-ipynb .gr { color: #FF0000 } /* Generic.Error */
+.highlight-ipynb .gh { color: #000080; font-weight: bold } /* Generic.Heading */
+.highlight-ipynb .gi { color: #00A000 } /* Generic.Inserted */
+.highlight-ipynb .go { color: #888888 } /* Generic.Output */
+.highlight-ipynb .gp { color: #000080; font-weight: bold } /* Generic.Prompt */
+.highlight-ipynb .gs { font-weight: bold } /* Generic.Strong */
+.highlight-ipynb .gu { color: #800080; font-weight: bold } /* Generic.Subheading */
+.highlight-ipynb .gt { color: #0044DD } /* Generic.Traceback */
+.highlight-ipynb .kc { color: #008000; font-weight: bold } /* Keyword.Constant */
+.highlight-ipynb .kd { color: #008000; font-weight: bold } /* Keyword.Declaration */
+.highlight-ipynb .kn { color: #008000; font-weight: bold } /* Keyword.Namespace */
+.highlight-ipynb .kp { color: #008000 } /* Keyword.Pseudo */
+.highlight-ipynb .kr { color: #008000; font-weight: bold } /* Keyword.Reserved */
+.highlight-ipynb .kt { color: #B00040 } /* Keyword.Type */
+.highlight-ipynb .m { color: #666666 } /* Literal.Number */
+.highlight-ipynb .s { color: #BA2121 } /* Literal.String */
+.highlight-ipynb .na { color: #7D9029 } /* Name.Attribute */
+.highlight-ipynb .nb { color: #008000 } /* Name.Builtin */
+.highlight-ipynb .nc { color: #0000FF; font-weight: bold } /* Name.Class */
+.highlight-ipynb .no { color: #880000 } /* Name.Constant */
+.highlight-ipynb .nd { color: #AA22FF } /* Name.Decorator */
+.highlight-ipynb .ni { color: #999999; font-weight: bold } /* Name.Entity */
+.highlight-ipynb .ne { color: #D2413A; font-weight: bold } /* Name.Exception */
+.highlight-ipynb .nf { color: #0000FF } /* Name.Function */
+.highlight-ipynb .nl { color: #A0A000 } /* Name.Label */
+.highlight-ipynb .nn { color: #0000FF; font-weight: bold } /* Name.Namespace */
+.highlight-ipynb .nt { color: #008000; font-weight: bold } /* Name.Tag */
+.highlight-ipynb .nv { color: #19177C } /* Name.Variable */
+.highlight-ipynb .ow { color: #AA22FF; font-weight: bold } /* Operator.Word */
+.highlight-ipynb .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight-ipynb .mf { color: #666666 } /* Literal.Number.Float */
+.highlight-ipynb .mh { color: #666666 } /* Literal.Number.Hex */
+.highlight-ipynb .mi { color: #666666 } /* Literal.Number.Integer */
+.highlight-ipynb .mo { color: #666666 } /* Literal.Number.Oct */
+.highlight-ipynb .sb { color: #BA2121 } /* Literal.String.Backtick */
+.highlight-ipynb .sc { color: #BA2121 } /* Literal.String.Char */
+.highlight-ipynb .sd { color: #BA2121; font-style: italic } /* Literal.String.Doc */
+.highlight-ipynb .s2 { color: #BA2121 } /* Literal.String.Double */
+.highlight-ipynb .se { color: #BB6622; font-weight: bold } /* Literal.String.Escape */
+.highlight-ipynb .sh { color: #BA2121 } /* Literal.String.Heredoc */
+.highlight-ipynb .si { color: #BB6688; font-weight: bold } /* Literal.String.Interpol */
+.highlight-ipynb .sx { color: #008000 } /* Literal.String.Other */
+.highlight-ipynb .sr { color: #BB6688 } /* Literal.String.Regex */
+.highlight-ipynb .s1 { color: #BA2121 } /* Literal.String.Single */
+.highlight-ipynb .ss { color: #19177C } /* Literal.String.Symbol */
+.highlight-ipynb .bp { color: #008000 } /* Name.Builtin.Pseudo */
+.highlight-ipynb .vc { color: #19177C } /* Name.Variable.Class */
+.highlight-ipynb .vg { color: #19177C } /* Name.Variable.Global */
+.highlight-ipynb .vi { color: #19177C } /* Name.Variable.Instance */
+.highlight-ipynb .il { color: #666666 } /* Literal.Number.Integer.Long */
+</style>
+
+<style type="text/css">
+/* Overrides of notebook CSS for static HTML export */
+div.entry-content {
+  overflow: visible;
+  padding: 8px;
+}
+.input_area {
+  padding: 0.2em;
+}
+
+a.heading-anchor {
+ white-space: normal;
+}
+
+.rendered_html
+code {
+ font-size: .8em;
+}
+
+pre.ipynb {
+  color: black;
+  background: #f7f7f7;
+  border: none;
+  box-shadow: none;
+  margin-bottom: 0;
+  padding: 0;
+  margin: 0px;
+  font-size: 13px;
+}
+
+/* remove the prompt div from text cells */
+div.text_cell .prompt {
+    display: none;
+}
+
+/* remove horizontal padding from text cells, */
+/* so it aligns with outer body text */
+div.text_cell_render {
+    padding: 0.5em 0em;
+}
+
+img.anim_icon{padding:0; border:0; vertical-align:middle; -webkit-box-shadow:none; -box-shadow:none}
+</style>
+
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+<script type="text/javascript">
+init_mathjax = function() {
+    if (window.MathJax) {
+        // MathJax loaded
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+            },
+            displayAlign: 'left', // Change this to 'center' to center equations.
+            "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}}
+            }
+        });
+        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+    }
+}
+init_mathjax();
+</script>
     <link href="http://aadm.github.io/favicon.png" rel="icon">
 
 <link rel="canonical" href="http://aadm.github.io/2016-01-10-nicolai-mojo.html">
@@ -124,7 +280,7 @@ aadm            </a>
 <p>When he said that the Geometron was &#8220;the one&#8221;, I really thought on it for what must have been ten minutes max, then placed the order blind, without even testing the&nbsp;bike.</p>
 <p>So here I was, flying Norwegian Airlines to Manchester where Phil came to pick me up. I hadn&#8217;t been riding for a while so I was eager but also a little anxious to get back riding a bike on the trails. Luckily Phil was able to spice up the trip back to Hinckley where he lives, by entering a roundabout way too fast; the rear-wheel slide was huge but his counter-steer was fast enough to avoid making a mess. And here I was thinking that modern Porsches were tamed animals compared to the tail-happy beasts of the 70s and&nbsp;80s.</p>
 <figure>
-<a href="https://www.flickr.com/photos/aadm/23233638354/"><img src="https://farm1.staticflickr.com/746/23233638354_c375515cb5_h.jpg" width="800" height="533"></a>
+<a href="https://www.flickr.com/photos/aadm/23488358439/in/album-7215766241415205/"><img src="https://farm1.staticflickr.com/606/23488358439_a4c9539151_h.jpg" width="800" height="533"></a>
 <figcaption>Cannop trail centre, Jake Ireland (author of <span class="caps">MBUK</span> review, see footnotes).</figcaption>
 </figure>
 
@@ -143,15 +299,20 @@ aadm            </a>
 <p>The climbing part is actually very interesting; yes the Geometron is clearly not a sprinty carbon bike (remember the 180mm Fox up front, the massive aluminum tubes, etc); however being so long and slack it really does help when climbing steep, technical trails (think switchbacks and loose gravel). You ever felt the need to move your body around just to keep the front wheel down and simultaneously loading the rear wheel so it doesn&#8217;t lose traction? You know that exhausting game where you are on the tip of the saddle, just hovering on it trying to keep the rear tyre loaded while pushing down on the bars? Well on this bike you kind of rely on the massive wheelbase and the incredible traction so you can just hammer on the pedals without too much thinking (or moving&nbsp;around).</p>
 <p>And what about the good part, the going downhill part? Well this is where things gets interesting, but if you have read pinkbike&#8217;s review and the asinine comments left by too many keyboard warriors, you may understand how hesitant I am to tell you this story. There&#8217;s also the part of me that keeps saying that I am not too qualified to talk about it, being the average rider that I am &#8212; but hey I did invest a considerable amount of money on this bike (plus this one you&#8217;re reading is my blog), so a little something needs to be&nbsp;written.</p>
 <p>I will say right now that despite having had this bike from last October I haven&#8217;t still used it on my favourite trails, nor I have used it too much, period; reason is that here in Norway where I&#8217;m living at the moment there aren&#8217;t big mountains (as in Italy) or a good system of trails (as in the <span class="caps">UK</span>). So I am still waiting to hop on a plane when spring comes and spend a good three-four days of riding somewhere where the trails are technical, long and possibly rocky and dry. That&#8217;s when I will finally get the hang of this bike. So far, I have had only glimpses of how glorious the riding will be &#8212; but those glimpses have been enough to keep my head spinning with&nbsp;anticipation.</p>
+<figure>
+<a href="https://www.flickr.com/photos/aadm/23830201796/in/album-72157662414152052/" title="20151128_OMD1009"><img src="https://farm6.staticflickr.com/5777/23830201796_e2639f5dae_h.jpg" width=533 height=800></a>
+<figcaption>Mojo truck.</figcaption>
+</figure>
+
 <p>During that first weekend I just got comfortable on the bike and I could sense the enormous amount of traction despite the terrain conditions that were, well can we say &#8220;british&#8221;? On the second day, instead of doing again laps on safe confines of the Cannop trail centre we followed Chris on &#8220;his&#8221; trails (at the beginning of another one he also casually mentioned that that was one of Steve Jones&#8217;<sup id="fnref:steve-jones"><a class="footnote-ref" href="#fn:steve-jones" rel="footnote">5</a></sup> favourites); those were raw and technical, something I would enjoy only after weeks of scouting and repeated runs. Being able to ride them in conditions that even my Brits companions kept on defining crazy muddy is a testimony of the confidence that the Geometron&nbsp;instils.</p>
 <figure>
-<a href="https://www.flickr.com/photos/aadm/23560314420/in/album-72157662413618002/" title="20151128_OMD1615"><img src="https://farm1.staticflickr.com/587/23560314420_8bca6c5098_h.jpg" width=800 height=533></a>
-<figcaption>Geometron detail #1.</figcaption>
+<a href="https://www.flickr.com/photos/aadm/23560314420/" title="20151128_OMD1615"><img src="https://farm1.staticflickr.com/587/23560314420_8bca6c5098_h.jpg" width=800 height=533></a>
+<figcaption>Geometron head angle.</figcaption>
 </figure>
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/23560324300/in/album-72157662413618002/" title="20151128_OMD1612"><img src="https://farm6.staticflickr.com/5802/23560324300_fc44241a44_h.jpg" width=533 height=800></a>
-<figcaption>Geometron detail #2.</figcaption>
+<a href="https://www.flickr.com/photos/aadm/24582014301" title="20151030_OMD0938-2"><img src="https://farm2.staticflickr.com/1537/24582014301_041198b250_h.jpg" width=800 height=533></a>
+<figcaption>Geometron &#8216;aadm&#8217; edition.</figcaption>
 </figure>
 
 <p>What is really interesting is to realize how little the length of the bike impacts on the enjoyment on the trails; yes, even tight, switch-backy trails where every keyboard warrior would surely object that this bike can&#8217;t possibly turn at all. Guess what &#8212; it does! And it does by forcing you to adopt the right position and technique, i.e. loading the front tyre always and everywhere and let the rear slide around; and when you do so the whole action is so rewarding that you really feel like a hero (one of the comments I have heard is that this bike makes you feel a little bit like Marc&nbsp;Marquez).</p>
@@ -189,6 +350,16 @@ aadm            </a>
 </div>
             </div>
             <!-- /.entry-content -->
+<section class="well" id="related-posts">
+    <h4>Related Posts:</h4>
+    <ul>
+        <li><a href="http://aadm.github.io/2007-09-04-percorso-del-ticchiano.html">percorso del&nbsp;ticchiano</a></li>
+        <li><a href="http://aadm.github.io/2010-09-24-allenamenti-2010.html">allenamenti&nbsp;2010</a></li>
+        <li><a href="http://aadm.github.io/2012-09-08-24h-finale-ligure.html">24h finale&nbsp;ligure</a></li>
+        <li><a href="http://aadm.github.io/2007-08-21-la-mia-nuova-due-ruote.html">la mia nuova due&nbsp;ruote</a></li>
+        <li><a href="http://aadm.github.io/2012-06-29-open-mtb-maps.html">open mtb&nbsp;maps</a></li>
+    </ul>
+</section>
         </article>
     </section>
 
@@ -208,6 +379,7 @@ aadm            </a>
     <div id="navcontainer">
     <ul id="navlist">
         <li><a href="http://aadm.github.io/2015-11-20-pelican-lives.html"><i class="fa fa-angle-left"></i> PREVIOUS</a></li>
+        <li><a href="http://aadm.github.io/2016-01-19-get-those-flickr-urls.html">NEXT <i class="fa fa-angle-right"></i></a></li>
     </div>
         </div>
     </div>
