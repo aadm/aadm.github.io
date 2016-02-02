@@ -2,6 +2,7 @@ Title: nicolai mojo
 Date: 2016-01-10 22:00
 Tags: cycling
 Slug: nicolai-mojo
+lang: en
 
 Since I last wrote [about (stolen) bikes]({filename}2014-01-13-stolen-bikes.md) my friend Phil (from T-P 2010) convinced me to get a bike which I would have never thought of buying; a short-travel, full-suspension Norco with 29" wheels. The price was very reasonable too, which I think was essential for my decision.
 
@@ -45,10 +46,9 @@ When he said that the Geometron was "the one", I really thought on it for what m
 So here I was, flying Norwegian Airlines to Manchester where Phil came to pick me up. I hadn't been riding for a while so I was eager but also a little anxious to get back riding a bike on the trails. Luckily Phil was able to spice up the trip back to Hinckley where he lives, by entering a roundabout way too fast; the rear-wheel slide was huge but his counter-steer was fast enough to avoid making a mess. And here I was thinking that modern Porsches were tamed animals compared to the tail-happy beasts of the 70s and 80s.
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/23233638354/"><img src="https://farm1.staticflickr.com/746/23233638354_c375515cb5_h.jpg" width="800" height="533"></a>
+<a href="https://www.flickr.com/photos/aadm/23488358439/in/album-7215766241415205/"><img src="https://farm1.staticflickr.com/606/23488358439_a4c9539151_h.jpg" width="800" height="533"></a>
 <figcaption>Cannop trail centre, Jake Ireland (author of MBUK review, see footnotes).</figcaption>
 </figure>
-
 
 We then spent the entire weekend at the Forest of Dean, where I once again rediscovered something that I somehow forgot in all these years[^nota-roadracing]; that is, a certain friendly energetic vibe you can feel where there's other people that enjoy simple things like riding a bike downhill. And that is a vibe that I rarely experience back home in Italy; maybe it's a certain english way to approach this kind of activity that I like -- t-shirts as opposed to pro-racer jerseys, mums and kids and girls with all level of skills riding for fun as opposed to mostly men looking with utter disdain at the "others". Or maybe it's just me, enjoying the anonimity of riding in a place where surely I won't ride ever again.
 
@@ -71,16 +71,22 @@ And what about the good part, the going downhill part? Well this is where things
 
 I will say right now that despite having had this bike from last October I haven't still used it on my favourite trails, nor I have used it too much, period; reason is that here in Norway where I'm living at the moment there aren't big mountains (as in Italy) or a good system of trails (as in the UK). So I am still waiting to hop on a plane when spring comes and spend a good three-four days of riding somewhere where the trails are technical, long and possibly rocky and dry. That's when I will finally get the hang of this bike. So far, I have had only glimpses of how glorious the riding will be -- but those glimpses have been enough to keep my head spinning with anticipation.
 
+
+<figure>
+<a href="https://www.flickr.com/photos/aadm/23830201796/in/album-72157662414152052/" title="20151128_OMD1009"><img src="https://farm6.staticflickr.com/5777/23830201796_e2639f5dae_h.jpg" width=533 height=800></a>
+<figcaption>Mojo truck.</figcaption>
+</figure>
+
 During that first weekend I just got comfortable on the bike and I could sense the enormous amount of traction despite the terrain conditions that were, well can we say "british"? On the second day, instead of doing again laps on safe confines of the Cannop trail centre we followed Chris on "his" trails (at the beginning of another one he also casually mentioned that that was one of Steve Jones'[^steve-jones] favourites); those were raw and technical, something I would enjoy only after weeks of scouting and repeated runs. Being able to ride them in conditions that even my Brits companions kept on defining crazy muddy is a testimony of the confidence that the Geometron instils.
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/23560314420/in/album-72157662413618002/" title="20151128_OMD1615"><img src="https://farm1.staticflickr.com/587/23560314420_8bca6c5098_h.jpg" width=800 height=533></a>
-<figcaption>Geometron detail #1.</figcaption>
+<a href="https://www.flickr.com/photos/aadm/23560314420/" title="20151128_OMD1615"><img src="https://farm1.staticflickr.com/587/23560314420_8bca6c5098_h.jpg" width=800 height=533></a>
+<figcaption>Geometron head angle.</figcaption>
 </figure>
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/23560324300/in/album-72157662413618002/" title="20151128_OMD1612"><img src="https://farm6.staticflickr.com/5802/23560324300_fc44241a44_h.jpg" width=533 height=800></a>
-<figcaption>Geometron detail #2.</figcaption>
+<a href="https://www.flickr.com/photos/aadm/24582014301" title="20151030_OMD0938-2"><img src="https://farm2.staticflickr.com/1537/24582014301_041198b250_h.jpg" width=800 height=533></a>
+<figcaption>Geometron 'aadm' edition.</figcaption>
 </figure>
 
 

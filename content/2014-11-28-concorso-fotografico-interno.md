@@ -1,7 +1,8 @@
 title: concorso fotografico interno 2013-2014
 tags: photo
+lang: en
 
-The only type of competition I have ever enjoyed is two-wheeled racing; I have raced motorbikes and mountain bikes in the past (and I will probably continue to do so once this daddy thing wears off). 
+The only type of competition I have ever enjoyed is two-wheeled racing; I have raced motorbikes and mountain bikes in the past (and I will probably continue to do so once this daddy thing wears off).
 
 In this sort of competition there is no subjectivity; if you go faster than everybody else, you finish first. If you are slow, if you make mistakes, you finish last[^nota-winning]. I have always been a middle-pack kind of guy. But I still enjoyed racing even after finishing behind elders and youngsters, males or females -- if somebody is faster than me that is pretty darn objective and I respect that.
 
@@ -65,7 +66,7 @@ For now, enjoy my very unsuccessful 2013-2014 photographs.
 
 # i still like some of them
 
-I particulary like the "traveling" and the "from above" series. 
+I particulary like the "traveling" and the "from above" series.
 
 The first was shot one morning at the Stazione Centrale in Milano, and I had to find these images in just an hour or so while wife and daughter were waiting for me at a cafè nearby. What I was looking for was images to convey the sense of traveling.
 

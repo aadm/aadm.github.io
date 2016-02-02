@@ -1,5 +1,6 @@
 title: black and white
 tags: photo
+lang: en
 
 I have had this Nikon FM2 laying around in my house for some time now. It has not seen much action though.
 

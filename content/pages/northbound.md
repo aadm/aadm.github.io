@@ -4,7 +4,7 @@ Title: northbound
 <a href="https://www.flickr.com/photos/aadm/21419567391" title="GF11090256"><img src="https://farm6.staticflickr.com/5719/21419567391_381d855025_h.jpg" width="800" height="534"></a>
 </figure>
 
-On the 20th of August 2015 I left Italy with my family and traveled by car through Switzerland, Germany and Denmark to Stavanger, Norway.
+On the 20th of August 2015 I left Italy with my family and traveled by car through Switzerland, Germany and Denmark; the final destination was Stavanger in Norway, where we arrived two days later.
 
 We will be living here until the summer of 2017 -- or at least that's the plan. Nobody knows for sure because we depend on our employer's economic health and right now it doesn't feel too well.
 

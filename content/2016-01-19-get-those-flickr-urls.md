@@ -2,7 +2,7 @@ Title: get-those-flickr-urls
 Date: 2016-01-19 23:47:21
 Slug: get-those-flickr-urls
 Tags: tech, python
-status: draft
+lang: en
 
 A word of warning: this is serious nerdy-land. Carry on reading if:
 
@@ -13,11 +13,11 @@ A word of warning: this is serious nerdy-land. Carry on reading if:
 
 <!-- PELICAN_END_SUMMARY -->
 
-Basically you call this script with:
+You call this script with:
 
     python flickr_staticurl.py ALBUM_ID
 
-where _ALBUM_ID_ is the numerical code you see in the URL of a Flickr Album, e.g. in the case of _https://www.flickr.com/photos/aadm/albums/72157656289357513_,_ALBUM_ID_ is _72157656289357513_.
+where _ALBUM_ID_ is the numerical code you see in the URL of a Flickr Album, e.g. in the case of `http://www.flickr.com/photos/aadm/albums/72157656289357513` _ALBUM_ID_ is 72157656289357513.
 
 What the script does is simply to print out to console a nicely formatted `<figure>` tag with the static URL of a 1600px (long-dimension) version of your original photo.
 

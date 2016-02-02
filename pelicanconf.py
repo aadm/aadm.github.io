@@ -64,15 +64,13 @@ CUSTOM_CSS = 'static/custom.css'
 # ]
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-PLUGIN_PATHS = ['/Users/aadm/pelican-plugins']
-PLUGINS = ['series','neighbors',
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['series','neighbors','related_posts',
     'summary','clean_summary',
-    'liquid_tags','liquid_tags.flickr',
-    'liquid_tags.youtube', 'liquid_tags.vimeo',
-    'liquid_tags.img', 'liquid_tags.gram'
-    ]
-# 'liquid_tags.notebook'
- # 'tipue_search'
+    'liquid_tags','liquid_tags.youtube', 'liquid_tags.vimeo',
+    'liquid_tags.img','liquid_tags.flickr','liquid_tags.gram',
+    'liquid_tags.notebook']
+# 'tipue_search'
 
 CLEAN_SUMMARY_MAXIMUM = 2
 
@@ -112,7 +110,7 @@ SOCIAL = (('twitter', 'http://twitter.com/aadmtwi'),
           ('tumblr',  'http://aadm-fotografia.tumblr.com'),
           ('google+',  'http://plus.google.com/+AlessandroAmatodelMonte'),
           )
-# GOOGLE_ANALYTICS =  'UA-XXXX-YYYY'
+GOOGLE_ANALYTICS =  'UA-32354823-1'
 TYPOGRIFY = True
 
 # REVERSE_CATEGORY_ORDER = True

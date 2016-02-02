@@ -95,7 +95,7 @@ gh: publish
 
 ghsrc:
 	git add -A
-	git commit -a -m 'Source archive $(DATE0)'
+	git commit -a -m 'Source archive $(DATE)'
 	git push origin source
 
 newpost:
@@ -104,6 +104,7 @@ ifdef NAME
 	@echo "Date: $(DATE)" >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
 	@echo "Slug: $(SLUG)" >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
 	@echo "Tags:"         >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
+	@echo "Lang: en"      >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
 	@echo "Status: draft" >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
 	@echo ""              >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
 	@echo ""              >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
