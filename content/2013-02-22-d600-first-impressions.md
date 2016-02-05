@@ -1,5 +1,5 @@
 title: d600 first impressions
-tags: photo
+tags: photo, gear
 related_posts: a-little-camera, black-and-white, thoughts-on-d7000, panasonic-gf1-late-review
 
 First things first: it's not *at all* a D7000 with a large sensor inside!
@@ -16,7 +16,7 @@ I like the new multi-controller, it feels more snappy and clickable than on the 
 
 I can easily wade through the very comprehensive menu system without even looking at the manual, and change the most important parameters (shooting mode, aperture, ISO, quality, etc.) without even thinking that this is a brand new camera. What's important is that when you hold the camera your fingers fall exactly where they are used to; the shutter button, the way it handles, it's all perfect.
 
-And despite my now subdued love for the [new Fuji cameras](http://aadm.github.com/2012-12-17-fuji-test-day.html) and their wonderful simplicity (little knobs, real aperture ring) I still feel that the shape of a larger DSLR is ergonomically perfect. The little rangefinder-style cameras on the other hand (such as the Fuji XE-1 which I have tried, and loved, and wanted to buy) they don't feel that right to me.
+And despite my now subdued love for the [new Fuji cameras]({filename}2012-12-17-fuji-test-day.md) and their wonderful simplicity (little knobs, real aperture ring) I still feel that the shape of a larger DSLR is ergonomically perfect. The little rangefinder-style cameras on the other hand (such as the Fuji XE-1 which I have tried, and loved, and wanted to buy) they don't feel that right to me.
 
 ## lunchtime break, a few snaps later...
 
@@ -33,19 +33,18 @@ Speaking of which, you know how I made this purchase possible? By getting rid of
 Is it right to replace the D7000 with a D600? Well the D7000 remains a true little gem, considering how cheap it now goes in the second hand market (I sold mine for 550 euros), and its image quality and responsiveness and build quality is really something that will keep its owners happy for a long time.
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/24753740286" title="20130225_AA00413.jpg"><img src="https://farm2.staticflickr.com/1508/24753740286_f373e4d6ce_h.jpg" width="800" height="534"></a>
+<a href="https://www.flickr.com/photos/aadm/24153439234/" title="20130225_AA00346.jpg"><img src="https://farm2.staticflickr.com/1567/24153439234_7572e54216_h.jpg" width="800" height="534"></a>
 </figure>
 
 If there's one thing I didn't like about the D7000, it would be the good deal of AF fine-tuning required before getting really sharp pictures; I'm pretty sure it was my particular camera's problem -- I can't really say "DON'T buy a D7000 because it has a fine-tuning issue". Very likely you won't have this problem -- but you may well have another! If you want a a truly foolproof camera, built and quality-checked to higher standards you probably need to be ready to spend lots of money to get something like a D4.
 
 Anyway, that's tangential to the main issue, which is about the D600 and whether or not is a reasonable upgrade to make after a D7000. I'm pretty sure that this D600 will not instantly make me a better photographer. I'm also pretty sure that my D7000 would have allowed me to grow in my photographic education with no real restraints. So if somebody is looking at some excuse to justify the move to a rather expensive full frame camera (because in my world 1600-2000 euros is a lot of money), well I can't give you one.
 
-If you are really good, I mean technically good, then [Rob Boyer](https://twitter.com/rwboyer) has something enticing to say about the [incredible highlights](http://photo.rwboyer.com/2012/11/27/d600-500-shots/) that you can [recover from the D600](http://photo.rwboyer.com/2013/02/17/highlight-fetishist/); if you are  able to use these capabilities for creative purposes then yes, you may have your justification to replace you D7000 with a D600. I'm not like that and the kind of photographs that I like to take are pretty much well served by any modern camera.
+If you are really good, I mean technically good, then you will find exciting the [incredible highlights](http://photo.rwboyer.com/2012/11/27/d600-500-shots/) that you can [recover from the D600](http://photo.rwboyer.com/2013/02/17/highlight-fetishist/); I mean, if you're  able to use these capabilities for creative purposes then yes, there's the  justification to replace you D7000 with a D600. I'm not like that and the kind of photographs that I like to take are pretty much well served by any modern camera.
 
 I don't even feel like I have a gear acquisition syndrome, in fact (despite what my wife says) I am pretty balanced in my purchases and I only tend to buy new stuff once I feel like I have exhausted the possibilities that a certain piece of gear gives me[^nota-outgrow]. So yes, the D600 is surely giving me cleaner pictures at high ISO, and it has twenty-four megapixels as opposed to sixteen, increased depth-of-field control due to the larger sensor alright -- but listen to me, these things have meant very little for me when I decided to upgrade.
 
-Maybe it's only a matter of economy, that is I was able to do this with a relative modest sum, and why the hell not. Maybe it's a matter of aesthetics and nostalgia, that I liked the idea of using a 50mm and have a 50mm look, or maybe I liked the idea of looking through this larger and brighter viewfinder. Who knows, maybe I will need to *use* this camera, see what I can do with that and come back here and write my thoughs, like I did for the [Panasonic GF-1](({filename}2012-07-31-panasonic-gf1-recensione-fuori-tempo.md) and the [D7000](({filename}2012-09-21-thoughts-on-d7000.md).
-
+Maybe it's only a matter of economy, that is I was able to do this with a relative modest sum, and why the hell not. Maybe it's a matter of aesthetics and nostalgia, that I liked the idea of using a 50mm and have a 50mm look, or maybe I liked the idea of looking through this larger and brighter viewfinder. Who knows, maybe I will need to *use* this camera, see what I can do with that and come back here and write my thoughts, like I did for the [Panasonic GF-1]({filename}2012-07-31-panasonic-gf1-late-review.md) and the [D7000]({filename}2012-09-21-thoughts-on-d7000.md).
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/24484328400" title="20130222_AA00066.jpg"><img src="https://farm2.staticflickr.com/1657/24484328400_6ce8e1e485_h.jpg" width="534" height="800"></a>
@@ -72,4 +71,4 @@ Maybe it's only a matter of economy, that is I was able to do this with a relati
 
 [^nota-18mm]: Another lens that was lying unused in my father-in-law cabinet.
 
-[^nota-outgrow]: That's always been true with bikes and motorbikes, for example. I really pushed hard my Monster, CBR600, [Multistrada](http://aadm.github.com/2008-03-23-speedweek-2007-su-mondoducati.html) before finally ending up on the [Ducati 999](http://aadm.github.com/2008-10-20-999s-il-primo-giro.html) -- and [outgrew](http://aadm.github.com/2009-08-27-speedweek-2009.html) this one too.
+[^nota-outgrow]: That's always been true with bikes and motorbikes, for example. I really pushed hard my Monster, CBR600, [Multistrada]({filename}2008-03-23-speedweek-2007-su-mondoducati.md) before finally ending up on the [Ducati 999]({filename}2008-10-20-999s-il-primo-giro.md) -- and [outgrew]({filename}2009-08-27-speedweek-2009.md) this one too.

@@ -1,5 +1,5 @@
 title: panasonic GF-1 recensione fuori tempo
-tags: photo, tech
+tags: photo, gear
 slug: panasonic-gf1-late-review
 lang: it
 related_posts: d600-first-impressions, a-little-camera, black-and-white, thoughts-on-d7000,

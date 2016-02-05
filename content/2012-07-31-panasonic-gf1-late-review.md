@@ -1,8 +1,8 @@
 title: panasonic GF-1 late review
-tags: photo, tech
+tags: photo, gear
 slug: panasonic-gf1-late-review
 lang: en
-related_posts: d600-first-impressions, a-little-camera, black-and-white, thoughts-on-d7000, 
+related_posts: d600-first-impressions, a-little-camera, black-and-white, thoughts-on-d7000,
 
 È da quasi un anno che sono tornato al mondo reflex con una Nikon D7000, ma la piccola Panasonic GF-1 è ancora una presenza costante nel mio zaino. Nel frattempo sono uscite altre cento iterazioni della Panasonic sul tema mirrorless / micro quattroterzi ma solo l'ultima (GX-1) mi pare la vera evoluzione della GF-1[^nota-gx1].
 
