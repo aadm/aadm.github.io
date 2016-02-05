@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>to convert ape audio files - aadm</title>
+    <title>gear - aadm</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -167,21 +167,16 @@ init_mathjax();
 </script>
     <link href="http://aadm.github.io/favicon.png" rel="icon">
 
-<link rel="canonical" href="http://aadm.github.io/2005-11-04-to-convert-ape-audio-files.html">
 
-        <meta name="author" content="Alessandro Amato del Monte" />
-        <meta name="keywords" content="apple" />
-        <meta name="description" content="Lots of sites nowadays offer digital music as .ape or .flac files; what’s wrong with mp3s ? I should include a technical note here together with a bit of history, but since I’m not the most qualified for this sort of thing I’ll keep it short and simple: mp3 is a format that stores music in compressed format ..." />
+    <meta name="author" content="Alessandro Amato del Monte" />
+    <meta name="keywords" content="gear" />
 
+    <!-- Open Graph tags -->
         <meta property="og:site_name" content="aadm" />
-        <meta property="og:type" content="article"/>
-        <meta property="og:title" content="to convert ape audio files"/>
-        <meta property="og:url" content="http://aadm.github.io/2005-11-04-to-convert-ape-audio-files.html"/>
-        <meta property="og:description" content="Lots of sites nowadays offer digital music as .ape or .flac files; what’s wrong with mp3s ? I should include a technical note here together with a bit of history, but since I’m not the most qualified for this sort of thing I’ll keep it short and simple: mp3 is a format that stores music in compressed format ..."/>
-        <meta property="article:published_time" content="2005-11-04" />
-            <meta property="article:section" content="misc" />
-            <meta property="article:tag" content="apple" />
-            <meta property="article:author" content="Alessandro Amato del Monte" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="aadm"/>
+        <meta property="og:url" content="http://aadm.github.io"/>
+        <meta property="og:description" content="aadm"/>
 
 
     <!-- Bootstrap -->
@@ -230,96 +225,117 @@ aadm            </a>
     <div class="row">
         <div class="col-lg-12">
 
-    <section id="content">
-        <article>
-            <header class="page-header">
-                <h1>
-                    <a href="http://aadm.github.io/2005-11-04-to-convert-ape-audio-files.html"
-                       rel="bookmark"
-                       title="Permalink to to convert ape audio files">
-                        to convert ape audio&nbsp;files
-                    </a>
-                </h1>
-            </header>
-            <div class="well well-sm">
+
+    <a href="http://aadm.github.io/archives.html">archives</a> / <a href="http://aadm.github.io/tags.html">tags</a>
+    <p>
+
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2016-02-02-a-little-camera.html">a little&nbsp;camera</a></h2>
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2005-11-04T21:16:00+01:00"> 04/Nov/2005</time>
+        <i class="fa fa-calendar"></i><time datetime="2016-02-02T20:23:26+01:00"> 02/Feb/2016</time>
     </span>
 
 
 
 <span class="label label-default">Tags</span>
-	<a href="http://aadm.github.io/tag/apple.html">apple</a>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/gear.html">gear</a>
     
-</footer><!-- /.post-info -->            </div>
-            <div class="entry-content">
-                <p>Lots of sites nowadays offer digital music as .ape or .flac files; what&#8217;s wrong with mp3s&nbsp;?  </p>
-<p>I should include a technical note here together with a bit of history, but since I&#8217;m not the most qualified for this sort of thing I&#8217;ll keep it short and simple: mp3 is a format that stores music in compressed format, therefore with some quality degradation (high compression=high degradation=low quality music=small file); wav/aiff is the format that is used for audio CDs, highest quality, uncompressed, large files (size ratio is 10:1 for <span class="caps">CD</span>-quality files versus mp3 files). So a bunch of people came up with some new formats for digital music, such as ape and flac. These are lossless compression formats &#8212; which means that they have exactly the same quality of the input <span class="caps">CD</span> music, but they&#8217;re half the size. So if you don&#8217;t want to trade on quality, go for&nbsp;ape/flac.  </p>
-<p>What if you just want to play this music and convert it in mp3, add it to iTunes, etc ? The answer is <strong>xACT</strong>. This is a little Mac <span class="caps">OS</span> X wrapper for a set of command-line tools available also for Linux and&nbsp;Windows..  </p>
-<p>So here we&nbsp;go:  </p>
-<ol>
-<li>
-<p>make sure you have both the music.ape and the music.ape.cue file (the .cue file contains the split points and the name of the&nbsp;tracks).</p>
-</li>
-<li>
-<p>launch xACT, go to the &#8220;shntool&#8221;&nbsp;tab</p>
-</li>
-<li>
-<p>select the &#8220;split&#8221; option; select the output format (usually I&#8217;d use aiff, then leave the conversion to mp3/aac format to&nbsp;iTunes)</p>
-</li>
-<li>
-<p>drag the music.ape file in the drop area on the&nbsp;left</p>
-</li>
-<li>
-<p>click the &#8220;Call Shntool&#8221; button; the app will now ask for the location of the file with split point data; that&#8217;s you music.ape.cue file ! Just select the .cue file, choose an output folder and the splitting/conversion process will&nbsp;begin.</p>
-</li>
-</ol>
-<p>A few notes to finish&nbsp;up:  </p>
-<ul>
-<li>
-<p>the cue file should begin with the &#8220;<span class="caps">FILE</span>&#8221; line; if it doesn&#8217;t then delete the first lines (they could have other information such as performer and title of the&nbsp;album).</p>
-</li>
-<li>
-<p>there&#8217;s very little information about what xACT is doing; if you&#8217;re worried that it might be stuck just have a look at the output folder, where you should see the output aiff files being created. Or just fire up the Activity Monitor, and look at processes called &#8220;sox&#8221;, or &#8220;mac&#8221; (usually with a fairly high degree of cpu&nbsp;usage).</p>
-</li>
-</ul>
-<p>xACT has lots of other options which can be helpful (you can, for example, create an .ape file with its .cue info sheet), but unfortunately has no automatic file renaming tool based on the cue files. So you&#8217;re kinda stuck with a set of music files called &#8220;split-track001.aiff&#8221;, &#8220;split-track002.aiff&#8221;,&nbsp;etc.</p>
-<p>It should be simple enough to put together a perl or ruby script which has as input the cue file and does the job for&nbsp;you. </p>
-            </div>
-            <!-- /.entry-content -->
-<section class="well" id="related-posts">
-    <h4>Related Posts:</h4>
-    <ul>
-        <li><a href="http://aadm.github.io/2012-05-03-my-new-mac-is-a-hack.html">my new mac is a&nbsp;hack</a></li>
-        <li><a href="http://aadm.github.io/2010-04-22-ipad-and-crufty-interfaces.html">ipad and crufty&nbsp;interfaces</a></li>
-        <li><a href="http://aadm.github.io/2012-07-19-ipad-mini-needs.html">ipad mini&nbsp;needs</a></li>
-        <li><a href="http://aadm.github.io/2012-11-06-the-little-ipad.html">the little&nbsp;ipad</a></li>
-        <li><a href="http://aadm.github.io/2006-08-06-lightroom-workflow.html">lightroom&nbsp;workflow</a></li>
-    </ul>
-</section>
-        </article>
-    </section>
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>I wanted to get a Leica this time. For&nbsp;real.</p>
+<p>You know Leica: the stupidly expensive cameras that are only bought by trustafarians and rich asians. The kind of camera that is more likely to be kept in a closet or worn like a piece of jewellery than actually&nbsp;used.</p>
+<p>Anyway they are indeed <em>different</em> and I like their heft, the heavy metal they&#8217;re built with and I would have probably never considered one for real if I had not played an evening with one (the original&nbsp;Monochrom).</p>
 
-    <style type="text/css">
-    #navcontainer ul
-    {
-    margin: 0;
-    margin-top: 40px;
-    padding: 0;
-    list-style-type: none;
-    text-align: center;
-    }
-    #navcontainer ul li { display: inline; }
-    #navcontainer ul li a { padding: 1em 3em; }
-    </style>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2016-02-02-a-little-camera.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2013-02-22-d600-first-impressions.html">d600 first&nbsp;impressions</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2013-02-22T00:00:00+01:00"> 22/Feb/2013</time>
+    </span>
 
-    <div id="navcontainer">
-    <ul id="navlist">
-        <li><a href="http://aadm.github.io/2005-11-04-tv-shows-2.html"><i class="fa fa-angle-left"></i> PREVIOUS</a></li>
-        <li><a href="http://aadm.github.io/2005-11-29-no-more-safari.html">NEXT <i class="fa fa-angle-right"></i></a></li>
-    </div>
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/gear.html">gear</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>First things first: it&#8217;s not <em>at all</em> a D7000 with a large sensor&nbsp;inside!</p>
+<p>If that&#8217;s the impression you have from reading the rants in the dpreview forums, well it&#8217;s wrong. And you should stop reading those forums (I know, I should too! It&#8217;s just that sometimes something really clever comes up like the <a href="http://forums.dpreview.com/forums/thread/3377109">Dot Tune ...</a></p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2013-02-22-d600-first-impressions.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-09-21-thoughts-on-d7000.html">thoughts on&nbsp;d7000</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-09-21T00:00:00+02:00"> 21/Sep/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/gear.html">gear</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>It&#8217;s almost a year now that I have the Nikon D7000. It&#8217;s time to write down some comments on this&nbsp;camera.</p>
+<h2>where I come&nbsp;from</h2>
+<p>Some context first; I arrived at the Nikon D7000 from a long&nbsp;apprenticeship.</p>
+<p>I started with a Yashica <span class="caps">FX</span>-3 and its 50mm f/1.8, then I moved to a Nikon F70 ...</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-09-21-thoughts-on-d7000.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-07-31-panasonic-gf1-late-review.html">panasonic <span class="caps">GF</span>-1 late&nbsp;review</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-07-31T00:00:00+02:00"> 31/Jul/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/gear.html">gear</a>
+    <span class="label label-default">Lang</span>
+	<a href="http://aadm.github.io/panasonic-gf1-late-review-it.html">it</a>
+
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>È da quasi un anno che sono tornato al mondo reflex con una Nikon D7000, ma la piccola Panasonic <span class="caps">GF</span>-1 è ancora una presenza costante nel mio zaino. Nel frattempo sono uscite altre cento iterazioni della Panasonic sul tema mirrorless / micro quattroterzi ma solo l&#8217;ultima (<span class="caps">GX</span>-1) mi pare la vera evoluzione della <span class="caps">GF</span>-1<sup id="fnref:nota-gx1"><a class="footnote-ref" href="#fn:nota-gx1" rel="footnote">1</a></sup>.</p>
+<h2>recensione fuori ...</h2>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-07-31-panasonic-gf1-late-review.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+
         </div>
     </div>
 </div>
