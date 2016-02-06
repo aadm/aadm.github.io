@@ -1,28 +1,28 @@
-title: panasonic GF-1 recensione fuori tempo
+title: panasonic GF1 recensione fuori tempo
 tags: photo, gear
 slug: panasonic-gf1-late-review
 lang: it
 related_posts: d600-first-impressions, a-little-camera, black-and-white, thoughts-on-d7000,
 
-È da quasi un anno che sono tornato al mondo reflex con una Nikon D7000, ma la piccola Panasonic GF-1 è ancora una presenza costante nel mio zaino. Nel frattempo sono uscite altre cento iterazioni della Panasonic sul tema mirrorless / micro quattroterzi ma solo l'ultima (GX-1) mi pare la vera evoluzione della GF-1[^nota-gx1].
+È da quasi un anno che sono tornato al mondo reflex con una Nikon D7000, ma la piccola Panasonic GF1 è ancora una presenza costante nel mio zaino. Nel frattempo sono uscite altre cento iterazioni della Panasonic sul tema mirrorless / micro quattroterzi ma solo l'ultima (GX-1) mi pare la vera evoluzione della GF1[^nota-gx1].
 
 ##recensione fuori tempo massimo
 
-Pubblico quindi solo ora, fuori tempo massimo[^nota-fuori-tempo], alcune impressioni e note sulla GF-1. Potrà interessare gli squattrinati che vogliono cercare una buona e piccola macchina fotografica sul mercato dell'usato o convincere i maniaci dell'acquisto compulsivo a ritardare il pensionamento della propria GF-1.
+Pubblico quindi solo ora, fuori tempo massimo[^nota-fuori-tempo], alcune impressioni e note sulla GF1. Potrà interessare gli squattrinati che vogliono cercare una buona e piccola macchina fotografica sul mercato dell'usato o convincere i maniaci dell'acquisto compulsivo a ritardare il pensionamento della propria GF1.
 
-Tutte le foto che vedete qui sono ovviamente state scattate da me con la GF-1.
+Tutte le foto che vedete qui sono ovviamente state scattate da me con la GF1.
 
 <a href="http://www.flickr.com/photos/aadm/5725746660/" title="_1010831.jpg by aadm, on Flickr"><img src="http://farm6.staticflickr.com/5308/5725746660_b027f4978d_z.jpg" width="480" height="640" alt="_1010831.jpg"></a>
 
 ##il mio commento iniziale
 
-Proprio vero quello che si diceva in giro quando uscì la GF-1; è una macchina che ti fa tornare il divertimento nella fotografia. Abbastanza piccola da potertela portare dietro anche nelle mie gite in bicicletta, schiacciata nel minizaino tra un panino, una maglia sudata e una camera d'aria di scorta. E con tutta la potenza di una reflex a tua disposizione.
+Proprio vero quello che si diceva in giro quando uscì la GF1; è una macchina che ti fa tornare il divertimento nella fotografia. Abbastanza piccola da potertela portare dietro anche nelle mie gite in bicicletta, schiacciata nel minizaino tra un panino, una maglia sudata e una camera d'aria di scorta. E con tutta la potenza di una reflex a tua disposizione.
 
 Ecco cosa scrissi a Daniele e Dylan dopo aver letto un'articolo di dpreview sulla Panasonic:
 
     from    aadm
     date    Thu, Sep 3, 2009 at 10:23 PM
-    subject retro-minimalista, panasonic dmc-GF-1
+    subject retro-minimalista, panasonic dmc-GF1
 
     http://www.dpreview.com/previews/PanasonicGF-1/
 
@@ -38,7 +38,7 @@ Ecco cosa scrissi a Daniele e Dylan dopo aver letto un'articolo di dpreview sull
     e quindi occasioni in cui la reflex non ci penso neanche a portarla.
 
 
-E poi scrissi un breve post intitolato ["my next camera"](http://aadm.github.com/2010-08-19-my-next-camera.html) ad agosto del 2010; neanche un mese dopo mi trovavo a Livigno e per puro caso trovai [un'offerta imperdibile per portarmi a casa la GF-1.](http://aadm.github.com/2010-09-11-it-was-unintentional.html).
+E poi scrissi un breve post intitolato ["my next camera"](http://aadm.github.com/2010-08-19-my-next-camera.html) ad agosto del 2010; neanche un mese dopo mi trovavo a Livigno e per puro caso trovai [un'offerta imperdibile per portarmi a casa la GF1.](http://aadm.github.com/2010-09-11-it-was-unintentional.html).
 
 <a href="http://www.flickr.com/photos/aadm/5401364927/" title="_1000664.jpg by aadm, on Flickr"><img src="http://farm6.staticflickr.com/5259/5401364927_7a9ca37738_z.jpg" width="480" height="640" alt="_1000664.jpg"></a>
 
@@ -50,11 +50,11 @@ Da specifiche tecniche comunque l'Olympus offre un campo visivo leggermente più
 
 A parte questo ho avuto anche un anello adattatore per ottiche Nikon e un [Pinwide](http://wanderlustcameras.com/products/pinwide.html) (praticamente un tappo di plastica bucato per fare fotografia pinhole); entrambi questi aggeggi mi sono stati rubati a gennaio scorso quando dei ladri sono entrati in casa e hanno razziato un po' a casaccio, portandosi dietro ad esempio un vecchio corpo macchina Nikon F70 (di quelli del Pleistocene che andavano a pellicola) e lasciando invece un iPad nuovo di pacca.
 
-L'anello adattatore mi ha permesso di divertirmi con un paio di ottiche Nikon che avevo in casa (un 105mm f/2.8 micro e un 50mm f/1.8); il 50mm diventa un medio tele molto comodo e facile da usare, il 105mm invece è troppo grosso e pesante, sbilancia molto la macchina e lo si riesce a sfruttare con soddisfazione solo con un treppiede (il che invalida il concetto di fotografia, rapido / veloce / furfantesco, di cui è campione la GF-1).
+L'anello adattatore mi ha permesso di divertirmi con un paio di ottiche Nikon che avevo in casa (un 105mm f/2.8 micro e un 50mm f/1.8); il 50mm diventa un medio tele molto comodo e facile da usare, il 105mm invece è troppo grosso e pesante, sbilancia molto la macchina e lo si riesce a sfruttare con soddisfazione solo con un treppiede (il che invalida il concetto di fotografia, rapido / veloce / furfantesco, di cui è campione la GF1).
 
 <a href="http://www.flickr.com/photos/aadm/7693974058/" title="_1050999 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7125/7693974058_e2c0854633_z.jpg" width="480" height="640" alt="_1050999"></a>
 
-<center><i>Panasonic GF-1, anello adattatore Nikon-m4/3 e obiettivo Nikon 50mm f/1.8, ISO 200, 1/80s, diaframma non registrato.</i></center>
+<center><i>Panasonic GF1, anello adattatore Nikon-m4/3 e obiettivo Nikon 50mm f/1.8, ISO 200, 1/80s, diaframma non registrato.</i></center>
 
 ###test comparativo-ossessivo-compulsivo: Panasonic vs Olympus
 
@@ -76,7 +76,7 @@ Ecco i risultati, dei ritagli al 100% di noiosissime nature morte (biscotti Tesc
 
 ###fotografia con focali fisse
 
-Comunque sia, la GF-1 con il 17mm Olympus resta una macchina compattissima e minimale. Non soffro della mancanza dello zoom visto che sono sempre stato abituato con le reflex ad andare in giro con due sole ottiche: un 28mm f/2.8 e un 50mm f/1.8. Tra l'altro, il mio primo esperimento con ottiche fisse fu proprio col bellissimo 35mm f/2 Nikkor montato sulla F70 a pellicola; quindi la GF-1 col 17mm (=34mm equivalente) replica quasi perfettamente quella visione del mondo che avevo con la F70.
+Comunque sia, la GF1 con il 17mm Olympus resta una macchina compattissima e minimale. Non soffro della mancanza dello zoom visto che sono sempre stato abituato con le reflex ad andare in giro con due sole ottiche: un 28mm f/2.8 e un 50mm f/1.8. Tra l'altro, il mio primo esperimento con ottiche fisse fu proprio col bellissimo 35mm f/2 Nikkor montato sulla F70 a pellicola; quindi la GF1 col 17mm (=34mm equivalente) replica quasi perfettamente quella visione del mondo che avevo con la F70.
 
 Una ottica fissa leggermente grandangolare è stimolante, veloce, accattivante e istruttiva:
 
@@ -88,7 +88,7 @@ Una ottica fissa leggermente grandangolare è stimolante, veloce, accattivante e
 
 <a href="http://www.flickr.com/photos/aadm/5401966320/" title="_1000673.jpg by aadm, on Flickr"><img src="http://farm6.staticflickr.com/5099/5401966320_7becbe82d9_z.jpg" width="640" height="480" alt="_1000673.jpg"></a>
 
-* *Accattivante* perché il mio punto di vista leggermente snob mi spinge ormai a guardare con sufficienza i fotografi dotati di reflex e parco ottiche esagerate, e invece guardo con ammirazione i cocciuti con reflex a pellicola, reflex a tracolla con ottica fissa, compatte anomale (Sigma DP-1, Fuji X100) e, naturalmente, le micro quattroterzi (Olympus EP-1/2 o Panasonic GF-1).
+* *Accattivante* perché il mio punto di vista leggermente snob mi spinge ormai a guardare con sufficienza i fotografi dotati di reflex e parco ottiche esagerate, e invece guardo con ammirazione i cocciuti con reflex a pellicola, reflex a tracolla con ottica fissa, compatte anomale (Sigma DP-1, Fuji X100) e, naturalmente, le micro quattroterzi (Olympus EP-1/2 o Panasonic GF1).
 
 <a href="http://www.flickr.com/photos/aadm/5791771894/" title="_1020498.jpg by aadm, on Flickr"><img src="http://farm4.staticflickr.com/3053/5791771894_5b3ce9d73b_z.jpg" width="640" height="480" alt="_1020498.jpg"></a>
 
@@ -108,7 +108,7 @@ Non ho consigli o suggerimenti da dare. Vi potrei raccontare che solitamente sca
 
 Insomma, per me la macchina fotografica ideale è un qualcosa dotato di un sensore micidiale, un AF veloce ma "semplice", un sistema esposimetrico matrix e spot, ottiche fisse luminose, e una ghiera per scegliere priorità di tempi, di diaframmi o manuale. Tutto il resto lo sottoutilizzo.
 
-Però colgo sempre spunti interessanti dalle letture che si fanno in rete. E uno di questi mi ha portato a configurare uno dei custom mode della GF-1 nella modalità che ho battezzato *street-stealth-photography* (SSP mode).
+Però colgo sempre spunti interessanti dalle letture che si fanno in rete. E uno di questi mi ha portato a configurare uno dei custom mode della GF1 nella modalità che ho battezzato *street-stealth-photography* (SSP mode).
 
 Ho impostato l'autofocus con face detection, film mode B/W Dynamic (contrast +1, sharpness +2), auto-ISO. In questo modo mi affido quasi ciecamente alla macchina per mettere a fuoco sul viso delle persone, impostare i parametri di scatto, lascio che la sensibilità aumenti fino al livello critico di 1600 ISO (parecchio rumore ma ricordiamoci che stiamo lavorando under cover e l'importante è portare a casa un'immagine!), automaticamente processare l'immagine come jpeg in bianco e nero bello contrastato.
 
@@ -118,11 +118,11 @@ L'SSP mode lo uso per poter scattare al volo delle foto in condizioni difficili 
 
 ##video
 
-La GF-1 permette di creare facili video in formato HD (1280x720); 'facilè qui è la parola chiave, visto che trovo molto più immediato usare la GF-1 della Nikon D7000, che richiede un approccio più ragionato, anche a causa delle dimensioni. [Come dice Craig Mod](http://craigmod.com/journal/gf1-fieldtest-video/):
+La GF1 permette di creare facili video in formato HD (1280x720); 'facilè qui è la parola chiave, visto che trovo molto più immediato usare la GF1 della Nikon D7000, che richiede un approccio più ragionato, anche a causa delle dimensioni. [Come dice Craig Mod](http://craigmod.com/journal/gf1-fieldtest-video/):
 
 >  The camera excels at capturing off the cuff snippets of moving-life along your travels.
 
-Ecco due esempi di video che ho creato con GF-1 e 17mm.
+Ecco due esempi di video che ho creato con GF1 e 17mm.
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/gMBcbsr2u2s?rel=0" frameborder="0"> </iframe>
 
@@ -135,37 +135,37 @@ _Oxford, dicembre 2010._
 
 ##una critica negativa
 
-Come ho scritto all'inizio, non voglio far qui una recensione ragionata della GF-1 visto che ormai se ne è parlato abbondantemente. All'inizio pensavo anche di raccogliere i pareri trovati in giro sulla rete e fare una meta-critica. Poi la voglia mi è passata, ma è restato qualcosa, e cioè un senso di stizza per una [recensione molto miope di Thom Hogan](http://www.sansmirror.com/cameras/a-note-about-camera-reviews/panasonic-camera-reviews/panasonic-gf1-review.html).
+Come ho scritto all'inizio, non voglio far qui una recensione ragionata della GF1 visto che ormai se ne è parlato abbondantemente. All'inizio pensavo anche di raccogliere i pareri trovati in giro sulla rete e fare una meta-critica. Poi la voglia mi è passata, ma è restato qualcosa, e cioè un senso di stizza per una [recensione molto miope di Thom Hogan](http://www.sansmirror.com/cameras/a-note-about-camera-reviews/panasonic-camera-reviews/panasonic-gf1-review.html).
 
 Inizia male il suo pezzo:
 
->Indeed, if you set a LX3 next to a GF-1, you can see the design inheritance very easily. That’s not to say there aren’t differences. But more on that later.
+>Indeed, if you set a LX3 next to a GF1, you can see the design inheritance very easily. That’s not to say there aren’t differences. But more on that later.
 
 > Put another way, you expect a 4/3 camera to perform more like a DSLR than a compact camera. We’ll leave it at that for now. I’ll have more to say in the Performance section later on.
 
 > The question, of course, is do you sacrifice usability or performance for that reduction. I’ll answer those questions later in the review.
 
-> Is the GF-1 a good subsitute for a compact camera, and how does it compare to the Olympus E-P1? I’ll try to answer both questions in the remainder of this review.
+> Is the GF1 a good subsitute for a compact camera, and how does it compare to the Olympus E-P1? I’ll try to answer both questions in the remainder of this review.
 
 Notate i vari "more on that later"? Bene, se vuoi dire una cosa dilla e non continuare a ripetere che la dirai in un altro punto della tua recensione. È davvero irritante; e lo so, mi rendo anche conto che sia assolutamente irrilevante ai fini di un giudizio su un aggeggio meccanico ma che ci volete fare, mi mette di malumore.
 
 Il malumore aumenta quando si passa alle motivazioni tecniche:
 
-> There are eleven (!) buttons and one controller on the back of the GF-1 (...) And the rear dial is (...) two controllers because it has a “switch” built into the dial. All this extra work really didn’t make the GF-1 “better” than the LX3 for controllability. (...) One thing that’s starting to bug me are the use of dedicated ISO, WB, and other buttons (arrayed in a circle and doubling as up/down/left/right buttons) plus the Quick Menu function. The Quick Menu function is good enough that a dedicated button isn’t really saving me much time and effort.
+> There are eleven (!) buttons and one controller on the back of the GF1 (...) And the rear dial is (...) two controllers because it has a “switch” built into the dial. All this extra work really didn’t make the GF1 “better” than the LX3 for controllability. (...) One thing that’s starting to bug me are the use of dedicated ISO, WB, and other buttons (arrayed in a circle and doubling as up/down/left/right buttons) plus the Quick Menu function. The Quick Menu function is good enough that a dedicated button isn’t really saving me much time and effort.
 
-Quindi, anche se uno dei vantaggi di una reflex è proprio quello di avere pulsanti e ghiere separati per gestire tutte le principali funzioni, Thom vede l'abbondanza di pulsantini sulla GF-1 come uno svantaggio.
+Quindi, anche se uno dei vantaggi di una reflex è proprio quello di avere pulsanti e ghiere separati per gestire tutte le principali funzioni, Thom vede l'abbondanza di pulsantini sulla GF1 come uno svantaggio.
 
 Basta questo per farmi perdere qualsiasi fiducia in lui. Io preferisco avere un pulsante dedicato a controllare sensibilità e bilanciamento del bianco piuttosto che immergermi in un menù con freccettine, selezione, invio. La chiave del gioco per la maggior parte della fotografia che a me interessa (azione, street, candid) è l'immediatezza.
 
 <!--
-So, while the major advantage of SLRs is to have dedicated buttons that control all the major functions of the camera, Thom says that this is actually a negative point of the GF-1. Excuse me but this is bullshit. I’d very much prefer a dedicated ISO and white balance button than a single one with some sort of menu system. Immediacy is the key.
+So, while the major advantage of SLRs is to have dedicated buttons that control all the major functions of the camera, Thom says that this is actually a negative point of the GF1. Excuse me but this is bullshit. I’d very much prefer a dedicated ISO and white balance button than a single one with some sort of menu system. Immediacy is the key.
  -->
 
 <a href="http://www.flickr.com/photos/aadm/6751705477/" title="_1060611 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7161/6751705477_b86cdcda37_z.jpg" width="640" height="480" alt="_1060611"></a>
 
 ##dove ci porta il futuro
 
-Ormai viziato dall'incredibile sensore della D7000, tendo a usare la GF-1 come compatta adatta a gite escursionistiche, quando lo spazio (nello zaino) e il peso sono gli elementi principali di cui tener conto. Spesso continuo a fare errori grossolani come ad esempio quello di scattare in jpg[^nota-raw], e allora i risultati sono così deludenti (colori smorti e tendenti al viola malato) che mi viene voglia di darla via questa inutile macchinetta, usare l'iPhone per fare istantanee al volo da condividere con amici e tenere come semplice memorandum di dove sono stato.
+Ormai viziato dall'incredibile sensore della D7000, tendo a usare la GF1 come compatta adatta a gite escursionistiche, quando lo spazio (nello zaino) e il peso sono gli elementi principali di cui tener conto. Spesso continuo a fare errori grossolani come ad esempio quello di scattare in jpg[^nota-raw], e allora i risultati sono così deludenti (colori smorti e tendenti al viola malato) che mi viene voglia di darla via questa inutile macchinetta, usare l'iPhone per fare istantanee al volo da condividere con amici e tenere come semplice memorandum di dove sono stato.
 
 <a href="http://www.flickr.com/photos/aadm/7693325112/" title="_1010424 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7273/7693325112_a3de482e9a_z.jpg" width="640" height="480" alt="_1010424"></a>
 
@@ -177,7 +177,7 @@ Oppure abbandonare completamente il sistema micro quattroterzi e buttarmi sul mo
 
 ##altre letture interessanti
 
-La principale lettura che suggerirei a chi ancora non la conoscesse è ["GF-1 field test" di Craig Mod](http://craigmod.com/journal/GF-1-fieldtest/), un bellissimo diario di viaggio in Himalaya inframmezzato di considerazioni tecniche da perfetto nerd e belle foto.
+La principale lettura che suggerirei a chi ancora non la conoscesse è ["GF1 field test" di Craig Mod](http://craigmod.com/journal/GF-1-fieldtest/), un bellissimo diario di viaggio in Himalaya inframmezzato di considerazioni tecniche da perfetto nerd e belle foto.
 
 Due letture piacevoli sono comparse anche su wired.com: ["Hands on"](http://www.wired.com/gadgetlab/2010/01/hands-on-with-panasonics-leica-lite-GF-1/) di Charlie Sorrell e il suo seguito ["Why I no longer use the Nikon D700"](http://www.wired.com/gadgetlab/2010/02/a-month-with-the-lumix-GF-1-and-why-i-no-longer-use-the-nikon-d700/).
 
@@ -185,12 +185,12 @@ Infine, se proprio non ne avete abbastanza, ecco [la recensione di Danny Choo](h
 
 
 
-[^nota-gx1]: Rispetto a GF-2 e GF-3 la GX-1 conserva le ghiere e i pulsanti che ti permettono di usare la GF-1 in maniera rapida e efficiente (touch-screen e minipulsantini per navigare tra menu e sottomenu non sono adatti a chi predilige velocità e immediatezza d'uso), sostituisce il sensore da 12 Mp con uno da 16 Mp con migliore risposta alle basse luminosità e un autofocus ancora più veloce. Però da quello che [ho letto in giro](http://www.stevehuffphoto.com/2012/01/02/user-report-the-panasonic-gx1-all-the-camera-you-will-ever-need-by-david-babsky/) non sembra che la GX-1 restituisca immagini a livello di Fuji X100 o Nikon D7000 quindi per avere migliorie marginali, tanto vale tenersi stretta la mia GF-1 (che comunque, con tutte le botte che ha preso, tanti soldi sul mercato dell'usato non li prenderebbe).
+[^nota-gx1]: Rispetto a GF2 e GF3 la GX1 conserva le ghiere e i pulsanti che ti permettono di usare la GF1 in maniera rapida e efficiente (touch-screen e minipulsantini per navigare tra menu e sottomenu non sono adatti a chi predilige velocità e immediatezza d'uso), sostituisce il sensore da 12 Mp con uno da 16 Mp con migliore risposta alle basse luminosità e un autofocus ancora più veloce. Però da quello che [ho letto in giro](http://www.stevehuffphoto.com/2012/01/02/user-report-the-panasonic-gx1-all-the-camera-you-will-ever-need-by-david-babsky/) non sembra che la GX1 restituisca immagini a livello di Fuji X100 o Nikon D7000 quindi per avere migliorie marginali, tanto vale tenersi stretta la mia GF1 (che comunque, con tutte le botte che ha preso, tanti soldi sul mercato dell'usato non li prenderebbe).
 
 
 [^nota-raw]: Avendo sempre scattato raw, devo ancora sperimentare i vari settaggi colore della macchina; probabilmente basta un "vivid" per migliorare la cosa. O semplicemente continuare a scattare in raw, visto che la qualità dei jpg della macchina è sempre stato un [punto critico](http://www.dpreview.com/reviews/PanasonicGF-1/33) della GF-1.
 
-[^nota-fuori-tempo]: Sembra che non sia il solo a lasciare un commento sulla GF-1 nel 2012, a circa tre anni dalla sua introduzione sul mercato. Leggete anche [questo commento di Colin Steel](http://www.stevehuffphoto.com/2012/04/10/the-panasonic-gf-1-an-old-friend-re-visited-by-colin-steel/) comparso ad aprile scorso su stevehuffphoto.com.
+[^nota-fuori-tempo]: Sembra che non sia il solo a lasciare un commento sulla GF1 nel 2012, a circa tre anni dalla sua introduzione sul mercato. Leggete anche [questo commento di Colin Steel](http://www.stevehuffphoto.com/2012/04/10/the-panasonic-gf-1-an-old-friend-re-visited-by-colin-steel/) comparso ad aprile scorso su stevehuffphoto.com.
 
 [^nota-zoom]: Stortura imposta dalla scarsa cultura fotografica e propagata dalla dilagante diffusione di superzoom 28-200.
 

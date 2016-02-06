@@ -1,56 +1,30 @@
-title: panasonic GF-1 late review
+title: panasonic GF1 late review
 tags: photo, gear
 slug: panasonic-gf1-late-review
 lang: en
-related_posts: d600-first-impressions, a-little-camera, black-and-white, thoughts-on-d7000,
+related_posts: d600-first-impressions, a-little-camera, black-and-white, thoughts-on-d7000
 
-È da quasi un anno che sono tornato al mondo reflex con una Nikon D7000, ma la piccola Panasonic GF-1 è ancora una presenza costante nel mio zaino. Nel frattempo sono uscite altre cento iterazioni della Panasonic sul tema mirrorless / micro quattroterzi ma solo l'ultima (GX-1) mi pare la vera evoluzione della GF-1[^nota-gx1].
+It's been quite some time now that I have [gone back to DSLRs]({filename}2012-09-21-thoughts-on-d7000.md), but the little Panasonic GF1 is still a constant presence in my backpack. In the meantime, Panasonic has churned out countless other iterations on the same micro four/thirds concept; but to me it has somehow watered down the concept and only the latest one (GX1), seems to be the true successor of the GF1.
 
-##recensione fuori tempo massimo
+I think it's only appropriate to post now a few words on my GF1; I know, it is indeed a very late review[^nota-fuori-tempo] but it could be of some interest to cheapskates that are looking for a nice and little second-hand camera (or maybe convince those of you affected by GAS[^gas] that the GF1 is still "good enough")
 
-Pubblico quindi solo ora, fuori tempo massimo[^nota-fuori-tempo], alcune impressioni e note sulla GF-1. Potrà interessare gli squattrinati che vogliono cercare una buona e piccola macchina fotografica sul mercato dell'usato o convincere i maniaci dell'acquisto compulsivo a ritardare il pensionamento della propria GF-1.
+<a href="http://www.flickr.com/photos/aadm/5725746660/" title="1010831.jpg by aadm, on Flickr"><img src="http://farm6.staticflickr.com/5308/5725746660_b027f4978d_z.jpg" width="480" height="640" alt="1010831.jpg"></a>
 
-Tutte le foto che vedete qui sono ovviamente state scattate da me con la GF-1.
+## what I said at the very beginning
 
-<a href="http://www.flickr.com/photos/aadm/5725746660/" title="_1010831.jpg by aadm, on Flickr"><img src="http://farm6.staticflickr.com/5308/5725746660_b027f4978d_z.jpg" width="480" height="640" alt="_1010831.jpg"></a>
+It is true what everybody said back when the GF1 came out; it is indeed a camera that puts the fun back into photography. Small enough to carry it everywhere on my bike rides, squeezed in my backpack between a sandwich, a sweaty t-shirt and a spare tube. And with plenty of photographic power to shame most other DSLRs.
 
-##il mio commento iniziale
-
-Proprio vero quello che si diceva in giro quando uscì la GF-1; è una macchina che ti fa tornare il divertimento nella fotografia. Abbastanza piccola da potertela portare dietro anche nelle mie gite in bicicletta, schiacciata nel minizaino tra un panino, una maglia sudata e una camera d'aria di scorta. E con tutta la potenza di una reflex a tua disposizione.
-
-Ecco cosa scrissi a Daniele e Dylan dopo aver letto un'articolo di dpreview sulla Panasonic:
-
-    from    aadm
-    date    Thu, Sep 3, 2009 at 10:23 PM
-    subject retro-minimalista, panasonic dmc-GF-1
-
-    http://www.dpreview.com/previews/PanasonicGF-1/
-
-    Che ne pensate ?
-
-    A me piacciono molto  queste nuove vie di mezzo tra reflex e compatte!
-
-    Daniele si ricorderà della mia canon g5, di cui ero molto contento
-    fino a quando confrontai le foto con quella di una reflex...
-    queste nuove proposte invece sembrano proprio venirmi incontro!
-    ricordatevi come sempre che ultimamente le foto che accio sono quelle
-    che scatto durante le mie gite in montagna, a piedi o in bici...
-    e quindi occasioni in cui la reflex non ci penso neanche a portarla.
-
-
-E poi scrissi un breve post intitolato ["my next camera"](http://aadm.github.com/2010-08-19-my-next-camera.html) ad agosto del 2010; neanche un mese dopo mi trovavo a Livigno e per puro caso trovai [un'offerta imperdibile per portarmi a casa la GF-1.](http://aadm.github.com/2010-09-11-it-was-unintentional.html).
+In august 2010 I wrote a short post titled ["my next camera"]({filename}2010-08-19-my-next-camera.md); the month after I happened to be in Livigno and [by pure chance I bought the GF1]({filename}2010-09-11-it-was-unintentional.md).
 
 <a href="http://www.flickr.com/photos/aadm/5401364927/" title="_1000664.jpg by aadm, on Flickr"><img src="http://farm6.staticflickr.com/5259/5401364927_7a9ca37738_z.jpg" width="480" height="640" alt="_1000664.jpg"></a>
 
-##il corredo
+## the lenses
 
-Il mio corredo di ottiche non è ottimale; innanzitutto ho un solo obiettivo quindi è pure sbagliato parlare di "corredo" o "parco" ottiche. E poi non ho il famoso 20mm f/1.7 Panasonic ma l'Olympus 17mm f/2.8 che viene sempre bistrattato nelle recensioni -- forse perché il Panasonic è un obiettivo così superiore alla media che fa fare brutte figure a tutti gli altri.
+I don't have an ideal set of lenses; well to be honest I don't even have multiple lenses, but just the one little crappy Olympus 17mm f/2.8. It's a lens that always come up second when compared to the Panasonic 20mm f/1.7 but it does offer a slightly wider field of view (34mm-equivalent as opposed to the 40mm-equivalent of the Panasonic). The problem is obviously that it's rather slow (f/2.8 compared to f/1.7), and it's this stop and a half that bothers me more than the optical defects.
 
-Da specifiche tecniche comunque l'Olympus offre un campo visivo leggermente più ampio e analogo alla classica focale 35mm delle reflex (rispetto al 40mm-equivalente del Panasonic) ma soffre di uno stop e mezzo di luminosità in meno. Alcuni siti autorevoli fanno notare i difetti ottici di questo obiettivo ma devo dire che all'utilizzo pratico io non ho mai sofferto più di tanto. Secondo me il difetto principale sta principalmente in quello stop e mezzo di luminosità in meno (f/2.8 contro f/1.7).
+I also have an adaptor ring for Nikon lenses (that I still have) and a [Pinwide](http://wanderlustcameras.com/products/pinwide.html), which is a plastic cap with a tiny hole in the middle; however both of these things were stolen from my house last January when thieves broke into my house (they also stole my Nikon F70 -- a film SLR -- and more annoyingly a perfectly good Nikon AF 20mm f/2.8).
 
-A parte questo ho avuto anche un anello adattatore per ottiche Nikon e un [Pinwide](http://wanderlustcameras.com/products/pinwide.html) (praticamente un tappo di plastica bucato per fare fotografia pinhole); entrambi questi aggeggi mi sono stati rubati a gennaio scorso quando dei ladri sono entrati in casa e hanno razziato un po' a casaccio, portandosi dietro ad esempio un vecchio corpo macchina Nikon F70 (di quelli del Pleistocene che andavano a pellicola) e lasciando invece un iPad nuovo di pacca.
-
-L'anello adattatore mi ha permesso di divertirmi con un paio di ottiche Nikon che avevo in casa (un 105mm f/2.8 micro e un 50mm f/1.8); il 50mm diventa un medio tele molto comodo e facile da usare, il 105mm invece è troppo grosso e pesante, sbilancia molto la macchina e lo si riesce a sfruttare con soddisfazione solo con un treppiede (il che invalida il concetto di fotografia, rapido / veloce / furfantesco, di cui è campione la GF-1).
+The adaptor ring allowed me to use two Nikon lenses: an old manual-focus 105mm f/2.8 Micro and a 50mm f/1.8. The 50mm became a very light long-lens (100mm-equivalent) which was easy to use and gave me incredibly good results. The 105mm is too big and heavy for this camera and I was only able to use it effectively when mounted on a tripod.
 
 <a href="http://www.flickr.com/photos/aadm/7693974058/" title="_1050999 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7125/7693974058_e2c0854633_z.jpg" width="480" height="640" alt="_1050999"></a>
 
@@ -58,6 +32,7 @@ L'anello adattatore mi ha permesso di divertirmi con un paio di ottiche Nikon ch
 
 ###test comparativo-ossessivo-compulsivo: Panasonic vs Olympus
 
+What I said before
 È vero, l'Olympus 17mm fa un po' schifo rispetto al Panasonic; non c'è recensione sulla rete che non arrivi a queste conclusioni. E io dico sempre chissenefrega, le foto a scale micrometriche e le analisi a livello di pixel non mi interessano. Ammetto però di essermi lasciato prendere dal pixel-peeping convulsivo (malattia che colpisce gli assidui frequentatori di dpreview) a Natale 2010, quando rimasi bloccato a casa di Daniele ad Oxford a causa delle nevicate eccezionali che colpirono la Gran Bretagna.
 
 Ecco i risultati, dei ritagli al 100% di noiosissime nature morte (biscotti Tesco, decorazioni natalizie, neve e un amplificatore esoterico e costosissimo) scattate con treppiede ed alternando i due obiettivi ([qui](http://www.flickr.com/photos/aadm/sets/72157630860193170/) gli originali):
@@ -185,12 +160,12 @@ Infine, se proprio non ne avete abbastanza, ecco [la recensione di Danny Choo](h
 
 
 
-[^nota-gx1]: Rispetto a GF-2 e GF-3 la GX-1 conserva le ghiere e i pulsanti che ti permettono di usare la GF-1 in maniera rapida e efficiente (touch-screen e minipulsantini per navigare tra menu e sottomenu non sono adatti a chi predilige velocità e immediatezza d'uso), sostituisce il sensore da 12 Mp con uno da 16 Mp con migliore risposta alle basse luminosità e un autofocus ancora più veloce. Però da quello che [ho letto in giro](http://www.stevehuffphoto.com/2012/01/02/user-report-the-panasonic-gx1-all-the-camera-you-will-ever-need-by-david-babsky/) non sembra che la GX-1 restituisca immagini a livello di Fuji X100 o Nikon D7000 quindi per avere migliorie marginali, tanto vale tenersi stretta la mia GF-1 (che comunque, con tutte le botte che ha preso, tanti soldi sul mercato dell'usato non li prenderebbe).
-
 
 [^nota-raw]: Avendo sempre scattato raw, devo ancora sperimentare i vari settaggi colore della macchina; probabilmente basta un "vivid" per migliorare la cosa. O semplicemente continuare a scattare in raw, visto che la qualità dei jpg della macchina è sempre stato un [punto critico](http://www.dpreview.com/reviews/PanasonicGF-1/33) della GF-1.
 
-[^nota-fuori-tempo]: Sembra che non sia il solo a lasciare un commento sulla GF-1 nel 2012, a circa tre anni dalla sua introduzione sul mercato. Leggete anche [questo commento di Colin Steel](http://www.stevehuffphoto.com/2012/04/10/the-panasonic-gf-1-an-old-friend-re-visited-by-colin-steel/) comparso ad aprile scorso su stevehuffphoto.com.
+[^nota-fuori-tempo]: It seems like I'm not the only one to write about the GF1 in 2012, three years after it first appeared on the market. There is a [nice commentary by Colin Steel](ttp://www.stevehuffphoto.com/2012/04/10/the-panasonic-gf-1-an-old-friend-re-visited-by-colin-steel/) which appeared earlier this year on one of those popular blogs.
+
+[^gas]: Gear Acquisition Syndrome. Everybody talks [about it](http://erickimphotography.com/blog/2012/03/04/10-tips-on-how-to-cure-yourself-of-gas-gear-acquisition-syndrome) on the internet: google it up.
 
 [^nota-zoom]: Stortura imposta dalla scarsa cultura fotografica e propagata dalla dilagante diffusione di superzoom 28-200.
 

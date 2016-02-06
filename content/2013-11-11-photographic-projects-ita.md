@@ -1,9 +1,12 @@
-title: progetti fotografici
-tags: photo, notes, links
+Title: progetti fotografici
+Tags: photo
+Lang: it
+Slug: photographic-projects
 
-_Lo dico prima: questa non è una traduzione letterale del [pezzo che ho scritto in inglese]({{site.url}}/2013-11-11-photographic-projects.html). Non sono un traduttore, e quando scrivo in inglese ho un certo vocabolario ed espressioni che mi vengono e che se mi mettessi a tradurre letteralmente in italiano farei delle schifezze. Questa cosa vale anche al contrario ovviamente. Questo il motivo per cui un sacco di miei post sono scritti o in inglese o in italiano; a seconda di come mi sento li scrivo in una lingua o l'altra e li lascio così. Questa volta però mi premeva esprimere il concetto sia in inglese che italiano._ 
 
-Il punto dunque è che la foto singola, per quanto possa venire bene o sia addirittura stupenda, stupendissima, non mi soddisfa. O meglio, lo fa, ma la soddisfazione dura poco. 
+_Lo dico prima: questa non è una traduzione letterale del [pezzo che ho scritto in inglese]({filename}2013-11-11-photographic-projects.md). Non sono un traduttore, e quando scrivo in inglese ho un certo vocabolario ed espressioni che mi vengono e che se mi mettessi a tradurre letteralmente in italiano farei delle schifezze. Questa cosa vale anche al contrario ovviamente. Questo il motivo per cui un sacco di miei post sono scritti o in inglese o in italiano; a seconda di come mi sento li scrivo in una lingua o l'altra e li lascio così. Questa volta però mi premeva esprimere il concetto sia in inglese che italiano._
+
+Il punto dunque è che la foto singola, per quanto possa venire bene o sia addirittura stupenda, stupendissima, non mi soddisfa. O meglio, lo fa, ma la soddisfazione dura poco.
 
 Invece mi è sempre piaciuto collegare e unire delle sequenze di foto in qualcosa di organico, in modo da raccontare una storia. E ho scoperto grazie a una conversazione sulla comunità di [On Taking Pictures](http://5by5.tv/otp) su Google+ di non essere il solo a godere del piacere del raccontare una storia per immagini (in inglese si dice con la solita efficacia "visual storytelling").
 
@@ -17,7 +20,7 @@ Sembra quasi che tutti quanti vogliano sfuggire la normalità e nessuno davvero 
 
 Il mio amico Dylan ad esempio ha come eroi fotografici Steve McCurry e altri fotoreporter di guerra; sogna di andare in Vietnam o Thailandia perché così si riaccende la sua scintilla fotografica, la sua creatività. Ma quello che vorrei dirgli è che un buon fotografo crea cose belle dove c'è la merda e che la capacità di agganciare un lettore con le nostre fotografie dovrebbe essere a prescindere dalla storia che si racconta.
 
-Per questo mi sono deciso a pubblicare queste due raccolte di fotografie, [Architetti al lavoro](http://aadm.github.io/2013-10-26-architetti-al-lavoro.html) e [Ultimi giochi](http://aadm.github.io/2013-11-06-ultimi-giochi.html).
+Per questo mi sono deciso a pubblicare queste due raccolte di fotografie, [Architetti al lavoro]({filename}2013-10-26-architetti-al-lavoro.md) e [Ultimi giochi]({filename}2013-11-06-ultimi-giochi.md).
 
 Quest'ultimo in particolare mi sta a cuore perché racconta dell'ultima volta che Valentina ha giocato con Gemma. C'erano queste due bellissime bambine che irradiavano gioia e allegria in un pomeriggio un po' cupo e grigio; e io non potevo fare a meno di pensare che la prossima volta che si incontreranno saranno bimbe diverse, magari parleranno già, magari Valentina non farà più ridere Gemma come fa adesso con ogni sua smorfia e faccetta.
 
