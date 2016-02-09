@@ -7,9 +7,11 @@ related_posts: d600-first-impressions, black-and-white, thoughts-on-d7000, panas
 
 I wanted to get a Leica this time. For real.
 
-You know Leica: the stupidly expensive cameras that are only bought by trustafarians and rich asians. The kind of camera that is more likely to be kept in a closet or worn like a piece of jewellery than actually used.
+You know Leica: stupidly expensive cameras that seem to be bought only by trustafarians and rich asians. The kind of camera that is more likely to be kept in a closet or worn like a piece of jewellery than actually used.
 
-Anyway they are indeed _different_ and I like their heft and the heavy metal they're built with. But I would have never considered one for real if I had not played with the original Monochrom; that really changed something, the simple pleasure of using and holding this rather large, deceiptively simple and "dense" camera changed somehow my perception. I will be honest and declare it right now that none of this matters when it comes to Photography; but I'm talking about something else here, I'm talking about very elementary pleasures that are tangentially related to the actual making of photographs; the same pleasure that I get from using bycicles or a Faber-Castell pencil for example.
+Anyway they are indeed _different_ and I have always liked the impression of solidity, their simplicity, and that funky way of setting the focus[^real-leica]. But I would have never considered one for real if I had not played with the original Monochrom; that really changed something, the simple pleasure of using and holding this rather large, deceiptively simple and "dense" camera changed somehow my perception of Leicas. I will be honest and declare it right now that none of this matters when it comes to photography; but I'm talking about something else here, I'm talking about very elementary pleasures that are tangentially related to the actual making of photographs; the same pleasure that I get from using bycicles or a Faber-Castell pencil for example.
+
+[^real-leica]: Obviously I'm talking about the range finder Leicas: the various M-something.
 
 <!-- PELICAN_END_SUMMARY -->
 

@@ -4,9 +4,11 @@ slug: panasonic-gf1-late-review
 lang: en
 related_posts: d600-first-impressions, a-little-camera, black-and-white, thoughts-on-d7000
 
-It's been quite some time now that I have [gone back to DSLRs]({filename}2012-09-21-thoughts-on-d7000.md), but the little Panasonic GF1 is still a constant presence in my backpack. In the meantime, Panasonic has churned out countless other iterations on the same micro four/thirds concept; but to me it has somehow watered down the concept and only the latest one (GX1), seems to be the true successor of the GF1.
+It's been quite some time now that I have [gone back to DSLRs]({filename}2012-09-21-thoughts-on-d7000.md), but the little Panasonic GF1 is still a constant presence in my backpack. In the meantime, Panasonic has churned out countless other iterations on the same micro four/thirds concept; but to me it has somehow watered down the concept and only the latest one (GX1) seems to be the true successor of the GF1.
 
 I think it's only appropriate to post now a few words on my GF1; I know, it is indeed a very late review[^nota-fuori-tempo] but it could be of some interest to cheapskates that are looking for a nice and little second-hand camera (or maybe convince those of you affected by GAS[^gas] that the GF1 is still "good enough")
+
+<!-- PELICAN_END_SUMMARY -->
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/5725746660" title="2011-02-27_1010831.jpg.jpg"><img src="https://farm6.staticflickr.com/5308/5725746660_b027f4978d_b.jpg" width="600" height="800"></a>
@@ -15,7 +17,7 @@ I think it's only appropriate to post now a few words on my GF1; I know, it is i
 
 ## what I said at the very beginning
 
-It is true what everybody said back when the GF1 came out; it is indeed a camera that puts the fun back into photography. Small enough to carry it everywhere on my bike rides, squeezed in my backpack between a sandwich, a sweaty t-shirt and a spare tube. And with plenty of photographic power to shame most other DSLRs.
+It is true what everybody said back when the GF1 came out; this is indeed a camera that puts the fun back into photography. Small enough to carry it everywhere on my bike rides, squeezed in my backpack between a sandwich, a sweaty t-shirt and a spare tube. And with plenty of photographic power to shame most other DSLRs.
 
 In august 2010 I wrote a short post titled ["my next camera"]({filename}2010-08-19-my-next-camera.md); the month after I happened to be in Livigno and [by pure chance I bought the GF1]({filename}2010-09-11-it-was-unintentional.md).
 
@@ -26,9 +28,9 @@ In august 2010 I wrote a short post titled ["my next camera"]({filename}2010-08-
 
 ## my lenses
 
-I don't have an ideal set of lenses; well to be honest I don't even have multiple lenses, but just the one little crappy Olympus 17mm f/2.8. It's a lens that always come up second when compared to the Panasonic 20mm f/1.7 but it does offer a slightly wider field of view (34mm-equivalent as opposed to the 40mm-equivalent of the Panasonic). The problem is obviously that it's rather slow (f/2.8 compared to f/1.7), and it's this stop and a half that bothers me more than the optical defects.
+I don't have an ideal set of lenses; well to be honest I don't even have multiple lenses, but just the one little crappy Olympus 17mm f/2.8. It's a lens that always come up second when compared to the Panasonic 20mm f/1.7 but it does offer a slightly wider field of view (34mm-equivalent as opposed to the 40mm-equivalent of the Panasonic). The problem is the maximum aperture, only f/2.8; it is this stop and a half that bothers me more than the optical defects.
 
-I also have an adaptor ring for Nikon lenses (that I still have) and a [Pinwide](http://wanderlustcameras.com/products/pinwide.html), which is a plastic cap with a tiny hole in the middle; however both of these things were stolen from my house last January when thieves broke into my house (they also stole my Nikon F70 -- a film SLR -- and more annoyingly a perfectly good Nikon AF 20mm f/2.8).
+I also have an adaptor ring for Nikon lenses and a [Pinwide](http://wanderlustcameras.com/products/pinwide.html), which is a plastic cap with a tiny hole in the middle; however both of these things were stolen from my house last January when thieves broke into my house (they also stole my Nikon F70 -- a film SLR -- and more annoyingly a perfectly good Nikon AF 20mm f/2.8).
 
 The adaptor ring allowed me to use two Nikon lenses: an old manual-focus 105mm f/2.8 Micro and a 50mm f/1.8. The 50mm became a very light long-lens (100mm-equivalent) which was easy to use and gave me incredibly good results. The 105mm is too big and heavy for this camera and I was only able to use it effectively when mounted on a tripod.
 
@@ -51,7 +53,7 @@ I am not being very original here but I want to remember why shooting a fixed fo
 <figcaption>Venaria Reale, Torino.</figcaption>
 </figure>
 
-* _stimulating and instructive_ because you need to walk and move around to make the picture you want, therefore fighting the propensity of using the zoom as a substitute for physically changing the distance with the subject.
+* _stimulating and instructive_ because you need to walk and move around to make the picture you want, therefore fighting the propensity of using the zoom as a substitute for physically changing your position in space.
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/5401966320" title="2010-10-17_1000673.jpg"><img src="https://farm6.staticflickr.com/5099/5401966320_7becbe82d9_b.jpg" width="800" height="600"></a>
@@ -76,18 +78,13 @@ About primes, there is a [something written by Steve Huff](http://www.stevehuffp
 
 ## shooting a gf1
 
-I don't really have tips or tricks. I could tell you that I usually use aperture priority,that I always have the camera set at 100 ISO and then I raise the ISO when I want to rather than using auto-ISO settings. That I trust the AF generally, but not the advanced modes like multi-point AF or face-detection; I use the single central point that maybe I will move around but more commonly I simply focus and then recompose. I don't care about white balance as I aways shoot RAW.
+I don't really have tips or tricks. I could tell you that I usually use aperture priority, that I always have the camera set at 100 ISO and then I raise the ISO when I want rather than using auto-ISO settings; that I trust the AF generally, but not the advanced modes like multi-point AF or face-detection (I use the single central point then I simply focus and recompose). I don't care about white balance as I aways shoot RAW.
 
-In other words, my ideal camera is something with a hell of a sensor, fast AF but really really simple, matrix and spot exposure, availability of bright prime lenses and some knobs to switch from manual to aperture or shutter priority and to set either of those basic settings. Everything else is a plus that don't really get used in my hands.
+In other words, my ideal camera is something with a hell of a sensor, fast AF but really really simple, matrix and spot exposure, availability of bright prime lenses and some knobs to switch from manual to aperture or shutter priority and to set either of those basic settings. Everything else is a plus that I don't really use.
 
-Having said that, I did experiment for a while with some settings that make heavy use of all the technical gizmos of these modern cameras; I call this mode *street-stealth-photography* (SSP mode).
+Having said that, I did experiment for a while with some settings that make heavy use of all the technical gizmos of these modern cameras; I call this mode *street-stealth-photography* (SSP) mode. The AF is set to face-detection, film mode to B/W Dynamic (contrast +1, sharpness +2, which is a pretty contrasty black and white), auto-ISO. I trust the camera to focus on people's faces, I leave auto-ISO on limited to only reach 1600 ISO (which makes for quite a lot of noise but what I'm thinking is just snap something and bring it home).
 
-The AF is set to face-detection, film mode to B/W Dynamic (contrast +1, sharpness +2, which is a pretty contrasty black and white), auto-ISO. I trust the camera to focus on people's faces, I leave auto-ISO on limited to only reach 1600 ISO (which makes for quite a lot of noise but I'm thinking to just bring something home).
-
-The SSP mode helps when I  shoot in difficult conditions, where speed is key and I don't have time to choose shutter speed, ISO etc; saving also precooked JPEGs with a rather incisive black and white helps when I want my photographs to be ready as soon as they are offloaded from the camera, skipping the RAW import and the inevitable tinkering that follows.
-
-<!--
-L'SSP mode lo uso per poter scattare al volo delle foto in condizioni difficili o in cui è poco pratico piazzarsi per bene, portare la macchina al viso, inquadrare correttamente, scegliere fuoco e tempi e diaframmi. Insomma quando si vuole rubare uno scatto al volo di persone interessanti, quando si vuole catturare un'istantanea che abbia quelle qualità un po' magiche della street photography fatta con Kodak Tri-X e macchine a telemetro; quando l'unica visione che rende le asperità della città è quella che ti restituisce un bianco e nero fortemente sbilanciato sul nero e sui microcontrasti; quando vuoi documentare qualche evento speciale (ma anche comune!) e vuoi renderlo subito accessibile ad altri, quindi non puoi passare attraverso la inevitabile procedura di elaborazione a tavolino a cui bene o male il formato RAW ti "costringe" (grazie al miraggio di infinite possibilità e possibilità di miglioraremento dell'istantanea).  -->
+The SSP mode helps when I  shoot in difficult conditions, where speed is key and I don't have time to choose shutter speed, ISO etc; saving also these precooked JPEGs with a rather incisive black and white helps when I want my photographs to be ready as soon as they are offloaded from the camera, skipping the RAW import and the inevitable tinkering that follows.
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/6751767403" title="2011-10-22_1060738"><img src="https://farm8.staticflickr.com/7035/6751767403_7f48cf8fb1_b.jpg" width="800" height="600"></a>
@@ -117,9 +114,7 @@ Positive comments and reviews are listed at the end of this article. But there h
 
 > There are eleven (!) buttons and one controller on the back of the GF1 (...) And the rear dial is (...) two controllers because it has a “switch” built into the dial. All this extra work really didn’t make the GF1 “better” than the LX3 for controllability. (...) One thing that’s starting to bug me are the use of dedicated ISO, WB, and other buttons (arrayed in a circle and doubling as up/down/left/right buttons) plus the Quick Menu function. The Quick Menu function is good enough that a dedicated button isn’t really saving me much time and effort.
 
-So even though one of the key selling points of DSLRs is to have lots of buttons and knobs so you don't have to use menus (inherently slower), Thom finds that the GF1 has too many of them. I know what I would rather have these many buttons than a Quick Menu function. At first it may be confusing but if you use one camera you quickly learn to control it (while if you jump from one camera to another like many of these serial reviewers well I understand you could forget which is which).
-Immediacy is the key, especially with this type of camera.
-
+So even though one of the key selling points of DSLRs is to have lots of buttons and knobs so you don't have to use menus (inherently slower), Thom finds that the GF1 has too many of them. I know what I would rather have these many buttons than a Quick Menu function. At first it may be confusing but if you use one camera you quickly learn to control it (while if you jump from one camera to another like many of these serial reviewers, I can see you could easily forget which is which). Immediacy is the key, especially with this type of camera.
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/7693544200" title="2010-12-18_1010333"><img src="https://farm8.staticflickr.com/7253/7693544200_427c6206b7_h.jpg" width="800" height="600"></a>
@@ -127,10 +122,9 @@ Immediacy is the key, especially with this type of camera.
 </figure>
 
 
-
 ## what other people think
 
-The main article I recommend to everybody that would like to not only know the GF1 a bit more in detail but also as an example of wonderful mash-up between tech writeup and travelogue is the ["GF-1 field test" by Craig Mod](http://craigmod.com/journal/gf1-fieldtest/).  I have found interesting his perspective on (the minuscule Panasonic 14mm)[http://craigmod.com/journal/14mm/] too.
+The main article I recommend to everybody that would like to not only know the GF1 a bit more in detail but also as an example of wonderful mash-up between tech writeup and travelogue is the ["GF-1 field test" by Craig Mod](http://craigmod.com/journal/gf1-fieldtest/).  I have found interesting his perspective on [the minuscule Panasonic 14mm](http://craigmod.com/journal/14mm/) too.
 
 He also wrote something which at the time I judged lyrical and oh-so-powerful, but now it just seems a bit over-the-top; like something written by the guy who has never been to the mountains before and tries to say something new about a condition (climbing, the high mountains) that countless other adventurers have talked about with more knowledge and introspection. However, Mr Mod has definitely some affinity with words, and this rant is probably totally unjustified if he is as sincere as I wish him to be. Enjoy his [Annapurna Moonrise](http://craigmod.com/journal/annapurna_moonrise/) because it also has some cool night shots made with the GF1.
 
