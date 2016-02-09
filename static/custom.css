@@ -84,6 +84,29 @@ figcaption{
     text-align: center;
 }
 
-pre{
+
+code,
+kbd,
+pre,
+samp {
     font-family:'Roboto Mono';
+    font-size: 85%;
+}
+code {
+    color: #333333;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    padding: 2px 4px;
+}
+pre {
+    color: #333333;
+    background-color: #f5f5f5;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    display: block;
+    padding: 10px;
+    margin: 0 0 10.5px;
+    line-height: 1.42857143;
+    word-break: break-all;
+    word-wrap: break-word;
 }
