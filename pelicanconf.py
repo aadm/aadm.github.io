@@ -37,6 +37,7 @@ FAVICON = 'favicon.png'
 PAGE_URL = 'pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
 INDEX_SAVE_AS = 'blog_index.html'
+NOTEBOOK_DIR = '/Users/aadm/Dropbox/PYTHON/geophysical_notes'
 
 MENUITEMS=(
     ('journal','/blog_index.html'),

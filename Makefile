@@ -30,15 +30,15 @@ help:
 	@echo 'Makefile for a pelican Web site                                           '
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
-	@echo '   make html                           (re)generate the web site          '
-	@echo '   make clean                          remove the generated files         '
-	@echo '   make regenerate                     regenerate files upon modification '
-	@echo '   make publish                        generate using production settings '
-	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
-	@echo '   make devserver [PORT=8000]          start/restart develop_server.sh    '
-	@echo '   make stopserver                     stop local server                  '
-	@echo '   make gh                             push website to github             '
-	@echo '   make ghsrc                          push source code to github         '
+	@echo '   make html                    (re)generate the web site          '
+	@echo '   make clean                   remove the generated files         '
+	@echo '   make regenerate              regenerate files upon modification '
+	@echo '   make publish                 generate using production settings '
+	@echo '   make serve [PORT=8000]       serve site at http://localhost:8000'
+	@echo '   make vai [PORT=8000]         start/restart develop_server.sh    '
+	@echo '   make alt                     stop local server                  '
+	@echo '   make gh                      push website to github             '
+	@echo '   make ghsrc                   push source code to github         '
 	@echo '   make newpost NAME=whatever'
 	@echo '   make newpage NAME=whatever'
 	@echo '                                                                          '
@@ -72,14 +72,14 @@ else
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 0.0.0.0
 endif
 
-devserver:
+vai:
 ifdef PORT
 	$(BASEDIR)/develop_server.sh restart $(PORT)
 else
 	$(BASEDIR)/develop_server.sh restart
 endif
 
-stopserver:
+alt:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
