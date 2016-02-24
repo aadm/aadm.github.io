@@ -1,11 +1,11 @@
-Title: collaboration project and artist statement
+Title: artist statement
 Date: 2016-02-11 23:40:10
-Slug: collaboration-project-and-artist-statement
+Slug: artist-statement
 Tags:
 Lang: en
 Status: draft
 
-I would love to see people stop calling themselves _artists_ and then [write this junk](http://geandypavon.net/?page_id=764):
+I would love to see people that take photographs stop calling themselves _artists_ and then [write this junk](http://geandypavon.net/?page_id=764):
 
 >I treasure the power of revelation and completeness that images contain however I know this power is activated only at the threshold of destruction.
 
