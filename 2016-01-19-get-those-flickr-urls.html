@@ -270,7 +270,7 @@ aadm            </a>
 <p>The first script (<code>flickr_foto.py</code>) will work on a single photo, the second (<code>flickr_album.py</code>) will work on all the photos contained in an album. You obviously need albums with a reasonable number of photos (10-20 sounds good to me; if I had an album with 100 photos I wouldn&#8217;t want to post them all at&nbsp;once).</p>
 <p>Why would you use it over the usual web interface that Flickr has (the little curvy arrow that brings out a form to copy <span class="caps">HTML</span> or BBcode pointing at the desidered version)? Because it&#8217;s faster. And I like to geek out a&nbsp;little.</p>
 <p>This is an example of how to call <code>flickr_foto.py</code> from the command line and its&nbsp;output:</p>
-<div class="highlight"><pre><span></span>$ python flickr_foto.py 7932925194
+<div class="highlight"><pre>$ python flickr_foto.py 7932925194
 
 ---BEGIN---
 
@@ -284,14 +284,14 @@ aadm            </a>
 
 
 <p>More in detail, the only parameter to pass&nbsp;are:</p>
-<div class="highlight"><pre><span></span>$ python flickr_foto.py PHOTO_ID
+<div class="highlight"><pre>$ python flickr_foto.py PHOTO_ID
 $ python flickr_album.py ALBUM_ID
 </pre></div>
 
 
 <p>where <code>PHOTO_ID</code> is the numerical code you see in the <span class="caps">URL</span> of a Flickr photo (for <a href="https://www.flickr.com/photos/aadm/24465904520"><code>https://www.flickr.com/photos/aadm/24465904520/</code></a> it is 24465904520), while <code>ALBUM_ID</code> is the  code of a Flickr album, (for <a href="http://www.flickr.com/photos/aadm/albums/72157656289357513"><code>http://www.flickr.com/photos/aadm/albums/72157656289357513</code></a> it is&nbsp;72157656289357513).</p>
 <p>Here&#8217;s <code>flickr_foto.py</code>:</p>
-<div class="highlight"><pre><span></span><span class="c1">#**********************************************************</span>
+<div class="highlight"><pre><span class="c1">#**********************************************************</span>
 <span class="c1"># flickr_foto.py</span>
 <span class="c1"># (C) 2015-2016 aadm</span>
 <span class="c1">#**********************************************************</span>
@@ -351,7 +351,7 @@ $ python flickr_album.py ALBUM_ID
 
 
 <p>And this is <code>flickr_album.py</code>:</p>
-<div class="highlight"><pre><span></span><span class="c1">#**********************************************************</span>
+<div class="highlight"><pre><span class="c1">#**********************************************************</span>
 <span class="c1"># flickr_album.py</span>
 <span class="c1"># (C) 2015-2016 aadm</span>
 <span class="c1">#**********************************************************</span>
@@ -425,7 +425,7 @@ $ python flickr_album.py ALBUM_ID
 
 <p>The required information to fill in the scripts above are <code>api_key</code>, <code>api_secret</code> (more information here: <a href="https://www.flickr.com/services/api/misc.urls.html">https://www.flickr.com/services/api/misc.urls.html</a>). The first two will be available after you <a href="https://www.flickr.com/services/api/keys/">request an <span class="caps">API</span> key</a>.</p>
 <p>If you want the link to other versions of the photo you need to change the <code>'Large 1600'</code> string in the code above; valid formats are listed <a href="https://www.flickr.com/services/api/misc.urls.html">here</a> but the actual name to fed to the comparison above who knows where it&#8217;s written. You can use this little extra piece of Python to get all the sizes (as the other two, save it with a name like <code>get_sizes.py</code> and run it with <code>$ python get_sizes.py 24643653612</code>):</p>
-<div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">sys</span>
+<div class="highlight"><pre><span class="kn">import</span> <span class="nn">sys</span>
 <span class="kn">import</span> <span class="nn">flickrapi</span>
 
 <span class="n">api_key</span> <span class="o">=</span> <span class="s1">u&#39;INSERT_API_KEY_HERE&#39;</span>
@@ -443,11 +443,11 @@ $ python flickr_album.py ALBUM_ID
 <section class="well" id="related-posts">
     <h4>Related Posts:</h4>
     <ul>
-        <li><a href="http://aadm.github.io/2012-07-12-moving-to-github.html">moving to&nbsp;github</a></li>
-        <li><a href="http://aadm.github.io/2010-08-03-ipad-and-photography.html">ipad and&nbsp;photography</a></li>
-        <li><a href="http://aadm.github.io/2011-02-17-an-app-to-store-my-passwords.html">an app to store my&nbsp;passwords</a></li>
-        <li><a href="http://aadm.github.io/2012-11-06-the-little-ipad.html">the little&nbsp;ipad</a></li>
+        <li><a href="http://aadm.github.io/2012-06-02-these-tech-writers-invettiva.html">these tech writers&nbsp;(invettiva)</a></li>
+        <li><a href="http://aadm.github.io/2012-07-17-fonts-on-my-blog.html">fonts on my&nbsp;blog</a></li>
+        <li><a href="http://aadm.github.io/2012-06-29-open-mtb-maps.html">open mtb&nbsp;maps</a></li>
         <li><a href="http://aadm.github.io/2015-11-12-last-iteration.html">last&nbsp;iteration</a></li>
+        <li><a href="http://aadm.github.io/2011-03-24-tech-bloggers-and-xkcd.html">tech bloggers and&nbsp;xkcd</a></li>
     </ul>
 </section>
         </article>

@@ -13,7 +13,7 @@
 &lt;h1&gt;Part 2: setting the&amp;nbsp;software&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;(You can tell I&amp;#8217;m old because I still call Aperture and Lightroom &amp;#8220;software&amp;#8221; or &amp;#8220;programs&amp;#8221; and not&amp;nbsp;&amp;#8220;apps&amp;#8221;.)&lt;/em&gt; &lt;/p&gt;
 &lt;p&gt;After setting up the camera I have Aperture renaming automatically my files during import. The renaming scheme is&amp;nbsp;this:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;year&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;month&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;day&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;year&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;month&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;day&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -55,7 +55,7 @@ import&amp;nbsp;gdata.calendar&lt;/p&gt;
     password = getpass.getpass(&amp;#8220;Enter your password: &amp;#8220;)
     inizio = raw_input(&amp;#8220;From year: &amp;#8220;)
     fine   = raw_input(&amp;#8220;To year: &amp;#8220;)&amp;nbsp;intervallo=range(int(inizio),int(fine)+1)&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;calendar_service = gdata.calendar.service.CalendarService(username,password,&amp;quot;prova-cal&amp;quot;)
+&lt;div class="highlight"&gt;&lt;pre&gt;calendar_service = gdata.calendar.service.CalendarService(username,password,&amp;quot;prova-cal&amp;quot;)
 try:
     calendar_service.ProgrammaticLogin()
 except gdata.service.BadAuthentication, e:
@@ -278,23 +278,23 @@ case      | Silverstone &lt;span class="caps"&gt;SST&lt;/span&gt;-&lt;span class
 &lt;p&gt;I just hope Giulia doesn&amp;#8217;t notice it because you know women want to have clean stuff around, especially if this half-assed mechanical monster happens to live in the baby room (another month and a half to go before my yet un-named babygirl comes into the&amp;nbsp;world).&lt;/p&gt;
 &lt;h2&gt;sidenotes&lt;/h2&gt;
 &lt;p&gt;When I installed in the &lt;span class="caps"&gt;PCI&lt;/span&gt;-E slot the graphic card I couldn&amp;#8217;t get any display once &lt;span class="caps"&gt;OS&lt;/span&gt; X was loaded, so I had to use this switch at&amp;nbsp;boot:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;GraphicsEnabler=No
+&lt;div class="highlight"&gt;&lt;pre&gt;GraphicsEnabler=No
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;Then I installed ATI5000Injector.kext using Kext Wizard. I did other bits too that I&amp;#8217;ve read &lt;a href="http://www.insanelymac.com/forum/index.php?showtopic=260567"&gt;somewhere&lt;/a&gt;  but am not sure about them. Anyway, just in case I need them again: first, find the PCIRootUID of graphic card, by typing in from a terminal&amp;nbsp;window:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;ioreg -l | grep -15 &amp;quot;AppleACPIPCI&amp;quot; | grep &amp;quot;_UID&amp;quot;
+&lt;div class="highlight"&gt;&lt;pre&gt;ioreg -l | grep -15 &amp;quot;AppleACPIPCI&amp;quot; | grep &amp;quot;_UID&amp;quot;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;What this command does is giving you this &lt;span class="caps"&gt;UID&lt;/span&gt; number which you have to put into &lt;code&gt;/Extra/org.chameleon.Boot.plist&lt;/code&gt; by adding the following&amp;nbsp;lines:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;PCIRootUID&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;PCIRootUID&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
 &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;1&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;Finally I also added these other two lines (to have the card identified as a 5400 series instead of a&amp;nbsp;5000):&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;AtiConfig&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;AtiConfig&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
 &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;Eulemur&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -314,7 +314,7 @@ case      | Silverstone &lt;span class="caps"&gt;SST&lt;/span&gt;-&lt;span class
 &lt;h2&gt;update to lion&amp;nbsp;10.7.4&lt;/h2&gt;
 &lt;p&gt;Since everything was working I wanted some more troubles so I updated my system to 10.7.4 using the &lt;a href="http://support.apple.com/kb/DL1524"&gt;Combo package&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Then, not unexpectedly, &lt;span class="caps"&gt;OS&lt;/span&gt; X crashed on restarting and had to boot from the unibeast &lt;span class="caps"&gt;USB&lt;/span&gt; disk, selecting to boot from the drive with the newly installed system using these&amp;nbsp;switches:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;-v GeneratPStates=No DropSSDT=Yes
+&lt;div class="highlight"&gt;&lt;pre&gt;-v GeneratPStates=No DropSSDT=Yes
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -647,7 +647,7 @@ redirect iBackup to use the same database; such database is of course stored
 on my Dropbox (I know you were all expecting it; I mean, who does &lt;em&gt;not&lt;/em&gt; use
 Dropbox these days&amp;nbsp;?).&lt;/p&gt;
 &lt;p&gt;For you guys who are command line-impaired, here&amp;#8217;s how to do&amp;nbsp;it:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ ln -s ~/Dropbox/iBackup2.data ~/Library/Application Support/iBackup/iBackup2.data&lt;span class="sb"&gt;`&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;$ ln -s ~/Dropbox/iBackup2.data ~/Library/Application Support/iBackup/iBackup2.data&lt;span class="sb"&gt;`&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -656,14 +656,14 @@ with awk and Textmate to adjust the file exported from Lockbox, and at the end
 I created two .csv files, one for web passwords and various logins and the
 other for my credit/debit&amp;nbsp;cards.&lt;/p&gt;
 &lt;p&gt;This is a sample of the main&amp;nbsp;.csv:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Group Name,Record Name,Username,Password,Note
+&lt;div class="highlight"&gt;&lt;pre&gt;Group Name,Record Name,Username,Password,Note
 Websites,photo.net,dummy@gmail.com,1234,better when there was Greenspun
 Computers,macbookair,genius,qwerty,login to my macbook air 11&amp;quot;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;And this is the second file to import credit cards&amp;nbsp;details:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Group Name,Record Name,Issuer,Number,Holder,Valid From,Valid To,PIN,Note
+&lt;div class="highlight"&gt;&lt;pre&gt;Group Name,Record Name,Issuer,Number,Holder,Valid From,Valid To,PIN,Note
 Cards,Pig VISA,Pig Bank,4444 3333 2222 1111,NAME,01/10,01/13,0000,CCV=999
 &lt;/pre&gt;&lt;/div&gt;
 

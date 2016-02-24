@@ -281,23 +281,23 @@ case      | Silverstone <span class="caps">SST</span>-<span class="caps">SG05B</
 <p>I just hope Giulia doesn&#8217;t notice it because you know women want to have clean stuff around, especially if this half-assed mechanical monster happens to live in the baby room (another month and a half to go before my yet un-named babygirl comes into the&nbsp;world).</p>
 <h2>sidenotes</h2>
 <p>When I installed in the <span class="caps">PCI</span>-E slot the graphic card I couldn&#8217;t get any display once <span class="caps">OS</span> X was loaded, so I had to use this switch at&nbsp;boot:</p>
-<div class="highlight"><pre><span></span>GraphicsEnabler=No
+<div class="highlight"><pre>GraphicsEnabler=No
 </pre></div>
 
 
 <p>Then I installed ATI5000Injector.kext using Kext Wizard. I did other bits too that I&#8217;ve read <a href="http://www.insanelymac.com/forum/index.php?showtopic=260567">somewhere</a>  but am not sure about them. Anyway, just in case I need them again: first, find the PCIRootUID of graphic card, by typing in from a terminal&nbsp;window:</p>
-<div class="highlight"><pre><span></span>ioreg -l | grep -15 &quot;AppleACPIPCI&quot; | grep &quot;_UID&quot;
+<div class="highlight"><pre>ioreg -l | grep -15 &quot;AppleACPIPCI&quot; | grep &quot;_UID&quot;
 </pre></div>
 
 
 <p>What this command does is giving you this <span class="caps">UID</span> number which you have to put into <code>/Extra/org.chameleon.Boot.plist</code> by adding the following&nbsp;lines:</p>
-<div class="highlight"><pre><span></span><span class="nt">&lt;key&gt;</span>PCIRootUID<span class="nt">&lt;/key&gt;</span>
+<div class="highlight"><pre><span class="nt">&lt;key&gt;</span>PCIRootUID<span class="nt">&lt;/key&gt;</span>
 <span class="nt">&lt;string&gt;</span>1<span class="nt">&lt;/string&gt;</span>
 </pre></div>
 
 
 <p>Finally I also added these other two lines (to have the card identified as a 5400 series instead of a&nbsp;5000):</p>
-<div class="highlight"><pre><span></span><span class="nt">&lt;key&gt;</span>AtiConfig<span class="nt">&lt;/key&gt;</span>
+<div class="highlight"><pre><span class="nt">&lt;key&gt;</span>AtiConfig<span class="nt">&lt;/key&gt;</span>
 <span class="nt">&lt;string&gt;</span>Eulemur<span class="nt">&lt;/string&gt;</span>
 </pre></div>
 
@@ -317,7 +317,7 @@ case      | Silverstone <span class="caps">SST</span>-<span class="caps">SG05B</
 <h2>update to lion&nbsp;10.7.4</h2>
 <p>Since everything was working I wanted some more troubles so I updated my system to 10.7.4 using the <a href="http://support.apple.com/kb/DL1524">Combo package</a>.</p>
 <p>Then, not unexpectedly, <span class="caps">OS</span> X crashed on restarting and had to boot from the unibeast <span class="caps">USB</span> disk, selecting to boot from the drive with the newly installed system using these&nbsp;switches:</p>
-<div class="highlight"><pre><span></span>-v GeneratPStates=No DropSSDT=Yes
+<div class="highlight"><pre>-v GeneratPStates=No DropSSDT=Yes
 </pre></div>
 
 
@@ -348,11 +348,11 @@ mb pro i7    | 9608           |&nbsp;&#8212;  </p>
 <section class="well" id="related-posts">
     <h4>Related Posts:</h4>
     <ul>
-        <li><a href="http://aadm.github.io/2010-08-03-ipad-and-photography.html">ipad and&nbsp;photography</a></li>
-        <li><a href="http://aadm.github.io/2012-11-06-the-little-ipad.html">the little&nbsp;ipad</a></li>
-        <li><a href="http://aadm.github.io/2013-11-09-blog-renewal.html">blog&nbsp;update</a></li>
-        <li><a href="http://aadm.github.io/2013-06-18-app-for-passwords-update.html">app for passwords&nbsp;update</a></li>
-        <li><a href="http://aadm.github.io/2011-02-17-an-app-to-store-my-passwords.html">an app to store my&nbsp;passwords</a></li>
+        <li><a href="http://aadm.github.io/2005-08-24-italian-gtd.html">italian&nbsp;gtd</a></li>
+        <li><a href="http://aadm.github.io/2012-06-29-open-mtb-maps.html">open mtb&nbsp;maps</a></li>
+        <li><a href="http://aadm.github.io/2012-07-19-ipad-mini-needs.html">ipad mini&nbsp;needs</a></li>
+        <li><a href="http://aadm.github.io/2012-05-03-my-new-mac-is-a-hack.html">my new mac is a&nbsp;hack</a></li>
+        <li><a href="http://aadm.github.io/2013-12-04-naming-files.html">file&nbsp;naming</a></li>
     </ul>
 </section>
         </article>

@@ -165,7 +165,7 @@ import&amp;nbsp;gdata.calendar&lt;/p&gt;
     password = getpass.getpass(&amp;#8220;Enter your password: &amp;#8220;)
     inizio = raw_input(&amp;#8220;From year: &amp;#8220;)
     fine   = raw_input(&amp;#8220;To year: &amp;#8220;)&amp;nbsp;intervallo=range(int(inizio),int(fine)+1)&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;calendar_service = gdata.calendar.service.CalendarService(username,password,&amp;quot;prova-cal&amp;quot;)
+&lt;div class="highlight"&gt;&lt;pre&gt;calendar_service = gdata.calendar.service.CalendarService(username,password,&amp;quot;prova-cal&amp;quot;)
 try:
     calendar_service.ProgrammaticLogin()
 except gdata.service.BadAuthentication, e:

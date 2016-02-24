@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>aadm</title><link href="http://aadm.github.io/" rel="alternate"></link><link href="http://aadm.github.io/feeds/all.atom.xml" rel="self"></link><id>http://aadm.github.io/</id><updated>2016-02-11T00:03:25+01:00</updated><entry><title>geoscience, python and rock physics templates</title><link href="http://aadm.github.io/2016-02-11-rock-physics-templates.html" rel="alternate"></link><updated>2016-02-11T00:03:25+01:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2016-02-11:2016-02-11-rock-physics-templates.html</id><summary type="html">&lt;p&gt;Since I picked up Python a couple of years ago I have enjoyed my everyday job more and more. It&amp;#8217;s like being thrown back to my 12-year old self playing with a &lt;span class="caps"&gt;ZX&lt;/span&gt; Spectrum or Commodore-128, when all I wanted was to create videogames or do some other stuff&lt;sup id="fnref:fuck-around"&gt;&lt;a class="footnote-ref" href="#fn:fuck-around" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;; only back then I didn&amp;#8217;t have the perseverance and the excuses that I have now.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>aadm</title><link href="http://aadm.github.io/" rel="alternate"></link><link href="http://aadm.github.io/feeds/all.atom.xml" rel="self"></link><id>http://aadm.github.io/</id><updated>2016-02-11T00:03:25+01:00</updated><entry><title>geoscience, python and rock physics templates</title><link href="http://aadm.github.io/2016-02-11-geoscience-and-python.html" rel="alternate"></link><updated>2016-02-11T00:03:25+01:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2016-02-11:2016-02-11-geoscience-and-python.html</id><summary type="html">&lt;p&gt;Since I picked up Python a couple of years ago I have enjoyed my everyday job more and more. It&amp;#8217;s like being thrown back to my 12-year old self playing with a &lt;span class="caps"&gt;ZX&lt;/span&gt; Spectrum or Commodore-128, when all I wanted was to create videogames or do some other stuff&lt;sup id="fnref:fuck-around"&gt;&lt;a class="footnote-ref" href="#fn:fuck-around" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;; only back then I didn&amp;#8217;t have the perseverance and the excuses that I have now.
 &lt;/p&gt;
 &lt;p&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Excuses&amp;#8221; is a fine word for what I do; I am assigned a task (or sometimes I go looking for one), and I see this task only as an excuse to solve the problem in a way that I see fit. So if there&amp;#8217;s even a hint of repetition I will go and write a for-loop to do that. If I need to use a dumb-ass software that I don&amp;#8217;t like I will write the dumb-ass piece of code myself&lt;sup id="fnref:dumb-ass-code"&gt;&lt;a class="footnote-ref" href="#fn:dumb-ass-code" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;.&amp;nbsp;Etc.&lt;/p&gt;
-&lt;p&gt;The field I&amp;#8217;m in is interesting because when you mix geology and geophysics you are basically trying to inject some physics-based quantitative assessment into a rather fuzzy, descriptive science. So you try to be objective but in the end Earth is so fucking complicated that nobody really knows the truth before drilling a hole in the ground (which it happens, yes, but not that&amp;nbsp;often).&lt;/p&gt;
+&lt;p&gt;I work in a rather interesting field even though it is not as glamorous as astrophysics or biotech &amp;#8212; on the contrary it&amp;#8217;s got a bad rep because it is ultimately linked to a dirty business (drilling for oil). But I am so far removed from actual socio-economic implications (and then, I&amp;#8217;m no missionary am I?) that I can just enjoy the intellectual challenge of mixing geology and geophysics. What I do is to basically inject some physics-based quantitative assessment into a rather fuzzy, descriptive science like geology. So you try to be objective but the Earth is so fucking complicated that nobody really knows the truth before drilling a hole in the ground (which it happens, yes, but not that&amp;nbsp;often).&lt;/p&gt;
 &lt;p&gt;I find it fascinating to realize that in some way this is another way to (brace yourself, boring pretentious sentence coming up) &amp;#8220;express my creativity&amp;#8221;. Because this is a kind of job that you can do in two ways really: the first way is you do as you&amp;#8217;re told, the second is you do as you&amp;#8217;re told but you give your angle to&amp;nbsp;it.&lt;/p&gt;
 &lt;p&gt;Which could mean anything, even applying the same old rules but instead of pushing a button and input some default parameters in the commercial software you ditch the commercial software and create your little routine from scratch in&amp;nbsp;Python.&lt;/p&gt;
 &lt;p&gt;Yes, it is reinventing the wheel over and over but endless iterations are good&amp;nbsp;somehow.&lt;/p&gt;
 &lt;!-- If not for the business (but who really cares about the well being of Evil Corp[^evil-corp]) surely for yourself. --&gt;
 
-&lt;p&gt;Because I only seem to understand stuff when I write it down or code it up; because it is extremely satisfying (in a visceral way) to create my own tools, code equations found in literature and come up with shortcuts to do the work; because I don&amp;#8217;t fall asleep doing some mind-numbingly boring stuff; because it keeps my mind fresh; because at the end of the day it feels like I have accomplished&amp;nbsp;something.&lt;/p&gt;
+&lt;p&gt;Because I only seem to understand stuff when I write it down or code it up; because it is extremely satisfying (in a visceral way) to create my own tools, code equations found in literature and come up with shortcuts to do the work; because I don&amp;#8217;t fall asleep doing some mind-numbingly boring stuff; because it keeps my mind fresh; because at the end of the day it feels like I have accomplished something&lt;sup id="fnref:other-programmers"&gt;&lt;a class="footnote-ref" href="#fn:other-programmers" rel="footnote"&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;It is also fascinating to realize that you can still enjoy your job when you have passed forty. Try telling that to somebody else who is not a highly-paid sportman or something like that, see what&amp;#8217;s his&amp;nbsp;take.&lt;/p&gt;
-&lt;p&gt;I have been doing this for 7-8 years now, but with Matlab I have always felt restricted in the way I was doing stuff. Since I have switched to Python (and it&amp;#8217;s been a slow switch because I had the obligation of keeping up with the day-to-day job &amp;#8212; I couldn&amp;#8217;t just jump ship and see where things go) I have found motivation and inspiration from &lt;a href="http://www.agilegeoscience.com/blog/"&gt;other like-minded people&lt;/a&gt; and the things they do and talk about&lt;sup id="fnref:corso-stavanger"&gt;&lt;a class="footnote-ref" href="#fn:corso-stavanger" rel="footnote"&gt;4&lt;/a&gt;&lt;/sup&gt;. The beauty of scientific Python is that you quickly realize that many of the problems you need to solve (classification; image processing; plotting; finding relations between datasets) are similar across various disciplines, so ideas and tools to better understand your geological problem could come fron anywhere &amp;#8212; molecular biology, image processing or&amp;nbsp;astronomy.&lt;/p&gt;
+&lt;p&gt;I have been doing this for 7-8 years now, but with Matlab I have always felt restricted in the way I was doing stuff. Since I have switched to Python (and it&amp;#8217;s been a slow switch because I had the obligation of keeping up with the day-to-day job &amp;#8212; I couldn&amp;#8217;t just jump ship and see where things go) I have found motivation and inspiration from &lt;a href="http://www.agilegeoscience.com/blog/"&gt;other like-minded people&lt;/a&gt; and the things they do and talk about&lt;sup id="fnref:corso-stavanger"&gt;&lt;a class="footnote-ref" href="#fn:corso-stavanger" rel="footnote"&gt;5&lt;/a&gt;&lt;/sup&gt;. The beauty of scientific Python is that you quickly realize that many of the problems you need to solve (classification; image processing; plotting; finding relations between datasets) are similar across various disciplines, so ideas and tools to better understand your geological problem could come fron anywhere &amp;#8212; molecular biology, image processing or&amp;nbsp;astronomy.&lt;/p&gt;
 &lt;p&gt;Last year I have had a tutorial that shows how to do rock physics on well log data &lt;a href="http://library.seg.org/doi/abs/10.1190/tle34040440.1"&gt;published on The Leading Edge&lt;/a&gt; and this article is right now the top most-downloaded paper in the past 12&amp;nbsp;months:&lt;/p&gt;
 &lt;figure&gt;
 &lt;img src="/images/TLE_most_downloaded_2016-02-11.png" width="600" height="514"&gt;
@@ -20,7 +20,27 @@
 &lt;p&gt;Anyway, I felt somehow obliged to give back something to the community, so I also put online &lt;a href="https://github.com/aadm/geophysical_notes/blob/master/seismic_petrophysics.ipynb"&gt;an IPython/Jupyter notebook which goes more in depth than the article&lt;/a&gt;, and after that I started filling my &lt;a href="https://github.com/aadm/geophysical_notes"&gt;&lt;em&gt;Geophysical Notes&lt;/em&gt; repository on github&lt;/a&gt; with little hacks and more complete workflows as downloadable&amp;nbsp;notebooks.&lt;/p&gt;
 &lt;!-- It's all open access, even though I would love to say that it's because I cannot disclose highly confidential work otherwise my company blah blah blah, but really it's because the things I do are all based on published material. And to be blunt, nothing is ever truly original in the particular branch of geoscience that I'm interested in. --&gt;
 
-&lt;p&gt;I have included the entire content of &lt;a href="https://github.com/aadm/geophysical_notes/blob/master/rock_physics_modeling.ipynb"&gt;one of these notebooks&lt;/a&gt; that I wrote; it shows how to code rock physics models (from published equations), build a rock physics template and use it in conjunction with real data (plus, how to make it interactive through widgets, but to see that you need to download the notebook on your computer, run it locally and basically you need to know what you&amp;#8217;re&amp;nbsp;doing).&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:fuck-around"&gt;
+&lt;p&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Do some stuff with computers&amp;#8221; basically means to fuck around for the sheer pleasure of it, like cleaning the bike real good. It has become now more socially acceptable since there are examples of smart guys becoming seriously wealthy with apps and web gizmos &amp;#8212; they surely have started from some fuck-around phase, or else if they truly had a plan for world-domination since the start then hats off to their genius.&amp;#160;&lt;a class="footnote-backref" href="#fnref:fuck-around" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:dumb-ass-code"&gt;
+&lt;p&gt;I am not good enough to write something like a &amp;#8220;complete&amp;#8221; piece of code even if it is dumb-ass. But everything I write it&amp;#8217;s sort of fictional so don&amp;#8217;t get hung up on words.&amp;#160;&lt;a class="footnote-backref" href="#fnref:dumb-ass-code" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:evil-corp"&gt;
+&lt;p&gt;You have seen &lt;a href="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)"&gt;Mr Robot&lt;/a&gt;, right?&amp;#160;&lt;a class="footnote-backref" href="#fnref:evil-corp" rev="footnote" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:other-programmers"&gt;
+&lt;p&gt;Despite the dire state that I see around me (in the so-called &amp;#8220;corporate world&amp;#8221;) where social pressure dictate that the only way to progress is to become a manager of some sort and handle a budget, I am somehow conforted by reading that very clever and successful people (in the socially accepted sense) think that doing actual work and getting one&amp;#8217;s hand dirty is good: see &lt;a href="(http://lemire.me/blog/2011/06/06/why-i-still-program/)"&gt;this post by Daniel Lemire&lt;/a&gt;, and a little gem by Paul Graham: &lt;a href="http://www.paulgraham.com/raq.html"&gt;how to avoid turning into a pointy-haired-boss&lt;/a&gt; in his &lt;span class="caps"&gt;RAQ&lt;/span&gt; (&amp;#8220;Rarely Asked Questions&amp;#8221;&amp;#8230; brilliant isn&amp;#8217;t it?). Graham, a programmer, painter and venture capitalist (I would love to have something like this engraved on my tombstone), is a recent discovery I made and I have enjoyed a lot one recent essay, &lt;a href="http://www.paulgraham.com/vb.html"&gt;Life is Short&lt;/a&gt;, which is a rather interesting take on the issue family vs career.&amp;#160;&lt;a class="footnote-backref" href="#fnref:other-programmers" rev="footnote" title="Jump back to footnote 4 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:corso-stavanger"&gt;
+&lt;p&gt;I also happened to be around for a course they held in Stavanger in November last year and &lt;a href="http://www.agilegeoscience.com/blog/2015/12/04/coding-kitchen-in-stavanger"&gt;snapped a few photos&lt;/a&gt; for them.&amp;#160;&lt;a class="footnote-backref" href="#fnref:corso-stavanger" rev="footnote" title="Jump back to footnote 5 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</summary><category term="python"></category><category term="geoscience"></category><category term="notes"></category></entry><entry><title>rock physics templates</title><link href="http://aadm.github.io/2016-02-11-rock-physics-templates.html" rel="alternate"></link><updated>2016-02-11T00:03:25+01:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2016-02-11:2016-02-11-rock-physics-templates.html</id><summary type="html">&lt;p&gt;Yesterday I started to write a little background story to introduce a post on how I use Python and how fun and creative that is. However, the &amp;#8220;little background story&amp;#8221; started to grow and became &lt;a href="http://aadm.github.io/2016-02-11-geoscience-and-python.html"&gt;something else entirely&lt;/a&gt;, so I decided to cut off the science part and leave it for this post&amp;nbsp;here.&lt;/p&gt;
+&lt;p&gt;So here we are: this post (it&amp;#8217;s the same content of &lt;a href="https://github.com/aadm/geophysical_notes/blob/master/rock_physics_modeling.ipynb"&gt;one of my Jupyter notebooks&lt;/a&gt;) shows how to code rock physics models from published equations, build a rock physics template and use it in conjunction with real data (plus, how to make it interactive through widgets, but to see that you need to download the notebook on your computer, run it locally and basically you need to know what you&amp;#8217;re&amp;nbsp;doing).&lt;/p&gt;
 &lt;!-- And if you find yourself asking "what the hell is ROCK PHYSICS", probably you're not the right audience for this post (...aaand two out of three people that form my readership have just left for good!); anyway, it's about understanding how the strength of the rocks are related to their inherent properties like the minerals they're made of, the fluids they hold, how many pores they have etc.: visualize a pomice and a limestone; one is soft and light, the other hard and heavy. --&gt;
 
 &lt;p&gt;
@@ -57,7 +77,7 @@
 &lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[1]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;numpy&lt;/span&gt; &lt;span class="kn"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;np&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;numpy&lt;/span&gt; &lt;span class="kn"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;np&lt;/span&gt;
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;matplotlib.pyplot&lt;/span&gt; &lt;span class="kn"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;plt&lt;/span&gt;
 &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;__future__&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;division&lt;/span&gt;
 
@@ -76,7 +96,7 @@
 &lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[2]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;critpor&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;K0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;G0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;phi&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;phic&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.4&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;critpor&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;K0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;G0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;phi&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;phic&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.4&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
     &lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
 &lt;span class="sd"&gt;    Critical porosity, Nur et al. (1991, 1995)&lt;/span&gt;
 &lt;span class="sd"&gt;    written by aadm (2015) from Rock Physics Handbook, p.353&lt;/span&gt;
@@ -207,7 +227,7 @@
 &lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[3]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;vels&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;K_DRY&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;G_DRY&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;K0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;D0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;Kf&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;Df&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;phi&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;vels&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;K_DRY&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;G_DRY&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;K0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;D0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;Kf&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;Df&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;phi&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
     &lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
 &lt;span class="sd"&gt;    Calculates velocities and densities of saturated rock via Gassmann equation, (C) aadm 2015&lt;/span&gt;
 
@@ -282,7 +302,7 @@
 &lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[4]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;Dqz&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Kqz&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Gqz&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mf"&gt;2.65&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mf"&gt;36.6&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;45&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span class="n"&gt;Dqz&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Kqz&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Gqz&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mf"&gt;2.65&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mf"&gt;36.6&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;45&lt;/span&gt;
 &lt;span class="n"&gt;Dsh&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Ksh&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Gsh&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mf"&gt;2.7&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;21&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;7&lt;/span&gt;
 &lt;span class="n"&gt;Kc&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Gc&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mf"&gt;36.6&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;45&lt;/span&gt;
 &lt;span class="n"&gt;Db&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Kb&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mf"&gt;2.2&lt;/span&gt;
@@ -326,7 +346,7 @@
 &lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[6]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;phi&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;linspace&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.01&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mf"&gt;0.40&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;50&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span class="n"&gt;phi&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;linspace&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.01&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mf"&gt;0.40&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;50&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="n"&gt;vsh&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.0&lt;/span&gt;
 
 &lt;span class="n"&gt;K0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;G0&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;vrh&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="n"&gt;vsh&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;vsh&lt;/span&gt;&lt;span class="p"&gt;],[&lt;/span&gt;&lt;span class="n"&gt;Ksh&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;Kqz&lt;/span&gt;&lt;span class="p"&gt;],[&lt;/span&gt;&lt;span class="n"&gt;Gsh&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;Gqz&lt;/span&gt;&lt;span class="p"&gt;])[&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="p"&gt;:]&lt;/span&gt;
@@ -2842,7 +2862,7 @@ height=381
 &lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[7]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;phi&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;linspace&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mf"&gt;0.40&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span class="n"&gt;phi&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;linspace&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mf"&gt;0.40&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="n"&gt;sw&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;linspace&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="n"&gt;vsh&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.0&lt;/span&gt;
 &lt;span class="n"&gt;fluid&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;gas&amp;#39;&lt;/span&gt;
@@ -4859,7 +4879,7 @@ height=391
 &lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[8]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;rpt&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;soft&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;vsh&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;fluid&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;gas&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;phic&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.4&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;Cn&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;P&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;cement&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;quartz&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;rpt&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;soft&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;vsh&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;fluid&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;gas&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;phic&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.4&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;Cn&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;P&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;cement&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;quartz&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
     &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;cement&lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;quartz&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
         &lt;span class="n"&gt;Kc&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Gc&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;37&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;45&lt;/span&gt;
     &lt;span class="k"&gt;elif&lt;/span&gt; &lt;span class="n"&gt;cement&lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;calcite&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
@@ -4913,7 +4933,7 @@ height=391
 &lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[9]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;ipywidgets&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;interact&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ToggleButtons&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;RadioButtons&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;HTML&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;ipywidgets&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;interact&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ToggleButtons&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;RadioButtons&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;HTML&lt;/span&gt;
 &lt;span class="n"&gt;rpm_buttons&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;ToggleButtons&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;description&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;RPM&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;options&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;soft&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;stiff&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;cem&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;crit&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
 &lt;span class="n"&gt;fluid_buttons&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;ToggleButtons&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;description&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Fluid&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;options&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;gas&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;oil&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
 &lt;span class="n"&gt;cement_buttons&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;ToggleButtons&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;description&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Cement&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;options&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;quartz&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;clay&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;calcite&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
@@ -6191,7 +6211,7 @@ height=391
 &lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[10]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;data&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;genfromtxt&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;qsiwell2.csv&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;delimiter&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;,&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;names&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span class="n"&gt;data&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;genfromtxt&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;qsiwell2.csv&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;delimiter&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;,&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;names&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 
 &lt;span class="n"&gt;sel&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;data&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;DEPTH&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;=&lt;/span&gt;&lt;span class="mi"&gt;2014&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;data&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;DEPTH&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;&amp;lt;=&lt;/span&gt;&lt;span class="mi"&gt;2600&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="n"&gt;ww&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;empty&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;data&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;DEPTH&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;sel&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;size&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
@@ -6210,7 +6230,7 @@ height=391
 &lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[11]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;Ksh&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Gsh&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span class="n"&gt;Ksh&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Gsh&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt;
 &lt;span class="n"&gt;rpt&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;soft&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;vsh&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.3&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;fluid&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;oil&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;phic&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.4&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;Cn&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;P&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;scatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;ww&lt;/span&gt;&lt;span class="p"&gt;[:,&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt;&lt;span class="n"&gt;ww&lt;/span&gt;&lt;span class="p"&gt;[:,&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt;&lt;span class="mi"&gt;25&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;ww&lt;/span&gt;&lt;span class="p"&gt;[:,&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;alpha&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mf"&gt;0.95&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;marker&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;o&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;edgecolors&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;.5&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;cmap&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;cubehelix_r&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;xlim&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;4000&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;9000&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
@@ -13097,24 +13117,7 @@ height=391
 
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-&lt;div class="footnote"&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-&lt;li id="fn:fuck-around"&gt;
-&lt;p&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Do some stuff with computers&amp;#8221; basically means to fuck around for the sheer pleasure of it, like cleaning the bike real good. It has become now more socially acceptable since there are examples of smart guys becoming seriously wealthy with apps and web gizmos &amp;#8212; they surely have started from some fuck-around phase, or else if they truly had a plan for world-domination since the start then hats off to their genius.&amp;#160;&lt;a class="footnote-backref" href="#fnref:fuck-around" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn:dumb-ass-code"&gt;
-&lt;p&gt;Note that in reality I am not that good to write something like a &amp;#8220;complete&amp;#8221; piece of code even if it is dumb-ass. But everything I write it&amp;#8217;s sort of fictional so don&amp;#8217;t get hung up on words.&amp;#160;&lt;a class="footnote-backref" href="#fnref:dumb-ass-code" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn:evil-corp"&gt;
-&lt;p&gt;You have seen &lt;a href="https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)"&gt;Mr Robot&lt;/a&gt;, right?&amp;#160;&lt;a class="footnote-backref" href="#fnref:evil-corp" rev="footnote" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id="fn:corso-stavanger"&gt;
-&lt;p&gt;I also happened to be around for a course they held in Stavanger in November last year and &lt;a href="http://www.agilegeoscience.com/blog/2015/12/04/coding-kitchen-in-stavanger"&gt;snapped a few photos&lt;/a&gt; for them.&amp;#160;&lt;a class="footnote-backref" href="#fnref:corso-stavanger" rev="footnote" title="Jump back to footnote 4 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</summary><category term="python"></category><category term="geoscience"></category></entry><entry><title>a little camera</title><link href="http://aadm.github.io/2016-02-02-a-little-camera.html" rel="alternate"></link><updated>2016-02-02T20:23:26+01:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2016-02-02:2016-02-02-a-little-camera.html</id><summary type="html">&lt;p&gt;I wanted to get a Leica this time. For&amp;nbsp;real.&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;</summary><category term="python"></category><category term="geoscience"></category></entry><entry><title>a little camera</title><link href="http://aadm.github.io/2016-02-02-a-little-camera.html" rel="alternate"></link><updated>2016-02-02T20:23:26+01:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2016-02-02:2016-02-02-a-little-camera.html</id><summary type="html">&lt;p&gt;I wanted to get a Leica this time. For&amp;nbsp;real.&lt;/p&gt;
 &lt;p&gt;You know Leica: stupidly expensive cameras that are more likely to be kept in a closet or worn like a piece of jewellery than actually used (it wasn&amp;#8217;t like that before, when actual journalists back in the fifties used it as a fast, robust little camera to be used in the&amp;nbsp;field).&lt;/p&gt;
 &lt;p&gt;Anyway, even if now they seem to be more of a fashion statement, I have always liked the impression of solidity, their simplicity, and that funky way of setting the focus&lt;sup id="fnref:real-leica"&gt;&lt;a class="footnote-ref" href="#fn:real-leica" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;. But I would have never considered one for real if I had not played with the original Monochrom; that really changed something, the simple pleasure of using and holding this rather large, deceiptively simple and &amp;#8220;dense&amp;#8221; camera changed somehow my perception of Leicas. I will be honest and declare it right now that none of this matters when it comes to photography; but I&amp;#8217;m talking about something else here, I&amp;#8217;m talking about very elementary pleasures that are tangentially related to the actual making of photographs; the same pleasure that I get from using bycicles or a Faber-Castell pencil for&amp;nbsp;example.&lt;/p&gt;
 
@@ -13196,7 +13199,7 @@ height=391
 &lt;p&gt;The first script (&lt;code&gt;flickr_foto.py&lt;/code&gt;) will work on a single photo, the second (&lt;code&gt;flickr_album.py&lt;/code&gt;) will work on all the photos contained in an album. You obviously need albums with a reasonable number of photos (10-20 sounds good to me; if I had an album with 100 photos I wouldn&amp;#8217;t want to post them all at&amp;nbsp;once).&lt;/p&gt;
 &lt;p&gt;Why would you use it over the usual web interface that Flickr has (the little curvy arrow that brings out a form to copy &lt;span class="caps"&gt;HTML&lt;/span&gt; or BBcode pointing at the desidered version)? Because it&amp;#8217;s faster. And I like to geek out a&amp;nbsp;little.&lt;/p&gt;
 &lt;p&gt;This is an example of how to call &lt;code&gt;flickr_foto.py&lt;/code&gt; from the command line and its&amp;nbsp;output:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ python flickr_foto.py 7932925194
+&lt;div class="highlight"&gt;&lt;pre&gt;$ python flickr_foto.py 7932925194
 
 ---BEGIN---
 
@@ -13210,14 +13213,14 @@ height=391
 
 
 &lt;p&gt;More in detail, the only parameter to pass&amp;nbsp;are:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ python flickr_foto.py PHOTO_ID
+&lt;div class="highlight"&gt;&lt;pre&gt;$ python flickr_foto.py PHOTO_ID
 $ python flickr_album.py ALBUM_ID
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;where &lt;code&gt;PHOTO_ID&lt;/code&gt; is the numerical code you see in the &lt;span class="caps"&gt;URL&lt;/span&gt; of a Flickr photo (for &lt;a href="https://www.flickr.com/photos/aadm/24465904520"&gt;&lt;code&gt;https://www.flickr.com/photos/aadm/24465904520/&lt;/code&gt;&lt;/a&gt; it is 24465904520), while &lt;code&gt;ALBUM_ID&lt;/code&gt; is the  code of a Flickr album, (for &lt;a href="http://www.flickr.com/photos/aadm/albums/72157656289357513"&gt;&lt;code&gt;http://www.flickr.com/photos/aadm/albums/72157656289357513&lt;/code&gt;&lt;/a&gt; it is&amp;nbsp;72157656289357513).&lt;/p&gt;
 &lt;p&gt;Here&amp;#8217;s &lt;code&gt;flickr_foto.py&lt;/code&gt;:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;#**********************************************************&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;#**********************************************************&lt;/span&gt;
 &lt;span class="c1"&gt;# flickr_foto.py&lt;/span&gt;
 &lt;span class="c1"&gt;# (C) 2015-2016 aadm&lt;/span&gt;
 &lt;span class="c1"&gt;#**********************************************************&lt;/span&gt;
@@ -13277,7 +13280,7 @@ $ python flickr_album.py ALBUM_ID
 
 
 &lt;p&gt;And this is &lt;code&gt;flickr_album.py&lt;/code&gt;:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;#**********************************************************&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;#**********************************************************&lt;/span&gt;
 &lt;span class="c1"&gt;# flickr_album.py&lt;/span&gt;
 &lt;span class="c1"&gt;# (C) 2015-2016 aadm&lt;/span&gt;
 &lt;span class="c1"&gt;#**********************************************************&lt;/span&gt;
@@ -13351,7 +13354,7 @@ $ python flickr_album.py ALBUM_ID
 
 &lt;p&gt;The required information to fill in the scripts above are &lt;code&gt;api_key&lt;/code&gt;, &lt;code&gt;api_secret&lt;/code&gt; (more information here: &lt;a href="https://www.flickr.com/services/api/misc.urls.html"&gt;https://www.flickr.com/services/api/misc.urls.html&lt;/a&gt;). The first two will be available after you &lt;a href="https://www.flickr.com/services/api/keys/"&gt;request an &lt;span class="caps"&gt;API&lt;/span&gt; key&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you want the link to other versions of the photo you need to change the &lt;code&gt;'Large 1600'&lt;/code&gt; string in the code above; valid formats are listed &lt;a href="https://www.flickr.com/services/api/misc.urls.html"&gt;here&lt;/a&gt; but the actual name to fed to the comparison above who knows where it&amp;#8217;s written. You can use this little extra piece of Python to get all the sizes (as the other two, save it with a name like &lt;code&gt;get_sizes.py&lt;/code&gt; and run it with &lt;code&gt;$ python get_sizes.py 24643653612&lt;/code&gt;):&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;sys&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;sys&lt;/span&gt;
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;flickrapi&lt;/span&gt;
 
 &lt;span class="n"&gt;api_key&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;u&amp;#39;INSERT_API_KEY_HERE&amp;#39;&lt;/span&gt;
@@ -14334,7 +14337,7 @@ Why branzino? The film never says — it just offers up this delightful serving 
 &lt;h1&gt;Part 2: setting the&amp;nbsp;software&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;(You can tell I&amp;#8217;m old because I still call Aperture and Lightroom &amp;#8220;software&amp;#8221; or &amp;#8220;programs&amp;#8221; and not&amp;nbsp;&amp;#8220;apps&amp;#8221;.)&lt;/em&gt; &lt;/p&gt;
 &lt;p&gt;After setting up the camera I have Aperture renaming automatically my files during import. The renaming scheme is&amp;nbsp;this:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;year&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;month&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;day&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;year&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;month&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;day&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -14696,7 +14699,7 @@ import&amp;nbsp;gdata.calendar&lt;/p&gt;
     password = getpass.getpass(&amp;#8220;Enter your password: &amp;#8220;)
     inizio = raw_input(&amp;#8220;From year: &amp;#8220;)
     fine   = raw_input(&amp;#8220;To year: &amp;#8220;)&amp;nbsp;intervallo=range(int(inizio),int(fine)+1)&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;calendar_service = gdata.calendar.service.CalendarService(username,password,&amp;quot;prova-cal&amp;quot;)
+&lt;div class="highlight"&gt;&lt;pre&gt;calendar_service = gdata.calendar.service.CalendarService(username,password,&amp;quot;prova-cal&amp;quot;)
 try:
     calendar_service.ProgrammaticLogin()
 except gdata.service.BadAuthentication, e:
@@ -15657,7 +15660,7 @@ But what about something new, something that could really alter a photographer&a
 &lt;hr /&gt;
 &lt;h3&gt;technical&amp;nbsp;bits&lt;/h3&gt;
 &lt;p&gt;To create your own wallpapers just go to this scrollable/zoomable view of the Click and Drag world: &lt;a href="http://xkcd-map.rent-a-geek.de"&gt;http://xkcd-map.rent-a-geek.de&lt;/a&gt;. Grab what you like, maybe do some stitching like I did for the &lt;a href="https://dl.dropbox.com/u/179731/xkcd_click_and_drag_boat.png"&gt;The Boat&lt;/a&gt; using Pixelmator (because the giant squid was really deeper down in the ocean), and resize/rescale them for your screen size. To create the thumbnails down here I used this bash line (only works under &lt;span class="caps"&gt;OS&lt;/span&gt; X because it relies on &lt;a href="https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/sips.1.html"&gt;&lt;code&gt;sips&lt;/code&gt;&lt;/a&gt; to resize the&amp;nbsp;image):&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="x"&gt;for f in xkcd*.png; do cp &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="x"&gt; &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;SMALL&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;PNG&lt;/span&gt;&lt;span class="x"&gt;; sips -Z 600 &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;SMALL&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;PNG&lt;/span&gt;&lt;span class="x"&gt;; done&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="x"&gt;for f in xkcd*.png; do cp &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="x"&gt; &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;SMALL&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;PNG&lt;/span&gt;&lt;span class="x"&gt;; sips -Z 600 &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;SMALL&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;PNG&lt;/span&gt;&lt;span class="x"&gt;; done&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -16406,23 +16409,23 @@ case      | Silverstone &lt;span class="caps"&gt;SST&lt;/span&gt;-&lt;span class
 &lt;p&gt;I just hope Giulia doesn&amp;#8217;t notice it because you know women want to have clean stuff around, especially if this half-assed mechanical monster happens to live in the baby room (another month and a half to go before my yet un-named babygirl comes into the&amp;nbsp;world).&lt;/p&gt;
 &lt;h2&gt;sidenotes&lt;/h2&gt;
 &lt;p&gt;When I installed in the &lt;span class="caps"&gt;PCI&lt;/span&gt;-E slot the graphic card I couldn&amp;#8217;t get any display once &lt;span class="caps"&gt;OS&lt;/span&gt; X was loaded, so I had to use this switch at&amp;nbsp;boot:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;GraphicsEnabler=No
+&lt;div class="highlight"&gt;&lt;pre&gt;GraphicsEnabler=No
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;Then I installed ATI5000Injector.kext using Kext Wizard. I did other bits too that I&amp;#8217;ve read &lt;a href="http://www.insanelymac.com/forum/index.php?showtopic=260567"&gt;somewhere&lt;/a&gt;  but am not sure about them. Anyway, just in case I need them again: first, find the PCIRootUID of graphic card, by typing in from a terminal&amp;nbsp;window:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;ioreg -l | grep -15 &amp;quot;AppleACPIPCI&amp;quot; | grep &amp;quot;_UID&amp;quot;
+&lt;div class="highlight"&gt;&lt;pre&gt;ioreg -l | grep -15 &amp;quot;AppleACPIPCI&amp;quot; | grep &amp;quot;_UID&amp;quot;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;What this command does is giving you this &lt;span class="caps"&gt;UID&lt;/span&gt; number which you have to put into &lt;code&gt;/Extra/org.chameleon.Boot.plist&lt;/code&gt; by adding the following&amp;nbsp;lines:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;PCIRootUID&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;PCIRootUID&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
 &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;1&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;Finally I also added these other two lines (to have the card identified as a 5400 series instead of a&amp;nbsp;5000):&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;AtiConfig&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;AtiConfig&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
 &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;Eulemur&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -16442,7 +16445,7 @@ case      | Silverstone &lt;span class="caps"&gt;SST&lt;/span&gt;-&lt;span class
 &lt;h2&gt;update to lion&amp;nbsp;10.7.4&lt;/h2&gt;
 &lt;p&gt;Since everything was working I wanted some more troubles so I updated my system to 10.7.4 using the &lt;a href="http://support.apple.com/kb/DL1524"&gt;Combo package&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Then, not unexpectedly, &lt;span class="caps"&gt;OS&lt;/span&gt; X crashed on restarting and had to boot from the unibeast &lt;span class="caps"&gt;USB&lt;/span&gt; disk, selecting to boot from the drive with the newly installed system using these&amp;nbsp;switches:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;-v GeneratPStates=No DropSSDT=Yes
+&lt;div class="highlight"&gt;&lt;pre&gt;-v GeneratPStates=No DropSSDT=Yes
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -16898,7 +16901,7 @@ mb pro i7    | 9608           |&amp;nbsp;&amp;#8212;  &lt;/p&gt;
 &lt;/ol&gt;
 &lt;p&gt;For the nerds out there, here&amp;#8217;s the two scripts I have used. First is a generic shell script that I&amp;#8217;ve called &lt;code&gt;script.sh&lt;/code&gt; (stroke of genius!). It iterates on all html files and first converts them to generic markdown before fixing them in a Calepin-friendly format using the second script, &lt;code&gt;tumblr2calepin.py&lt;/code&gt;, a simple Python script that I&amp;#8217;ve put together over the&amp;nbsp;weekend.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;script&amp;nbsp;#1&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/bin/sh&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="ch"&gt;#!/bin/sh&lt;/span&gt;
 &lt;span class="k"&gt;for&lt;/span&gt; n in *.html
 &lt;span class="k"&gt;do&lt;/span&gt;
     rm -f temp.txt
@@ -16910,7 +16913,7 @@ mb pro i7    | 9608           |&amp;nbsp;&amp;#8212;  &lt;/p&gt;
 
 
 &lt;p&gt;&lt;strong&gt;script&amp;nbsp;#2&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/usr/bin/python&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="ch"&gt;#!/usr/bin/python&lt;/span&gt;
 &lt;span class="c1"&gt;# Usage: tumblr2calepin.py &amp;lt;input-markdownd-file&amp;gt;&lt;/span&gt;
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;sys&lt;/span&gt;
 &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;datetime&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;datetime&lt;/span&gt;
@@ -17241,7 +17244,7 @@ redirect iBackup to use the same database; such database is of course stored
 on my Dropbox (I know you were all expecting it; I mean, who does &lt;em&gt;not&lt;/em&gt; use
 Dropbox these days&amp;nbsp;?).&lt;/p&gt;
 &lt;p&gt;For you guys who are command line-impaired, here&amp;#8217;s how to do&amp;nbsp;it:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ ln -s ~/Dropbox/iBackup2.data ~/Library/Application Support/iBackup/iBackup2.data&lt;span class="sb"&gt;`&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;$ ln -s ~/Dropbox/iBackup2.data ~/Library/Application Support/iBackup/iBackup2.data&lt;span class="sb"&gt;`&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -17250,14 +17253,14 @@ with awk and Textmate to adjust the file exported from Lockbox, and at the end
 I created two .csv files, one for web passwords and various logins and the
 other for my credit/debit&amp;nbsp;cards.&lt;/p&gt;
 &lt;p&gt;This is a sample of the main&amp;nbsp;.csv:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Group Name,Record Name,Username,Password,Note
+&lt;div class="highlight"&gt;&lt;pre&gt;Group Name,Record Name,Username,Password,Note
 Websites,photo.net,dummy@gmail.com,1234,better when there was Greenspun
 Computers,macbookair,genius,qwerty,login to my macbook air 11&amp;quot;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;And this is the second file to import credit cards&amp;nbsp;details:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Group Name,Record Name,Issuer,Number,Holder,Valid From,Valid To,PIN,Note
+&lt;div class="highlight"&gt;&lt;pre&gt;Group Name,Record Name,Issuer,Number,Holder,Valid From,Valid To,PIN,Note
 Cards,Pig VISA,Pig Bank,4444 3333 2222 1111,NAME,01/10,01/13,0000,CCV=999
 &lt;/pre&gt;&lt;/div&gt;
 
