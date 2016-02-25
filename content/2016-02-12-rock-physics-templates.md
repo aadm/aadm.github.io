@@ -1,5 +1,5 @@
 Title: rock physics templates
-Date: 2016-02-11 00:03:25
+Date: 2016-02-12
 Slug: rock-physics-templates
 Tags: python, geoscience
 Lang: en
