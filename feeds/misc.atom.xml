@@ -129,7 +129,7 @@ Why branzino? The film never says — it just offers up this delightful serving 
 &lt;hr /&gt;
 &lt;h3&gt;technical&amp;nbsp;bits&lt;/h3&gt;
 &lt;p&gt;To create your own wallpapers just go to this scrollable/zoomable view of the Click and Drag world: &lt;a href="http://xkcd-map.rent-a-geek.de"&gt;http://xkcd-map.rent-a-geek.de&lt;/a&gt;. Grab what you like, maybe do some stitching like I did for the &lt;a href="https://dl.dropbox.com/u/179731/xkcd_click_and_drag_boat.png"&gt;The Boat&lt;/a&gt; using Pixelmator (because the giant squid was really deeper down in the ocean), and resize/rescale them for your screen size. To create the thumbnails down here I used this bash line (only works under &lt;span class="caps"&gt;OS&lt;/span&gt; X because it relies on &lt;a href="https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/sips.1.html"&gt;&lt;code&gt;sips&lt;/code&gt;&lt;/a&gt; to resize the&amp;nbsp;image):&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="x"&gt;for f in xkcd*.png; do cp &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="x"&gt; &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;SMALL&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;PNG&lt;/span&gt;&lt;span class="x"&gt;; sips -Z 600 &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;SMALL&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;PNG&lt;/span&gt;&lt;span class="x"&gt;; done&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="x"&gt;for f in xkcd*.png; do cp &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="x"&gt; &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;SMALL&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;PNG&lt;/span&gt;&lt;span class="x"&gt;; sips -Z 600 &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;f&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;SMALL&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;PNG&lt;/span&gt;&lt;span class="x"&gt;; done&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -146,7 +146,7 @@ Why branzino? The film never says — it just offers up this delightful serving 
 &lt;/ol&gt;
 &lt;p&gt;For the nerds out there, here&amp;#8217;s the two scripts I have used. First is a generic shell script that I&amp;#8217;ve called &lt;code&gt;script.sh&lt;/code&gt; (stroke of genius!). It iterates on all html files and first converts them to generic markdown before fixing them in a Calepin-friendly format using the second script, &lt;code&gt;tumblr2calepin.py&lt;/code&gt;, a simple Python script that I&amp;#8217;ve put together over the&amp;nbsp;weekend.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;script&amp;nbsp;#1&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="ch"&gt;#!/bin/sh&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/bin/sh&lt;/span&gt;
 &lt;span class="k"&gt;for&lt;/span&gt; n in *.html
 &lt;span class="k"&gt;do&lt;/span&gt;
     rm -f temp.txt
@@ -158,7 +158,7 @@ Why branzino? The film never says — it just offers up this delightful serving 
 
 
 &lt;p&gt;&lt;strong&gt;script&amp;nbsp;#2&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="ch"&gt;#!/usr/bin/python&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/usr/bin/python&lt;/span&gt;
 &lt;span class="c1"&gt;# Usage: tumblr2calepin.py &amp;lt;input-markdownd-file&amp;gt;&lt;/span&gt;
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;sys&lt;/span&gt;
 &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;datetime&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;datetime&lt;/span&gt;

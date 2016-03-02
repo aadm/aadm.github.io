@@ -13,7 +13,7 @@
 &lt;h1&gt;Part 2: setting the&amp;nbsp;software&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;(You can tell I&amp;#8217;m old because I still call Aperture and Lightroom &amp;#8220;software&amp;#8221; or &amp;#8220;programs&amp;#8221; and not&amp;nbsp;&amp;#8220;apps&amp;#8221;.)&lt;/em&gt; &lt;/p&gt;
 &lt;p&gt;After setting up the camera I have Aperture renaming automatically my files during import. The renaming scheme is&amp;nbsp;this:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;year&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;month&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;day&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;year&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;month&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="n"&gt;day&lt;/span&gt;&lt;span class="p"&gt;][&lt;/span&gt;&lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -55,7 +55,7 @@ import&amp;nbsp;gdata.calendar&lt;/p&gt;
     password = getpass.getpass(&amp;#8220;Enter your password: &amp;#8220;)
     inizio = raw_input(&amp;#8220;From year: &amp;#8220;)
     fine   = raw_input(&amp;#8220;To year: &amp;#8220;)&amp;nbsp;intervallo=range(int(inizio),int(fine)+1)&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;calendar_service = gdata.calendar.service.CalendarService(username,password,&amp;quot;prova-cal&amp;quot;)
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;calendar_service = gdata.calendar.service.CalendarService(username,password,&amp;quot;prova-cal&amp;quot;)
 try:
     calendar_service.ProgrammaticLogin()
 except gdata.service.BadAuthentication, e:
@@ -278,23 +278,23 @@ case      | Silverstone &lt;span class="caps"&gt;SST&lt;/span&gt;-&lt;span class
 &lt;p&gt;I just hope Giulia doesn&amp;#8217;t notice it because you know women want to have clean stuff around, especially if this half-assed mechanical monster happens to live in the baby room (another month and a half to go before my yet un-named babygirl comes into the&amp;nbsp;world).&lt;/p&gt;
 &lt;h2&gt;sidenotes&lt;/h2&gt;
 &lt;p&gt;When I installed in the &lt;span class="caps"&gt;PCI&lt;/span&gt;-E slot the graphic card I couldn&amp;#8217;t get any display once &lt;span class="caps"&gt;OS&lt;/span&gt; X was loaded, so I had to use this switch at&amp;nbsp;boot:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;GraphicsEnabler=No
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;GraphicsEnabler=No
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;Then I installed ATI5000Injector.kext using Kext Wizard. I did other bits too that I&amp;#8217;ve read &lt;a href="http://www.insanelymac.com/forum/index.php?showtopic=260567"&gt;somewhere&lt;/a&gt;  but am not sure about them. Anyway, just in case I need them again: first, find the PCIRootUID of graphic card, by typing in from a terminal&amp;nbsp;window:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;ioreg -l | grep -15 &amp;quot;AppleACPIPCI&amp;quot; | grep &amp;quot;_UID&amp;quot;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;ioreg -l | grep -15 &amp;quot;AppleACPIPCI&amp;quot; | grep &amp;quot;_UID&amp;quot;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;What this command does is giving you this &lt;span class="caps"&gt;UID&lt;/span&gt; number which you have to put into &lt;code&gt;/Extra/org.chameleon.Boot.plist&lt;/code&gt; by adding the following&amp;nbsp;lines:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;PCIRootUID&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;PCIRootUID&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
 &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;1&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;Finally I also added these other two lines (to have the card identified as a 5400 series instead of a&amp;nbsp;5000):&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;AtiConfig&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;AtiConfig&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
 &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;Eulemur&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -314,7 +314,7 @@ case      | Silverstone &lt;span class="caps"&gt;SST&lt;/span&gt;-&lt;span class
 &lt;h2&gt;update to lion&amp;nbsp;10.7.4&lt;/h2&gt;
 &lt;p&gt;Since everything was working I wanted some more troubles so I updated my system to 10.7.4 using the &lt;a href="http://support.apple.com/kb/DL1524"&gt;Combo package&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Then, not unexpectedly, &lt;span class="caps"&gt;OS&lt;/span&gt; X crashed on restarting and had to boot from the unibeast &lt;span class="caps"&gt;USB&lt;/span&gt; disk, selecting to boot from the drive with the newly installed system using these&amp;nbsp;switches:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;-v GeneratPStates=No DropSSDT=Yes
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;-v GeneratPStates=No DropSSDT=Yes
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -647,7 +647,7 @@ redirect iBackup to use the same database; such database is of course stored
 on my Dropbox (I know you were all expecting it; I mean, who does &lt;em&gt;not&lt;/em&gt; use
 Dropbox these days&amp;nbsp;?).&lt;/p&gt;
 &lt;p&gt;For you guys who are command line-impaired, here&amp;#8217;s how to do&amp;nbsp;it:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;$ ln -s ~/Dropbox/iBackup2.data ~/Library/Application Support/iBackup/iBackup2.data&lt;span class="sb"&gt;`&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ ln -s ~/Dropbox/iBackup2.data ~/Library/Application Support/iBackup/iBackup2.data&lt;span class="sb"&gt;`&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -656,14 +656,14 @@ with awk and Textmate to adjust the file exported from Lockbox, and at the end
 I created two .csv files, one for web passwords and various logins and the
 other for my credit/debit&amp;nbsp;cards.&lt;/p&gt;
 &lt;p&gt;This is a sample of the main&amp;nbsp;.csv:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Group Name,Record Name,Username,Password,Note
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Group Name,Record Name,Username,Password,Note
 Websites,photo.net,dummy@gmail.com,1234,better when there was Greenspun
 Computers,macbookair,genius,qwerty,login to my macbook air 11&amp;quot;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;And this is the second file to import credit cards&amp;nbsp;details:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Group Name,Record Name,Issuer,Number,Holder,Valid From,Valid To,PIN,Note
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Group Name,Record Name,Issuer,Number,Holder,Valid From,Valid To,PIN,Note
 Cards,Pig VISA,Pig Bank,4444 3333 2222 1111,NAME,01/10,01/13,0000,CCV=999
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -716,35 +716,7 @@ of being &amp;#8216;only a large&amp;nbsp;iPhone&amp;#8217;.&lt;/p&gt;
 about user interface defects as heritage of early computer hardware
 limitations, such as the presence of &lt;em&gt;save&lt;/em&gt; and &lt;em&gt;quit&lt;/em&gt;&amp;nbsp;commands.&lt;/p&gt;
 &lt;p&gt;Step back to 2010, and guess what is the only computing platform that does not
-have any &lt;em&gt;save&lt;/em&gt; and &lt;em&gt;quit&lt;/em&gt; commands ? Correct, it&amp;#8217;s the&amp;nbsp;iPad.&lt;/p&gt;</summary><category term="apple"></category></entry><entry><title>lightroom workflow</title><link href="http://aadm.github.io/2006-08-06-lightroom-workflow.html" rel="alternate"></link><updated>2006-08-06T20:43:00+02:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2006-08-06:2006-08-06-lightroom-workflow.html</id><summary type="html">&lt;p&gt;Thanks to Lightroom and its beta status (which for me translates as &amp;#8216;free&amp;#8217;) I now have finally found a nice way to organize all my&amp;nbsp;photos.  &lt;/p&gt;
-&lt;p&gt;This is an attempt to illustrate my workflow; I will try to add in the future some more things with a litte bit more&amp;nbsp;detail.  &lt;/p&gt;
-&lt;p&gt;I shoot with a Nikon D70s, and I&amp;#8217;ve set up the color mode &lt;span class="caps"&gt;II&lt;/span&gt; (i.e., Adobe &lt;span class="caps"&gt;RGB&lt;/span&gt; color&amp;nbsp;space).  &lt;/p&gt;
-&lt;p&gt;In this way all the jpegs and raw images that I shoot are tagged as being in Adobe &lt;span class="caps"&gt;RGB&lt;/span&gt; color space, but there is actually no color profile attached to the files. So I have to manually attach the proper color profile once I download the files to my&amp;nbsp;computer.  &lt;/p&gt;
-&lt;h3&gt;Hardware&lt;/h3&gt;
-&lt;p&gt;The computer I&amp;#8217;m using is an iMac with intel core duo processor 1.83Ghz with 1.5Gb of ram; I use an external 200Gb lacie firewire hard disc for&amp;nbsp;backups.  &lt;/p&gt;
-&lt;h3&gt;Software&lt;/h3&gt;
-&lt;p&gt;I&amp;#8217;ve always tried to stick with non-commercial software, even though I have to admit it&amp;#8217;s hard not to use Photoshop. Gimpshop is a free alternative to Photoshop; it&amp;#8217;s the well-known gimp (which many linux users may be familiar with) but with a redesigned interface which makes it similar to Photoshop; it&amp;#8217;s also intel-native for mac users, so I think it&amp;#8217;s a good alternative to Photoshop even if it&amp;#8217;s not as polished as the real&amp;nbsp;thing.  &lt;/p&gt;
-&lt;p&gt;Other nice command-line applications are Imagemagick and jhead. They could be perfect for fast batch processing, but I&amp;#8217;d like something more visual.&lt;br /&gt;
-Of course all the macs have iPhoto installed, and even if it&amp;#8217;s a nice piece of software especially in the latest release, I still find it too basic for my&amp;nbsp;needs. &lt;/p&gt;
-&lt;p&gt;So here comes this new product from Adobe, Lightroom; as far as I&amp;#8217;m concerned this is the best piece of software to quickly sort, organize, rank a long shooting session; and on top of this it has some basic retouch capabilities which are everything that the average Photoshop user might ever&amp;nbsp;need.  &lt;/p&gt;
-&lt;p&gt;It also feels lively with my hardware configuration (which is not exactly top of world); having struggled with an old G3 iBook and a mere 384Mb of ram first, then with a G4 macmini 1.25Ghz, this is by far the best system that I&amp;#8217;ve ever had, which allows me to really work through a 100+ shoots in a&amp;nbsp;breeze.  &lt;/p&gt;
-&lt;h3&gt;The&amp;nbsp;workflow&lt;/h3&gt;
-&lt;p&gt;1) import with image capture, I&amp;#8217;ve set the option to automatically assign to all the downloaded files the Adobe &lt;span class="caps"&gt;RGB&lt;/span&gt;&amp;nbsp;profile.  &lt;/p&gt;
-&lt;p&gt;2) copy all the files in an appropriate directory under the Pictures folder. I have setup a directory structure which I&amp;#8217;m comfortable with, but not sure whether it&amp;#8217;s worth sharing. Let me know if somebody wants to&amp;nbsp;know.  &lt;/p&gt;
-&lt;p&gt;3) Import photos in Lightroom referencing from their original location; I usually assign the same shoot name of the subfolder name created in step&amp;nbsp;(2).  &lt;/p&gt;
-&lt;p&gt;4) in the library module I quickly scan all the photos, marking with 1 star (key &amp;#8220;1&amp;#8221;) the photo that I want to keep. At the end I activate the filter to show only the pics with 0 stars, select everything and then delete them all. At the emd I have only the 1-star rated photos (1 star means for me: worth keeping it&amp;nbsp;!).  &lt;/p&gt;
-&lt;p&gt;5) I go through the remaining photos a second time now, shifting between the library and the develop module (alt-1, alt-2) if I need to straighten or crop the photo or fix the colours, brightness etc. At the same time I also increase the star rating to the pics that I really like (but so far I tend to use as little stars as possible; 2 stars are for the ones that I want to upload to flickr o print, 3 for the really good&amp;nbsp;ones).  &lt;/p&gt;
-&lt;p&gt;6) I move back to the library module and now I assign some keywords; the following is an example of the keywords that I&amp;#8217;m using &amp;#8212; you may notice that even here I tend not to over-create (too many keywords are just plain useless, and you may be better off finding your photo just by scrolling through the&amp;nbsp;library).  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;d70s&lt;/code&gt;: photos taken with my Nikon&amp;nbsp;D70s  &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;coolpix&lt;/code&gt;: photos taken with the small&amp;nbsp;Coolpix  &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;moto&lt;/code&gt;: everything related with&amp;nbsp;motorbikes  &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;ale&lt;/code&gt;: photos featuring me&amp;nbsp;!  &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;panorama&lt;/code&gt;, &lt;code&gt;water&lt;/code&gt;, &lt;code&gt;rocks&lt;/code&gt;, &lt;code&gt;climbing&lt;/code&gt;:&amp;nbsp;self-explanatory  &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;flickr&lt;/code&gt;: the ones that I want to upload on&amp;nbsp;flickr  &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;print&lt;/code&gt;: the ones to&amp;nbsp;print&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;And then I&amp;#8217;m ready to export the photos; I should add a few notes on the only bit of processing done externally (the evergreen Unsharp Mask, folks !), but since I&amp;#8217;m still experimenting with a way to automate it with gimpshop, that&amp;#8217;s gonna be for the next&amp;nbsp;time. &lt;/p&gt;</summary><category term="apple"></category><category term="photo"></category></entry><entry><title>espansione ram macmini</title><link href="http://aadm.github.io/2005-12-21-espansione-ram-macmini.html" rel="alternate"></link><updated>2005-12-21T09:58:00+01:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2005-12-21:2005-12-21-espansione-ram-macmini.html</id><summary type="html">&lt;p&gt;Metti che vuoi potenziare il tuo macmini che hai comprato con quattro soldi (G4 1.25ghz con 512Mb di&amp;nbsp;ram).  &lt;/p&gt;
+have any &lt;em&gt;save&lt;/em&gt; and &lt;em&gt;quit&lt;/em&gt; commands ? Correct, it&amp;#8217;s the&amp;nbsp;iPad.&lt;/p&gt;</summary><category term="apple"></category></entry><entry><title>espansione ram macmini</title><link href="http://aadm.github.io/2005-12-21-espansione-ram-macmini.html" rel="alternate"></link><updated>2005-12-21T09:58:00+01:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2005-12-21:2005-12-21-espansione-ram-macmini.html</id><summary type="html">&lt;p&gt;Metti che vuoi potenziare il tuo macmini che hai comprato con quattro soldi (G4 1.25ghz con 512Mb di&amp;nbsp;ram).  &lt;/p&gt;
 &lt;p&gt;La cosa migliore ? Aumentare la ram. Al massimo possibile, cioe&amp;#8217; 1Gb.&lt;br /&gt;
 Pero&amp;#8217; ti hanno detto che aprire il macmini non e&amp;#8217; cosa proprio facilissima, insomma non serve semplicemente smollare 4 viti come con quei vecchi pc con cui&amp;nbsp;giocavi.  &lt;/p&gt;
 &lt;p&gt;Allora telefoni al negozio a Milano che ti pare il migliore, anche perche&amp;#8217; i tipi che ci lavorano dentro sono simpatici e sembrano piu&amp;#8217; competenti di quelli che trovi da Mondadori Informatica. Il negozio e&amp;#8217; mac@work,&amp;nbsp;diciamolo.  &lt;/p&gt;

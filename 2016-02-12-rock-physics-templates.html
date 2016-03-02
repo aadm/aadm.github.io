@@ -296,7 +296,7 @@ aadm            </a>
 <div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span>
 <span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="kn">as</span> <span class="nn">plt</span>
 <span class="kn">from</span> <span class="nn">__future__</span> <span class="kn">import</span> <span class="n">division</span>
 
@@ -315,7 +315,7 @@ aadm            </a>
 <div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="k">def</span> <span class="nf">critpor</span><span class="p">(</span><span class="n">K0</span><span class="p">,</span> <span class="n">G0</span><span class="p">,</span> <span class="n">phi</span><span class="p">,</span> <span class="n">phic</span><span class="o">=</span><span class="mf">0.4</span><span class="p">):</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="k">def</span> <span class="nf">critpor</span><span class="p">(</span><span class="n">K0</span><span class="p">,</span> <span class="n">G0</span><span class="p">,</span> <span class="n">phi</span><span class="p">,</span> <span class="n">phic</span><span class="o">=</span><span class="mf">0.4</span><span class="p">):</span>
     <span class="sd">&#39;&#39;&#39;</span>
 <span class="sd">    Critical porosity, Nur et al. (1991, 1995)</span>
 <span class="sd">    written by aadm (2015) from Rock Physics Handbook, p.353</span>
@@ -446,7 +446,7 @@ aadm            </a>
 <div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="k">def</span> <span class="nf">vels</span><span class="p">(</span><span class="n">K_DRY</span><span class="p">,</span><span class="n">G_DRY</span><span class="p">,</span><span class="n">K0</span><span class="p">,</span><span class="n">D0</span><span class="p">,</span><span class="n">Kf</span><span class="p">,</span><span class="n">Df</span><span class="p">,</span><span class="n">phi</span><span class="p">):</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="k">def</span> <span class="nf">vels</span><span class="p">(</span><span class="n">K_DRY</span><span class="p">,</span><span class="n">G_DRY</span><span class="p">,</span><span class="n">K0</span><span class="p">,</span><span class="n">D0</span><span class="p">,</span><span class="n">Kf</span><span class="p">,</span><span class="n">Df</span><span class="p">,</span><span class="n">phi</span><span class="p">):</span>
     <span class="sd">&#39;&#39;&#39;</span>
 <span class="sd">    Calculates velocities and densities of saturated rock via Gassmann equation, (C) aadm 2015</span>
 
@@ -521,7 +521,7 @@ aadm            </a>
 <div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">Dqz</span><span class="p">,</span> <span class="n">Kqz</span><span class="p">,</span> <span class="n">Gqz</span> <span class="o">=</span> <span class="mf">2.65</span><span class="p">,</span> <span class="mf">36.6</span><span class="p">,</span> <span class="mi">45</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">Dqz</span><span class="p">,</span> <span class="n">Kqz</span><span class="p">,</span> <span class="n">Gqz</span> <span class="o">=</span> <span class="mf">2.65</span><span class="p">,</span> <span class="mf">36.6</span><span class="p">,</span> <span class="mi">45</span>
 <span class="n">Dsh</span><span class="p">,</span> <span class="n">Ksh</span><span class="p">,</span> <span class="n">Gsh</span> <span class="o">=</span> <span class="mf">2.7</span><span class="p">,</span> <span class="mi">21</span><span class="p">,</span> <span class="mi">7</span>
 <span class="n">Kc</span><span class="p">,</span> <span class="n">Gc</span> <span class="o">=</span> <span class="mf">36.6</span><span class="p">,</span> <span class="mi">45</span>
 <span class="n">Db</span><span class="p">,</span> <span class="n">Kb</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="mf">2.2</span>
@@ -565,7 +565,7 @@ aadm            </a>
 <div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">phi</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mf">0.01</span><span class="p">,</span><span class="mf">0.40</span><span class="p">,</span><span class="mi">50</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">phi</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mf">0.01</span><span class="p">,</span><span class="mf">0.40</span><span class="p">,</span><span class="mi">50</span><span class="p">)</span>
 <span class="n">vsh</span><span class="o">=</span><span class="mf">0.0</span>
 
 <span class="n">K0</span><span class="p">,</span><span class="n">G0</span> <span class="o">=</span> <span class="n">vrh</span><span class="p">([</span><span class="n">vsh</span><span class="p">,</span> <span class="mi">1</span><span class="o">-</span><span class="n">vsh</span><span class="p">],[</span><span class="n">Ksh</span><span class="p">,</span><span class="n">Kqz</span><span class="p">],[</span><span class="n">Gsh</span><span class="p">,</span><span class="n">Gqz</span><span class="p">])[</span><span class="mi">4</span><span class="p">:]</span>
@@ -3081,7 +3081,7 @@ height=381
 <div class="prompt input_prompt">In&nbsp;[7]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">phi</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mf">0.10</span><span class="p">,</span><span class="mf">0.40</span><span class="p">,</span><span class="mi">10</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">phi</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mf">0.10</span><span class="p">,</span><span class="mf">0.40</span><span class="p">,</span><span class="mi">10</span><span class="p">)</span>
 <span class="n">sw</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">5</span><span class="p">)</span>
 <span class="n">vsh</span><span class="o">=</span><span class="mf">0.0</span>
 <span class="n">fluid</span><span class="o">=</span><span class="s1">&#39;gas&#39;</span>
@@ -5098,7 +5098,7 @@ height=391
 <div class="prompt input_prompt">In&nbsp;[8]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="k">def</span> <span class="nf">rpt</span><span class="p">(</span><span class="n">model</span><span class="o">=</span><span class="s1">&#39;soft&#39;</span><span class="p">,</span><span class="n">vsh</span><span class="o">=</span><span class="mf">0.0</span><span class="p">,</span><span class="n">fluid</span><span class="o">=</span><span class="s1">&#39;gas&#39;</span><span class="p">,</span><span class="n">phic</span><span class="o">=</span><span class="mf">0.4</span><span class="p">,</span><span class="n">Cn</span><span class="o">=</span><span class="mi">8</span><span class="p">,</span><span class="n">P</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span><span class="n">f</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="n">cement</span><span class="o">=</span><span class="s1">&#39;quartz&#39;</span><span class="p">):</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="k">def</span> <span class="nf">rpt</span><span class="p">(</span><span class="n">model</span><span class="o">=</span><span class="s1">&#39;soft&#39;</span><span class="p">,</span><span class="n">vsh</span><span class="o">=</span><span class="mf">0.0</span><span class="p">,</span><span class="n">fluid</span><span class="o">=</span><span class="s1">&#39;gas&#39;</span><span class="p">,</span><span class="n">phic</span><span class="o">=</span><span class="mf">0.4</span><span class="p">,</span><span class="n">Cn</span><span class="o">=</span><span class="mi">8</span><span class="p">,</span><span class="n">P</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span><span class="n">f</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="n">cement</span><span class="o">=</span><span class="s1">&#39;quartz&#39;</span><span class="p">):</span>
     <span class="k">if</span> <span class="n">cement</span><span class="o">==</span><span class="s1">&#39;quartz&#39;</span><span class="p">:</span>
         <span class="n">Kc</span><span class="p">,</span> <span class="n">Gc</span> <span class="o">=</span> <span class="mi">37</span><span class="p">,</span> <span class="mi">45</span>
     <span class="k">elif</span> <span class="n">cement</span><span class="o">==</span><span class="s1">&#39;calcite&#39;</span><span class="p">:</span>
@@ -5152,7 +5152,7 @@ height=391
 <div class="prompt input_prompt">In&nbsp;[9]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="kn">from</span> <span class="nn">ipywidgets</span> <span class="kn">import</span> <span class="n">interact</span><span class="p">,</span> <span class="n">ToggleButtons</span><span class="p">,</span> <span class="n">RadioButtons</span><span class="p">,</span> <span class="n">HTML</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="kn">from</span> <span class="nn">ipywidgets</span> <span class="kn">import</span> <span class="n">interact</span><span class="p">,</span> <span class="n">ToggleButtons</span><span class="p">,</span> <span class="n">RadioButtons</span><span class="p">,</span> <span class="n">HTML</span>
 <span class="n">rpm_buttons</span> <span class="o">=</span> <span class="n">ToggleButtons</span><span class="p">(</span><span class="n">description</span><span class="o">=</span><span class="s1">&#39;RPM&#39;</span><span class="p">,</span><span class="n">options</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;soft&#39;</span><span class="p">,</span><span class="s1">&#39;stiff&#39;</span><span class="p">,</span><span class="s1">&#39;cem&#39;</span><span class="p">,</span><span class="s1">&#39;crit&#39;</span><span class="p">])</span>
 <span class="n">fluid_buttons</span> <span class="o">=</span> <span class="n">ToggleButtons</span><span class="p">(</span><span class="n">description</span><span class="o">=</span><span class="s1">&#39;Fluid&#39;</span><span class="p">,</span><span class="n">options</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;gas&#39;</span><span class="p">,</span><span class="s1">&#39;oil&#39;</span><span class="p">])</span>
 <span class="n">cement_buttons</span> <span class="o">=</span> <span class="n">ToggleButtons</span><span class="p">(</span><span class="n">description</span><span class="o">=</span><span class="s1">&#39;Cement&#39;</span><span class="p">,</span><span class="n">options</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;quartz&#39;</span><span class="p">,</span><span class="s1">&#39;clay&#39;</span><span class="p">,</span><span class="s1">&#39;calcite&#39;</span><span class="p">])</span>
@@ -6430,7 +6430,7 @@ height=391
 <div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">data</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">genfromtxt</span><span class="p">(</span><span class="s1">&#39;qsiwell2.csv&#39;</span><span class="p">,</span><span class="n">delimiter</span><span class="o">=</span><span class="s1">&#39;,&#39;</span><span class="p">,</span><span class="n">names</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">data</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">genfromtxt</span><span class="p">(</span><span class="s1">&#39;qsiwell2.csv&#39;</span><span class="p">,</span><span class="n">delimiter</span><span class="o">=</span><span class="s1">&#39;,&#39;</span><span class="p">,</span><span class="n">names</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
 
 <span class="n">sel</span><span class="o">=</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s1">&#39;DEPTH&#39;</span><span class="p">]</span><span class="o">&gt;=</span><span class="mi">2014</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s1">&#39;DEPTH&#39;</span><span class="p">]</span><span class="o">&lt;=</span><span class="mi">2600</span><span class="p">)</span>
 <span class="n">ww</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">empty</span><span class="p">((</span><span class="n">data</span><span class="p">[</span><span class="s1">&#39;DEPTH&#39;</span><span class="p">][</span><span class="n">sel</span><span class="p">]</span><span class="o">.</span><span class="n">size</span><span class="p">,</span><span class="mi">3</span><span class="p">))</span>
@@ -6449,7 +6449,7 @@ height=391
 <div class="prompt input_prompt">In&nbsp;[11]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">Ksh</span><span class="p">,</span> <span class="n">Gsh</span> <span class="o">=</span> <span class="mi">12</span><span class="p">,</span> <span class="mi">4</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">Ksh</span><span class="p">,</span> <span class="n">Gsh</span> <span class="o">=</span> <span class="mi">12</span><span class="p">,</span> <span class="mi">4</span>
 <span class="n">rpt</span><span class="p">(</span><span class="n">model</span><span class="o">=</span><span class="s1">&#39;soft&#39;</span><span class="p">,</span><span class="n">vsh</span><span class="o">=</span><span class="mf">0.3</span><span class="p">,</span><span class="n">fluid</span><span class="o">=</span><span class="s1">&#39;oil&#39;</span><span class="p">,</span><span class="n">phic</span><span class="o">=</span><span class="mf">0.4</span><span class="p">,</span><span class="n">Cn</span><span class="o">=</span><span class="mi">12</span><span class="p">,</span><span class="n">P</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ww</span><span class="p">[:,</span><span class="mi">0</span><span class="p">],</span><span class="n">ww</span><span class="p">[:,</span><span class="mi">1</span><span class="p">],</span><span class="mi">25</span><span class="p">,</span><span class="n">ww</span><span class="p">[:,</span><span class="mi">2</span><span class="p">],</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.95</span><span class="p">,</span> <span class="n">marker</span><span class="o">=</span><span class="s1">&#39;o&#39;</span><span class="p">,</span> <span class="n">edgecolors</span><span class="o">=</span><span class="s1">&#39;.5&#39;</span><span class="p">,</span> <span class="n">cmap</span><span class="o">=</span><span class="s1">&#39;cubehelix_r&#39;</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="mi">4000</span><span class="p">,</span><span class="mi">9000</span><span class="p">)</span>
@@ -13365,6 +13365,7 @@ height=391
     <div id="navcontainer">
     <ul id="navlist">
         <li><a href="http://aadm.github.io/2016-02-11-geoscience-and-python.html"><i class="fa fa-angle-left"></i> PREVIOUS</a></li>
+        <li><a href="http://aadm.github.io/2016-03-01-the-molitor-collaboration.html">NEXT <i class="fa fa-angle-right"></i></a></li>
     </div>
         </div>
     </div>
