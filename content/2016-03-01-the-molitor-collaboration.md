@@ -9,15 +9,13 @@ Forget what I said in [previous posts]({filename}2014-10-27-still-finding-true-g
 Unless you count Andrew Molitor, of course[^blake].
 
 
-[^blake]: There's another blog that I discovered fairly recently. It's another awfully-looking blog which does not bode well for a "photographer", right? But this is the case of substance over appearance once again. And maybe guys like him and Molitor are actually using all their energy to make good photographs or think big, not to prettify a blog. Anyway, it's [Blake Andrew's "B" blog](http://blakeandrews.blogspot.com/) I'm talking about.
+[^blake]: There's another blog that I discovered fairly recently. It's another awfully-looking blog -- which does not bode well for a photographer, right? But this is the case of substance over appearance once again. And maybe guys like him and Molitor are actually using all their energy to make good photographs or think big, not to prettify a blog. Anyway, it's [Blake Andrew's "B" blog](http://blakeandrews.blogspot.com/) I'm talking about.
 
-
-There are [so many wonderful ideas](http://photothunk.blogspot.no/2015/12/heres-some-ideas.html) on his blog, once you start reading him you realize what's missing from the internet these days; the sheer excitement that I still remember from the days when the web was young, when you could discover brilliance without the taint of money-making.
+There are [so many wonderful ideas](http://photothunk.blogspot.no/2015/12/heres-some-ideas.html) on his blog, and once you start reading you realize what's missing from the internet these days; the excitement that I still remember from the days when the web was young, when you could discover brilliance without the taint of money-making.
 
 <!-- PELICAN_END_SUMMARY -->
 
 He makes fun of all the mediocre photographers which do workshops and proposes [his own version](http://photothunk.blogspot.no/2015/09/workshop.html); he destroys [these pretentious and useless attempts at explaining "composition"](http://photothunk.blogspot.no/2016/01/gestalt-psychology.html); he proposes [one exercise](http://photothunk.blogspot.no/2016/01/exercise-your-visualizer.html) that may be the only thing that a wannabe-photographer ought to learn; he [rants against Ming Thein](http://photothunk.blogspot.no/2016/01/on-doing-photography.html) with a mixture of viciousness and affection; and he writes [some very true things about the current crop of boring and over-the-top photography](http://photothunk.blogspot.no/2016/01/authenticity.html) that are all the rage these days.
-
 
 And finally he writes stuff like this which hit me in the head:
 
@@ -43,10 +41,10 @@ But I did things differently this time. I sat down and tried to conceive a plan 
 
 After a month of shooting (which reduced to a few hours in total grabbing my camera on my way to work or to the shops) I sat down and tried to make these juxtaposition.
 
-I could not find lines or shapes or make satisfying landscapes so the end results morphed in something else, more freeform and experimental. I think the following may work better if printed small and physically arranged on a cardboard, but for now they just live here on this blog.
+I could not find lines or shapes or make satisfying landscapes so the end results morphed in something else, more freeform and experimental. I think the following may work better if printed small and physically arranged on a cardboard, but for now they just live here on this blog. If you are using a small screen try zooming out a little to get more than one photo at once on the screen.
 
 
-#### composizione #1 (scivolo)
+### sequenza #1
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/25126345370/" title="2016-02-2020160220_OMD3124"><img src="https://farm2.staticflickr.com/1676/25126345370_e397bbf01e_h.jpg" width="800" height="533"></a>
@@ -65,7 +63,7 @@ I could not find lines or shapes or make satisfying landscapes so the end result
 </figure>
 
 
-#### composizione #2 (lampada)
+### sequenza #2
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/25126382770/" title="2016-02-2020160220_OMD3130"><img src="https://farm2.staticflickr.com/1553/25126382770_d0e5bbcd78_h.jpg" width="800" height="533"></a>
@@ -84,7 +82,7 @@ I could not find lines or shapes or make satisfying landscapes so the end result
 </figure>
 
 
-#### composizione #3 (alberi)
+#### sequenza #3
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/25328987111/" title="2016-02-2020160220_OMD3125"><img src="https://farm2.staticflickr.com/1600/25328987111_94fb9dffbe_h.jpg" width="800" height="533"></a>
@@ -108,7 +106,7 @@ I could not find lines or shapes or make satisfying landscapes so the end result
 </figure>
 
 
-#### composizione #4 (spazi)
+#### sequenza #4
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/25395332126/" title="2016-02-1320160213_OMD2984"><img src="https://farm2.staticflickr.com/1517/25395332126_de08697db3_h.jpg" width="800" height="533"></a>
@@ -135,7 +133,7 @@ I could not find lines or shapes or make satisfying landscapes so the end result
 </figure>
 
 
-#### composizione #5
+#### sequenza #5
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/25421353385/" title="2016-02-2320160223_OMD3281"><img src="https://farm2.staticflickr.com/1624/25421353385_a0c7c20066_h.jpg" width="800" height="533"></a>
@@ -154,7 +152,7 @@ I could not find lines or shapes or make satisfying landscapes so the end result
 </figure>
 
 
-#### composizione #6
+#### sequenza #6
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/25303315852/" title="2015-12-1220151212_OMD1948"><img src="https://farm2.staticflickr.com/1527/25303315852_2a5de5f4a4_h.jpg" width="800" height="533"></a>
