@@ -12,6 +12,10 @@ title: projects
         Italian towns but not only.
     </div>
     <div class="panel-body">
+        <h4><a href="{filename}/pages/un-giorno-al-lago.md">un giorno al lago / day trip at the lake</a></h4>
+        Kyllesvatnet lake, Norway.
+    </div>
+    <div class="panel-body">
         <h4><a href="{filename}/pages/northbound.md">northbound</a></h4>
         On the road with my family; short trip for a long stay (Italy, Germany, Denmark and Norway, August 2015).
     </div>

@@ -1,4 +1,4 @@
-Title: get-those-flickr-urls
+Title: get those flickr urls
 Date: 2016-01-19 23:47:21
 Slug: get-those-flickr-urls
 Tags: tech, python
