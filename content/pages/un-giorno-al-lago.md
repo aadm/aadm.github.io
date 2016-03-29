@@ -44,7 +44,7 @@ Slug: un-giorno-al-lago
 </figure>
 
 <figure>
-<img src="{filename}/images/Kyllesvatnet-1090442.jpg" width="800" height="534">
+<img src="{filename}/images/Kyllesvatnet-1090442.jpg" width="534" height="800">
 </figure>
 
 <figure>
