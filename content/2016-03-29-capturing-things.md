@@ -1,4 +1,4 @@
-Title: norwegian wind
+Title: capturing things
 Date: 2016-03-29 23:52:55
 Slug: capturing-things
 Tags: photo
