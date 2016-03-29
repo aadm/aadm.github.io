@@ -22,23 +22,16 @@ Consider this my first experiment. I will leave to the reader the task to find o
 
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/25516223644/" title="20160326_AA37937.jpg"><img src="https://farm2.staticflickr.com/1552/25516223644_80eec13c0b_h.jpg" width="534" height="800"></a>
-</figure>
-
-<figure>
-<a href="https://www.flickr.com/photos/aadm/26095067246/" title="20160326_AA37941.jpg"><img src="https://farm2.staticflickr.com/1694/26095067246_1c192be28e_h.jpg" width="800" height="534"></a>
-</figure>
-
-<figure>
-<a href="https://www.flickr.com/photos/aadm/25848160930/" title="20160326_AA37950.jpg"><img src="https://farm2.staticflickr.com/1662/25848160930_92a22e4813_h.jpg" width="800" height="534"></a>
+<a href="https://www.flickr.com/photos/aadm/25516271304/" title="20160326_AA37958.jpg"><img src="https://farm2.staticflickr.com/1666/25516271304_540bbfbee7_h.jpg" width="800" height="534"></a>
 </figure>
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/25848174220/" title="20160326_AA37954.jpg"><img src="https://farm2.staticflickr.com/1580/25848174220_f4e4065c91_h.jpg" width="800" height="534"></a>
 </figure>
 
+
 <figure>
-<a href="https://www.flickr.com/photos/aadm/25516271304/" title="20160326_AA37958.jpg"><img src="https://farm2.staticflickr.com/1666/25516271304_540bbfbee7_h.jpg" width="800" height="534"></a>
+<a href="https://www.flickr.com/photos/aadm/25848160930/" title="20160326_AA37950.jpg"><img src="https://farm2.staticflickr.com/1662/25848160930_92a22e4813_h.jpg" width="800" height="534"></a>
 </figure>
 
 
