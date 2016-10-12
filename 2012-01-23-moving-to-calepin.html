@@ -273,8 +273,8 @@ aadm            </a>
 <span class="k">for</span> n in *.html
 <span class="k">do</span>
     rm -f temp.txt
-    <span class="nb">echo</span> <span class="s2">&quot;==&gt; processing&quot;</span> $n
-    ./html2text.py $n &gt; temp.txt
+    <span class="nb">echo</span> <span class="s2">&quot;==&gt; processing&quot;</span> <span class="nv">$n</span>
+    ./html2text.py <span class="nv">$n</span> &gt; temp.txt
     ./tumblr2calepin.py temp.txt
 <span class="k">done</span>
 </pre></div>
@@ -337,11 +337,11 @@ aadm            </a>
 <section class="well" id="related-posts">
     <h4>Related Posts:</h4>
     <ul>
-        <li><a href="http://aadm.github.io/2011-01-19-making-the-glif.html">making the&nbsp;glif</a></li>
-        <li><a href="http://aadm.github.io/2011-03-24-tech-bloggers-and-xkcd.html">tech bloggers and&nbsp;xkcd</a></li>
         <li><a href="http://aadm.github.io/2009-04-28-network-speeds.html">network&nbsp;speeds</a></li>
         <li><a href="http://aadm.github.io/2005-08-24-italian-gtd.html">italian&nbsp;gtd</a></li>
-        <li><a href="http://aadm.github.io/2012-06-02-these-tech-writers-invettiva.html">these tech writers&nbsp;(invettiva)</a></li>
+        <li><a href="http://aadm.github.io/2011-03-24-tech-bloggers-and-xkcd.html">tech bloggers and&nbsp;xkcd</a></li>
+        <li><a href="http://aadm.github.io/2011-01-19-making-the-glif.html">making the&nbsp;glif</a></li>
+        <li><a href="http://aadm.github.io/2008-05-20-rock-fm.html">rock&nbsp;fm</a></li>
     </ul>
 </section>
         </article>

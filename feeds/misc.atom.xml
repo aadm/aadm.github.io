@@ -150,8 +150,8 @@ Why branzino? The film never says — it just offers up this delightful serving 
 &lt;span class="k"&gt;for&lt;/span&gt; n in *.html
 &lt;span class="k"&gt;do&lt;/span&gt;
     rm -f temp.txt
-    &lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;==&amp;gt; processing&amp;quot;&lt;/span&gt; $n
-    ./html2text.py $n &amp;gt; temp.txt
+    &lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;==&amp;gt; processing&amp;quot;&lt;/span&gt; &lt;span class="nv"&gt;$n&lt;/span&gt;
+    ./html2text.py &lt;span class="nv"&gt;$n&lt;/span&gt; &amp;gt; temp.txt
     ./tumblr2calepin.py temp.txt
 &lt;span class="k"&gt;done&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
