@@ -102,9 +102,10 @@ These are two examples of little videos that I made with the GF1, the first one 
 
 <center>
 {% youtube gMBcbsr2u2s %}
+</center>
 
+<center>
 {% youtube nIkT1ZauZt4 %}
-
 </center>
 
 

@@ -3,14 +3,12 @@ Date: 2016-03-11 23:12:23
 Slug: worst-wedding-photographer-ever
 Tags: photo
 Lang: en
-Status: draft
 
 Wedding photography is something like newborn photography; cheesy, kitsch and very very false. Obviously I'm talking about the kind of wedding and newborn photography which is most in vogue nowadays (i.e., the first hits you get when googling these keywords).
 
 I just happened to read [Milnor's blog](http://shifter.media/dispatches-joe-buissink/) that featured an interview with some wedding photographer I didn't know -- and i still don't know -- but what was interesting was the little background story Milnor wrote so I thought about something:
 
 <!-- PELICAN_END_SUMMARY -->
-
 
 * I will never ever shoot a wedding as a paid photographer
 * Even if I did, that would be insanely expensive for the lunatic who would hire me
