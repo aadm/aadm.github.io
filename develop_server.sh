@@ -2,8 +2,12 @@
 ##
 # This section should match your Makefile
 ##
-PY=${PY:-python}
-PELICAN=${PELICAN:-pelican}
+# PY=${PY:-python}
+# PELICAN=${PELICAN:-pelican}
+# PELICANOPTS=
+
+PY=python
+PELICAN=pelican
 PELICANOPTS=
 
 BASEDIR=$(pwd)

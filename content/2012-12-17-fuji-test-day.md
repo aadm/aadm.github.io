@@ -1,7 +1,7 @@
 title: fuji test day
 Tags: photo, gear
 Lang: en
-related_posts: fujji-me-too
+related_posts: fuji-me-too
 
 
 <a href="http://www.flickr.com/photos/aadm/8287861141/" title="S0027338 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8343/8287861141_28e1db8db9_c.jpg" width="800" height="534" alt="S0027338"></a>
