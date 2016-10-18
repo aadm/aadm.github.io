@@ -259,12 +259,12 @@ The photographs below are those that I like the most. A wider selection is onlin
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/30347386375/" title="20161007_OMD1727-2.jpg"><img src="https://farm6.staticflickr.com/5575/30347386375_9e37e20209_h.jpg" width="800" height="533"></a>
-<figcaption>1/180 sec. at f/5.6, ISO 200, 90 mm (OLYMPUS M.45mm F1.8, E-M10).</figcaption>
+<figcaption>Once again (it really is a beautiful mountain).</figcaption>
 </figure>
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/30261322451/" title="20161007_OMD1729.jpg"><img src="https://farm6.staticflickr.com/5597/30261322451_023daa20ca_h.jpg" width="800" height="533"></a>
-<figcaption>1/250 sec. at f/5.6, ISO 200, 90 mm (OLYMPUS M.45mm F1.8, E-M10).</figcaption>
+<figcaption>Rather conventional.</figcaption>
 </figure>
 
 
