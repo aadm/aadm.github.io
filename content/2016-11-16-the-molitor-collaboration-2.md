@@ -23,7 +23,7 @@ Allow me to quote from Andrew's blog:
 > One contributor gave me beautiful collages, in several arrangements. I found myself in love with the vertical stacks of four horizontal images, and that in turn led me to conceive of the book's layout as permitting pages to be cut horizontally. The creates two booklets, one stacked atop the other. In theory, the pages of one can be turned independent of the other, allowing new juxtapositions of pictures to occur.
 
 
-Obviously he's referring to my photos (you can see them [here]({filename}2016-03-01-the-molitor-collaboration.md)) and also on [my flickr](https://www.flickr.com/photos/aadm/albums/72157665335861985).
+Obviously he's referring to my photos (you can see them [here]({filename}2016-03-01-the-molitor-collaboration.md) and also on [flickr](https://www.flickr.com/photos/aadm/albums/72157665335861985)).
 
 I should add something about my feeling towards this little booklet but honestly, I have had only a cursory look at the book and then moved on. I actually like my pictures more than all the others and wonder how the hell did Andrew Molitor had the nerve (and ability) to assemble such a jumble of photos.
 
