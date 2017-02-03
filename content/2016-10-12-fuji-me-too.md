@@ -3,7 +3,7 @@ Date: 2016-10-12 22:36:17
 Slug: fuji-me-too
 Tags: photo, gear
 Lang: en
-related_posts: fuji-test-day
+related_posts: fuji-test-day, late-review-of-the-fuji-x-pro1, a-little-camera
 
 The long Norwegian September is a period of the year when I'm still very much in holiday-mode, with my skin still burning from the southern italian sunshine, and at the same time dreading the dark winter ahead. It is a period when my congenital hatred for office life and rituals reach the highest peak; it is a period where all these first-world problems are channeled into the research of a new camera to play with[^1].
 

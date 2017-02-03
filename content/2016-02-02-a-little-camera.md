@@ -54,7 +54,8 @@ Some blogger I now refrain from quoting once said that we have past reached the 
 And this Olympus is like a little D600[^sensor]; the raw photographs are very malleable, just like the D600 -- well maybe a little less: a little less potential to recover the deep blacks or the highlights, a little less clean at high ISO, a little less comfortable and secure when holding it with one hand. But you know, "a little less" than a D600 it means that it is still astonishingly good.
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/24667832401" title="20151009_OMD0083.jpg"><img src="https://farm2.staticflickr.com/1657/24667832401_cbd614cf49_h.jpg" width="800" height="533"></a>
+<a href="https://www.flickr.com/photos/aadm/24667832401/" title="2015-10-0920151009_OMD0083.jpg"><img src="https://farm2.staticflickr.com/1657/24667832401_c9f699d994_h.jpg" width="800" height="533"></a>
+<figcaption>1/90 sec. at f/2.0, ISO 1600, 90 mm (OLYMPUS M.45mm F1.8, E-M10).</figcaption>
 </figure>
 
 Most importantly it is a big step above the old GF1. With that camera I could feel the pain whenever the light was not 100-ISO conditions. And composing with the rear LCD was at times very irritating. And the stabilization system? I honestly did not think it was that big of a deal -- after all I have been shooting traditional (D)SLRs with no such helps for a long time. But these little cameras are inherently unbalanced due to their low weight so it's almost easier to keep steady a largish DSLR body with a normal lens attached than one of them tiny things.
@@ -62,7 +63,8 @@ Most importantly it is a big step above the old GF1. With that camera I could fe
 The small flaws I have found are probably rather known; like you should know before even approaching one of these mirrorless cameras that they will exhaust the battery pretty quickly. So you have to have extra batteries (but perfectly good chinese knock-offs are available on amazon for two or three chocolate money). And the (lack of) grip compared to a DSLR can be unnerving so you gotta use a strap (on my D600 most of the times I don't). Actually there is a tiny thumb-rest on the Olympus that it's really a brilliant idea and makes it slightly easier to hold (I know for example that users of the much more expensive Fuji X-Pro have to buy a second-party thumb-rest).
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/24761438715" title="20151016_OMD0452.jpg"><img src="https://farm2.staticflickr.com/1701/24761438715_81a60e475c_h.jpg" width="800" height="533"></a>
+<a href="https://www.flickr.com/photos/aadm/24761438715/" title="2015-10-1620151016_OMD0452.jpg"><img src="https://farm2.staticflickr.com/1701/24761438715_38072a6aff_h.jpg" width="800" height="533"></a>
+<figcaption>1/500 sec. at f/4.0, ISO 200, 50 mm (OLYMPUS M.25mm F1.8, E-M10).</figcaption>
 </figure>
 
 Two of the lenses I have are also very very good; the 25mm and the 45mm. The Panasonic 14mm f/2.5 on the other hand is a piece of shit but it's so tiny and cheap that it's difficult not to recommend over the more expensive options out there (also remember that I don't care too much about wide angles).
