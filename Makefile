@@ -96,7 +96,7 @@ gh: publish
 	git commit -a -m 'Source archive $(DATE)'
 	git push origin source
 
-ghsrc:
+ghsrc: clean
 	git add -A
 	git commit -a -m 'Source archive $(DATE)'
 	git push origin source
