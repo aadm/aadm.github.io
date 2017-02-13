@@ -92,10 +92,6 @@ They are just pretty pictures of Cuba.
 </figure>
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/30535224353/" title="2016-05-2020160520_AA39489.jpg"><img src="https://farm6.staticflickr.com/5616/30535224353_78094724f2_h.jpg" width="800" height="534"></a>
-</figure>
-
-<figure>
 <a href="https://www.flickr.com/photos/aadm/31306671846/" title="2016-05-2020160520_AA39481.jpg"><img src="https://farm6.staticflickr.com/5546/31306671846_3bd5a96f7a_h.jpg" width="800" height="534"></a>
 </figure>
 
@@ -107,9 +103,6 @@ They are just pretty pictures of Cuba.
 <a href="https://www.flickr.com/photos/aadm/30973764880/" title="2016-05-1920160519_AA39454.jpg"><img src="https://farm6.staticflickr.com/5715/30973764880_f3c944df79_h.jpg" width="800" height="534"></a>
 </figure>
 
-<figure>
-<a href="https://www.flickr.com/photos/aadm/31227788371/" title="2016-05-1920160519_AA39321.jpg"><img src="https://farm6.staticflickr.com/5776/31227788371_f0e3fb3e05_h.jpg" width="800" height="534"></a>
-</figure>
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/30973798920/" title="2016-05-2020160520_AA39525.jpg"><img src="https://farm6.staticflickr.com/5691/30973798920_025c0e7842_h.jpg" width="534" height="800"></a>
@@ -154,5 +147,5 @@ They are just pretty pictures of Cuba.
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/31198648232/" title="2016-05-1920160519_AA39437.jpg"><img src="https://farm6.staticflickr.com/5793/31198648232_4baf644309_h.jpg" width="534" height="800"></a>
-<figcaption>Pretty pictures of Cuba: The End.</figcaption>
+<figcaption>Pretty pictures of Cuba: the end.</figcaption>
 </figure>

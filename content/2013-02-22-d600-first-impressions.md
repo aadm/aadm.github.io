@@ -63,7 +63,7 @@ Maybe it's only a matter of economy, that is I was able to do this with a relati
 </figure>
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/24780023485" title="20130310_AA00949.jpg"><img src="https://farm2.staticflickr.com/1542/24780023485_e5fa305bec_h.jpg" width="534" height="800"></a>
+<a href="https://www.flickr.com/photos/aadm/24780023485" title="20130310_AA00949.jpg"><img src="https://c1.staticflickr.com/2/1542/24780023485_3206c53a0b_h.jpg"" width="534" height="800"></a>
 </figure>
 
 

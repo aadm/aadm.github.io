@@ -24,17 +24,19 @@ Consider this my first experiment. I will leave to the reader the task to find o
 
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/25516271304/" title="20160326_AA37958.jpg"><img src="https://farm2.staticflickr.com/1666/25516271304_540bbfbee7_h.jpg" width="800" height="534"></a>
-</figure>
-
-<figure>
-<a href="https://www.flickr.com/photos/aadm/25848174220/" title="20160326_AA37954.jpg"><img src="https://farm2.staticflickr.com/1580/25848174220_f4e4065c91_h.jpg" width="800" height="534"></a>
+<a href="https://www.flickr.com/photos/aadm/25516271304/" title="20160326_AA37958.jpg"><img src="https://c1.staticflickr.com/2/1666/25516271304_e7fe0bed10_h.jpg" width="800" height="534"></a>
 </figure>
 
 
 <figure>
-<a href="https://www.flickr.com/photos/aadm/25848160930/" title="20160326_AA37950.jpg"><img src="https://farm2.staticflickr.com/1662/25848160930_92a22e4813_h.jpg" width="800" height="534"></a>
+<a href="https://www.flickr.com/photos/aadm/25848174220/" title="20160326_AA37954.jpg"><img src="https://c1.staticflickr.com/2/1580/25848174220_ba2a7e5a51_h.jpg" width="800" height="534"></a>
 </figure>
+
+
+<figure>
+<a href="https://www.flickr.com/photos/aadm/25848160930/" title="20160326_AA37950.jpg"><img src="https://c1.staticflickr.com/2/1662/25848160930_b2e6ead244_h.jpg" width="800" height="534"></a>
+</figure>
+
 
 
 [^nota-street]: Why I am no longer a street photographer (if I have ever been one): because too many people call themselves street photographers; because I don't see the point in having as main subjects of all my photos some random strangers;  because I despise the macho subculture that force wannabe photographers to shoot people right in their faces with some silly excuses to "make connection"; because it is too easy to create emotions relying on some borderline extraordinary character that you meet by simply walking; because I have no time to roam the city streets in search of the elusive street photograph.
