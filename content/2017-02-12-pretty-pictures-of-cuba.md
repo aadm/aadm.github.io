@@ -8,7 +8,7 @@ related_posts: black-and-white, geolandscapes, backcountry-pyrenees, capturing-t
 
 Last year I went to Cuba with my wife and my daughter. Before the trip I was overwhelmed with the weight of Cuba and its iconic tropes (the cars, the beautiful people, the cigars); after the trip I became annoyed with the whole thing however, realizing that the photographic essence of Cuba is as fake as the oversaturated, foamy waters landscapes that pollute the passionate photographer visual experience these days.
 
-One little example: you know those american cars that nobody fails to mention each time you talk about Cuba? Turns out most of them they're empty shells, the original V8 engines gone and replaced by cheap, realiable and easy to service Toyota 4-cylinder diesels. Overlooking this detail is a criminal act in my view. Photographing them like they were real american muscle cars from the 50s and not tourist traps is to betray the honesty of your photographs.
+One little example: you know those american cars that nobody fails to mention each time you talk about Cuba? Turns out most of them they're empty shells, the original V8 engines gone and replaced by cheap, reliable and easy to service Toyota 4-cylinder diesels. Overlooking this detail is a criminal act in my view. Photographing them like they were real american muscle cars from the 50s and not tourist traps is to betray the honesty of your photographs.
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/31198289542/" title="2016-05-1620160516_AA38861.jpg"><img src="https://farm6.staticflickr.com/5652/31198289542_f00b72c8e4_h.jpg" width="800" height="534"></a>
@@ -36,6 +36,8 @@ So I more or less stopped taking pictures in Habana. But the trip continued, we 
 They are just pretty pictures of Cuba.
 
 
+## the photos you have to take
+
 <figure>
 <a href="https://www.flickr.com/photos/aadm/30520285024/" title="2016-05-1920160519_AA39251.jpg"><img src="https://farm6.staticflickr.com/5640/30520285024_136b6f550f_h.jpg" width="800" height="534"></a>
 <figcaption>Trope #1: tobacco.</figcaption>
@@ -53,7 +55,17 @@ They are just pretty pictures of Cuba.
 </figure>
 
 
+<figure>
+<a href="https://www.flickr.com/photos/aadm/30534913653/" title="2016-05-1720160517_AA39072.jpg"><img src="https://farm6.staticflickr.com/5691/30534913653_36588bacb2_h.jpg" width="800" height="534"></a>
+<figcaption>Trope #4: cars.</figcaption>
+</figure>
 
+
+## the other photos
+
+<figure>
+<a href="https://www.flickr.com/photos/aadm/30520201574/" title="2016-05-1820160518_AA39151.jpg"><img src="https://farm6.staticflickr.com/5525/30520201574_9586b115eb_h.jpg" width="800" height="534"></a>
+</figure>
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/31342492205/" title="2016-05-1620160516_AA38944.jpg"><img src="https://farm6.staticflickr.com/5485/31342492205_8c8b9b65c5_h.jpg" width="800" height="534"></a>
@@ -72,6 +84,17 @@ They are just pretty pictures of Cuba.
 </figure>
 
 <figure>
+<a href="https://www.flickr.com/photos/aadm/30520172644/" title="20160518_AA39131.jpg"><img src="https://c1.staticflickr.com/6/5730/30520172644_119b950135_h.jpg" width="800" height="534"></a>
+</figure>
+
+
+<figure>
+<a href="https://www.flickr.com/photos/aadm/30520172644/" title="2016-05-1820160518_AA39131.jpg"><img src="https://farm6.staticflickr.com/5730/30520172644_119b950135_h.jpg" width="800" height="534"></a>
+<figcaption>1/90 sec. at f/4.0, ISO 100, 35 mm (35.0 mm f/1.8, NIKON D600).</figcaption>
+</figure>
+
+
+<figure>
 <a href="https://www.flickr.com/photos/aadm/30534946303/" title="2016-05-1820160518_AA39114.jpg"><img src="https://farm6.staticflickr.com/5775/30534946303_c8e4afcee7_h.jpg" width="800" height="534"></a>
 </figure>
 
@@ -81,10 +104,6 @@ They are just pretty pictures of Cuba.
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/31198400922/" title="2016-05-1720160517_AA39077.jpg"><img src="https://farm6.staticflickr.com/5541/31198400922_6d97f96f93_h.jpg" width="800" height="534"></a>
-</figure>
-
-<figure>
-<a href="https://www.flickr.com/photos/aadm/30534913653/" title="2016-05-1720160517_AA39072.jpg"><img src="https://farm6.staticflickr.com/5691/30534913653_36588bacb2_h.jpg" width="800" height="534"></a>
 </figure>
 
 <figure>
@@ -149,3 +168,5 @@ They are just pretty pictures of Cuba.
 <a href="https://www.flickr.com/photos/aadm/31198648232/" title="2016-05-1920160519_AA39437.jpg"><img src="https://farm6.staticflickr.com/5793/31198648232_4baf644309_h.jpg" width="534" height="800"></a>
 <figcaption>Pretty pictures of Cuba: the end.</figcaption>
 </figure>
+
+_Other photos are [here](https://www.flickr.com/photos/aadm/albums/72157673277313234)._
