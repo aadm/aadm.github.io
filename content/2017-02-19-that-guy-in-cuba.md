@@ -12,6 +12,7 @@ Obviously I remember quite clearly this photo and the entire [NYT photo essay on
 <img src="{filename}/images/TOP_post_2016-03-21_Cuba.png">
 </figure>
 
+<!-- PELICAN_END_SUMMARY -->
 
 I went to Cuba for a short holiday with my family a couple of months after I'd read this essay, did my thing with a camera like I always do, and only recently picked my best photos and published them [here]({filename}2017-02-12-pretty-pictures-of-cuba.md) on my blog.
 
