@@ -1,4 +1,4 @@
-title: about
+title: About
 
 I have been calling myself aadm on the internet since forever. I have a very long name, and I have always wanted it to be much shorter: that's why aadm.
 
