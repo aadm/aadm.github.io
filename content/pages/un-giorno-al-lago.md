@@ -1,4 +1,4 @@
-Title: Un giorno al lago
+Title: un giorno al lago
 Slug: un-giorno-al-lago
 
 

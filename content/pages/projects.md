@@ -1,4 +1,4 @@
-title: Projects
+title: projects
 
 <div class="panel panel-default">
     <div class="panel-body">

@@ -1,4 +1,4 @@
-Title: Home
+Title: home
 Save_as: index.html
 
 <figure>

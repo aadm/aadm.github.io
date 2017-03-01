@@ -1,4 +1,4 @@
-Title: Northbound
+Title: northbound
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/21419567391" title="GF11090256"><img src="https://farm6.staticflickr.com/5719/21419567391_381d855025_h.jpg" width="800" height="534"></a>
