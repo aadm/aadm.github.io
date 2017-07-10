@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>aadm: thoughts on photography 1</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+<style type="text/css">
+
+/*some stuff for output/input prompts*/
+div.cell{border:1px solid transparent;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;display:flex;flex-direction:column;align-items:stretch}div.cell.selected{border-radius:4px;border:thin #ababab solid}
+div.cell.edit_mode{border-radius:4px;border:thin #008000 solid}
+div.cell{width:100%;padding:5px 5px 5px 0;margin:0;outline:none}
+div.prompt{min-width:11ex;padding:.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em}
+@media (max-width:480px){div.prompt{text-align:left}}div.inner_cell{display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;display:flex;flex-direction:column;align-items:stretch;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;flex:1}
+div.input_area{border:1px solid #cfcfcf;border-radius:4px;background:#f7f7f7;line-height:1.21429em}
+div.prompt:empty{padding-top:0;padding-bottom:0}
+div.input{page-break-inside:avoid;display:-webkit-box;-webkit-box-orient:horizontal;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:horizontal;-moz-box-align:stretch;display:box;box-orient:horizontal;box-align:stretch;}
+div.inner_cell{width:90%;}
+div.input_area{border:1px solid #cfcfcf;border-radius:4px;background:#f7f7f7;}
+div.input_prompt{color:navy;border-top:1px solid transparent;}
+div.output_wrapper{margin-top:5px;position:relative;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;width:100%;}
+div.output_scroll{height:24em;width:100%;overflow:auto;border-radius:4px;-webkit-box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);-moz-box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);}
+div.output_collapsed{margin:0px;padding:0px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;width:100%;}
+div.out_prompt_overlay{height:100%;padding:0px 0.4em;position:absolute;border-radius:4px;}
+div.out_prompt_overlay:hover{-webkit-box-shadow:inset 0 0 1px #000000;-moz-box-shadow:inset 0 0 1px #000000;box-shadow:inset 0 0 1px #000000;background:rgba(240, 240, 240, 0.5);}
+div.output_prompt{color:darkred;}
+
+a.anchor-link:link{text-decoration:none;padding:0px 20px;visibility:hidden;}
+h1:hover .anchor-link,h2:hover .anchor-link,h3:hover .anchor-link,h4:hover .anchor-link,h5:hover .anchor-link,h6:hover .anchor-link{visibility:visible;}
+/* end stuff for output/input prompts*/
+
+
+.highlight-ipynb .hll { background-color: #ffffcc }
+.highlight-ipynb  { background: #f8f8f8; }
+.highlight-ipynb .c { color: #408080; font-style: italic } /* Comment */
+.highlight-ipynb .err { border: 1px solid #FF0000 } /* Error */
+.highlight-ipynb .k { color: #008000; font-weight: bold } /* Keyword */
+.highlight-ipynb .o { color: #666666 } /* Operator */
+.highlight-ipynb .cm { color: #408080; font-style: italic } /* Comment.Multiline */
+.highlight-ipynb .cp { color: #BC7A00 } /* Comment.Preproc */
+.highlight-ipynb .c1 { color: #408080; font-style: italic } /* Comment.Single */
+.highlight-ipynb .cs { color: #408080; font-style: italic } /* Comment.Special */
+.highlight-ipynb .gd { color: #A00000 } /* Generic.Deleted */
+.highlight-ipynb .ge { font-style: italic } /* Generic.Emph */
+.highlight-ipynb .gr { color: #FF0000 } /* Generic.Error */
+.highlight-ipynb .gh { color: #000080; font-weight: bold } /* Generic.Heading */
+.highlight-ipynb .gi { color: #00A000 } /* Generic.Inserted */
+.highlight-ipynb .go { color: #888888 } /* Generic.Output */
+.highlight-ipynb .gp { color: #000080; font-weight: bold } /* Generic.Prompt */
+.highlight-ipynb .gs { font-weight: bold } /* Generic.Strong */
+.highlight-ipynb .gu { color: #800080; font-weight: bold } /* Generic.Subheading */
+.highlight-ipynb .gt { color: #0044DD } /* Generic.Traceback */
+.highlight-ipynb .kc { color: #008000; font-weight: bold } /* Keyword.Constant */
+.highlight-ipynb .kd { color: #008000; font-weight: bold } /* Keyword.Declaration */
+.highlight-ipynb .kn { color: #008000; font-weight: bold } /* Keyword.Namespace */
+.highlight-ipynb .kp { color: #008000 } /* Keyword.Pseudo */
+.highlight-ipynb .kr { color: #008000; font-weight: bold } /* Keyword.Reserved */
+.highlight-ipynb .kt { color: #B00040 } /* Keyword.Type */
+.highlight-ipynb .m { color: #666666 } /* Literal.Number */
+.highlight-ipynb .s { color: #BA2121 } /* Literal.String */
+.highlight-ipynb .na { color: #7D9029 } /* Name.Attribute */
+.highlight-ipynb .nb { color: #008000 } /* Name.Builtin */
+.highlight-ipynb .nc { color: #0000FF; font-weight: bold } /* Name.Class */
+.highlight-ipynb .no { color: #880000 } /* Name.Constant */
+.highlight-ipynb .nd { color: #AA22FF } /* Name.Decorator */
+.highlight-ipynb .ni { color: #999999; font-weight: bold } /* Name.Entity */
+.highlight-ipynb .ne { color: #D2413A; font-weight: bold } /* Name.Exception */
+.highlight-ipynb .nf { color: #0000FF } /* Name.Function */
+.highlight-ipynb .nl { color: #A0A000 } /* Name.Label */
+.highlight-ipynb .nn { color: #0000FF; font-weight: bold } /* Name.Namespace */
+.highlight-ipynb .nt { color: #008000; font-weight: bold } /* Name.Tag */
+.highlight-ipynb .nv { color: #19177C } /* Name.Variable */
+.highlight-ipynb .ow { color: #AA22FF; font-weight: bold } /* Operator.Word */
+.highlight-ipynb .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight-ipynb .mf { color: #666666 } /* Literal.Number.Float */
+.highlight-ipynb .mh { color: #666666 } /* Literal.Number.Hex */
+.highlight-ipynb .mi { color: #666666 } /* Literal.Number.Integer */
+.highlight-ipynb .mo { color: #666666 } /* Literal.Number.Oct */
+.highlight-ipynb .sb { color: #BA2121 } /* Literal.String.Backtick */
+.highlight-ipynb .sc { color: #BA2121 } /* Literal.String.Char */
+.highlight-ipynb .sd { color: #BA2121; font-style: italic } /* Literal.String.Doc */
+.highlight-ipynb .s2 { color: #BA2121 } /* Literal.String.Double */
+.highlight-ipynb .se { color: #BB6622; font-weight: bold } /* Literal.String.Escape */
+.highlight-ipynb .sh { color: #BA2121 } /* Literal.String.Heredoc */
+.highlight-ipynb .si { color: #BB6688; font-weight: bold } /* Literal.String.Interpol */
+.highlight-ipynb .sx { color: #008000 } /* Literal.String.Other */
+.highlight-ipynb .sr { color: #BB6688 } /* Literal.String.Regex */
+.highlight-ipynb .s1 { color: #BA2121 } /* Literal.String.Single */
+.highlight-ipynb .ss { color: #19177C } /* Literal.String.Symbol */
+.highlight-ipynb .bp { color: #008000 } /* Name.Builtin.Pseudo */
+.highlight-ipynb .vc { color: #19177C } /* Name.Variable.Class */
+.highlight-ipynb .vg { color: #19177C } /* Name.Variable.Global */
+.highlight-ipynb .vi { color: #19177C } /* Name.Variable.Instance */
+.highlight-ipynb .il { color: #666666 } /* Literal.Number.Integer.Long */
+</style>
+
+<style type="text/css">
+/* Overrides of notebook CSS for static HTML export */
+div.entry-content {
+  overflow: visible;
+  padding: 8px;
+}
+.input_area {
+  padding: 0.2em;
+}
+
+a.heading-anchor {
+ white-space: normal;
+}
+
+.rendered_html
+code {
+ font-size: .8em;
+}
+
+pre.ipynb {
+  color: black;
+  background: #f7f7f7;
+  border: none;
+  box-shadow: none;
+  margin-bottom: 0;
+  padding: 0;
+  margin: 0px;
+  font-size: 13px;
+}
+
+/* remove the prompt div from text cells */
+div.text_cell .prompt {
+    display: none;
+}
+
+/* remove horizontal padding from text cells, */
+/* so it aligns with outer body text */
+div.text_cell_render {
+    padding: 0.5em 0em;
+}
+
+img.anim_icon{padding:0; border:0; vertical-align:middle; -webkit-box-shadow:none; -box-shadow:none}
+</style>
+
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+<script type="text/javascript">
+init_mathjax = function() {
+    if (window.MathJax) {
+        // MathJax loaded
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+            },
+            displayAlign: 'left', // Change this to 'center' to center equations.
+            "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}}
+            }
+        });
+        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+    }
+}
+init_mathjax();
+</script>
+    <link href="http://aadm.github.io/favicon.png" rel="icon">
+
+<link rel="canonical" href="http://aadm.github.io/2017-07-11-thoughts-on-photography-1.html">
+
+        <meta name="author" content="Alessandro Amato del Monte" />
+        <meta name="keywords" content="photo,notes" />
+        <meta name="description" content="I think a lot about photography; usually random, incoherent things that I tend to forget (or more often, forget the point I was trying to make). This is an attempt to make some order. A second part is half-written. It may be published sooner or later. portrait photographers Are they really that good? As Bill and Jefferey often say on their show, how hard can it be to take a good photograph of George Clooney or some beautiful model? Why do we refer to Platon, Newton, Leibovitz as some sort of geniuses because they know how to set up lights and get these professionals (whose job is looking good) to look good? Not to mention the make up artists, strobists and whatnot working for them. Basically I think that a good photographer needs to be able to make art with every subject. And I would extend my critique also to those that are on the other side of the spectrum, for example Bruce Gilden and his “Faces” — portraits of ugly people (or just people, made ugly on purpose by careful use of unflattering technique and make-up). When you have exceptional subjects, how hard can it be to take good photos? Now compare this to the art of somebody creating vivid, interesting, poetic images out of the normal everyday life or capturing tiny specks of interestingness from a juxtaposition of sand grains over a floating leaf in the small pond or something crazy like that. Isn’t this the pinnacle of creativity?" />
+
+        <meta property="og:site_name" content="aadm" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="thoughts on photography 1"/>
+        <meta property="og:url" content="http://aadm.github.io/2017-07-11-thoughts-on-photography-1.html"/>
+        <meta property="og:description" content="I think a lot about photography; usually random, incoherent things that I tend to forget (or more often, forget the point I was trying to make). This is an attempt to make some order. A second part is half-written. It may be published sooner or later. portrait photographers Are they really that good? As Bill and Jefferey often say on their show, how hard can it be to take a good photograph of George Clooney or some beautiful model? Why do we refer to Platon, Newton, Leibovitz as some sort of geniuses because they know how to set up lights and get these professionals (whose job is looking good) to look good? Not to mention the make up artists, strobists and whatnot working for them. Basically I think that a good photographer needs to be able to make art with every subject. And I would extend my critique also to those that are on the other side of the spectrum, for example Bruce Gilden and his “Faces” — portraits of ugly people (or just people, made ugly on purpose by careful use of unflattering technique and make-up). When you have exceptional subjects, how hard can it be to take good photos? Now compare this to the art of somebody creating vivid, interesting, poetic images out of the normal everyday life or capturing tiny specks of interestingness from a juxtaposition of sand grains over a floating leaf in the small pond or something crazy like that. Isn’t this the pinnacle of creativity?"/>
+        <meta property="article:published_time" content="2017-07-11" />
+            <meta property="article:section" content="misc" />
+            <meta property="article:tag" content="photo" />
+            <meta property="article:tag" content="notes" />
+            <meta property="article:author" content="Alessandro Amato del Monte" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://aadm.github.io/theme/css/bootstrap.journal.min.css" type="text/css"/>
+    <link href="http://aadm.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://aadm.github.io/theme/css/pygments/tango.css" rel="stylesheet">
+        <link href="http://aadm.github.io/theme/css/typogrify.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://aadm.github.io/theme/css/style.css" type="text/css"/>
+        <link href="http://aadm.github.io/static/custom.css" rel="stylesheet">
+
+        <link href="http://aadm.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="aadm ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://aadm.github.io/" class="navbar-brand">
+aadm            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/blog_index.html">journal</a></li>
+                    <li><a href="/pages/projects.html">projects</a></li>
+                    <li><a href="/pages/about.html">about</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <!-- <li><a href="http://aadm.github.io/blog_index.html"><i class="fa fa-th-list"></i><span class="icon-label">blog</span></a></li> -->
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="http://aadm.github.io/2017-07-11-thoughts-on-photography-1.html"
+                       rel="bookmark"
+                       title="Permalink to thoughts on photography 1">
+                        thoughts on photography&nbsp;1
+                    </a>
+                </h1>
+            </header>
+            <div class="well well-sm">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2017-07-11T00:12:11+02:00"> 11/Jul/2017</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/notes.html">notes</a>
+    
+</footer><!-- /.post-info -->            </div>
+            <div class="entry-content">
+                <p>I think a lot about photography; usually random, incoherent things that I tend to forget (or more often, forget the point I was trying to make). This is an attempt to make some order. A second part is half-written. It may be published sooner or&nbsp;later.</p>
+<h3>portrait&nbsp;photographers</h3>
+<p>Are they really that good? As Bill and Jefferey often say <a href="http://5by5.tv/otp">on their show</a>, how hard can it be to take a good photograph of George Clooney or some beautiful&nbsp;model?</p>
+<p>Why do we refer to Platon, Newton, Leibovitz as some sort of geniuses because they know how to set up lights and get these professionals (whose job is looking good) to look good? Not to mention the make up artists, strobists and whatnot working for&nbsp;them.</p>
+<p>Basically I think that a good photographer needs to be able to make art with every subject. And I would extend my critique also to those that are on the other side of the spectrum, for example Bruce Gilden and his &#8220;Faces&#8221; &#8212; portraits of ugly people (or just people, made ugly on purpose by careful use of unflattering technique and make-up). When you have exceptional subjects, how hard can it be to take good&nbsp;photos?</p>
+<p>Now compare this to the art of somebody creating vivid, interesting, poetic images out of the normal everyday life or capturing tiny specks of interestingness from a juxtaposition of sand grains over a floating leaf in the small pond or something crazy like that. Isn&#8217;t this the pinnacle of&nbsp;creativity?</p>
+
+
+<h3>printing</h3>
+<p>It&#8217;s been almost 3 years since I bought my printer<sup id="fnref:1"><a class="footnote-ref" href="#fn:1" rel="footnote">1</a></sup>.</p>
+<p>What I&#8217;ve learnt is that the images we love to look at on a bright, calibrated, light-emitting monitor are quite different from their printed versions, almost like distant&nbsp;cousins.</p>
+<p>Creating paper copies of your own photographs, having the possibility to refine the output in successive incremental
+adjustments, forced me to understand first of all how different the two media are, i.e. screen and paper. And obviously
+we all know this in theory &#8212; but believe me, the result is quite different when you actually experience it by&nbsp;yourself.</p>
+<p>And it&#8217;s also different from getting the prints done for you by somebody else, e.g. in a lab, because no matter how
+close you are to the lab or how convenient this is, there is no way that you could really play with tiny adjustments if you&#8217;re subcontracting the printing to somebody else, even if this is a &#8220;master printer&#8221;. Imagine you do only a a few touches of dodging or a slight modification of your curves &#8212; this may well be all you need to get that final good rendition of your original vision, the image you had in mind when you first saw it during the shoot. Doing this with somebody else? Photography is way too subjective for that. Get your own opinion and ideas sorted out&nbsp;first.</p>
+<p>The actual process of getting prints done, compare them to what yo see on the screen, is incredibly frustrating but
+rewarding at the same time. it&#8217;s frustrating because no matter how good is your calibration procedure you will never see
+the same colors; I believe it&#8217;s also because a print, you have to look at it under good ambient lighting conditions, for
+example under the good natured, diffused light that comes from a large window during a midsummer afternoon. And your
+computer will be invariably in a much dimmer environment because that&#8217;s what happens if you&#8217;re fastidious  and want to
+minimize glares and reflections on your&nbsp;screen.</p>
+<p>But after a while a new sense of realizations kicks in and you understand how the printed photograph and the adjusted
+raw file you have it on your monitor are really different objects; and despite your best intentions to optimize time and
+economy of the whole business (the myth of a perfectly calibrated workflow that will allow the photographer to spit out
+prints exactly similar to the screen) you start to realize that susseeive iterative adjustmts are needed to get what you
+want.  And at the end it is quite possible that you end up with two final versions: one for screen use the other for
+real life&nbsp;prints.</p>
+<p>The sense of reward now begins to mount as you realize there&#8217;s also so many different kinds of paper, and how different
+the same image looks when printed on matte paper or glossy&nbsp;paper.</p>
+<p>I also start to see flaws that I never saw on the screen, probably distracted by the intensity of the colors due to the
+transmitted light; I was scrutinizing some of my  alentima candids and realize how much craft there was like if I was
+looking at it for the first&nbsp;time.</p>
+<p>And then you really start to finally understand those books, where the subject matter is king and there is no visual
+crutch to make the images stand out, to realize how painstaking it is to see a photographer&#8217;s vision getting a smack
+down from the intensity of the printed&nbsp;matter.</p>
+<h3>what makes a photographer&nbsp;freeze</h3>
+<p>Months ago I read <a href="http://www.theguardian.com/artanddesign/2012/mar/15/photographs-not-taken-photographer-freeze">an interesting article found on The Guardian</a>, which was about the photographs &#8220;not taken&#8221;. And I don&#8217;t know how my twisted mind made this connection, but I expanded my thoughts to include the issue of private photos and if it&#8217;s right or wrong to share them with a community largely made by&nbsp;strangers.</p>
+<p>I have discussed already my <a href="http://aadm.github.io/pages/365-valentina.html">365 project</a> which was about following my little daughter&#8217;s boring/exciting (like Schroedinger&#8217;s cat, it depends on the observer) second year of life. So this was a private project, and sometimes I wondered about whether it was right or wrong to share these photographs<sup id="fnref:sharing"><a class="footnote-ref" href="#fn:sharing" rel="footnote">2</a></sup>. They are all very intimate of course &#8212; which doesn&#8217;t mean naked infant or something but just that these are intimate moments in our family. The way I was doing things. with no other intention than to fill a book that I will give as a present to my daughter when she&#8217;s older, did not stop or slow me down. If I had to take a photograph a day with the intention of showing it in public, I would have been be much more&nbsp;hesitant.</p>
+<p>This is connected, at least in my twisted mind, to the ambivalence that many people have raised between experience and photography; you&#8217;ve all heard the story about going places and <span class="caps">AVOID</span> taking photographs because otherwise you rely on your camera&#8217;s memory instead of yours; or the greater issue of participating in something versus taking photographs of the&nbsp;action.</p>
+<p>I had an interesting conversation with an online acquaintance which went on like&nbsp;this::</p>
+<p><strong>[J]</strong> Alessandro, I struggle with whether or not to share my intimate family photos, too. I think about how we might be watering down our private, personal interactions by sharing them with the world. Thanks for the link to The Guardian article. I tend to err on the side of protecting the sacred moments, putting the camera away, and being <span class="caps">IN</span> the moment instead of recording it.&nbsp;﻿</p>
+<p><strong>[A]</strong>There must be more than just the two of us that put their heart into something and don&#8217;t feel the social pressure to &#8220;share it&#8221;,&nbsp;however.﻿</p>
+<p><strong>[J]</strong> I think that the move towards publicizing everything is a powerful social force&#8230;but I won&#8217;t cave. ;-) I have hundreds of photos of my kids that will never be on <span class="caps">FB</span>. Ever. In fact, I go a step further and keep a lot of my work to myself just because I have an emotional connection to the photo. That might be too stingy of me, I&#8217;m not sure. Have you ever heard of Vivian Maier? She didn&#8217;t feel the need to show her stuff to&nbsp;anybody.</p>
+<p><strong>[A]</strong> Yes I&#8217;ve heard of Vivian Maier (who hasn&#8217;t these days?), and I like her story, the way she was drawn to photography as a thing only for herself, with no desire to share with the world. I would not advocate the same attitude but it&#8217;s important to know that not all photographs need to be instantly shared, and some are better left on its own for a&nbsp;while.</p>
+<h3>observational&nbsp;photographer</h3>
+<p>If someone asks me, what kind of photographer are you, I don&#8217;t have a good answer right&nbsp;away.</p>
+<p>I&#8217;m not a portrait photographer, not a sports or landscape or fashion photographer; I may be mislabelled as a street
+photography kind-of-photographer, but I rarely do black and white which is the signature style to be called that, and
+more importantly I don&#8217;t go prowling the streets with the intent of photographing&nbsp;strangers.</p>
+<p>What I am is an observational photographer; which may be the most stupid and pleonastic definition I could choose, because what is a photographer if not someone who primarily&nbsp;&#8220;observes&#8221;?</p>
+<p>But that definition rings true to me, vaguely recalling the title of a book that I have in my&nbsp;library.</p>
+<p>This entire &#8220;thought&#8221; however sounds so hollow when compared to the much more <a href="http://www.ultrasomething.com/2013/06/roadkill/">interesting and entertaining essay</a> that my personal blogging hero Egor has made around similar&nbsp;themes.</p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Canon Pro-100. Get this one now, they&#8217;re cheap, and spend the rest of the money on good paper and ink.&#160;<a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:sharing">
+<p>Turns out, I ended up <span class="caps">NOT</span> sharing my project, only a few bits here and there.&#160;<a class="footnote-backref" href="#fnref:sharing" rev="footnote" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+            </div>
+            <!-- /.entry-content -->
+<section class="well" id="related-posts">
+    <h4>Related Posts:</h4>
+    <ul>
+        <li><a href="http://aadm.github.io/2014-01-15-networked-photography.html">networked&nbsp;photography</a></li>
+        <li><a href="http://aadm.github.io/2012-10-19-fotografia-ragionata.html">fotografia estemporanea o&nbsp;ragionata</a></li>
+        <li><a href="http://aadm.github.io/essere-giovani-it.html">essere&nbsp;giovani</a></li>
+        <li><a href="http://aadm.github.io/2013-07-25-on-sloppy-street-photographers.html">on sloppy street&nbsp;photographers</a></li>
+        <li><a href="http://aadm.github.io/2012-11-05-wildlife-photographer.html">wildlife photographer of the&nbsp;year</a></li>
+    </ul>
+</section>
+        </article>
+    </section>
+
+    <style type="text/css">
+    #navcontainer ul
+    {
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    }
+    #navcontainer ul li { display: inline; }
+    #navcontainer ul li a { padding: 1em 3em; }
+    </style>
+
+    <div id="navcontainer">
+    <ul id="navlist">
+        <li><a href="http://aadm.github.io/2017-02-19-that-guy-in-cuba.html"><i class="fa fa-angle-left"></i> PREVIOUS</a></li>
+        <li><a href="http://aadm.github.io/2017-07-12-tiny-sequence-of-nothingness.html">NEXT <i class="fa fa-angle-right"></i></a></li>
+    </div>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2005-2017 Alessandro Amato del Monte              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0 International License</a>
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-angle-up"></i> <a href="#">TOP</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://aadm.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://aadm.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://aadm.github.io/theme/js/respond.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-32354823-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+</body>
+</html>
