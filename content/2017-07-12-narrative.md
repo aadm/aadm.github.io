@@ -1,6 +1,6 @@
-Title: tiny sequence of nothingness
+Title: narrative
 Date: 2017-07-12 01:06:08
-Slug: tiny-sequence-of-nothingness
+Slug: narrative
 Tags: photo
 Lang: en
 
