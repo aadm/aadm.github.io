@@ -10,7 +10,7 @@ I was born and raised in Southern Italy and have lived in Gravina, Bari, London,
 
 Please do not steal, manipulate or remix my photos, illustrations and content without my consent. You may link to the site and quote selected text only if you put a a link back to the original content.
 
-You can contact me via Twitter, [@aadmtwi](http://twitter.com/aadmtwi), [Google+](http://plus.google.com/+AlessandroAmatodelMonte/) or through my [flickr account](http://www.flickr.com/photos/aadm/); I also have a randomly updated [instagram feed](http://instagram.com/aadm).
+You can contact me via Twitter, [@aadmtwi](http://twitter.com/aadmtwi), [Google+](http://plus.google.com/+AlessandroAmatodelMonte/) or through my [flickr account](http://www.flickr.com/photos/aadm/). I also have a github account where I maintain [some Python code on geophysics](https://github.com/aadm/geophysical_notes).
 
 Thanks for stopping by.
 
