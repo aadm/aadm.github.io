@@ -37,7 +37,7 @@ FAVICON = 'favicon.png'
 PAGE_URL = 'pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
 INDEX_SAVE_AS = 'blog_index.html'
-NOTEBOOK_DIR = '/Users/aadm/Dropbox/PYTHON/geophysical_notes'
+NOTEBOOK_DIR = '/Users/aadm/GOOGLEDRIVE/PYTHON/geophysical_notes'
 
 MENUITEMS=(
     ('journal','/blog_index.html'),
@@ -107,7 +107,6 @@ CC_LICENSE = 'CC-BY-NC-ND'
 SOCIAL = (('twitter', 'http://twitter.com/aadmtwi'),
           ('github',  'http://github.com/aadm'),
           ('flickr',  'http://www.flickr.com/photos/aadm'),
-          ('instagram',  'http://instagram.com/aadm'),
           ('tumblr',  'http://aadm-fotografia.tumblr.com'),
           ('google+',  'http://plus.google.com/+AlessandroAmatodelMonte'),
           )
