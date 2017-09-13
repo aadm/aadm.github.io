@@ -71,13 +71,9 @@ They are just pretty pictures of Cuba.
 <a href="https://www.flickr.com/photos/aadm/31342492205/" title="2016-05-1620160516_AA38944.jpg"><img src="https://farm6.staticflickr.com/5485/31342492205_8c8b9b65c5_h.jpg" width="800" height="534"></a>
 </figure>
 
-
-
 <figure>
 <a href="https://www.flickr.com/photos/aadm/30973570430/" title="2016-05-1820160518_AA39146.jpg"><img src="https://farm6.staticflickr.com/5780/30973570430_3c967bd785_h.jpg" width="800" height="534"></a>
 </figure>
-
-
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/30973552390/" title="2016-05-1820160518_AA39139.jpg"><img src="https://farm6.staticflickr.com/5810/30973552390_fd81f21819_h.jpg" width="800" height="534"></a>
@@ -86,13 +82,6 @@ They are just pretty pictures of Cuba.
 <figure>
 <a href="https://www.flickr.com/photos/aadm/30520172644/" title="20160518_AA39131.jpg"><img src="https://c1.staticflickr.com/6/5730/30520172644_119b950135_h.jpg" width="800" height="534"></a>
 </figure>
-
-
-<figure>
-<a href="https://www.flickr.com/photos/aadm/30520172644/" title="2016-05-1820160518_AA39131.jpg"><img src="https://farm6.staticflickr.com/5730/30520172644_119b950135_h.jpg" width="800" height="534"></a>
-<figcaption>1/90 sec. at f/4.0, ISO 100, 35 mm (35.0 mm f/1.8, NIKON D600).</figcaption>
-</figure>
-
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/30534946303/" title="2016-05-1820160518_AA39114.jpg"><img src="https://farm6.staticflickr.com/5775/30534946303_c8e4afcee7_h.jpg" width="800" height="534"></a>
