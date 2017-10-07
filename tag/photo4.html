@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>aadm: photo</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+<style type="text/css">
+
+/*some stuff for output/input prompts*/
+div.cell{border:1px solid transparent;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;display:flex;flex-direction:column;align-items:stretch}div.cell.selected{border-radius:4px;border:thin #ababab solid}
+div.cell.edit_mode{border-radius:4px;border:thin #008000 solid}
+div.cell{width:100%;padding:5px 5px 5px 0;margin:0;outline:none}
+div.prompt{min-width:11ex;padding:.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em}
+@media (max-width:480px){div.prompt{text-align:left}}div.inner_cell{display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;display:flex;flex-direction:column;align-items:stretch;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;flex:1}
+div.input_area{border:1px solid #cfcfcf;border-radius:4px;background:#f7f7f7;line-height:1.21429em}
+div.prompt:empty{padding-top:0;padding-bottom:0}
+div.input{page-break-inside:avoid;display:-webkit-box;-webkit-box-orient:horizontal;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:horizontal;-moz-box-align:stretch;display:box;box-orient:horizontal;box-align:stretch;}
+div.inner_cell{width:90%;}
+div.input_area{border:1px solid #cfcfcf;border-radius:4px;background:#f7f7f7;}
+div.input_prompt{color:navy;border-top:1px solid transparent;}
+div.output_wrapper{margin-top:5px;position:relative;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;width:100%;}
+div.output_scroll{height:24em;width:100%;overflow:auto;border-radius:4px;-webkit-box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);-moz-box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);}
+div.output_collapsed{margin:0px;padding:0px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;width:100%;}
+div.out_prompt_overlay{height:100%;padding:0px 0.4em;position:absolute;border-radius:4px;}
+div.out_prompt_overlay:hover{-webkit-box-shadow:inset 0 0 1px #000000;-moz-box-shadow:inset 0 0 1px #000000;box-shadow:inset 0 0 1px #000000;background:rgba(240, 240, 240, 0.5);}
+div.output_prompt{color:darkred;}
+
+a.anchor-link:link{text-decoration:none;padding:0px 20px;visibility:hidden;}
+h1:hover .anchor-link,h2:hover .anchor-link,h3:hover .anchor-link,h4:hover .anchor-link,h5:hover .anchor-link,h6:hover .anchor-link{visibility:visible;}
+/* end stuff for output/input prompts*/
+
+
+.highlight-ipynb .hll { background-color: #ffffcc }
+.highlight-ipynb  { background: #f8f8f8; }
+.highlight-ipynb .c { color: #408080; font-style: italic } /* Comment */
+.highlight-ipynb .err { border: 1px solid #FF0000 } /* Error */
+.highlight-ipynb .k { color: #008000; font-weight: bold } /* Keyword */
+.highlight-ipynb .o { color: #666666 } /* Operator */
+.highlight-ipynb .cm { color: #408080; font-style: italic } /* Comment.Multiline */
+.highlight-ipynb .cp { color: #BC7A00 } /* Comment.Preproc */
+.highlight-ipynb .c1 { color: #408080; font-style: italic } /* Comment.Single */
+.highlight-ipynb .cs { color: #408080; font-style: italic } /* Comment.Special */
+.highlight-ipynb .gd { color: #A00000 } /* Generic.Deleted */
+.highlight-ipynb .ge { font-style: italic } /* Generic.Emph */
+.highlight-ipynb .gr { color: #FF0000 } /* Generic.Error */
+.highlight-ipynb .gh { color: #000080; font-weight: bold } /* Generic.Heading */
+.highlight-ipynb .gi { color: #00A000 } /* Generic.Inserted */
+.highlight-ipynb .go { color: #888888 } /* Generic.Output */
+.highlight-ipynb .gp { color: #000080; font-weight: bold } /* Generic.Prompt */
+.highlight-ipynb .gs { font-weight: bold } /* Generic.Strong */
+.highlight-ipynb .gu { color: #800080; font-weight: bold } /* Generic.Subheading */
+.highlight-ipynb .gt { color: #0044DD } /* Generic.Traceback */
+.highlight-ipynb .kc { color: #008000; font-weight: bold } /* Keyword.Constant */
+.highlight-ipynb .kd { color: #008000; font-weight: bold } /* Keyword.Declaration */
+.highlight-ipynb .kn { color: #008000; font-weight: bold } /* Keyword.Namespace */
+.highlight-ipynb .kp { color: #008000 } /* Keyword.Pseudo */
+.highlight-ipynb .kr { color: #008000; font-weight: bold } /* Keyword.Reserved */
+.highlight-ipynb .kt { color: #B00040 } /* Keyword.Type */
+.highlight-ipynb .m { color: #666666 } /* Literal.Number */
+.highlight-ipynb .s { color: #BA2121 } /* Literal.String */
+.highlight-ipynb .na { color: #7D9029 } /* Name.Attribute */
+.highlight-ipynb .nb { color: #008000 } /* Name.Builtin */
+.highlight-ipynb .nc { color: #0000FF; font-weight: bold } /* Name.Class */
+.highlight-ipynb .no { color: #880000 } /* Name.Constant */
+.highlight-ipynb .nd { color: #AA22FF } /* Name.Decorator */
+.highlight-ipynb .ni { color: #999999; font-weight: bold } /* Name.Entity */
+.highlight-ipynb .ne { color: #D2413A; font-weight: bold } /* Name.Exception */
+.highlight-ipynb .nf { color: #0000FF } /* Name.Function */
+.highlight-ipynb .nl { color: #A0A000 } /* Name.Label */
+.highlight-ipynb .nn { color: #0000FF; font-weight: bold } /* Name.Namespace */
+.highlight-ipynb .nt { color: #008000; font-weight: bold } /* Name.Tag */
+.highlight-ipynb .nv { color: #19177C } /* Name.Variable */
+.highlight-ipynb .ow { color: #AA22FF; font-weight: bold } /* Operator.Word */
+.highlight-ipynb .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight-ipynb .mf { color: #666666 } /* Literal.Number.Float */
+.highlight-ipynb .mh { color: #666666 } /* Literal.Number.Hex */
+.highlight-ipynb .mi { color: #666666 } /* Literal.Number.Integer */
+.highlight-ipynb .mo { color: #666666 } /* Literal.Number.Oct */
+.highlight-ipynb .sb { color: #BA2121 } /* Literal.String.Backtick */
+.highlight-ipynb .sc { color: #BA2121 } /* Literal.String.Char */
+.highlight-ipynb .sd { color: #BA2121; font-style: italic } /* Literal.String.Doc */
+.highlight-ipynb .s2 { color: #BA2121 } /* Literal.String.Double */
+.highlight-ipynb .se { color: #BB6622; font-weight: bold } /* Literal.String.Escape */
+.highlight-ipynb .sh { color: #BA2121 } /* Literal.String.Heredoc */
+.highlight-ipynb .si { color: #BB6688; font-weight: bold } /* Literal.String.Interpol */
+.highlight-ipynb .sx { color: #008000 } /* Literal.String.Other */
+.highlight-ipynb .sr { color: #BB6688 } /* Literal.String.Regex */
+.highlight-ipynb .s1 { color: #BA2121 } /* Literal.String.Single */
+.highlight-ipynb .ss { color: #19177C } /* Literal.String.Symbol */
+.highlight-ipynb .bp { color: #008000 } /* Name.Builtin.Pseudo */
+.highlight-ipynb .vc { color: #19177C } /* Name.Variable.Class */
+.highlight-ipynb .vg { color: #19177C } /* Name.Variable.Global */
+.highlight-ipynb .vi { color: #19177C } /* Name.Variable.Instance */
+.highlight-ipynb .il { color: #666666 } /* Literal.Number.Integer.Long */
+</style>
+
+<style type="text/css">
+/* Overrides of notebook CSS for static HTML export */
+div.entry-content {
+  overflow: visible;
+  padding: 8px;
+}
+.input_area {
+  padding: 0.2em;
+}
+
+a.heading-anchor {
+ white-space: normal;
+}
+
+.rendered_html
+code {
+ font-size: .8em;
+}
+
+pre.ipynb {
+  color: black;
+  background: #f7f7f7;
+  border: none;
+  box-shadow: none;
+  margin-bottom: 0;
+  padding: 0;
+  margin: 0px;
+  font-size: 13px;
+}
+
+/* remove the prompt div from text cells */
+div.text_cell .prompt {
+    display: none;
+}
+
+/* remove horizontal padding from text cells, */
+/* so it aligns with outer body text */
+div.text_cell_render {
+    padding: 0.5em 0em;
+}
+
+img.anim_icon{padding:0; border:0; vertical-align:middle; -webkit-box-shadow:none; -box-shadow:none}
+</style>
+
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+<script type="text/javascript">
+init_mathjax = function() {
+    if (window.MathJax) {
+        // MathJax loaded
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+            },
+            displayAlign: 'left', // Change this to 'center' to center equations.
+            "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}}
+            }
+        });
+        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+    }
+}
+init_mathjax();
+</script>
+    <link href="http://aadm.github.io/favicon.png" rel="icon">
+
+
+    <meta name="author" content="Alessandro Amato del Monte" />
+    <meta name="keywords" content="photo" />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="aadm" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="aadm"/>
+        <meta property="og:url" content="http://aadm.github.io"/>
+        <meta property="og:description" content="aadm"/>
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://aadm.github.io/theme/css/bootstrap.journal.min.css" type="text/css"/>
+    <link href="http://aadm.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://aadm.github.io/theme/css/pygments/tango.css" rel="stylesheet">
+        <link href="http://aadm.github.io/theme/css/typogrify.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://aadm.github.io/theme/css/style.css" type="text/css"/>
+        <link href="http://aadm.github.io/static/custom.css" rel="stylesheet">
+
+        <link href="http://aadm.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="aadm ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://aadm.github.io/" class="navbar-brand">
+aadm            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/blog_index.html">journal</a></li>
+                    <li><a href="/pages/projects.html">projects</a></li>
+                    <li><a href="/pages/about.html">about</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <!-- <li><a href="http://aadm.github.io/blog_index.html"><i class="fa fa-th-list"></i><span class="icon-label">blog</span></a></li> -->
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+
+    <a href="http://aadm.github.io/archives.html">archives</a> / <a href="http://aadm.github.io/tags.html">tags</a>
+    <p>
+
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-11-15-weekly-snaps-10.html">weekly snaps&nbsp;10</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-11-15T00:00:00+01:00"> 15/Nov/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>It just happened that all the past &#8220;weekly snaps&#8221; have featured photos linked by some sort of thread or connection. But my original idea was to collect random shots <a href="./2012-07-10-weekly-snaps-1.html">as I wrote at the beginning</a>.</p>
+<p>So today I was resolved in finding a few shots that I liked, with nothing to link them; I went from folder to folder in …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-11-15-weekly-snaps-10.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-11-13-elba.html">elba</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-11-13T00:00:00+01:00"> 13/Nov/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/cycling.html">cycling</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p><a href="http://www.flickr.com/photos/aadm/7511101410/" title="_D7K4430 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8427/7511101410_fe33ccb4b5_z.jpg" width="640" height="424" alt="_D7K4430"></a></p>
+<p>June 2012, my wife Giulia is 7 months pregnant and we&#8217;re having our last holiday together, before the baby comes and wipes clean our current life<sup id="fnref-nota-babycomes"><a class="footnote-ref" href="#fn-nota-babycomes">1</a></sup>.</p>
+<p>We drive our van to Elba, a beatiful island off the coast of Tuscany, just before the hoards of tourists take over the whole place. We spend these 7 days camping in …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-11-13-elba.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-11-05-weekly-snaps-9.html">weekly snaps&nbsp;9</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-11-05T00:00:00+01:00"> 05/Nov/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>I have been doing some experiments with this &#8220;stitching-bokeh&#8221; method; a neat idea to get the look of a medium-format camera but it takes too much computer work to get a good result; this is one of my attempts, definetely <a href="http://www.ryanbrenizer.com/category/brenizer-method/">not as flashy as Brenizer&#8217;s</a>, and I am pretty sure only a minimal percentage of viewers would spot something …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-11-05-weekly-snaps-9.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-11-05-wildlife-photographer.html">wildlife photographer of the&nbsp;year</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-11-05T00:00:00+01:00"> 05/Nov/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/quote.html">quote</a>
+        /
+	<a href="http://aadm.github.io/tag/notes.html">notes</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>Si tratta probabilmente dell&#8217;unica mostra a cui vado volentieri. È <a href="http://www.wpymilano.it/">a Milano fino al 18 dicembre</a>, ed è scontato consigliarlo a tutti gli appassionati di&nbsp;fotografia. </p>
+<p>Rispetto all&#8217;edizione del 2009 che vidi a Londra, le foto qui sono stampate e non visualizzate su pannelli <span class="caps">LCD</span> retroilluminati; all&#8217;epoca mi colpì molto la resa su questi schermi retroilluminati (non …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-11-05-wildlife-photographer.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-10-19-fotografia-ragionata.html">fotografia estemporanea o&nbsp;ragionata</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-10-19T00:00:00+02:00"> 19/Oct/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/notes.html">notes</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>Qualche tempo fa cercavo uno sfogo per la mia fotografia. L&#8217;ho trovato pubblicando i miei <a href="tags.html#weekly%20snaps-ref">weekly snaps</a>; collezioni atematiche di fotografie scattate in diverse condizioni temporali, geografiche ed emozionali. O, evitando il pretenzioso vocabolario da pseudo artista e usando parole più terra terra, raccolta di foto prese un po&#8217; a casaccio dai miei&nbsp;archivi.</p>
+<p>In questi post periodici mostro …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-10-19-fotografia-ragionata.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-10-13-berkeley.html">berkeley</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-10-13T00:00:00+02:00"> 13/Oct/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>Simili ma non uguali. Questo è quello che tiravamo fuori io e Dylan bighellonando per Berkeley un paio di settimane&nbsp;fa.</p>
+<p>Dylan ed io abbiamo lavorato assieme per quattro anni a Londra, e siamo diventati amici. Siamo rientrati in Italia quasi contemporaneamente ma io a Milano, lui a Trento. E la fotografia Dylan l&#8217;ha scoperta dopo il suo rientro …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-10-13-berkeley.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-10-12-olympus-cap-lens.html">olympus c(r)ap&nbsp;lens</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-10-12T00:00:00+02:00"> 12/Oct/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/gear.html">gear</a>
+        /
+	<a href="http://aadm.github.io/tag/links.html">links</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>It might be quirky and it might be cool but I would argue this is something which should not appeal to anybody apart from facebook&nbsp;photographers.</p>
+<p>I&#8217;m talking about the <a href="http://www.petapixel.com/2012/10/11/photographs-shot-using-olympus-quirky-15mm-body-cap-lens">15mm Olympus body c(r)ap lens</a>.</p>
+<p>The reasons are&nbsp;two:</p>
+<ol>
+<li>judging from the shots which you can see <a href="http://www.flickr.com/photos/an_aussie_in_guernsey/sets/72157631683828773/with/8071749336/">here</a> the quality is abysmal. But you have to look …</li></ol>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-10-12-olympus-cap-lens.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-10-11-weekly-snaps-8.html">weekly snaps&nbsp;8</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-10-11T00:00:00+02:00"> 11/Oct/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>Special edition today, featuring only iPhone&nbsp;photos.</p>
+<p><a href="http://www.flickr.com/photos/aadm/8013670579/" title="IMG_3546 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8446/8013670579_7e694da9bb_z.jpg" width="640" height="640" alt="IMG_3546"></a>
+<center><i>Tiles, Parma. iPhone 4S, Instagram.</i></center></p>
+<p><a href="http://www.flickr.com/photos/aadm/8013662123/" title="IMG_5288 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8321/8013662123_2b2b64f98b_z.jpg" width="640" height="480" alt="IMG_5288"></a>
+<center><i>Morning breakfast. iPhone 4S, Snapseed.</i></center></p>
+<p><a href="http://www.flickr.com/photos/aadm/8013667015/" title="IMG_5192 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8439/8013667015_989effe34c_z.jpg" width="480" height="640" alt="IMG_5192"></a>
+<center><i>Haunted house #1, Boschi di Carrega, Sala Baganza (<span class="caps">PR</span>). iPhone 4S, Snapseed.</i></center></p>
+<p><a href="http://www.flickr.com/photos/aadm/8013671710/" title="IMG_5190 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8315/8013671710_d982a6e5a6_z.jpg" width="640" height="480" alt="IMG_5190"></a>
+<center><i>Haunted house #2, Boschi di Carrega, Sala Baganza (<span class="caps">PR</span>). iPhone 4S, Snapseed.</i></center></p>
+<p><a href="http://www.flickr.com/photos/aadm/8013672306/" title="IMG_3976 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8456/8013672306_4a08fe3894_z.jpg" width="640" height="640" alt="IMG_3976"></a>
+<center><i>Stefano. iPhone 4S, Instagram.</i></center></p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-10-11-weekly-snaps-8.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-09-22-weekly-snaps-7.html">weekly snaps&nbsp;7</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-09-22T00:00:00+02:00"> 22/Sep/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>Random photos this time. Some are very old, and I can&#8217;t even recall which lens I used. The last two are reminders that today was Giulia&#8217;s birthday (and this year there was nothing really which could compete with that special gift we&#8217;re enjoying together since <a href="http://aadm.github.com/2012-08-04-valentina.html">the 4th of August</a>).</p>
+<p><a href="http://www.flickr.com/photos/aadm/8013660302/" title="Lulworth_Cove_1 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8296/8013660302_c2b97b5aa1_z.jpg" width="640" height="419" alt="Lulworth_Cove_1"></a>
+<center><i>Lulworth Cove (<span class="caps">UK</span>). Nikon F70, 35mm f2(?), Kodak …</i></center></p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-09-22-weekly-snaps-7.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-09-21-thoughts-on-d7000.html">thoughts on&nbsp;d7000</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-09-21T00:00:00+02:00"> 21/Sep/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/gear.html">gear</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>It&#8217;s almost a year now that I have the Nikon D7000. It&#8217;s time to write something up about this&nbsp;camera.</p>
+<p>I arrived at the Nikon D7000 after a long apprenticeship. I started with a Yashica <span class="caps">FX</span>-3 and its 50mm f/1.8, then I moved to a Nikon F70 (we&#8217;re still in the ancient film era). After a few crappy compact digital cameras (and one less crappy than others, the Canon G5) I got my first <span class="caps">DSLR</span> (a Nikon D70s) which was excellent <a href="http://aadm.github.io/2010-08-19-my-next-camera.html">until it broke down</a>.</p>
+<p>Since I was always traveling and hiking and biking I wanted a smaller camera so I bought a <a href="http://aadm.github.io/2010-09-11-it-was-unintentional.html">Panasonic <span class="caps">GF</span>-1</a> that I <a href="http://aadm.github.io/2012-07-31-panasonic-gf1-late-review.html">still have</a> (and will keep for many more years to come; it&#8217;s still much better than any compact camera and only marginally&nbsp;larger).</p>
+
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-09-21-thoughts-on-d7000.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-09-14-weekly-snaps-6.html">weekly snaps&nbsp;6</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-09-14T00:00:00+02:00"> 14/Sep/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>I did a few experiments with the camera over the past two weekends. Thought to share a few pictures here, even if they are not particularly inspired shots. But if you&#8217;re trying to find how damn good is the D7000 sensor, just look at the green tomato&nbsp;shot.</p>
+<p>All shots taken at &#8220;Il Montale&#8221;, Sala Baganza (Parma), with my …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-09-14-weekly-snaps-6.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-09-08-24h-finale-ligure.html">24h finale&nbsp;ligure</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-09-08T00:00:00+02:00"> 08/Sep/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/cycling.html">cycling</a>
+        /
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p><a href="http://www.flickr.com/photos/aadm/7948006568/" title="_D7K4072 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8180/7948006568_16b75808b4_z.jpg" width="640" height="360" alt="_D7K4072"></a></p>
+<p>Quando andavo in moto mi hanno sempre appassionato le gare di endurance; 6 ore di Sebring, 24 ore di Les Mans, fari nella lunga notte, tutte cose che mi&nbsp;affascinavano.</p>
+<p>Ho smesso di andare in moto ma le gare di durata non hanno mai smesso di attirarmi.  E quest&#8217;anno sono stato trascinato da Stefano a fare una 24 ore …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-09-08-24h-finale-ligure.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-09-05-rosamarina.html">rosamarina</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-09-05T00:00:00+02:00"> 05/Sep/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p><a href="http://www.flickr.com/photos/aadm/7932916442/" title="_D7K6342 Portra 160 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8319/7932916442_761bdee835_z.jpg" width="640" height="424" alt="_D7K6342 Portra 160"></a></p>
+<p>I find it difficult to take interesting/compelling/creative photos of familiar places. So what I did this time was just to take random snaps, without thinking too much, without trying to sample all the possible aspects of a&nbsp;place.</p>
+<p>They may not show what the true Rosamarina is: to do that, I should have taken photos&nbsp;of:</p>
+<ul>
+<li>all the …</li></ul>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-09-05-rosamarina.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-08-31-weekly-snaps-5.html">weekly snaps&nbsp;5</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-08-31T00:00:00+02:00"> 31/Aug/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>I haven&#8217;t been able to publish these &#8216;weekly snaps&#8217; for the past three weeks, but here I am with number 5; this time I&#8217;ll start off with a couple of cliché&nbsp;photos.</p>
+<p><a href="http://www.flickr.com/photos/aadm/7847529376/" title="_D7K5243 - Version 2 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8422/7847529376_ef76fd169c_z.jpg" width="640" height="427" alt="_D7K5243 - Version 2"></a>
+<em><a href="http://parchi.parma.it/page.asp?IDCategoria=272">Boschi di Carrega</a>, Parma. Nikon D7000, 35mm f/1.8G; f/4 and 1/800s. Shooting something new in the woods is incredibly frustrating, unless you …</em></p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-08-31-weekly-snaps-5.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-08-08-weekly-snaps-4.html">weekly snaps&nbsp;4</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-08-08T00:00:00+02:00"> 08/Aug/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>This week&#8217;s post has been delayed by some <a href="http://aadm.github.com/2012-08-04-valentina.html">very expected news</a>.</p>
+<p>I&#8217;ll start off with two variations of a similar photo I published in <a href="http://aadm.github.com/2012-07-27-weekly-snaps-3.html">Weekly snaps #3</a>; the first is a classical black and white, the second a slightly toned black and&nbsp;white.</p>
+<p>Then I have three photos which were the first ones shot with the Nikon D7000 …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-08-08-weekly-snaps-4.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-08-04-valentina.html">valentina</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-08-04T00:00:00+02:00"> 04/Aug/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/personal.html">personal</a>
+        /
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>Fatemi lasciare un segnalibro in questa data, perché Valentina è nata oggi, 4 agosto&nbsp;2012.</p>
+<p><a href="http://www.flickr.com/photos/aadm/7847295150/" title="IMG_5011 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7117/7847295150_3cacca4c4f_z.jpg" width="640" height="640" alt="IMG_5011"></a></p>
+<h2>di&nbsp;getto</h2>
+<p>uscire dall&#8217;ospedale, rientrare a casa con Giulia e la bambina e pensare che d&#8217;ora in avanti ci sarà sempre una terza persona in&nbsp;casa.</p>
+<p>incantarsi davanti al suo visino, ingobbirsi per starle vicino; annusarla, sentire il suo&nbsp;odore.</p>
+<p>non essere più …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-08-04-valentina.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-07-31-panasonic-gf1-late-review.html">panasonic <span class="caps">GF1</span> late&nbsp;review</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-07-31T00:00:00+02:00"> 31/Jul/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+        /
+	<a href="http://aadm.github.io/tag/gear.html">gear</a>
+    <span class="label label-default">Lang</span>
+	<a href="http://aadm.github.io/panasonic-gf1-late-review-it.html">it</a>
+
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>It&#8217;s been quite some time now that I have <a href="http://aadm.github.io/2012-09-21-thoughts-on-d7000.html">gone back to DSLRs</a>, but the little Panasonic <span class="caps">GF1</span> is still a constant presence in my backpack. In the meantime, Panasonic has churned out countless other iterations on the same micro four/thirds concept; but to me it has somehow watered down the concept and only the latest one (<span class="caps">GX1</span>) seems to be the true successor of the <span class="caps">GF1</span>.</p>
+<p>I think it&#8217;s only appropriate to post now a few words on my <span class="caps">GF1</span>; I know, it is indeed a very late review<sup id="fnref-nota-fuori-tempo"><a class="footnote-ref" href="#fn-nota-fuori-tempo">1</a></sup> but it could be of some interest to cheapskates that are looking for a nice and little second-hand camera (or maybe convince those of you affected by <span class="caps">GAS</span><sup id="fnref-gas"><a class="footnote-ref" href="#fn-gas">2</a></sup> that the <span class="caps">GF1</span> is still &#8220;good&nbsp;enough&#8221;)</p>
+
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-07-31-panasonic-gf1-late-review.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-07-27-weekly-snaps-3.html">weekly snaps&nbsp;3</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-07-27T00:00:00+02:00"> 27/Jul/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>This week, moody&nbsp;skies.</p>
+<p>All shots taken with a Nikon D7000 during last weekend&#8217;s walks in and around town with Giulia. I wanted to add &#8220;all shots were minimally processed except for <em>that one</em>&#8221; but the reality<sup id="fnref-1"><a class="footnote-ref" href="#fn-1">1</a></sup> is that I used also some dodge and burn, at least one curve adjustment and several other little tweaks. As <a href="http://www.laroquephoto.com/blog/2012/7/19/seeing-mono.html">somebody …</a></p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-07-27-weekly-snaps-3.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-07-26-talking-photography.html">talking&nbsp;photography</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-07-26T00:00:00+02:00"> 26/Jul/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/links.html">links</a>
+        /
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>There are still pearls to be found on the internet, <a href="http://aadm.github.com/2012-06-02-these-tech-writers-invettiva.html">after all</a>.</p>
+<p>In these days I have found three photography blogs which are full of interesting and well written articles; stimulating, instructive, much better of the crap that Popular Photography publishes (and I&#8217;m not even mentioning the countless websites and blogs of pixel-peepers and technology&nbsp;feticists).</p>
+<p>Worth bookmarking them …</p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-07-26-talking-photography.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+            <article>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h2><a href="http://aadm.github.io/2012-07-19-weekly-snaps-2.html">weekly snaps&nbsp;2</a></h2>
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-07-19T00:00:00+02:00"> 19/Jul/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/photo.html">photo</a>
+    
+</footer><!-- /.post-info -->                  </div>
+                  <div class="panel-body">
+                      <div class="summary"><p>This week a few pictures taken during a lazy Sunday in Ziano Piacentino. Good wine there, and a first experience using an old manual focus Nikkor 85mm f/1.8 which I had modified to <span class="caps">AI</span>-S to use it on my&nbsp;D7000.</p>
+<p><a href="http://www.flickr.com/photos/aadm/7600000200/" title="_D7K3221 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7250/7600000200_23b7746341_z.jpg" width="424" height="640" alt="_D7K3221"></a></p>
+<p><a href="http://www.flickr.com/photos/aadm/7600018256/" title="_D7K3223 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7126/7600018256_6498a32eb1_z.jpg" width="640" height="424" alt="_D7K3223"></a></p>
+<p><a href="http://www.flickr.com/photos/aadm/7600028908/" title="_D7K3228 by aadm, on Flickr"><img src="http://farm8.staticflickr.com/7111/7600028908_d3c6a8a0ab_z.jpg" width="640" height="424" alt="_D7K3228"></a></p>
+<p><a href="http://www.flickr.com/photos/aadm/7600039020/" title="_D7K3238 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8016/7600039020_f902c885af_z.jpg" width="640" height="640" alt="_D7K3238"></a></p>
+<p><em>Ok, so this one was obviously not taken with the 85mm but with my Tokina 12-24&nbsp;f …</em></p>
+                          <a class="btn btn-default btn-xs" href="http://aadm.github.io/2012-07-19-weekly-snaps-2.html">more ...</a>
+                      </div>
+                  </div>
+                </div>
+
+        <ul class="pagination">
+                <li class="prev"><a href="http://aadm.github.io/tag/photo3.html">&laquo;</a>
+                </li>
+                    <li class=""><a
+                            href="http://aadm.github.io/tag/photo.html">1</a></li>
+                    <li class=""><a
+                            href="http://aadm.github.io/tag/photo2.html">2</a></li>
+                    <li class=""><a
+                            href="http://aadm.github.io/tag/photo3.html">3</a></li>
+                    <li class="active"><a
+                            href="http://aadm.github.io/tag/photo4.html">4</a></li>
+                    <li class=""><a
+                            href="http://aadm.github.io/tag/photo5.html">5</a></li>
+                    <li class=""><a
+                            href="http://aadm.github.io/tag/photo6.html">6</a></li>
+                <li class="next"><a
+                        href="http://aadm.github.io/tag/photo5.html">&raquo;</a></li>
+        </ul>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2005-2017 Alessandro Amato del Monte              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0 International License</a>
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-angle-up"></i> <a href="#">TOP</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://aadm.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://aadm.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://aadm.github.io/theme/js/respond.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-32354823-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+</body>
+</html>

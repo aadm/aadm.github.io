@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>aadm: moving to github</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+<style type="text/css">
+
+/*some stuff for output/input prompts*/
+div.cell{border:1px solid transparent;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;display:flex;flex-direction:column;align-items:stretch}div.cell.selected{border-radius:4px;border:thin #ababab solid}
+div.cell.edit_mode{border-radius:4px;border:thin #008000 solid}
+div.cell{width:100%;padding:5px 5px 5px 0;margin:0;outline:none}
+div.prompt{min-width:11ex;padding:.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em}
+@media (max-width:480px){div.prompt{text-align:left}}div.inner_cell{display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;display:flex;flex-direction:column;align-items:stretch;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;flex:1}
+div.input_area{border:1px solid #cfcfcf;border-radius:4px;background:#f7f7f7;line-height:1.21429em}
+div.prompt:empty{padding-top:0;padding-bottom:0}
+div.input{page-break-inside:avoid;display:-webkit-box;-webkit-box-orient:horizontal;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:horizontal;-moz-box-align:stretch;display:box;box-orient:horizontal;box-align:stretch;}
+div.inner_cell{width:90%;}
+div.input_area{border:1px solid #cfcfcf;border-radius:4px;background:#f7f7f7;}
+div.input_prompt{color:navy;border-top:1px solid transparent;}
+div.output_wrapper{margin-top:5px;position:relative;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;width:100%;}
+div.output_scroll{height:24em;width:100%;overflow:auto;border-radius:4px;-webkit-box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);-moz-box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.8);}
+div.output_collapsed{margin:0px;padding:0px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-box-align:stretch;display:-moz-box;-moz-box-orient:vertical;-moz-box-align:stretch;display:box;box-orient:vertical;box-align:stretch;width:100%;}
+div.out_prompt_overlay{height:100%;padding:0px 0.4em;position:absolute;border-radius:4px;}
+div.out_prompt_overlay:hover{-webkit-box-shadow:inset 0 0 1px #000000;-moz-box-shadow:inset 0 0 1px #000000;box-shadow:inset 0 0 1px #000000;background:rgba(240, 240, 240, 0.5);}
+div.output_prompt{color:darkred;}
+
+a.anchor-link:link{text-decoration:none;padding:0px 20px;visibility:hidden;}
+h1:hover .anchor-link,h2:hover .anchor-link,h3:hover .anchor-link,h4:hover .anchor-link,h5:hover .anchor-link,h6:hover .anchor-link{visibility:visible;}
+/* end stuff for output/input prompts*/
+
+
+.highlight-ipynb .hll { background-color: #ffffcc }
+.highlight-ipynb  { background: #f8f8f8; }
+.highlight-ipynb .c { color: #408080; font-style: italic } /* Comment */
+.highlight-ipynb .err { border: 1px solid #FF0000 } /* Error */
+.highlight-ipynb .k { color: #008000; font-weight: bold } /* Keyword */
+.highlight-ipynb .o { color: #666666 } /* Operator */
+.highlight-ipynb .cm { color: #408080; font-style: italic } /* Comment.Multiline */
+.highlight-ipynb .cp { color: #BC7A00 } /* Comment.Preproc */
+.highlight-ipynb .c1 { color: #408080; font-style: italic } /* Comment.Single */
+.highlight-ipynb .cs { color: #408080; font-style: italic } /* Comment.Special */
+.highlight-ipynb .gd { color: #A00000 } /* Generic.Deleted */
+.highlight-ipynb .ge { font-style: italic } /* Generic.Emph */
+.highlight-ipynb .gr { color: #FF0000 } /* Generic.Error */
+.highlight-ipynb .gh { color: #000080; font-weight: bold } /* Generic.Heading */
+.highlight-ipynb .gi { color: #00A000 } /* Generic.Inserted */
+.highlight-ipynb .go { color: #888888 } /* Generic.Output */
+.highlight-ipynb .gp { color: #000080; font-weight: bold } /* Generic.Prompt */
+.highlight-ipynb .gs { font-weight: bold } /* Generic.Strong */
+.highlight-ipynb .gu { color: #800080; font-weight: bold } /* Generic.Subheading */
+.highlight-ipynb .gt { color: #0044DD } /* Generic.Traceback */
+.highlight-ipynb .kc { color: #008000; font-weight: bold } /* Keyword.Constant */
+.highlight-ipynb .kd { color: #008000; font-weight: bold } /* Keyword.Declaration */
+.highlight-ipynb .kn { color: #008000; font-weight: bold } /* Keyword.Namespace */
+.highlight-ipynb .kp { color: #008000 } /* Keyword.Pseudo */
+.highlight-ipynb .kr { color: #008000; font-weight: bold } /* Keyword.Reserved */
+.highlight-ipynb .kt { color: #B00040 } /* Keyword.Type */
+.highlight-ipynb .m { color: #666666 } /* Literal.Number */
+.highlight-ipynb .s { color: #BA2121 } /* Literal.String */
+.highlight-ipynb .na { color: #7D9029 } /* Name.Attribute */
+.highlight-ipynb .nb { color: #008000 } /* Name.Builtin */
+.highlight-ipynb .nc { color: #0000FF; font-weight: bold } /* Name.Class */
+.highlight-ipynb .no { color: #880000 } /* Name.Constant */
+.highlight-ipynb .nd { color: #AA22FF } /* Name.Decorator */
+.highlight-ipynb .ni { color: #999999; font-weight: bold } /* Name.Entity */
+.highlight-ipynb .ne { color: #D2413A; font-weight: bold } /* Name.Exception */
+.highlight-ipynb .nf { color: #0000FF } /* Name.Function */
+.highlight-ipynb .nl { color: #A0A000 } /* Name.Label */
+.highlight-ipynb .nn { color: #0000FF; font-weight: bold } /* Name.Namespace */
+.highlight-ipynb .nt { color: #008000; font-weight: bold } /* Name.Tag */
+.highlight-ipynb .nv { color: #19177C } /* Name.Variable */
+.highlight-ipynb .ow { color: #AA22FF; font-weight: bold } /* Operator.Word */
+.highlight-ipynb .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight-ipynb .mf { color: #666666 } /* Literal.Number.Float */
+.highlight-ipynb .mh { color: #666666 } /* Literal.Number.Hex */
+.highlight-ipynb .mi { color: #666666 } /* Literal.Number.Integer */
+.highlight-ipynb .mo { color: #666666 } /* Literal.Number.Oct */
+.highlight-ipynb .sb { color: #BA2121 } /* Literal.String.Backtick */
+.highlight-ipynb .sc { color: #BA2121 } /* Literal.String.Char */
+.highlight-ipynb .sd { color: #BA2121; font-style: italic } /* Literal.String.Doc */
+.highlight-ipynb .s2 { color: #BA2121 } /* Literal.String.Double */
+.highlight-ipynb .se { color: #BB6622; font-weight: bold } /* Literal.String.Escape */
+.highlight-ipynb .sh { color: #BA2121 } /* Literal.String.Heredoc */
+.highlight-ipynb .si { color: #BB6688; font-weight: bold } /* Literal.String.Interpol */
+.highlight-ipynb .sx { color: #008000 } /* Literal.String.Other */
+.highlight-ipynb .sr { color: #BB6688 } /* Literal.String.Regex */
+.highlight-ipynb .s1 { color: #BA2121 } /* Literal.String.Single */
+.highlight-ipynb .ss { color: #19177C } /* Literal.String.Symbol */
+.highlight-ipynb .bp { color: #008000 } /* Name.Builtin.Pseudo */
+.highlight-ipynb .vc { color: #19177C } /* Name.Variable.Class */
+.highlight-ipynb .vg { color: #19177C } /* Name.Variable.Global */
+.highlight-ipynb .vi { color: #19177C } /* Name.Variable.Instance */
+.highlight-ipynb .il { color: #666666 } /* Literal.Number.Integer.Long */
+</style>
+
+<style type="text/css">
+/* Overrides of notebook CSS for static HTML export */
+div.entry-content {
+  overflow: visible;
+  padding: 8px;
+}
+.input_area {
+  padding: 0.2em;
+}
+
+a.heading-anchor {
+ white-space: normal;
+}
+
+.rendered_html
+code {
+ font-size: .8em;
+}
+
+pre.ipynb {
+  color: black;
+  background: #f7f7f7;
+  border: none;
+  box-shadow: none;
+  margin-bottom: 0;
+  padding: 0;
+  margin: 0px;
+  font-size: 13px;
+}
+
+/* remove the prompt div from text cells */
+div.text_cell .prompt {
+    display: none;
+}
+
+/* remove horizontal padding from text cells, */
+/* so it aligns with outer body text */
+div.text_cell_render {
+    padding: 0.5em 0em;
+}
+
+img.anim_icon{padding:0; border:0; vertical-align:middle; -webkit-box-shadow:none; -box-shadow:none}
+</style>
+
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+<script type="text/javascript">
+init_mathjax = function() {
+    if (window.MathJax) {
+        // MathJax loaded
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+            },
+            displayAlign: 'left', // Change this to 'center' to center equations.
+            "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}}
+            }
+        });
+        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+    }
+}
+init_mathjax();
+</script>
+    <link href="http://aadm.github.io/favicon.png" rel="icon">
+
+<link rel="canonical" href="http://aadm.github.io/2012-07-12-moving-to-github.html">
+
+        <meta name="author" content="Alessandro Amato del Monte" />
+        <meta name="keywords" content="tech" />
+        <meta name="description" content="If somebody would actually read these posts he’d start thinking something like “what a loser”. Here I am, a fairly old git, waiting for his first baby, with too many things to do at work (and off-work), losing precious sleep hours to relocate his blog on GitHub. And what the hell is GitHub, asks the non-geek. Well, GitHub is …" />
+
+        <meta property="og:site_name" content="aadm" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="moving to github"/>
+        <meta property="og:url" content="http://aadm.github.io/2012-07-12-moving-to-github.html"/>
+        <meta property="og:description" content="If somebody would actually read these posts he’d start thinking something like “what a loser”. Here I am, a fairly old git, waiting for his first baby, with too many things to do at work (and off-work), losing precious sleep hours to relocate his blog on GitHub. And what the hell is GitHub, asks the non-geek. Well, GitHub is …"/>
+        <meta property="article:published_time" content="2012-07-12" />
+            <meta property="article:section" content="misc" />
+            <meta property="article:tag" content="tech" />
+            <meta property="article:author" content="Alessandro Amato del Monte" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://aadm.github.io/theme/css/bootstrap.journal.min.css" type="text/css"/>
+    <link href="http://aadm.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://aadm.github.io/theme/css/pygments/tango.css" rel="stylesheet">
+        <link href="http://aadm.github.io/theme/css/typogrify.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://aadm.github.io/theme/css/style.css" type="text/css"/>
+        <link href="http://aadm.github.io/static/custom.css" rel="stylesheet">
+
+        <link href="http://aadm.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="aadm ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://aadm.github.io/" class="navbar-brand">
+aadm            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/blog_index.html">journal</a></li>
+                    <li><a href="/pages/projects.html">projects</a></li>
+                    <li><a href="/pages/about.html">about</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <!-- <li><a href="http://aadm.github.io/blog_index.html"><i class="fa fa-th-list"></i><span class="icon-label">blog</span></a></li> -->
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="http://aadm.github.io/2012-07-12-moving-to-github.html"
+                       rel="bookmark"
+                       title="Permalink to moving to github">
+                        moving to&nbsp;github
+                    </a>
+                </h1>
+            </header>
+            <div class="well well-sm">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-07-12T00:00:00+02:00"> 12/Jul/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/tech.html">tech</a>
+    
+</footer><!-- /.post-info -->            </div>
+            <div class="entry-content">
+                <p>If somebody would actually read these posts he&#8217;d start thinking something like &#8220;what a&nbsp;loser&#8221;.</p>
+<p>Here I am, a fairly old <a href="http://en.wiktionary.org/wiki/git">git</a>, waiting for his <a href="http://aadm.github.com/2012-02-20-five-months-to-go.html">first baby</a>, with too many things to do at work (and off-work), losing precious sleep hours to relocate his blog on&nbsp;GitHub.</p>
+<p>And what the hell is GitHub, asks the non-geek. Well, <a href="http://www.github.com">GitHub</a> is basically a <span class="caps">VCS</span> (Version Control Systems<sup id="fnref-1"><a class="footnote-ref" href="#fn-1">1</a></sup>) that allows programmers and hackers to exchange and host their coding efforts; but it does more than that, such as the possibility to host also personal blogs for&nbsp;free.</p>
+<p>Only a nerd would now understand and nod approvingly, thinking &#8220;oh this is&nbsp;classy&#8221;.</p>
+<p>Normal people &#8212; don&#8217;t run away; what you should know is that GitHub is a place that not only gives me space to publish my blog, but also run it the way I want thanks to an engine called <a href="http://jekyllrb.com/">Jekyll</a>.</p>
+<p>This engine (a &#8220;static blog generator&#8221;) is something that works also on my computer at home. What it means is that I have full control on the looks and the content of my blog; it stays entirely on my computer and every time I change something the differences are uploaded to the&nbsp;server.</p>
+<p>This allows me to play with it, preview it even if I have no internet; it means that I have all the writing I&#8217;ve done in a simple text format (it&#8217;s actually Markdown, a markup language which is easy to read even with in its raw format &#8212; unlike <span class="caps">HTML</span>), it means that I don&#8217;t rely on a proprietary platform/host (Blogger, Wordpress, Tumblr) that keeps all my data detached from my computer&#8217;s filesystem and gives me only a cumbersome web interface to manipulate what I&#8217;ve&nbsp;written.</p>
+<p>And did I mention that it&#8217;s all free? GitHub has infinite space for my site and Jekyll is open&nbsp;source.</p>
+<p>So yes, I&#8217;m an old git playing with <a href="http://git-scm.com/">Git</a>.</p>
+<h2>the reason&nbsp;behind</h2>
+<p>I guess it all started when I wanted to free myself from the &#8220;chains&#8221; of <a href="http://aadm.tumblr.com/">Tumblr</a> and <a href="http://aadm.wordpress.com/">Wordpress</a>.</p>
+<p>I first tried <a href="http://aadm.calepin.co/">calepin.co</a> then <a href="http://scriptogr.am/aadm">scriptogr.am</a>. Both were based on this concept of static site generation (i.e., I guess they are running some sort of Jekyll-like engine&nbsp;underneath).</p>
+<p>After a while, I was enjoying the tinkering but wanted something more &#8212; more control of what my blog would look like I think; Calepin didn&#8217;t allow that, scriptogram did but to see the results you always had to go through the internet and what I wanted was a copy of my blog living its life on my computer. So I discovered the possibility to blog like a pro; free hosting on GitHub, a local installation of the static site generation engine (Jekyll), keeping track of endless modifications via this version control&nbsp;system.</p>
+<p>I started converting all my posts in a format suitable for Jekyll. I was already far ahead in this process since I already did all the heavy work (pulling my stuff from Wordpress and Tumblr, convert their xml &#8212; or whatever format their exporter used &#8212; in Markdown) when <a href="http://aadm.github.com/2012-01-23-moving-to-calepin.html">I switched to Calepin/scriptogr.am</a>.</p>
+<p>What was left was just some more tinkering with the local installation of Jekyll, but the <a href="http://jekyllbootstrap.com/">instructions I followed</a> were very well made and I had very few problems (worth reminding that I&#8217;m a 60% nerd myself, so for my brother or computer-challenged people I would still recommend&nbsp;Tumblr).</p>
+<h2>you got the&nbsp;look</h2>
+<p>I spent <em>far</em> more time customizing the <span class="caps">CSS</span>, i.e. what my blog looks like, but that&#8217;s because I don&#8217;t know <span class="caps">CSS</span>. I started with a minimalist, white on black, all-Helvetica style based on <a href="http://mark.reid.name/">mark-reid&#8217;s theme</a>&nbsp;because:</p>
+<ul>
+<li>I did not want to spend too much time fiddling with <code>#FEFEFE</code> and <code>{ font-size:16px; }</code></li>
+<li>I am not <a href="http://craigmod.com/journal/gf1-fieldtest/">a&nbsp;designer</a></li>
+<li>I actually like simple, terse websites such as <a href="http://zerodistraction.com/">Zero&nbsp;Distraction</a></li>
+</ul>
+<p>Then only a few days ago I wanted something different, probably inspired by these two photography blogs (which also happen to have very good content): <a href="http://photo.rwboyer.com/">photo.rwboyer.com</a> and <a href="http://www.gabrielponzanelli.com/blog/">gabrielponzanelli.com</a>.</p>
+<p>Looking at these two sites (and countless others) I realized that pure black and pure white is not cool. Shades of grey, they&#8217;re cool. So I aimed at building a not-so-white page floating on a darker background. And while I was at that I also played with fonts a little bit; I kept Optima as the main one, Helvetica for headers and then chose Futura for the title, navigational texts and copyrights. Does it work? For now it does. I have the majority of my readers agreeing with me (it&#8217;s just two friends&nbsp;actually).</p>
+<p>I was trying to get the same experience when viewing the blog on Mac and PCs, but <a href="http://aadm.github.com/2012-07-17-fonts-on-my-blog.html">this is for another time</a>. How the blog looks is very important to me and to countless other&nbsp;freaks.</p>
+<p>Incidentally, I think the best looks that I&#8217;ve ever got was this one on my Wordpress&nbsp;blog:</p>
+<p><img alt="" src="https://dl.dropbox.com/u/179731/aadm_wordpress_blog_heading.png"></p>
+<div class="footnote">
+<hr>
+<ol>
+<li id="fn-1">
+<p>read a brief history of <span class="caps">VCS</span> in <a href="http://git-scm.com/book/en/Getting-Started-About-Version-Control">this chapter of the official Pro Git book</a>.&#160;<a class="footnote-backref" href="#fnref-1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+            </div>
+            <!-- /.entry-content -->
+<section class="well" id="related-posts">
+    <h4>Related Posts:</h4>
+    <ul>
+        <li><a href="http://aadm.github.io/2016-01-19-get-those-flickr-urls.html">get those flickr&nbsp;urls</a></li>
+        <li><a href="http://aadm.github.io/2015-11-20-pelican-lives.html">pelican&nbsp;lives</a></li>
+        <li><a href="http://aadm.github.io/2015-11-12-last-iteration.html">last&nbsp;iteration</a></li>
+        <li><a href="http://aadm.github.io/2013-12-04-naming-files.html">file&nbsp;naming</a></li>
+        <li><a href="http://aadm.github.io/2013-11-09-blog-renewal.html">blog&nbsp;update</a></li>
+    </ul>
+</section>
+        </article>
+    </section>
+
+    <style type="text/css">
+    #navcontainer ul
+    {
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    }
+    #navcontainer ul li { display: inline; }
+    #navcontainer ul li a { padding: 1em 3em; }
+    </style>
+
+    <div id="navcontainer">
+    <ul id="navlist">
+        <li><a href="http://aadm.github.io/2012-07-11-obree-quotes.html"><i class="fa fa-angle-left"></i> PREVIOUS</a></li>
+        <li><a href="http://aadm.github.io/2012-07-17-fonts-on-my-blog.html">NEXT <i class="fa fa-angle-right"></i></a></li>
+    </div>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2005-2017 Alessandro Amato del Monte              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0 International License</a>
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-angle-up"></i> <a href="#">TOP</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://aadm.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://aadm.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://aadm.github.io/theme/js/respond.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-32354823-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+</body>
+</html>
