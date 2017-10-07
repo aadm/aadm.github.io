@@ -5,22 +5,26 @@ from __future__ import unicode_literals
 AUTHOR = u'Alessandro Amato del Monte'
 SITENAME = u'aadm'
 SITEURL = ''
+RELATIVE_URLS = True
 TIMEZONE = "Europe/Paris"
 PATH = 'content'
 DEFAULT_LANG = u'en'
 
-# ARTICLE_PATHS=['2015-11-20-pelican-lives.md',
-# '2015-11-18-nicolai-mojo.md',
-# '2015-11-12-last-iteration.md',
-# '2015-03-13-black-and-white.md',
-# '2014-11-28-concorso-fotografico-interno.md',
-# '2014-11-12-bimba-che-salta.md',
-# '2014-11-05-ready-set-go.md',
-# '2014-10-28-genitori-secondo-cito.md',
-# '2013-06-19-weekly-snaps-16.md',
-# '2012-09-14-weekly-snaps-6.md',
-# '2013-07-31-weekly-snaps-17.md',
-# ]
+ARTICLE_PATHS=[
+'2012-07-31-panasonic-gf1-late-review.md',
+'2015-03-13-black-and-white.md',
+'2016-10-12-fuji-me-too.md',
+'2016-02-02-a-little-camera.md',
+'2017-02-02-late-review-of-the-fuji-xpro1.md',
+'2016-03-29-capturing-things.md',
+'2017-02-19-that-guy-in-cuba.md',
+'2017-07-28-thoughts-on-photography-2.md',
+'2017-07-11-thoughts-on-photography-1.md',
+'2017-07-12-narrative.md',
+'2017-08-03-la-moto-del-prossimo-anno.md',
+'2017-07-05-art-photographers.md',
+'2017-10-06-bari.md'
+]
 
 SUMMARY_MAX_LENGTH = 60
 NEWEST_FIRST_ARCHIVES = True
@@ -67,10 +71,13 @@ CUSTOM_CSS = 'static/custom.css'
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['series','neighbors','related_posts',
-    'summary','clean_summary',
-    'liquid_tags','liquid_tags.youtube', 'liquid_tags.vimeo',
-    'liquid_tags.img','liquid_tags.flickr','liquid_tags.gram',
-    'liquid_tags.notebook']
+    'summary','liquid_tags',
+    'liquid_tags.youtube','liquid_tags.notebook', 'liquid_tags.flickr']
+# PLUGINS = ['series','neighbors','related_posts',
+#     'summary',
+#     'liquid_tags','liquid_tags.youtube', 'liquid_tags.vimeo',
+#     'liquid_tags.img',,
+#     'liquid_tags.notebook']
 # 'tipue_search'
 
 CLEAN_SUMMARY_MAXIMUM = 2
@@ -107,7 +114,6 @@ CC_LICENSE = 'CC-BY-NC-ND'
 SOCIAL = (('twitter', 'http://twitter.com/aadmtwi'),
           ('github',  'http://github.com/aadm'),
           ('flickr',  'http://www.flickr.com/photos/aadm'),
-          ('tumblr',  'http://aadm-fotografia.tumblr.com'),
           ('google+',  'http://plus.google.com/+AlessandroAmatodelMonte'),
           )
 GOOGLE_ANALYTICS =  'UA-32354823-1'

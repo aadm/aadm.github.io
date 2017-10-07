@@ -1,6 +1,6 @@
 title: about
 
-I have been calling myself aadm on the internet since forever. I have a very long name, and I have always wanted it to be much shorter: that's why aadm.
+I have been calling myself `aadm` on the internet since forever. I have a very long name, and I have always wanted it to be much shorter: that's why `aadm`.
 
 I like photography and making photographs.
 
@@ -10,7 +10,7 @@ I was born and raised in Southern Italy and have lived in Gravina, Bari, London,
 
 Please do not steal, manipulate or remix my photos, illustrations and content without my consent. You may link to the site and quote selected text only if you put a a link back to the original content.
 
-You can contact me via Twitter, [@aadmtwi](http://twitter.com/aadmtwi), [Google+](http://plus.google.com/+AlessandroAmatodelMonte/) or through my [flickr account](http://www.flickr.com/photos/aadm/). I also have a github account where I maintain [some Python code on geophysics](https://github.com/aadm/geophysical_notes).
+You can contact me via [Twitter](http://twitter.com/aadmtwi), [Google+](http://plus.google.com/+AlessandroAmatodelMonte/) or through my [flickr account](http://www.flickr.com/photos/aadm/). I also have a [github account](https://github.com/aadm) where I maintain [Python code for geophysics](https://github.com/aadm/geophysical_notes).
 
 Thanks for stopping by.
 

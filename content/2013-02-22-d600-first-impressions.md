@@ -1,6 +1,7 @@
 title: d600 first impressions
 tags: photo, gear
 related_posts: a-little-camera, black-and-white, thoughts-on-d7000, panasonic-gf1-late-review
+Series: gear reviews
 
 First things first: it's not *at all* a D7000 with a large sensor inside!
 
@@ -11,6 +12,9 @@ If that's the impression you have from reading the rants in the dpreview forums,
 </figure>
 
 It's actually a bit larger, not uncomfortably so however; it's still sized very reasonably, but it's more squat than the D7000 probably because it needs to accomodate that wonderfully large viewfinder. The overall feel is of a tougher and more grown-up camera than the D7000 (and the D7000 in my opinion is a perfectly mature body, a perfect compromise between the small and plasticky D3xxx/D5xxx and the hulky D700/D3/D4).
+
+<!-- PELICAN_END_SUMMARY -->
+
 
 I like the new multi-controller, it feels more snappy and clickable than on the D7000; I don't understand the necessity to have a lever switch that commutes between camera and movie-mode liveview but maybe someday I'll get it. And yes, the location of the buttons is somewhat different (like the zoom in and out buttons are now reversed -- but in line with newer cameras such as D800 and D7100) and there's other little differences but really? Are you such a monkey that you cannot deal with the changes of a few buttons? That's the sort of criticism that I read on dpreview forums, and I just can't stand them. To me it seems on the other hand that Nikon is able to keep an incredible 'family feeling' throughout the endless iterations from the D100 down to this new D600.
 

@@ -12,11 +12,12 @@ Are they really that good? As Bill and Jefferey often say [on their show](http:/
 
 Why do we refer to Platon, Newton, Leibovitz as some sort of geniuses because they know how to set up lights and get these professionals (whose job is looking good) to look good? Not to mention the make up artists, strobists and whatnot working for them.
 
+<!-- PELICAN_END_SUMMARY -->
+
 Basically I think that a good photographer needs to be able to make art with every subject. And I would extend my critique also to those that are on the other side of the spectrum, for example Bruce Gilden and his "Faces" -- portraits of ugly people (or just people, made ugly on purpose by careful use of unflattering technique and make-up). When you have exceptional subjects, how hard can it be to take good photos?
 
 Now compare this to the art of somebody creating vivid, interesting, poetic images out of the normal everyday life or capturing tiny specks of interestingness from a juxtaposition of sand grains over a floating leaf in the small pond or something crazy like that. Isn't this the pinnacle of creativity?
 
-<!-- PELICAN_END_SUMMARY -->
 
 
 ### printing

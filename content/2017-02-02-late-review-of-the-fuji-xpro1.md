@@ -4,15 +4,18 @@ Slug: late-review-of-the-fuji-x-pro1
 Tags: photo, gear
 Lang: en
 related_posts: fuji-me-too, a-little-camera, d600-first-impressions, panasonic-gf1-late-review, fuji-test-day
+Series: gear reviews
 
+I think that camera reviews should be written either within 3 months from initial purchase or after a much longer time, like 5 years maybe. After a few weeks of use, any average photographer would know by heart button locations, quickly change the camera settings, know what's the highest ISO and the minimum usable shutter speeds, how the autofocus works and so on. And obviously shot a few hundreds photographs in different locations and situations.
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/31105310746/" title="20161119_AA42097.jpg"><img src="https://farm6.staticflickr.com/5798/31105310746_7ec3c09e65_h.jpg" width="800" height="534"></a>
 </figure>
 
-I think that camera reviews should be written either within 3 months from initial purchase or after a much longer time, like 5 years maybe. After a few weeks of use, any average photographer would know by heart button locations, quickly change the camera settings, know what's the highest ISO and the minimum usable shutter speeds, how the autofocus works and so on. And obviously shot a few hundreds photographs in different locations and situations.
 
 After this initial period, he is either using the camera (and enjoying it) or decided to look elsewhere. And if he continues to use that camera, he starts to find loopholes, alternative ways to go around certain defects, until he no longer remembers what was the problem in the first place -- and the longer way to accomplish a task becomes the norm.
+
+<!-- PELICAN_END_SUMMARY -->
 
 So this is the moment to write something about the camera; when you're still excited by the toy, but you also think about the many things that could be fixed. When you can honestly tell others what works, what doesn't, and find an argument to why you see yourself clinging to the toy until the end of times.
 
@@ -27,7 +30,6 @@ And the alternative I mentioned before? That is, writing a review after 5 years?
 [^piece-of-crap]: An alternative interpretation is that maybe nobody wanted that old piece of crap anymore.
 -->
 
-<!-- PELICAN_END_SUMMARY -->
 
 The executive summary it this: I believe this X-Pro1 is a keeper.
 
@@ -64,14 +66,10 @@ That's all folks. To conclude my non-review, here's some photos taken with the F
 <figcaption>1/50 sec. at f/2.0, ISO 800, 53 mm (XF35mmF2 R WR, X-Pro1).</figcaption>
 </figure>
 
-
-
 <figure>
 <a href="https://www.flickr.com/photos/aadm/31105305766/" title="20161119_XPR0822.jpg"><img src="https://farm6.staticflickr.com/5775/31105305766_e3ff05142e_h.jpg" width="800" height="533"></a>
 <figcaption>1/160 sec. at f/2.0, ISO 1600, 53 mm (XF35mmF2 R WR, X-Pro1).</figcaption>
 </figure>
-
-
 
 
 <figure>
@@ -83,7 +81,6 @@ That's all folks. To conclude my non-review, here's some photos taken with the F
 <a href="https://www.flickr.com/photos/aadm/32632803296/" title="20161104_XPR0609.jpg"><img src="https://farm1.staticflickr.com/425/32632803296_e2bded208e_h.jpg" width="800" height="533"></a>
 <figcaption>1/70 sec. at f/2.0, ISO 1600, 53 mm (XF35mmF2 R WR, X-Pro1).</figcaption>
 </figure>
-
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/31830475484/" title="20161127_XPR0925.jpg"><img src="https://farm1.staticflickr.com/757/31830475484_69aa817aec_h.jpg" width="800" height="533"></a>

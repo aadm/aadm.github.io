@@ -6,6 +6,9 @@ Lang: en
 Status: draft
 
 
+<!-- PELICAN_END_SUMMARY -->
+
+
 # planning vs improvising
 
 Si discuteva qualche giorno fa tra amici di qjesto progetto 365 che aveva catturato la nostra attenzione. Una serie di fotografie molto curate, "slick" come si dice in inglese, di una (bella) ragazza dotata di ottima tecnica e (quello che sembra) sopraffina capacità di post processing.
@@ -29,7 +32,6 @@ Qual'e il risultato finale, a giudicare non solo da questo 365 ma anche altri in
 # the look of the trails
 
 
-<!-- PELICAN_END_SUMMARY -->
 
 Beatiful photos here: http://nsmb.com/3326-dorado-tested/
 
