@@ -1,7 +1,7 @@
 title: d600 first impressions
 tags: photo, gear
-related_posts: a-little-camera, black-and-white, thoughts-on-d7000, panasonic-gf1-late-review
-Series: gear reviews
+Series: Gear Reviews
+related_posts:
 
 First things first: it's not *at all* a D7000 with a large sensor inside!
 

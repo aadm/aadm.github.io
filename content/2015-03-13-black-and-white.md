@@ -1,7 +1,8 @@
 title: black and white
 tags: photo
 lang: en
-Series: gear reviews
+Series: Gear Reviews
+related_posts:
 
 I have had this Nikon FM2 lying around in my house for some time now. It has not seen much action though.
 

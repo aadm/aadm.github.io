@@ -1,9 +1,9 @@
-title: panasonic GF1 late review
+title: panasonic gf1 late review
 tags: photo, gear
 slug: panasonic-gf1-late-review
 lang: en
-related_posts: d600-first-impressions, a-little-camera, black-and-white, thoughts-on-d7000
-Series: gear reviews
+Series: Gear Reviews
+related_posts:
 
 It's been quite some time now that I have [gone back to DSLRs]({filename}2012-09-21-thoughts-on-d7000.md), but the little Panasonic GF1 is still a constant presence in my backpack. In the meantime, Panasonic has churned out countless other iterations on the same micro four/thirds concept; but to me it has somehow watered down the concept and only the latest one (GX1) seems to be the true successor of the GF1.
 

@@ -2,7 +2,8 @@ title: panasonic GF1 recensione fuori tempo
 tags: photo, gear
 slug: panasonic-gf1-late-review
 lang: it
-related_posts: d600-first-impressions, a-little-camera, black-and-white, thoughts-on-d7000,
+Series: Gear Reviews
+related_posts:
 
 È da quasi un anno che sono tornato al mondo reflex con una Nikon D7000, ma la piccola Panasonic GF1 è ancora una presenza costante nel mio zaino. Nel frattempo sono uscite altre cento iterazioni della Panasonic sul tema mirrorless / micro quattroterzi ma solo l'ultima (GX1) mi pare la vera evoluzione della GF1[^nota-gx1].
 

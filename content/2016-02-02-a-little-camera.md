@@ -3,7 +3,9 @@ Date: 2016-02-02 20:23:26
 Slug: a-little-camera
 Tags: photo, gear
 Lang: en
-related_posts: d600-first-impressions, black-and-white, thoughts-on-d7000, panasonic-gf1-late-review
+Series: Gear Reviews
+related_posts:
+
 
 I wanted to get a Leica this time. For real.
 

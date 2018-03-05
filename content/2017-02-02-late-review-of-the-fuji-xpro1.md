@@ -3,8 +3,8 @@ Date: 2017-02-02
 Slug: late-review-of-the-fuji-x-pro1
 Tags: photo, gear
 Lang: en
-related_posts: fuji-me-too, a-little-camera, d600-first-impressions, panasonic-gf1-late-review, fuji-test-day
-Series: gear reviews
+Series: Gear Reviews
+related_posts:
 
 I think that camera reviews should be written either within 3 months from initial purchase or after a much longer time, like 5 years maybe. After a few weeks of use, any average photographer would know by heart button locations, quickly change the camera settings, know what's the highest ISO and the minimum usable shutter speeds, how the autofocus works and so on. And obviously shot a few hundreds photographs in different locations and situations.
 
