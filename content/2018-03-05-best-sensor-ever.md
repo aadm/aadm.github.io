@@ -11,9 +11,10 @@ Anyway, the point is that I played with a couple of raw files from a D850 and th
 
 Back to the D850. My friend Daniele rented the camera and some of the best lenses available (Sigma primes; the 50mm f/1.4 and the 14mm f/1.8), went for a trip and then sent me a few files.
 
+<!-- PELICAN_END_SUMMARY -->
+
 I started to play with these two shots taken in obvious places in California. I wanted to see for myself if I really need a monster 40+ megapixel sensor with huge dynamic range that can see in the dark. I realize that I am not considering other important aspects like build quality, autofocus, lens availability, but bear with me, I really want to concentrate on the sensor itself and what it can do -- because let's face it, that's the main selling point of all new cameras: the miracles of a new, updated sensor. Incidentally, it seems to me like only micro 4/3 cameras are more relaxed in this approach, focusing less on sensor qualities and more on autofocus, video capabilities, in-body stabilization, tricks like sensor-shift tech to deliver 80 Mp files from a 20 Mp sensor, etc. That is probably due to actual physical limitations of what a smallish sensor could ever achieve (remember that I loved the pre-2014 Olympus and their 16 megapixel sensor).
 
-<!-- PELICAN_END_SUMMARY -->
 
 These are the original files, no editing save for a 16:9 crop:
 

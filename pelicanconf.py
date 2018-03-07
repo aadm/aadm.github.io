@@ -72,7 +72,7 @@ CUSTOM_CSS = 'static/custom.css'
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['series','neighbors','related_posts',
     'summary','liquid_tags',
-    'liquid_tags.youtube','liquid_tags.notebook', 'liquid_tags.flickr']
+    'liquid_tags.youtube', 'liquid_tags.flickr']
 # PLUGINS = ['series','neighbors','related_posts',
 #     'summary',
 #     'liquid_tags','liquid_tags.youtube', 'liquid_tags.vimeo',
