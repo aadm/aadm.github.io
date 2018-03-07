@@ -9,7 +9,7 @@ Mi riferisco al sensore della D850 (ma il discorso vale anche per le Fuji medio 
 
 Ho sottomano un paio di file raw che Daniele mi ha passato, scattati con Nikon D850 e due tra i migliori obiettivi sul mercato (Sigma 50mm f/1.4 e 14mm f/1.8).
 
-Li ho processati a mio piacimento, aspettandomi qualcosa di stupefacente, un po' come quando passai da Nikon D7000 a D600 e trovai dei file malleabili, perfetti come resa colore, con un rumore organico, tanto che pure le foto del niente mi parevano da galleria d'arte. E invece, l'esperienza mi ha lasciato del tutto indifferente
+Li ho processati a mio piacimento, aspettandomi qualcosa di stupefacente, un po' come quando passai da Nikon D7000 a D600 e trovai dei file malleabili, perfetti come resa colore, con un rumore organico, tanto che pure le foto del niente mi parevano da galleria d'arte. E invece, l'esperienza mi ha lasciato del tutto indifferente.
 
 Questi i files originali (fatto salvo per il crop 16:9):
 
