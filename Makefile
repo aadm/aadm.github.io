@@ -8,6 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 GITHUB_PAGES_BRANCH=master
+EDITOR=code
 
 PAGESDIR=$(INPUTDIR)/pages
 DATE1 := $(shell date +'%Y-%m-%d')

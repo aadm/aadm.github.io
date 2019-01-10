@@ -3,7 +3,6 @@ Date: 2018-03-05 22:19:56
 Slug: best-sensor-ever
 Tags: photo, gear
 Lang: it
-related_posts: a-little-camera, d600-first-impressions, late-review-of-the-fuji-x-pro1
 
 Mi riferisco al sensore della D850 (ma il discorso vale anche per le Fuji medio formato, o qualsiasi altro mostro Sony mirrorless da 40 e passa megapixel).
 
