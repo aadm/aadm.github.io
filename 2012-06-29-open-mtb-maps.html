@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>aadm: open mtb maps</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="http://aadm.github.io/favicon.png" rel="icon">
+
+<link rel="canonical" href="http://aadm.github.io/2012-06-29-open-mtb-maps.html">
+
+        <meta name="author" content="Alessandro Amato del Monte" />
+        <meta name="keywords" content="cycling,apple,tech" />
+        <meta name="description" content="A short recap on how to build and install open mtb maps under OS X. Essentially, a shorter version of the detailed instructions given on mtb-forum.it, written for my own convenience — but I thought somebody could find it useful especially to see the result of using different ‘styles’. tools gmapbuilder: to convert the OpenMtbMaps into the .gmapi format. MapInstall …" />
+
+        <meta property="og:site_name" content="aadm" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="open mtb maps"/>
+        <meta property="og:url" content="http://aadm.github.io/2012-06-29-open-mtb-maps.html"/>
+        <meta property="og:description" content="A short recap on how to build and install open mtb maps under OS X. Essentially, a shorter version of the detailed instructions given on mtb-forum.it, written for my own convenience — but I thought somebody could find it useful especially to see the result of using different ‘styles’. tools gmapbuilder: to convert the OpenMtbMaps into the .gmapi format. MapInstall …"/>
+        <meta property="article:published_time" content="2012-06-29" />
+            <meta property="article:section" content="misc" />
+            <meta property="article:tag" content="cycling" />
+            <meta property="article:tag" content="apple" />
+            <meta property="article:tag" content="tech" />
+            <meta property="article:author" content="Alessandro Amato del Monte" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://aadm.github.io/theme/css/bootstrap.journal.min.css" type="text/css"/>
+    <link href="http://aadm.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://aadm.github.io/theme/css/pygments/tango.css" rel="stylesheet">
+        <link href="http://aadm.github.io/theme/css/typogrify.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://aadm.github.io/theme/css/style.css" type="text/css"/>
+        <link href="http://aadm.github.io/static/custom.css" rel="stylesheet">
+
+        <link href="http://aadm.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="aadm ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://aadm.github.io/" class="navbar-brand">
+aadm            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/blog_index.html">journal</a></li>
+                    <li><a href="/pages/projects.html">projects</a></li>
+                    <li><a href="/pages/about.html">about</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <!-- <li><a href="http://aadm.github.io/blog_index.html"><i class="fa fa-th-list"></i><span class="icon-label">blog</span></a></li> -->
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="http://aadm.github.io/2012-06-29-open-mtb-maps.html"
+                       rel="bookmark"
+                       title="Permalink to open mtb maps">
+                        open mtb&nbsp;maps
+                    </a>
+                </h1>
+            </header>
+            <div class="well well-sm">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-06-29T00:00:00+02:00"> 29/giu/2012</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/cycling.html">cycling</a>
+        /
+	<a href="http://aadm.github.io/tag/apple.html">apple</a>
+        /
+	<a href="http://aadm.github.io/tag/tech.html">tech</a>
+    
+</footer><!-- /.post-info -->            </div>
+            <div class="entry-content">
+                <p>A short recap on how to build and install open mtb maps under <span class="caps">OS</span>&nbsp;X.</p>
+<p>Essentially, a shorter version of the <a href="http://www.mtb-forum.it/community/forum/showpost.php?p=4901077&amp;postcount=1">detailed instructions given on mtb-forum.it</a>, written for my own convenience &#8212; but I thought somebody could find it useful especially to see the result of using different&nbsp;&#8216;styles&#8217;.</p>
+<h2>tools</h2>
+<ul>
+<li><a href="http://wiki.openstreetmap.org/wiki/Gmapibuilder/New_version">gmapbuilder</a>: to convert the OpenMtbMaps into the <code>.gmapi</code> format.</li>
+<li><a href="http://www8.garmin.com/support/download_details.jsp?id=3825">MapInstall/MapManager</a> to install the <code>.gmapi</code> files into the system, ready to be used by Basecamp and/or copied into a Garmin&nbsp;gps.</li>
+<li><a href="http://www.garmin.com/us/products/onthetrail/basecamp">Basecamp</a> (also available on the AppStore): the main application to view and plan&nbsp;routes.</li>
+</ul>
+<h2>data</h2>
+<p>The latest version of the <a href="http://openmtbmap.org/">openmtb maps</a> for Italy are here<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>: <a href="http://openmtbmap.org/donate/odbl/download_italy_en.html">http://openmtbmap.org/donate/odbl/download_italy_en.html
+</a><sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>.</p>
+<h2>what&nbsp;next</h2>
+<p>Launch gmapbuilder, select the <span class="caps">TDB</span> file <code>mapsetc.tdb</code>, then the <span class="caps">TYP</span> file and then click <code>convert</code>.</p>
+<p>The <span class="caps">TDB</span> file can&nbsp;be:</p>
+<ul>
+<li>mapsetc: map + contourlines&nbsp;(default)</li>
+<li>mapsetx: map&nbsp;only</li>
+<li>mapsetz: contourlines&nbsp;only</li>
+</ul>
+<p>The <span class="caps">TYP</span> files specify the graphical format of the&nbsp;map:</p>
+<ul>
+<li>easy: simple layout with no extra&nbsp;information</li>
+<li>hike: &#8216;hiking&#8217;&nbsp;map(?)</li>
+<li>thin: optimzed for Gpsmap60/76 and&nbsp;Dakota</li>
+<li>wide: high contrast style optimzed for Oregon and&nbsp;Colorado</li>
+<li>clas: &#8216;classic&#8217; version, optimized for Vista, Legend, Edge&nbsp;705</li>
+<li>trad: &#8216;traditional&#8217;(?), my preferred&nbsp;choice</li>
+</ul>
+<p><img alt="" src="https://dl.dropbox.com/u/179731/openmtbmaps-00.png"></p>
+<p><img alt="" src="https://dl.dropbox.com/u/179731/openmtbmaps-01.png"></p>
+<p><img alt="" src="https://dl.dropbox.com/u/179731/openmtbmaps-02.png"></p>
+<p><img alt="" src="https://dl.dropbox.com/u/179731/openmtbmaps-03.png"></p>
+<p><img alt="" src="https://dl.dropbox.com/u/179731/openmtbmaps-04.png"></p>
+<p><img alt="" src="https://dl.dropbox.com/u/179731/openmtbmaps-05.png"></p>
+<p>This is the result of creating the map with contour lines embedded (i.e. using <code>mapsetc.tdb</code>; I highly recommend using this style as contour lines may be switched off in Basecamp and they don&#8217;t add too much data to the final&nbsp;map):</p>
+<p><img alt="" src="https://dl.dropbox.com/u/179731/openmtbmaps-06.png"></p>
+<p>For example, here I have selected <code>mapsetc</code> to have both vector maps and contour lines available; the style file is <code>trad</code>:</p>
+<p><img alt="" src="https://dl.dropbox.com/u/179731/gmapibuilder.png"></p>
+<h3>openstreetmaps</h3>
+<p>A simpler procedure exists if you&#8217;re looking for the basic OpenStreetMaps (which are more clear and easier to use for road and city navigation, expect very little detail off the beaten path though). Just go to <a href="http://garmin.openstreetmap.nl/">garmin.openstreetmap.nl</a> and you can build your own customized map in <code>.gmapi</code> format. An email with a link to 3 versions of the selected maps (Windows, <span class="caps">OS</span> X and Garmin gps formats) will be in your inbox usually after a few&nbsp;hours.</p>
+<p><img alt="" src="https://dl.dropbox.com/u/179731/openstreetmaps.png"></p>
+<div class="footnote">
+<hr>
+<ol>
+<li id="fn:1">
+<p>available as a self-decompressing .exe file, use Unarchiver to unzip them on a Mac.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>This links to <a href="ftp://ftp5.gwdg.de/pub/misc/openstreetmap/openmtbmap/odbl/mtbitaly.exe?">ftp://ftp5.gwdg.de/pub/misc/openstreetmap/openmtbmap/odbl/mtbitaly.exe?</a>&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+            </div>
+            <!-- /.entry-content -->
+<section class="well" id="related-posts">
+    <h4>Related Posts:</h4>
+    <ul>
+        <li><a href="http://aadm.github.io/2013-07-24-google-calendar-activity-tracker.html">google calendar activity&nbsp;tracker</a></li>
+        <li><a href="http://aadm.github.io/2013-12-04-naming-files.html">file&nbsp;naming</a></li>
+        <li><a href="http://aadm.github.io/2013-11-09-blog-renewal.html">blog&nbsp;update</a></li>
+        <li><a href="http://aadm.github.io/2013-06-18-app-for-passwords-update.html">app for passwords&nbsp;update</a></li>
+        <li><a href="http://aadm.github.io/2012-11-06-the-little-ipad.html">the little&nbsp;ipad</a></li>
+    </ul>
+</section>
+        </article>
+    </section>
+
+    <style type="text/css">
+    #navcontainer ul
+    {
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    }
+    #navcontainer ul li { display: inline; }
+    #navcontainer ul li a { padding: 1em 3em; }
+    </style>
+
+    <div id="navcontainer">
+    <ul id="navlist">
+        <li><a href="http://aadm.github.io/2012-06-18-hackintosh-in-a-coma.html"><i class="fa fa-angle-left"></i> PREVIOUS</a></li>
+        <li><a href="http://aadm.github.io/2012-07-10-weekly-snaps-1.html">NEXT <i class="fa fa-angle-right"></i></a></li>
+    </div>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2005-2018 Alessandro Amato del Monte              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0 International License</a>
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-angle-up"></i> <a href="#">TOP</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://aadm.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://aadm.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://aadm.github.io/theme/js/respond.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-32354823-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+</body>
+</html>
