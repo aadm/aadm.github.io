@@ -13,27 +13,27 @@ Li ho processati a mio piacimento, aspettandomi qualcosa di stupefacente, un po'
 Questi i files originali (fatto salvo per il crop 16:9):
 
 <figure>
-<img src="{filename}/images/Daniele_D850_DSC0159-original.jpg" width="800" height="450">
+<img src="{static}/images/Daniele_D850_DSC0159-original.jpg" width="800" height="450">
 </figure>
 
 <figure>
-<img src="{filename}/images/Daniele_D850_DSC0036-original.jpg" width="800" height="450">
+<img src="{static}/images/Daniele_D850_DSC0036-original.jpg" width="800" height="450">
 </figure>
 
 Queste le mie versioni finali:
 
 <figure>
-<img src="{filename}/images/Daniele_D850_DSC0159.jpg" width="800" height="450">
+<img src="{static}/images/Daniele_D850_DSC0159.jpg" width="800" height="450">
 </figure>
 
 <figure>
-<img src="{filename}/images/Daniele_D850_DSC0036.jpg" width="800" height="450">
+<img src="{static}/images/Daniele_D850_DSC0036.jpg" width="800" height="450">
 </figure>
 
 Uno zoom 1:1 su Half Dome:
 
 <figure>
-<img src="{filename}/images/Daniele_D850_DSC0036-zoom.jpg" width="800" height="800">
+<img src="{static}/images/Daniele_D850_DSC0036-zoom.jpg" width="800" height="800">
 </figure>
 
 Cosa ci ho fatto; il solito, li ho insomma curati come avrei fatto per uno scatto qualsiasi dei miei. Il che significa quasi sempre una curva S piuttosto marcata con cui comprimo ancora di più i neri. Non vedo nitidezza o range dinamico o qualsiasi altra caratteristica che mi faccia gridare al miracolo.

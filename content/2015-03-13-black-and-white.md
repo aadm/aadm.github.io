@@ -1,5 +1,7 @@
 title: black and white
-tags: photo
+date: 2015-03-13
+slug: black-and-white
+tags: photo, gear
 lang: en
 Series: Gear Reviews
 related_posts:

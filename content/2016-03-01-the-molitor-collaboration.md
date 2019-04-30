@@ -4,7 +4,7 @@ Slug: the-molitor-collaboration
 Tags: photo
 Lang: en
 
-Forget what I said in [previous posts]({filename}2014-10-27-still-finding-true-gems-online.md). I may still have some sympathies for Laroque and Simpson and Johnston but I have reached a place where there are no more photographic heroes for me on the web.
+Forget what I said in [previous posts]({static}2014-10-27-still-finding-true-gems-online.md). I may still have some sympathies for Laroque and Simpson and Johnston but I have reached a place where there are no more photographic heroes for me on the web.
 
 Unless you count Andrew Molitor, of course[^blake].
 
@@ -34,7 +34,7 @@ There was a theme but I did not see it (really). You could say I have overlooked
 But I did things differently this time. I sat down and tried to conceive a plan for these photographs, as opposed to just go out and shoot things that I happen to see. The plan was something different from following a "theme"; at first I just thought of some geometric forms that I could find and join or refer to in different photographs; a simple line which could be a lamppost in one frame which flows organically into a a trail path, and so on. I also decided that I had to do arrange my shots into short vertical sequences; a landscape of some sort made up by 3 or 4 photos on top of one another. Or something like that.
 
 <figure>
-<img src="{filename}/images/20160302_OMD312-montage.jpg" width="800" height="400">
+<img src="{static}/images/20160302_OMD312-montage.jpg" width="800" height="400">
 <figcaption>Figuring out what to do before the actual shooting.</figcaption>
 </figure>
 

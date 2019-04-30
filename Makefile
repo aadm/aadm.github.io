@@ -28,26 +28,23 @@ ifeq ($(RELATIVE), 1)
 endif
 
 help:
-	@echo 'Makefile for a pelican Web site                                           '
-	@echo '                                                                          '
+	@echo 'Makefile for aadm.github.io'
+	@echo ' '
 	@echo 'Usage:                                                                    '
-	@echo '   make html                    (re)generate the web site          '
-	@echo '   make clean                   remove the generated files         '
-	@echo '   make regenerate              regenerate files upon modification '
+	@echo '   make site                    (re)generate the web site'
+	@echo '   make clean                   remove the generated files'
 	@echo '   make publish                 generate using production settings '
-	@echo '   make serve [PORT=8000]       serve site at http://localhost:8000'
-	@echo '   make vai [PORT=8000]         start/restart develop_server.sh    '
-	@echo '   make alt                     stop local server                  '
-	@echo '   make gh                      push website+source to github             '
-	@echo '   make ghsrc                   push source code to github         '
+	@echo '   make controllo               launch site at  http://localhost:8000'
+	@echo '   make gh                      push website+source to github'
+	@echo '   make ghsrc                   push source code to github'
 	@echo '   make newpost NAME=whatever'
 	@echo '   make newpage NAME=whatever'
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
-	@echo '                                                                          '
+	@echo ' '
 
-html:
+site:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 publish:
@@ -56,33 +53,53 @@ publish:
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
-regenerate:
-	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+controllo:
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) --listen -r 
 
-serve: clean html
-ifdef PORT
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
-else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server
-endif
 
-serve-global:
-ifdef SERVER
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 $(SERVER)
-else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 0.0.0.0
-endif
+# regenerate:
+# 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-vai:
-ifdef PORT
-	$(BASEDIR)/develop_server.sh restart $(PORT)
-else
-	$(BASEDIR)/develop_server.sh restart
-endif
+# serve: clean html
+# ifdef PORT
+# 	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
+# else
+# 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+# endif
 
-alt:
-	$(BASEDIR)/develop_server.sh stop
-	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
+# serve-global:
+# ifdef SERVER
+# 	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 $(SERVER)
+# else
+# 	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 0.0.0.0
+# endif
+
+# vai:
+# ifdef PORT
+# 	$(BASEDIR)/develop_server.sh restart $(PORT)
+# else
+# 	$(BASEDIR)/develop_server.sh restart
+# endif
+
+# vai:
+# ifdef PORT
+# 	$(PELICAN) --listen --autoreload -p $(PORT)
+# else
+# 	$(PELICAN) --listen --autoreload
+# endif
+
+	
+# controllo:
+#   	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) --listen -r 
+# ifdef PORT
+# 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) --listen -r -p $(PORT)
+# else
+#  	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) --listen -r 
+# endif
+
+# alt:
+# 	$(BASEDIR)/develop_server.sh stop
+# 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 # vecchio comando per la pubblicazione su gh-pages = aadm.github.io/the-liquid-steppe
 # gh:
@@ -110,6 +127,7 @@ ifdef NAME
 	@echo "Tags:"         >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
 	@echo "Lang: en"      >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
 	@echo "Status: draft" >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
+	@echo "related_posts:">> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
 	@echo ""              >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
 	@echo ""              >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)
 	@echo "<!-- PELICAN_END_SUMMARY -->" >> $(INPUTDIR)/$(DATE1)-$(SLUG).$(EXT)

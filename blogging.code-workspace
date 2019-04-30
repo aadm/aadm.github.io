@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Visual Studio Dark",
+		"breadcrumbs.enabled": true
+	}
+}

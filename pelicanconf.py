@@ -10,21 +10,27 @@ TIMEZONE = "Europe/Paris"
 PATH = 'content'
 DEFAULT_LANG = u'en'
 
-# ARTICLE_PATHS=[
-# '2012-07-31-panasonic-gf1-late-review.md',
-# '2015-03-13-black-and-white.md',
-# '2016-10-12-fuji-me-too.md',
-# '2016-02-02-a-little-camera.md',
-# '2017-02-02-late-review-of-the-fuji-xpro1.md',
-# '2016-03-29-capturing-things.md',
-# '2017-02-19-that-guy-in-cuba.md',
-# '2017-07-28-thoughts-on-photography-2.md',
-# '2017-07-11-thoughts-on-photography-1.md',
-# '2017-07-12-narrative.md',
-# '2017-08-03-la-moto-del-prossimo-anno.md',
-# '2017-07-05-art-photographers.md',
-# '2017-10-06-bari.md'
-# ]
+ARTICLE_PATHS = [
+    '2012-07-31-panasonic-gf1-late-review.md',
+    '2015-03-13-black-and-white.md',
+    '2016-10-12-fuji-me-too.md',
+    '2016-02-02-a-little-camera.md',
+    '2017-02-02-late-review-of-the-fuji-xpro1.md',
+    '2016-03-29-capturing-things.md',
+    '2017-02-19-that-guy-in-cuba.md',
+    '2017-07-28-thoughts-on-photography-2.md',
+    '2017-07-11-thoughts-on-photography-1.md',
+    '2017-07-12-narrative.md',
+    '2017-08-03-la-moto-del-prossimo-anno.md',
+    '2017-07-05-art-photographers.md',
+    '2017-10-06-bari.md',
+    '2018-03-05-best-sensor-ever-ita.md',
+    '2018-12-07-a-guzzi-miniadventure.md',
+    '2018-12-08-relocating-to-linux.md',
+    '2018-03-05-best-sensor-ever.md',
+    '2018-12-08-curve-in-montagna.md',
+    '2019-04-30-motoguzziv7.md']
+
 
 SUMMARY_MAX_LENGTH = 60
 NEWEST_FIRST_ARCHIVES = True
@@ -41,12 +47,12 @@ FAVICON = 'favicon.png'
 PAGE_URL = 'pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
 INDEX_SAVE_AS = 'blog_index.html'
-NOTEBOOK_DIR = '/Users/aadm/GOOGLEDRIVE/PYTHON/geophysical_notes'
+# NOTEBOOK_DIR = '/Users/aadm/GOOGLEDRIVE/PYTHON/geophysical_notes'
 
 MENUITEMS=(
-    ('journal','/blog_index.html'),
-    ('projects','/pages/projects.html'),
-    ('about','/pages/about.html'))
+    ('journal', '/blog_index.html'),
+    ('projects', '/pages/projects.html'),
+    ('about', '/pages/about.html'))
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 THEME = "themes/pelican-bootstrap3/"
@@ -60,6 +66,18 @@ EXTRA_PATH_METADATA = {
 }
 CUSTOM_CSS = 'static/custom.css'
 
+# THEME = "pelican-themes/pelican-bootstrap3"
+# JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+# BOOTSTRAP_THEME = 'sketchy'
+# STATIC_PATHS = ['images', 'extra']
+# BOOTSTRAP_NAVBAR_INVERSE = False
+# HIDE_SIDEBAR = True
+# EXTRA_PATH_METADATA = {
+#     # 'extra/custom.css': {'path': 'static/custom.css'},
+#     'extra/favicon.png': {'path': 'favicon.png'}
+# }
+# CUSTOM_CSS = 'static/custom.css'
+
 # from markdown.extensions.codehilite import CodeHiliteExtension
 # from markdown.extensions.toc import TocExtension
 # MD_EXTENSIONS = [
@@ -70,24 +88,23 @@ CUSTOM_CSS = 'static/custom.css'
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['series','neighbors','related_posts',
-    'summary','liquid_tags',
-    'liquid_tags.youtube', 'liquid_tags.flickr']
-# PLUGINS = ['series','neighbors','related_posts',
-#     'summary',
-#     'liquid_tags','liquid_tags.youtube', 'liquid_tags.vimeo',
-#     'liquid_tags.img',,
-#     'liquid_tags.notebook']
+PLUGINS = [
+    # 'i18n_subsites', 
+    'series',
+    'neighbors',
+    'related_posts',
+    'summary',
+    'liquid_tags',
+    'liquid_tags.youtube',
+    'liquid_tags.flickr']
 # 'tipue_search'
 
 CLEAN_SUMMARY_MAXIMUM = 2
 
-# DIRECT_TEMPLATES = ('index', 'archives', 'search')
-DIRECT_TEMPLATES = ('index', 'tags','archives')
-PAGINATED_DIRECT_TEMPLATES = ['index']
-
+DIRECT_TEMPLATES = ['index', 'tags', 'archives']
+# PAGINATED_TEMPLATES = ['index']
 SHOW_SERIES = True
-FLICKR_API_KEY="c637ff05ba2a53f360e0602da9c25588"
+FLICKR_API_KEY = "c637ff05ba2a53f360e0602da9c25588"
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
@@ -114,9 +131,8 @@ CC_LICENSE = 'CC-BY-NC-ND'
 SOCIAL = (('twitter', 'http://twitter.com/aadmtwi'),
           ('github',  'http://github.com/aadm'),
           ('flickr',  'http://www.flickr.com/photos/aadm'),
-          ('google+',  'http://plus.google.com/+AlessandroAmatodelMonte'),
           )
-GOOGLE_ANALYTICS =  'UA-32354823-1'
+GOOGLE_ANALYTICS = 'UA-32354823-1'
 TYPOGRIFY = True
 
 # REVERSE_CATEGORY_ORDER = True

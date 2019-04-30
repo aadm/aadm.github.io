@@ -1,7 +1,7 @@
 Title: relocating to linux
 Date: 2018-12-08 23:45:55
 Slug: relocating-to-linux
-Tags:
+Tags: computer
 Lang: en
 Status: draft
 

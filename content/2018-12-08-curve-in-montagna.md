@@ -53,32 +53,3 @@ Lost here is the gentle pursuit of a modest competence, the doing of something j
 
 (https://www.nytimes.com/2018/09/29/opinion/sunday/in-praise-of-mediocrity.html)
 
-
-[13:42, 10/3/2018] Alessandro AdM: E lui ha detto sì, ma cmq guarda che queste tengono uguale, e anzi se la usi tutto l'anno sono anche meglio (scaricano l'acqua meglio etc)
-[13:43, 10/3/2018] Alessandro AdM: Cioè mi ha assicurato che il grip di queste gomme finto tassellate è identico
-[13:43, 10/3/2018] Alessandro AdM: Loro ne capiscono di grip eh
-[13:43, 10/3/2018] Alessandro AdM: Avete visto l'anteriore com'è consumato sulla sua
-[13:43, 10/3/2018] Alessandro AdM: Giacomo... Hai la pazienza di mia figlia
-[13:44, 10/3/2018] Alessandro AdM: Ovvio che inizio dai lati negativi poi gli aspetti secondari, adesso arrivo al TEST
-[13:45, 10/3/2018] Alessandro AdM: Allora motore e freni
-[13:46, 10/3/2018] Alessandro AdM: Sono le due cose più deboli della moto no? Secondo tutti i tester e pareri autorevoli...
-[13:46, 10/3/2018] Alessandro AdM: Solo 50cv? Singolo freno a disco niente attacco radiale, pompa di 20 anni fa?
-[13:48, 10/3/2018] Alessandro AdM: Vi dico solo che quando sono rientrato ho chiesto a Gianfranco 💏 che lavori avesse fatto sulla sua moto... Ero sicuro della presenza del kit motore, qualche diavoleria ai freni, invece... Niente! Tutto di serie tranne i silenziatori zard!
-[13:48, 10/3/2018] Alessandro AdM: Cioè cazzo la moto spinge aggressiva, apri in seconda e terza e la spinta è poderosa, gustosa, di carattere!!
-[13:57, 10/3/2018] Alessandro AdM: Ora... Sarà che non guido da tempo... Ma a sensazione il motore mi dà il gusto del due valvole Ducati 900-1000, sicuramente meno grintoso eh, ma assolutamente sufficiente per dare emozioni e sono sicuro farmi divertire anche su strada
-[13:58, 10/3/2018] Alessandro AdM: È un vecchio 750 eh...
-[13:58, 10/3/2018] Alessandro AdM: Sulla carta 52-58 CV (secondo Guareschi i silenziatori danno da soli 3-4 CV, mah)
-[13:59, 10/3/2018] Alessandro AdM: Lidea è che è un tipo di motore che puoi strapazzare anche su strada insomma, e cmq c'è da trattarlo con rispetto, non è un Ciao
-[13:59, 10/3/2018] Giacomo Saponaro: 🤤
-[14:00, 10/3/2018] Alessandro AdM: (dico questa ovvietà perché a leggere tutte le mille prove che ho letto pare che sta moto sia per principianti e donne e imbranati)
-[14:00, 10/3/2018] Giacomo Saponaro: Voglio provarla! Vengo anche io a Parma quando la ritiri!!!
-[14:01, 10/3/2018] Alessandro AdM: E i freni frenano, e Gianfranco diceva che in pista quella V7 che ho provato andava fortissimo (con lui alla guida che vabbè sarà un manico da paura), e aveva tutto di serie tranne i silenziatori e gli ammortizzatori bitubo
-[14:02, 10/3/2018] Alessandro AdM: Dice che stanno pensando assieme a Guzzi di fare un monomarca in pista
-
-
-[14:41, 10/26/2018] Alessandro AdM: eri ho fatto una cosa simile (sempre con le dovute proporzioni, cioè il feeling era simile), chiudi il gas e pieghi e lasci che la moto vada a precipizio verso interno curva senza preoccuparsi troppo di asfalto etc, e poi appena vedi che la curva si apre dai gas
-[14:41, 10/26/2018] Alessandro AdM: Di nuovo a scriverlo sembra una banalità
-[14:42, 10/26/2018] Alessandro AdM: Ma io appena la mettevo in piega la moto su strada davo subito gas, un pelo, per "sostenerla"
-[14:42, 10/26/2018] Giacomo Saponaro: Ho una teoria
-[14:42, 10/26/2018] Alessandro AdM: Ma in questo modo avevo sempre la moto che allargava e io dalli a cercare di tenerla giù... Impossible
-

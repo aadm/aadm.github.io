@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ag "status: draft" content/*
+grep -Iirl "^status: draft" .
