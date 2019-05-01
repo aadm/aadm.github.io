@@ -10,26 +10,26 @@ TIMEZONE = "Europe/Paris"
 PATH = 'content'
 DEFAULT_LANG = u'en'
 
-ARTICLE_PATHS = [
-    '2012-07-31-panasonic-gf1-late-review.md',
-    '2015-03-13-black-and-white.md',
-    '2016-10-12-fuji-me-too.md',
-    '2016-02-02-a-little-camera.md',
-    '2017-02-02-late-review-of-the-fuji-xpro1.md',
-    '2016-03-29-capturing-things.md',
-    '2017-02-19-that-guy-in-cuba.md',
-    '2017-07-28-thoughts-on-photography-2.md',
-    '2017-07-11-thoughts-on-photography-1.md',
-    '2017-07-12-narrative.md',
-    '2017-08-03-la-moto-del-prossimo-anno.md',
-    '2017-07-05-art-photographers.md',
-    '2017-10-06-bari.md',
-    '2018-03-05-best-sensor-ever-ita.md',
-    '2018-12-07-a-guzzi-miniadventure.md',
-    '2018-12-08-relocating-to-linux.md',
-    '2018-03-05-best-sensor-ever.md',
-    '2018-12-08-curve-in-montagna.md',
-    '2019-04-30-moto-guzzi-v7.md']
+# ARTICLE_PATHS = [
+#     '2012-07-31-panasonic-gf1-late-review.md',
+#     '2015-03-13-black-and-white.md',
+#     '2016-10-12-fuji-me-too.md',
+#     '2016-02-02-a-little-camera.md',
+#     '2017-02-02-late-review-of-the-fuji-xpro1.md',
+#     '2016-03-29-capturing-things.md',
+#     '2017-02-19-that-guy-in-cuba.md',
+#     '2017-07-28-thoughts-on-photography-2.md',
+#     '2017-07-11-thoughts-on-photography-1.md',
+#     '2017-07-12-narrative.md',
+#     '2017-08-03-la-moto-del-prossimo-anno.md',
+#     '2017-07-05-art-photographers.md',
+#     '2017-10-06-bari.md',
+#     '2018-03-05-best-sensor-ever-ita.md',
+#     '2018-12-07-a-guzzi-miniadventure.md',
+#     '2018-12-08-relocating-to-linux.md',
+#     '2018-03-05-best-sensor-ever.md',
+#     '2018-12-08-curve-in-montagna.md',
+#     '2019-04-30-moto-guzzi-v7.md']
 
 
 SUMMARY_MAX_LENGTH = 60
