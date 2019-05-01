@@ -5,7 +5,7 @@ tags: cycling, video, notes
 
 Ammetto che non mi ha un po' scocciato questa cosa.
 
-Intendo i risultati avuti su mtb-forum. Il fatto che né [l'episodio 1](http://aadm.github.com/2011-12-20-winter-riding-milano-episode-1.html) né [il 2](http://aadm.github.com/2012-02-09-winter-riding-milano-episode-2.html) abbiano vinto il titolo di video della settimana. E che siano stati premiati video che riprendono riding banale o che mostrano sciatteria nelle riprese o nell'editing.
+Intendo i risultati avuti su mtb-forum. Il fatto che né [l'episodio 1](http://aadm.github.io/2011-12-20-winter-riding-milano-episode-1.html) né [il 2](http://aadm.github.io/2012-02-09-winter-riding-milano-episode-2.html) abbiano vinto il titolo di video della settimana. E che siano stati premiati video che riprendono riding banale o che mostrano sciatteria nelle riprese o nell'editing.
 
 Dovrei essere contento dei risultati visto che il primo episodio, [messo online su mtb-forum](http://video.mtb-forum.it/videos/view/1586) il 19 dicembre 2011, aveva dopo circa un mese (13 gennaio 2012) 6608 views e 51 "mi piace". Sicuramente aiutato dalla [pubblicazione in prima pagina sul magazine di mtb-forum.it](http://www.mtb-forum.it/video-winter-riding-milano/).
 

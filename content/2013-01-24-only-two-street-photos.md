@@ -2,7 +2,7 @@ title: only two street photos
 tags: photo
 
 
-I want a [Fuji XE-1](http://aadm.github.com/2012-12-17-fuji-test-day.html). But I would not complain if I had an X-Pro 1. So there's [this contest](http://www.streetsofchrome.com/) where you can win an X-Pro 1 with the 35mm f/1.4, you just need to send two photographs and hope for the best.
+I want a [Fuji XE-1](http://aadm.github.io/2012-12-17-fuji-test-day.html). But I would not complain if I had an X-Pro 1. So there's [this contest](http://www.streetsofchrome.com/) where you can win an X-Pro 1 with the 35mm f/1.4, you just need to send two photographs and hope for the best.
 
 I know that it's totally delusional to even hope for the best but you never know.
 

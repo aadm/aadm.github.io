@@ -36,15 +36,15 @@ blockquote {
 
 .navbar-default, .navbar-brand {
     font-family:'Roboto';
-    font-weight:300;
+    font-weight: 300;
     /*color: #F0F0F0;*/
-    /*font-size:100%*/
+    font-size:125%
     /*background-color: #F0F0F0;*/
     /*border-color: #???;*/
 }
 
 .page-header {
-    /*font-family:'PT Serif';*/
+    /* font-family:'PT Serif'; */
     /*font-style: italic;*/
     /*font-weight:bold;*/
     /*border-style:hidden;*/

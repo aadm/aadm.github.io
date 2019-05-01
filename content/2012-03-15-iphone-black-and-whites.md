@@ -1,6 +1,6 @@
 title: iphone black and whites
 date: 2012-03-15
-tags: photo, apple
+tags: photo, computer, tech
  
 
 I'm a believer now: with an iPhone (4S) and a nice cool application such as Snapseed, you can really get good shots. I hesitate to call them 'artistic' even if other people may do so. That's not art to replicate the look of a heavily pushed Kodak Tri-X, but they are cool nonetheless.

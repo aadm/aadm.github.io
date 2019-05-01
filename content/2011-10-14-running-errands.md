@@ -1,7 +1,6 @@
 title: running errands
 Date: 2011-10-14 00:39
-tags: quote, apple
- 
+tags: quote, computer
 
 "I was out running errands today, walking through the city. I remembered, a
 mile away from home, that a screw had fallen out of my wife’s favorite

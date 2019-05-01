@@ -1,6 +1,5 @@
 title: google calendar activity tracker
-tags: tech, cycling, apple
-
+tags: tech, cycling, computer
 
 It's been years since I started using Google Calendar to keep track my sports activities. I guess there are countless apps to do this but all I needed is something basic that I can access from anywhere. Since I already have synced my iPhone with Google Calendar, I can basically enter data from wherever I am, even if there is no internet connection, and then have it synced back to my main repository on Google servers as soon as I'm back online.
 
@@ -24,8 +23,7 @@ And this is what a typical month looks like in my Google Calendar (there is some
 
 Finally, here's the script (please read the notes below):
 
-{% highlight python %}
-
+:::python
 from pylab import *
 import getpass
 import gdata.calendar.service
@@ -100,7 +98,6 @@ def DateRangeQuery(calendar_service, start_date, end_date, calname):
 if __name__ == "__main__":
     out=main()
     show()
-{% endhighlight %}
 
 A few notes about this script:
 
@@ -108,10 +105,10 @@ A few notes about this script:
 * You need to have the [gdata Python library](https://code.google.com/p/gdata-python-client/) installed. There is a way to avoid importing the library altogether[^nota-install-gdata]. What you need to do is just to make the `gdata` and `atom` subdirectories that you find below `src` after unpacking the tar.gz available in the directory where you run the script. By the way, I have used `gdata-2.0.18.tar.gz` which is the latest version at the time of writing.
 * Another way to avoid installing gdata but keeping things a bit more organized is to keep the gdata folder stored somewhere and then add its path by inserting these two lines at the beginning:
 
-{% highlight python %}
+:::python
 import sys
 sys.path.append("~/Documents/_PROG/PYTHON/gdata-2.0.18/src/gdata")
-{% endhighlight %}
+
 
 * For some reasons however the above method only works if I run the script from within Canopy and not from Terminal. I have no idea why and I have no intention to spend any more time investigating this little bugger.
 * This script works from the terminal by typing `$ python gcal_sport.py` or whatever you want to call this script. To make the plots persistent I had to add the `show(block=False)` in the main function and `show()` at the end of the script. If you run it under iPython (Canopy for example uses iPython) then you can get rid of the `block=False` option and delete the last `show()` line.

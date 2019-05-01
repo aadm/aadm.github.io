@@ -1,13 +1,13 @@
-title: beatiful apps
+title: beautiful apps
 Date: 2011-09-30 09:42
-tags: apple
+tags: computer
  
 
 
 ![](http://dl.dropbox.com/u/179731/tumblr_lsbs30wlsP1qb0fqco1_400.png)
 ![](http://dl.dropbox.com/u/179731/tumblr_lsbs30wlsP1qb0fqco2_400.png)
 
-I honestly don't know what the fuck is with these "beatiful" apps for iOS.
+I honestly don't know what the fuck is with these "beautiful" apps for iOS.
 
 Here's [another one](http://www.6wunderkinder.com/wunderlist/) that's getting
 raving reviews: it's a simple task management app that focuses on cloud
@@ -26,4 +26,4 @@ And so I'm back to the quick & naked checklists of
 [Simplenote](http://simplenoteapp.com/).
 
 Oh and the screenshots above ? I'll leave to your imagination to understand
-which is which. One is "beatiful", the other is just quick.
+which is which. One is "beautiful", the other is just quick.

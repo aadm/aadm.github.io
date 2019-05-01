@@ -9,7 +9,7 @@ Golden, Colorado.
   
 [![golden_2769](http://farm4.static.flickr.com/3247/3059359181_3a5c4478e6.jpg)](http://www.flickr.com/photos/aadm/3059359181/)  
   
-Ho arrangiato una cosa simile a [questa](http://aadm.github.com/2008-05-20-santa-cruz-a-business-trip.html), però stavolta non ho dovuto prendere voli extra; il meeting (di lavoro) era alla Colorado School of Mines che si trova proprio a Golden. Nessun volo extra per due giornate piene di mountain biking.  
+Ho arrangiato una cosa simile a [questa](http://aadm.github.io/2008-05-20-santa-cruz-a-business-trip.html), però stavolta non ho dovuto prendere voli extra; il meeting (di lavoro) era alla Colorado School of Mines che si trova proprio a Golden. Nessun volo extra per due giornate piene di mountain biking.  
   
 La geografia della zona:  
 [![Golden mtb trails 1](http://farm4.static.flickr.com/3068/3076074760_163a7d8f8c_o.png)](http://www.flickr.com/photos/aadm/3076074760/)  

@@ -1,6 +1,6 @@
 title: an app to store my passwords
 Date: 2011-02-17 21:32
-tags: apple, tech
+tags: computer, tech
  
 
 **What I was looking for: an app to store my passwords**

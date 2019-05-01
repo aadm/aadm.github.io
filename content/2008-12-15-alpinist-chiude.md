@@ -7,6 +7,6 @@ tags: misc
   
 Il numero 26 di Alpinist [non uscirà mai](http://web.archive.org/web/20090123034541/http://www.alpinist.com/doc/web08f/wfeature-last-one). 
   
-E anche io ho smesso di arrampicare. Niente più [climbing partners](http://aadm.github.com/2007-03-16-version-10-climbing-partner.html).  
+E anche io ho smesso di arrampicare. Niente più [climbing partners](http://aadm.github.io/2007-03-16-version-10-climbing-partner.html).  
 
 

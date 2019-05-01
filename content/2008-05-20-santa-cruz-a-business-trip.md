@@ -43,7 +43,7 @@ Li abbiamo fatti tutti i trail, percorrendo il Ridge Trail che ti porta lungo la
   
 Mi restano in mente questi percorsi perché molto giocosi e divertenti; niente di veramente tecnico, ma pieni di salti e saltini e passerelle. Alla fine pure io (quello che quando stacca entrambe le ruote da terra si frattura il coccige) mi sono sentito invogliato ad affrontare saltini e piccoli drop ! Anche i sentieri di collegamento erano poi piacevolissimi; si pedalava al fresco, immersi in un sottobosco fitto e profumato, e di tanto in tanto si intravedeva il bel contrasto del cielo blu intenso contro il terreno di arenarie rosse.  
   
-La bici poi, davvero una favola; era una Santa Cruz Nomad da cinquemila dollari, montata con Fox 36 Talas e DHX Air 5.0, che in discesa la sentivo mia, divertentissima come se l'avessi guidata da sempre; ma è in salita che mi ha davvero strabiliato, perché [davvero si arrampicava come una capra](http://aadm.github.com/2008-03-19-transition-preston-a-year-later.html) !  
+La bici poi, davvero una favola; era una Santa Cruz Nomad da cinquemila dollari, montata con Fox 36 Talas e DHX Air 5.0, che in discesa la sentivo mia, divertentissima come se l'avessi guidata da sempre; ma è in salita che mi ha davvero strabiliato, perché [davvero si arrampicava come una capra](http://aadm.github.io/2008-03-19-transition-preston-a-year-later.html) !  
   
 [![SantaCruz_1878](http://farm3.static.flickr.com/2131/2505055638_d2898ccc2a.jpg)](http://www.flickr.com/photos/aadm/2505055638/)  
   

@@ -5,7 +5,7 @@ tags: cycling, video
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/nb1_m14Q9oc?rel=0" frameborder="0"> </iframe>
 
-[As promised before](http://aadm.github.com/2011-12-20-winter-riding-milano-episode-1.html), here's episode 2 of the miniseries "Winter Riding Milano".
+[As promised before](http://aadm.github.io/2011-12-20-winter-riding-milano-episode-1.html), here's episode 2 of the miniseries "Winter Riding Milano".
 
 It was shot with Masatomo on Monte Canto, another beatiful riding spot close to Milan with lots of natural trails. What is shown here is a classic one: starting from Sotto il Monte we cycled up to the top and then down on the Kompressor trail.
 

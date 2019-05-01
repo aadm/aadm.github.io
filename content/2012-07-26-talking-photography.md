@@ -2,7 +2,7 @@ title: talking photography
 tags: links, photo
 
 
-There are still pearls to be found on the internet, [after all](http://aadm.github.com/2012-06-02-these-tech-writers-invettiva.html).
+There are still pearls to be found on the internet, [after all](http://aadm.github.io/2012-06-02-these-tech-writers-invettiva.html).
 
 In these days I have found three photography blogs which are full of interesting and well written articles; stimulating, instructive, much better of the crap that Popular Photography publishes (and I'm not even mentioning the countless websites and blogs of pixel-peepers and technology feticists).
 

@@ -1,5 +1,5 @@
 title: blog update
-tags: apple,tech
+tags: computer,tech
 
 It's been [more than a year since I moved to a Jekyll blog](2012-07-12-moving-to-github.html) hosted on github. I think I have never been so productive in this period of time, despite having a much busier life both at work and off-work (Valentina is here and she's here to stay! We have now trespassed the 15 months mark, if she was a car I'd say we have a looser engine now -- and it shows from the way she runs and skettles; she is just _unstoppable_).
 

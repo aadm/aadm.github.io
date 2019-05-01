@@ -14,7 +14,7 @@ They may not show what the true Rosamarina is: to do that, I should have taken p
 
 I should have done this if I wanted to give an objective view of Rosamarina but in the end I decided that I didn't care about this; what I wanted was only to mark a specific moment in my life.
 
-And the images that I have here will be precious to me in a few year's time, as they will remind me of that moment when I went back to Rosamarina with my newborn baby girl, [Valentina](http://aadm.github.com/2012-08-04-valentina.html).
+And the images that I have here will be precious to me in a few year's time, as they will remind me of that moment when I went back to Rosamarina with my newborn baby girl, [Valentina](http://aadm.github.io/2012-08-04-valentina.html).
 
 <a href="http://www.flickr.com/photos/aadm/7932925194/" title="_D7K6251 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8312/7932925194_58ff3b0b93_z.jpg" width="640" height="424" alt="_D7K6251"></a>
 <center><i>Home #1.</i></center>

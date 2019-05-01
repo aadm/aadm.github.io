@@ -1,5 +1,5 @@
 title: my new mac is a hack
-tags: apple, tech
+tags: computer, tech
 
 
 ![](http://dl.dropbox.com/u/179731/IMG_4551_hackintosh.jpg)

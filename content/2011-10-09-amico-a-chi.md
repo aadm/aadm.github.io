@@ -1,6 +1,6 @@
 title: amico a chi
 Date: 2011-10-09 22:41
-tags: video
+tags: video, notes
  
 
 Anche se non sembra, questo è il mio tributo a Steve Jobs.

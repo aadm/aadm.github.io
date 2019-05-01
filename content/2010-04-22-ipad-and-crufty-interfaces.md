@@ -1,6 +1,6 @@
 title: ipad and crufty interfaces
 Date: 2010-04-22 09:09
-tags: apple
+tags: computer
  
 
 [iPad and crufty interfaces](http://web.archive.org/web/20051107101903/http://

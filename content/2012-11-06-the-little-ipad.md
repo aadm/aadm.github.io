@@ -1,9 +1,8 @@
 title: the little ipad
-tags: apple, tech
-excerpt:
+tags: computer, tech
 
 
-I wrote something about this little iPad [a while ago](http://aadm.github.com/2012-07-19-ipad-mini-needs.html), and on reading again that piece I find that it still represent my thoughts today. Yesterday Apple held the official announcement and among other cool things[^1] there was the iPad mini. 
+I wrote something about this little iPad [a while ago](http://aadm.github.io/2012-07-19-ipad-mini-needs.html), and on reading again that piece I find that it still represent my thoughts today. Yesterday Apple held the official announcement and among other cool things[^1] there was the iPad mini. 
 
 I'm disappointed by two things; first is the lack of the retina display, but I now understand what's at stake here (and I can't believe all the tech commenters do not realize this): you want the retina display, you need more power and more battery to feed it.
 
@@ -13,10 +12,10 @@ Now, it's obvious that one year from now there *will* be a retina iPad mini; in 
 
 The second disappointment is the price: I was expecting to pay $250 for the base model, and I was willing to concede Apple the extra $50 compared to Google's Nexus because of the more rounded experience that iPad currently offers. But $329 for the 16Gb model is too close to the price of the larger iPad 2. Will it stop me from buying it? No, because I wanted a smaller, more portable device; something integrated with my iPhone and my computer at home running OS X; something that I already know how to use and does not give me headaches[^2] . But if I want to give a tablet to my mum for example, so that she can check my newborn daughter's progress, I will not spend $329 and I will seriously look at some Android alternative[^3].
 
-However, the point is -- what do you need a tablet for? I have already detailed my ideal needs [in the aforementioned post](http://aadm.github.com/2012-07-19-ipad-mini-needs.html), but to recap and recalibrate my ideas: I would need it (omitting the obvious internet/email things) to store and do a first quick review of photographs, when I'm away from home for some extended period of time; to work on my writing (I use very often Byword on my iPhone and I'm sure that doing so on a larger display would help immensely); for sketching and reading and annotating PDFs (I have always been unable to read PDFs on a computer screen, but doing that on an iPad is slightly more convenient)[^4].
+However, the point is -- what do you need a tablet for? I have already detailed my ideal needs [in the aforementioned post](http://aadm.github.io/2012-07-19-ipad-mini-needs.html), but to recap and recalibrate my ideas: I would need it (omitting the obvious internet/email things) to store and do a first quick review of photographs, when I'm away from home for some extended period of time; to work on my writing (I use very often Byword on my iPhone and I'm sure that doing so on a larger display would help immensely); for sketching and reading and annotating PDFs (I have always been unable to read PDFs on a computer screen, but doing that on an iPad is slightly more convenient)[^4].
 
 Yes I know, all boring and conventional stuff, something that I am pretty certain that an iPad mini will allow me to do easily.   
-But what about something new, something that could really alter a photographer's workflow, and maybe improve it? Back in 2010 I had [an idea about using a tablet to help a photographer's work](http://aadm.github.com/2010-08-03-ipad-and-photography.html). Later on, I found that my ideas/dreams were realized by some [clever](http://www.photosmithapp.com/) [folks](http://pixelsyncapp.com/), but very little is made of these apps when discussing iPads/tablets and photography, and the usual story is about using the tablet as a portfolio viewer.
+But what about something new, something that could really alter a photographer's workflow, and maybe improve it? Back in 2010 I had [an idea about using a tablet to help a photographer's work](http://aadm.github.io/2010-08-03-ipad-and-photography.html). Later on, I found that my ideas/dreams were realized by some [clever](http://www.photosmithapp.com/) [folks](http://pixelsyncapp.com/), but very little is made of these apps when discussing iPads/tablets and photography, and the usual story is about using the tablet as a portfolio viewer.
 
 So I ask myself, is there something else I could use an iPad for? how do skilled photographers (not tech-nerds, because I don't want to end up reading the equivalent of using iPhones for shopping lists) use their tablets for? 
 

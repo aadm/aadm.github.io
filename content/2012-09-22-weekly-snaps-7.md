@@ -3,7 +3,7 @@ tags: photo
 Series: weekly snaps
 
 
-Random photos this time. Some are very old, and I can't even recall which lens I used. The last two are reminders that today was Giulia's birthday (and this year there was nothing really which could compete with that special gift we're enjoying together since [the 4th of August](http://aadm.github.com/2012-08-04-valentina.html)).
+Random photos this time. Some are very old, and I can't even recall which lens I used. The last two are reminders that today was Giulia's birthday (and this year there was nothing really which could compete with that special gift we're enjoying together since [the 4th of August](http://aadm.github.io/2012-08-04-valentina.html)).
 
 <a href="http://www.flickr.com/photos/aadm/8013660302/" title="Lulworth_Cove_1 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8296/8013660302_c2b97b5aa1_z.jpg" width="640" height="419" alt="Lulworth_Cove_1"></a>
 <center><i>Lulworth Cove (UK). Nikon F70, 35mm f2(?), Kodak Tri-X 400.</i></center>

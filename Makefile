@@ -34,8 +34,8 @@ help:
 	@echo '   make site                    (re)generate the web site'
 	@echo '   make clean                   remove the generated files'
 	@echo '   make publish                 generate using production settings '
-	@echo '   make controllo               launch site at  http://localhost:8000'
-	@echo '   make gh                      push website+source to github'
+	@echo '   make localsite               launch site at  http://localhost:8000'
+	@echo '   make gh                      push site & source to github'
 	@echo '   make ghsrc                   push source code to github'
 	@echo '   make newpost NAME=whatever'
 	@echo '   make newpage NAME=whatever'
@@ -53,10 +53,10 @@ publish:
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
-controllo:
+localsite:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) --listen -r 
 
-
+	
 # regenerate:
 # 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 

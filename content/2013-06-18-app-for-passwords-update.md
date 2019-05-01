@@ -1,7 +1,5 @@
 title: app for passwords update
-tags: apple, tech
-
-
+tags: computer, tech
 
 I have been using iAccounts, a simple iPhone app to keep track of my passwords and other sensitive information, since 2011 (I also [wrote a short note](http://aadm.github.io/2011-02-17-an-app-to-store-my-passwords.html) about it).
 

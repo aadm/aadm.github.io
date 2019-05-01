@@ -3,7 +3,7 @@ tags: tech
 
 If somebody would actually read these posts he'd start thinking something like "what a loser".
 
-Here I am, a fairly old [git](http://en.wiktionary.org/wiki/git), waiting for his [first baby](http://aadm.github.com/2012-02-20-five-months-to-go.html), with too many things to do at work (and off-work), losing precious sleep hours to relocate his blog on GitHub.
+Here I am, a fairly old [git](http://en.wiktionary.org/wiki/git), waiting for his [first baby](http://aadm.github.io/2012-02-20-five-months-to-go.html), with too many things to do at work (and off-work), losing precious sleep hours to relocate his blog on GitHub.
 
 And what the hell is GitHub, asks the non-geek. Well, [GitHub](http://www.github.com) is basically a VCS (Version Control Systems[^1]) that allows programmers and hackers to exchange and host their coding efforts; but it does more than that, such as the possibility to host also personal blogs for free.
 
@@ -27,7 +27,7 @@ I first tried [calepin.co](http://aadm.calepin.co/) then [scriptogr.am](http://s
 
 After a while, I was enjoying the tinkering but wanted something more -- more control of what my blog would look like I think; Calepin didn't allow that, scriptogram did but to see the results you always had to go through the internet and what I wanted was a copy of my blog living its life on my computer. So I discovered the possibility to blog like a pro; free hosting on GitHub, a local installation of the static site generation engine (Jekyll), keeping track of endless modifications via this version control system.
 
-I started converting all my posts in a format suitable for Jekyll. I was already far ahead in this process since I already did all the heavy work (pulling my stuff from Wordpress and Tumblr, convert their xml -- or whatever format their exporter used -- in Markdown) when [I switched to Calepin/scriptogr.am](http://aadm.github.com/2012-01-23-moving-to-calepin.html).
+I started converting all my posts in a format suitable for Jekyll. I was already far ahead in this process since I already did all the heavy work (pulling my stuff from Wordpress and Tumblr, convert their xml -- or whatever format their exporter used -- in Markdown) when [I switched to Calepin/scriptogr.am](http://aadm.github.io/2012-01-23-moving-to-calepin.html).
 
 What was left was just some more tinkering with the local installation of Jekyll, but the [instructions I followed](http://jekyllbootstrap.com/) were very well made and I had very few problems (worth reminding that I'm a 60% nerd myself, so for my brother or computer-challenged people I would still recommend Tumblr).
 
@@ -43,7 +43,7 @@ Then only a few days ago I wanted something different, probably inspired by thes
 
 Looking at these two sites (and countless others) I realized that pure black and pure white is not cool. Shades of grey, they're cool. So I aimed at building a not-so-white page floating on a darker background. And while I was at that I also played with fonts a little bit; I kept Optima as the main one, Helvetica for headers and then chose Futura for the title, navigational texts and copyrights. Does it work? For now it does. I have the majority of my readers agreeing with me (it's just two friends actually).
 
-I was trying to get the same experience when viewing the blog on Mac and PCs, but [this is for another time](http://aadm.github.com/2012-07-17-fonts-on-my-blog.html). How the blog looks is very important to me and to countless other freaks.
+I was trying to get the same experience when viewing the blog on Mac and PCs, but [this is for another time](http://aadm.github.io/2012-07-17-fonts-on-my-blog.html). How the blog looks is very important to me and to countless other freaks.
 
 Incidentally, I think the best looks that I've ever got was this one on my Wordpress blog:
 

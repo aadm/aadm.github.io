@@ -1,5 +1,5 @@
 title: open mtb maps
-tags: cycling, apple, tech
+tags: cycling, computer, tech
 
 
 A short recap on how to build and install open mtb maps under OS X.

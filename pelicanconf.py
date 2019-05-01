@@ -10,26 +10,26 @@ TIMEZONE = "Europe/Paris"
 PATH = 'content'
 DEFAULT_LANG = u'en'
 
-# ARTICLE_PATHS = [
-#     '2012-07-31-panasonic-gf1-late-review.md',
-#     '2015-03-13-black-and-white.md',
-#     '2016-10-12-fuji-me-too.md',
-#     '2016-02-02-a-little-camera.md',
-#     '2017-02-02-late-review-of-the-fuji-xpro1.md',
-#     '2016-03-29-capturing-things.md',
-#     '2017-02-19-that-guy-in-cuba.md',
-#     '2017-07-28-thoughts-on-photography-2.md',
-#     '2017-07-11-thoughts-on-photography-1.md',
-#     '2017-07-12-narrative.md',
-#     '2017-08-03-la-moto-del-prossimo-anno.md',
-#     '2017-07-05-art-photographers.md',
-#     '2017-10-06-bari.md',
-#     '2018-03-05-best-sensor-ever-ita.md',
-#     '2018-12-07-a-guzzi-miniadventure.md',
-#     '2018-12-08-relocating-to-linux.md',
-#     '2018-03-05-best-sensor-ever.md',
-#     '2018-12-08-curve-in-montagna.md',
-#     '2019-04-30-motoguzziv7.md']
+ARTICLE_PATHS = [
+    '2012-07-31-panasonic-gf1-late-review.md',
+    '2015-03-13-black-and-white.md',
+    '2016-10-12-fuji-me-too.md',
+    '2016-02-02-a-little-camera.md',
+    '2017-02-02-late-review-of-the-fuji-xpro1.md',
+    '2016-03-29-capturing-things.md',
+    '2017-02-19-that-guy-in-cuba.md',
+    '2017-07-28-thoughts-on-photography-2.md',
+    '2017-07-11-thoughts-on-photography-1.md',
+    '2017-07-12-narrative.md',
+    '2017-08-03-la-moto-del-prossimo-anno.md',
+    '2017-07-05-art-photographers.md',
+    '2017-10-06-bari.md',
+    '2018-03-05-best-sensor-ever-ita.md',
+    '2018-12-07-a-guzzi-miniadventure.md',
+    '2018-12-08-relocating-to-linux.md',
+    '2018-03-05-best-sensor-ever.md',
+    '2018-12-08-curve-in-montagna.md',
+    '2019-04-30-moto-guzzi-v7.md']
 
 
 SUMMARY_MAX_LENGTH = 60
@@ -49,10 +49,11 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 INDEX_SAVE_AS = 'blog_index.html'
 # NOTEBOOK_DIR = '/Users/aadm/GOOGLEDRIVE/PYTHON/geophysical_notes'
 
-MENUITEMS=(
+MENUITEMS = {
     ('journal', '/blog_index.html'),
     ('projects', '/pages/projects.html'),
-    ('about', '/pages/about.html'))
+    ('about', '/pages/about.html')
+}
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 THEME = "themes/pelican-bootstrap3/"
@@ -89,14 +90,15 @@ CUSTOM_CSS = 'static/custom.css'
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = [
-    # 'i18n_subsites', 
     'series',
     'neighbors',
     'related_posts',
-    'summary',
-    'liquid_tags',
-    'liquid_tags.youtube',
-    'liquid_tags.flickr']
+    'summary']
+
+# 'i18n_subsites'
+# 'liquid_tags'
+# 'liquid_tags.youtube'
+# 'liquid_tags.flickr'
 # 'tipue_search'
 
 CLEAN_SUMMARY_MAXIMUM = 2
@@ -122,16 +124,17 @@ AUTHOR_FEED_RSS = None
 CC_LICENSE = 'CC-BY-NC-ND'
 
 # Blogroll
-# LINKS = (('Motomatters', 'https://motomatters.com/'),
+# LINKS = {('Motomatters','https://motomatters.com/'),
 #          ('Pinkbike', 'http://www.pinkbike.com/'),
 #          ('Andrew Molitor', 'http://photothunk.blogspot.no/'),
-#          ('The Online Photographer', 'http://theonlinephotographer.typepad.com/the_online_photographer/blog_index.html'),)
+#          ('TOP', 'http://theonlinephotographer.typepad.com/)}
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/aadmtwi'),
           ('github',  'http://github.com/aadm'),
           ('flickr',  'http://www.flickr.com/photos/aadm'),
           )
+
 GOOGLE_ANALYTICS = 'UA-32354823-1'
 TYPOGRIFY = True
 

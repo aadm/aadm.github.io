@@ -3,9 +3,9 @@ tags: photo
 Series: weekly snaps
 
 
-This week's post has been delayed by some [very expected news](http://aadm.github.com/2012-08-04-valentina.html).
+This week's post has been delayed by some [very expected news](http://aadm.github.io/2012-08-04-valentina.html).
 
-I'll start off with two variations of a similar photo I published in [Weekly snaps #3](http://aadm.github.com/2012-07-27-weekly-snaps-3.html); the first is a classical black and white, the second a slightly toned black and white.
+I'll start off with two variations of a similar photo I published in [Weekly snaps #3](http://aadm.github.io/2012-07-27-weekly-snaps-3.html); the first is a classical black and white, the second a slightly toned black and white.
 
 Then I have three photos which were the first ones shot with the Nikon D7000; they were very poor in terms of exposure accuracy but then I was very surprised at the amount of stuff I could recover in post processing; a truly wonderful sensor inside the D7000.
 
