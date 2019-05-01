@@ -3,11 +3,11 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Serif:700italic,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,700,300italic,700italic);
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   .container {
     width: 750px;
   }
-}
+} */
 
 @media (min-width: 1200px) {
   .container {
@@ -18,7 +18,7 @@
 body{
     font-family:'Roboto';
     font-weight:300;
-    font-size:200%;
+    font-size:150%;
 }
 
 p, li {
