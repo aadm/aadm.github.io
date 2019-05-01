@@ -11,13 +11,13 @@ Ok let me say that there's a happy ending to this story: the motherboards were n
 
 So I built [these two hackintosh](http://aadm.github.io/2012-05-03-my-new-mac-is-a-hack.html), one for me (A) one for a friend (B). 
 
-component | hackintosh (A)                | hackintosh (B)               
-CPU       | Intel Core i5-2500K 3.3GHz    | Intel Core i3-2105 3.1Hz   
-M/board   | Gigabyte GA-H61N-USB3         | Gigabyte GA-H61N-USB3        
-ram       | Corsair 2x4Gb XMS             | Corsair 2x4Gb Value            
-hd        | Corsair SSD 115GB             | Corsair ssd 115GB
-case      | Silverstone SST-SG05B         | Nilox / Apex MI-10
-
+|         | A                     | B                     |
+| ------- | --------------------- | --------------------- |
+| CPU     | Core i5-2500K 3.3GHz  | Core i3-2105 3.1Hz    |
+| M/board | Gigabyte GA-H61N-USB3 | Gigabyte GA-H61N-USB3 |
+| ram     | Corsair 2x4Gb XMS     | Corsair 2x4Gb Value   |
+| ssd     | Corsair 115GB         | Corsair 115GB         |
+| case    | Silverstone SST-SG05B | Nilox / Apex MI-10    |
 
 As you can see, fairly standard builds following the [hackmini example by tonymac](http://tonymacx86.blogspot.it/2011/09/building-sandy-bridge-customac-customac.html).
 
@@ -92,23 +92,25 @@ It all worked out in the end except for the graphic card which was not recognize
 
 So this is the updated list of components and total price for my hackintosh:
 
-component | details                       | price [€]   | notes  
-CPU       | Intel Core i5-2500K 3.3GHz    | 185.25      | amazon.it  
-M/board   | Gigabyte GA-H61N-USB3         | 78.36       | stele.it  
-ram       | Corsair 2x4Gb XMS             | 41.24       | stele.it  
-hd        | Corsair ssd 115GB SATAII F115 | 108.50      | stele.it  
-case      | Silverstone SST-SG05B 300W    | 101.30      | stele.it  
-wifi      | TP-Link USB TL-WN727N         | 7.66        | stele.it  
-bluetooth | Belkin Bluetooth USB adapter  | 8.54        | amazon.it  
-gpu       | Sapphire Radeon HD5450 2GB    | 45          | local shop
-total     |                               | 575.85      |
+| component | details                       | price [€] | notes      |
+| --------- | ----------------------------- | --------- | ---------- |
+| CPU       | Intel Core i5-2500K 3.3GHz    | 185.25    | amazon.it  |
+| M/board   | Gigabyte GA-H61N-USB3         | 78.36     | stele.it   |
+| ram       | Corsair 2x4Gb XMS             | 41.24     | stele.it   |
+| hd        | Corsair ssd 115GB SATAII F115 | 108.50    | stele.it   |
+| case      | Silverstone SST-SG05B 300W    | 101.30    | stele.it   |
+| wifi      | TP-Link USB TL-WN727N         | 7.66      | stele.it   |
+| bluetooth | Belkin Bluetooth USB adapter  | 8.54      | amazon.it  |
+| GPU       | Sapphire Radeon HD5450 2GB    | 45        | local shop |
+| total     |                               | 575.85    |
 
 And this is the new benchmark comparison against other macs (small improvement in 10.7.4 using dedicated DSDT for the F8 Gigabyte m/b BIOS):
 
-computer     | geekbench      | xbench
-hack-mini    | 9029           | 330
-mb air       | 2087           | 117  
-macmini      | 3744           | 215  
-mb pro i7    | 9608           | --  
+| computer  | geekbench | xbench |
+| --------- | --------- | ------ |
+| hack-mini | 9029      | 330    |
+| mb air    | 2087      | 117    |
+| macmini   | 3744      | 215    |
+| mb pro i7 | 9608      | --     |
 
 Xbench ran with no thread test otherwise it would lock up, and geekbench is the 32-bit tryout mode.

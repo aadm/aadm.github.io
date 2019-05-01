@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Alessandro Amato del Monte'
-SITENAME = u'aadm'
+AUTHOR = 'Alessandro Amato del Monte'
+SITENAME = 'aadm'
 SITEURL = ''
 RELATIVE_URLS = True
 TIMEZONE = "Europe/Paris"
 PATH = 'content'
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 
 # ARTICLE_PATHS = [
 #     '2012-07-31-panasonic-gf1-late-review.md',
@@ -36,7 +36,8 @@ SUMMARY_MAX_LENGTH = 60
 NEWEST_FIRST_ARCHIVES = True
 DEFAULT_PAGINATION = 20
 # DEFAULT_DATE_FORMAT = '%a %d %B %Y'
-DEFAULT_DATE_FORMAT = '%d/%b/%Y'
+# DEFAULT_DATE_FORMAT = '%d/%b/%Y'
+DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
@@ -87,13 +88,23 @@ CUSTOM_CSS = 'static/custom.css'
 #     'markdown.extensions.extra',
 # ]
 
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = [
     'series',
     'neighbors',
     'related_posts',
-    'summary']
+    'summary',
+    'bootstrapify']
 
 # 'i18n_subsites'
 # 'liquid_tags'

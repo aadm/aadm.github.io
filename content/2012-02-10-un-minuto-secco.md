@@ -19,9 +19,11 @@ E non ci vuole una super bici né [Danny Hart](http://youtu.be/EqYgAX6D43Q); non
 
 Aspirare a questo:
 
-![The Collective   Shandro Smiling 1](http://dl.dropbox.com/u/179731/the%20collective%20-%20shandro%20smiling%201.jpg)
+![Andrew Shandro smiling 1]({static}/images/the-collective-shandro-smiling-1.jpg)
 
-![The Collective   Shandro Smiling 2](http://dl.dropbox.com/u/179731/the%20collective%20-%20shandro%20smiling%202.jpg)
+![Andrew Shandro smiling 2]({static}/images/the-collective-shandro-smiling-2.jpg)
+
+
 
 *Andrew Shandro in "The Collective", minuto 10'. Non ci sono salti, non c'è Hawaii o Nuova Zelanda; c'è un rider dal nome importante ma potrebbe essere uno qualunque; lui che si diverte, sprigiona gioia animalesca, ridiventa un bambino.*
 

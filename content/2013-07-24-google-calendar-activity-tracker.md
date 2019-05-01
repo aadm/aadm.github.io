@@ -11,18 +11,20 @@ Basically I enter in my calendar an event that begins with "B" for biking, "S" f
 
 These are two examples of the yearly reports:
 
-![](https://dl.dropboxusercontent.com/u/179731/sport_gcal_2010.png)
+![sport calendar 2010 example]({static}/images/sport_gcal_2010.png)
 
-![](https://dl.dropboxusercontent.com/u/179731/sport_gcal_2012.png)
+![sport calendar 2012 example]({static}/images/sport_gcal_2012.png)
 
 And this is what a typical month looks like in my Google Calendar (there is some differences in the codes that I use because for example I enter "C" for _corsa_, which is the italian for running; likewise I have two separate categories for biking, "B" for road biking and "MTB" for mountain biking; in the script however I have simplified the categories and only included one). You can also notice how I write additional info like duration and length whenever possible; someday I'll get around to do a Python script also to collect and make stats on this information.
 
-![](https://dl.dropboxusercontent.com/u/179731/google_calendar_esempio.png)
+![google calendar example]({static}/images/google_calendar_esempio.png)
+
 
 [^nota-calendar-id]: First you have to get the calendar ID. If you go into your calendar and click on the down arrow icon next to the name you will see an option for Calendar Settings. Select that menu item. Near the bottom you will see Calendar Address. It will take a moment to find the Calendar ID and it will look something like `o4g3921hdiaq5p8kdat2l4vgis@group.calendar.google.com`. (from <http://stackoverflow.com/questions/555468/how-do-i-insert-into-non-default-google-calendar-using-zend-php>).
 
 Finally, here's the script (please read the notes below):
 
+```
 :::python
 from pylab import *
 import getpass
@@ -98,6 +100,7 @@ def DateRangeQuery(calendar_service, start_date, end_date, calname):
 if __name__ == "__main__":
     out=main()
     show()
+```
 
 A few notes about this script:
 
@@ -105,10 +108,11 @@ A few notes about this script:
 * You need to have the [gdata Python library](https://code.google.com/p/gdata-python-client/) installed. There is a way to avoid importing the library altogether[^nota-install-gdata]. What you need to do is just to make the `gdata` and `atom` subdirectories that you find below `src` after unpacking the tar.gz available in the directory where you run the script. By the way, I have used `gdata-2.0.18.tar.gz` which is the latest version at the time of writing.
 * Another way to avoid installing gdata but keeping things a bit more organized is to keep the gdata folder stored somewhere and then add its path by inserting these two lines at the beginning:
 
+```
 :::python
 import sys
 sys.path.append("~/Documents/_PROG/PYTHON/gdata-2.0.18/src/gdata")
-
+```
 
 * For some reasons however the above method only works if I run the script from within Canopy and not from Terminal. I have no idea why and I have no intention to spend any more time investigating this little bugger.
 * This script works from the terminal by typing `$ python gcal_sport.py` or whatever you want to call this script. To make the plots persistent I had to add the `show(block=False)` in the main function and `show()` at the end of the script. If you run it under iPython (Canopy for example uses iPython) then you can get rid of the `block=False` option and delete the last `show()` line.

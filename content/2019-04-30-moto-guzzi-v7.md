@@ -4,6 +4,8 @@ Slug: moto-guzzi-v7
 Tags: moto
 Lang: it
 
+*versione provvisoria dell'articolo, da revisionare*
+
 Leggo il nuovo numero di Motociclismo dove mettono a confronto la mia Guzzi V7 con una Royal Enfield Interceptor. Già questa cosa mi pare una impertinenza. Confrontare una moto italiana con una indiana e lamentarsi che la prima costa tremila euro di più della seconda? Insomma, è un po' scontato eh. La Guzzi è tutta fatta a Mandello, ha componentistica forse datata ma di qualità (come le pinze freni Brembo); la piastra di sterzo povera? Certo, lo è, come tutte le moto che costano meno di diecimila euro ormai (vedi per confronto le recenti Ducati Scrambler). Ma su questo aspetto del costo, ci passo su; oggettivamente la V7 costa tanto per quello che è. Io personalmente non ho problemi con il prezzo di vendita perché dò importanza alla costruzione interamente in Italia, perché voglio supportare una casa storica italiana, perché non faccio la valutazione del rapporto prezzo/potenza quando compro una moto.
 
 Ma in questa prova c'è il secondo elemento negativo che mi fa profondamente incavolare; le pedane troppo basse, addirittura paragonate a quelle di una moto cruiser, che secondo il tester impedisce di curvare e di divertirsi in piega. Dalle foto di corredo all'articolo si intuisce, ma poi leggo i dati sui tester che vengono riportati; tester uno, un metro e ottanta e novanta chili; tester due, un metro e tot, centodiciassette chilogrammi. Centodiciassette chili uno e più di novanta l'altro? Be' ma mi sembra scontato che qualsiasi moto per di più priva di regolazioni soffra due pesi massimi come questi due. Motociclismo avrebbe dovuto affiancare un tester di dimensioni "medie" su cui sicuramente la Moto Guzzi ha tarato tutta la geometria della moto.
@@ -167,23 +169,32 @@ E lo strumento singolo? Mi sono rituffato nell'esperienza di quella Monster 900 
 
 Smanettando col manuale davanti, scopro anche due cose parecchio interessanti; primo, che si possono cambiare le unità di misura del consumo (e quindi setto km/l invece che i l/100km), e poi che posso modificare la soglia di accensione del led rosso che indica fuorigiri. Ci sono due soglie da settare; al raggiungimento della prima il led rosso lampeggia velocemente, alla seconda rimane fisso. Consulto le curve di coppia e decido per 5000 e 6000 giri.
 
-Parlando di elettronica, questa moto ha tutte le robe moderne che servono; ABS e controllo di trazione (disinseribile il secondo, il primo no, ma se si volesse fare degli sterrati basta levare il fusibile dell'ABS che si raggiunge facilmente rimuovendo la sella). Confesso che all'inizio rifiutavo questi sistemi; li continuo a rifiutare quando sono fin troppo personalizzabili, con 10 mappature per il motore, 5 livelli di anti impennata, e assurdità simili. Ma in questo caso penso siano perfettamente calibrati e poco invasivi. Due livelli di controllo di trazione, uno per la pioggia e l'altro per uso comune (che si attiva in continuazione se la usi sul pavè cittadino); c'è la possibilità di disattivarlo completamente se la si usa in pista (o vuoi fare il cretino in città). E poi c'è l'ABS, che vabbe', ormai è obbligatorio su tutte le moto nuove, e direi che su strada è utilissimo.
+Parlando di elettronica, questa moto ha tutte le robe moderne che servono; ABS e controllo di trazione (disinseribile il secondo, il primo no, ma se si volesse fare degli sterrati basta levare il fusibile dell'ABS che si raggiunge facilmente rimuovendo la sella). Confesso che all'inizio rifiutavo questi sistemi; li continuo a rifiutare quando sono fin troppo personalizzabili, con 10 mappature per il motore, 5 livelli di anti impennata, e assurdità simili. Ma in questo caso penso siano perfettamente calibrati e poco invasivi. Due livelli di controllo di trazione, uno per la pioggia e l'altro per uso comune (che si attiva in continuazione se la usi sul pavè cittadino); c'è la possibilità di disattivarlo completamente se la si usa in pista (o vuoi fare il cretino in città). E poi c'è l'ABS, che vabbe', ormai è obbligatorio su tutte le moto nuove.
+
+Altri punti essenziali di cui discutere, che per adesso accenno solo e in un secondo momento li espandero':
+
+- le recensioni di youtuber che la definiscono moto da principianti o da "donne"; ma sanno cosa significa guidare una moto? e sanno quanto puo' andare forte una donna?
+- la bellezza delle linee classiche, la moto essenziale, nulla di superfluo
+- il motore vecchio ma raffinato; comodo anche in citta'
+- quelle gomme tanto modaiole quanto sorprendentemente efficaci
+- la guida "da pista", fidandosi dell'anteriore, cosa che solo questa moto mi ha permesso di fare su strada: cioe' entrare in curva a gas chiuso, che sembra quasi una banalita' ma mi sono reso conto che io in strada non ho MAI lasciato il carico tutto sull'anteriore, perche' non mi sono mai fidato del grip della gomma, delle condizioni stradali, etc quindi ho sempre fatto le curve con un filo di gas, sempre un po' "puntato", il che poi mi porta puntualmente a combattere contro la tendenza naturalmente sottosterzante della moto.. invece ieri ho provato ad entrare cosi', e la moto chiude la traiettoria e poi riapro il gas e che rivelazione! e' tutto molto piu' facile, divertente, veloce, e sopratutto molta meno "fatica" nel tenere la moto chiusa all'interno della traiettoria!
+- difetti: che mi mostra come un modaiolo da bar quando invece sono un mediocre smanettone appassionato di guida.
+
 
 ## E le pedane?
 
 Alla critica di Ciaccia rispondo non con la mia esperienza personale che vale poco; sicuramente Ciaccia sarà più bravo di me alla guida, più sgamato nel raggiungere angoli di piega elevati. Mi limito a mostrare questa immagine:
 
-**foto vitto in pista** inserire qua la foto da facebook
+![Vitto con Guzzi V7 stock in pista]({static}/images/Guareschi_Guzzi_V7_stock_circuito.png)
 
-Vittoriano Guareschi con la "mia" V7 in pista. Notare le pedane, sono quelle di serie. Il commento che si leggeva a margine di questa fotografia, prelevata dalla loro pagina Facebook, è che hanno limato tutte le pedane. In pista però, andando "forte" (e quanto un ex campione italiano Supersport nonché collaudatore Ducati Motogp dice che va forte, ci credo).
+Vittoriano Guareschi con la "mia" V7 in pista (cioe' a dire il vero sarebbe la *sua* ma intendo *mia* perche' e' stata proprio quella che io ho provato a Ottobre scorso). Notare le pedane, sono quelle di serie. Il commento che si leggeva a margine di questa fotografia, prelevata dalla loro pagina Facebook, è che hanno limato tutte le pedane. In pista però, andando "forte" (e quanto un ex campione italiano Supersport nonché collaudatore Ducati Motogp dice che va forte, ci credo).
 
 Ma quindi queste pedane sono basse o no?
 
-La mia risposta è che sì, effettivamente sono basse, ma che assolutamente no, non sono di impaccio alla guida sportiva. A patto che siate di dimensioni e peso leggermente meno abbondanti dei tester di Motociclismo. La cosa che più mi dà fastidio è il cavalletto invece, quello sì che tocca con facilità a terra (parlo del braccetto sporgente con cui tirarlo giù in sosta). L'avevo toccato su asfalto freddo scendendo dal passo del Penice, la prima volta che ho fatto un giro "serio" con la moto. I Guareschi mi hanno curvato un po' il braccetto ma niente, anche durante un secondo giro, sempre in situazione di piega su avvallamenti, tocca terra di nuovo. Tra un paio di settimane ho degli interventi programmati sulla mia Guzzi tra cui anche una ulteriore modifica al cavalletto discussa con Vittoriano.
+Ok, onestamente lo sono eh, ma dire che sono "di impaccio alla guida sportiva", assolutamente no. A patto che siate di dimensioni e peso leggermente meno abbondanti dei tester di Motociclismo. La cosa che più mi dà fastidio è il cavalletto invece, quello sì che tocca con facilità a terra (parlo del braccetto sporgente con cui tirarlo giù in sosta). L'avevo toccato su asfalto freddo scendendo dal passo del Penice, la prima volta che ho fatto un giro "serio" con la moto. I Guareschi mi hanno curvato un po' il braccetto ma niente, anche durante un secondo giro, sempre in situazione di piega su avvallamenti, tocca terra di nuovo. Tra un paio di settimane ho degli interventi programmati sulla mia Guzzi tra cui anche una ulteriore modifica al cavalletto discussa con Vittoriano.
 
 ## LINKS
 
 <https://www.pipeburn.com/home/2017/09/06/pipeburn-review-moto-guzzis-2017-v7-iii-special-stone.html>
-
 
 <http://aadm-fotografia.tumblr.com/post/77947705824/guzzi-v35-sentita-prima-vista-poi-il>

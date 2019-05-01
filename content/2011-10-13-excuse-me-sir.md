@@ -1,7 +1,6 @@
 title: excuse me sir
 Date: 2011-10-13 12:39
-tags: quote, apple
- 
+tags: quote, computer
 
 "Excuse me, sir, would you mind taking our photo?"
 

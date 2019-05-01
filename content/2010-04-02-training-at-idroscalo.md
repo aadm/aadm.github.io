@@ -1,9 +1,9 @@
 title: training at idroscalo
 Date: 2010-04-02 00:56
-tags: cycling
- 
+tags: cycling, photo
 
-![](http://dl.dropbox.com/u/179731/489909610.jpg)
+
+![Idroscalo e Grigne]({static}/images/idroscalo-grigne-sanmarco.jpg)
 
 Training with my fixie at the Idroscalo. In the foreground, my red San Marco
 Concor; back there, the mountains that you rarely see from this very polluted

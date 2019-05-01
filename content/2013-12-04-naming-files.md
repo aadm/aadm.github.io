@@ -1,5 +1,5 @@
 title: file naming
-tags: photo, tech, apple
+tags: photo, tech, computer
 
 File naming has always been a bit of an obsession for me. Recently, after seeing the proliferation of too many duplicate filenames in my photography folder, I decided to solve this problem once and for all.
 
