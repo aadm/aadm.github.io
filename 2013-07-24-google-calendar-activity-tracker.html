@@ -60,8 +60,8 @@ aadm            </a>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                     <li><a href="/blog_index.html">journal</a></li>
-                    <li><a href="/pages/projects.html">projects</a></li>
                     <li><a href="/pages/about.html">about</a></li>
+                    <li><a href="/pages/projects.html">projects</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
               <!-- <li><a href="http://aadm.github.io/blog_index.html"><i class="fa fa-th-list"></i><span class="icon-label">blog</span></a></li> -->
@@ -91,7 +91,7 @@ aadm            </a>
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2013-07-24T00:00:00+02:00"> 24/lug/2013</time>
+        <i class="fa fa-calendar"></i><time datetime="2013-07-24T00:00:00+02:00"> 2013-07-24</time>
     </span>
 
 
@@ -105,110 +105,113 @@ aadm            </a>
     
 </footer><!-- /.post-info -->            </div>
             <div class="entry-content">
-                <p>It&#8217;s been years since I started using Google Calendar to keep track my sports activities. I guess there are countless apps to do this but all I needed is something basic that I can access from anywhere. Since I already have synced my iPhone with Google Calendar, I can basically enter data from wherever I am, even if there is no internet connection, and then have it synced back to my main repository on Google servers as soon as I&#8217;m back&nbsp;online.</p>
-<p>So what I did is a little Python script that gathers all this data and spits out a few statistics and&nbsp;graphs.</p>
-<p>First however I need to explain what are my conventions to enter my activities in Google Calendar. I have four main categories: running, biking, swimming and &#8220;other&#8221; (which includes things I used to do but don&#8217;t do anymore or other occasional outdoor&nbsp;activities).</p>
-<p>Basically I enter in my calendar an event that begins with &#8220;B&#8221; for biking, &#8220;S&#8221; for swimming, &#8220;R&#8221; for running. All the other activities that I enter are classified in the &#8220;other&#8221; category. Now I use a separate calendar to enter all of these items (aptly named &#8220;Sport&#8221;) &#8212; and I suggest you do the same if you also use Google Calendar for other purposes. In the script below however I have set the calendar name to the default, so you may want to change that name using the calendar <span class="caps">ID</span><sup id="fnref:nota-calendar-id"><a class="footnote-ref" href="#fn:nota-calendar-id">1</a></sup>.</p>
-<p>These are two examples of the yearly&nbsp;reports:</p>
-<p><img alt="" src="https://dl.dropboxusercontent.com/u/179731/sport_gcal_2010.png"></p>
-<p><img alt="" src="https://dl.dropboxusercontent.com/u/179731/sport_gcal_2012.png"></p>
-<p>And this is what a typical month looks like in my Google Calendar (there is some differences in the codes that I use because for example I enter &#8220;C&#8221; for <em>corsa</em>, which is the italian for running; likewise I have two separate categories for biking, &#8220;B&#8221; for road biking and &#8220;<span class="caps">MTB</span>&#8221; for mountain biking; in the script however I have simplified the categories and only included one). You can also notice how I write additional info like duration and length whenever possible; someday I&#8217;ll get around to do a Python script also to collect and make stats on this&nbsp;information.</p>
-<p><img alt="" src="https://dl.dropboxusercontent.com/u/179731/google_calendar_esempio.png"></p>
-<p>Finally, here&#8217;s the script (please read the notes&nbsp;below):</p>
-<p>:::python
-from pylab import *
-import getpass
-import gdata.calendar.service
-import gdata.service
-import&nbsp;gdata.calendar</p>
-<p>def main():
-    username = raw_input(&#8220;Enter your username: &#8220;)
-    password = getpass.getpass(&#8220;Enter your password: &#8220;)
-    inizio = raw_input(&#8220;From year: &#8220;)
-    fine   = raw_input(&#8220;To year: &#8220;)&nbsp;intervallo=range(int(inizio),int(fine)+1)</p>
-<div class="highlight"><pre><span></span>calendar_service = gdata.calendar.service.CalendarService(username,password,&quot;prova-cal&quot;)
-try:
-    calendar_service.ProgrammaticLogin()
-except gdata.service.BadAuthentication, e:
-    print &quot;Authentication error logging in: %s&quot; % e
-    return
-except Exception, e:
-    print &quot;Error Logging in: %s&quot; % e
-    return
+                <p>It’s been years since I started using Google Calendar to keep track my sports activities. I guess there are countless apps to do this but all I needed is something basic that I can access from anywhere. Since I already have synced my iPhone with Google Calendar, I can basically enter data from wherever I am, even if there is no internet connection, and then have it synced back to my main repository on Google servers as soon as I’m back online.</p>
+<p>So what I did is a little Python script that gathers all this data and spits out a few statistics and graphs.</p>
+<p>First however I need to explain what are my conventions to enter my activities in Google Calendar. I have four main categories: running, biking, swimming and “other” (which includes things I used to do but don’t do anymore or other occasional outdoor activities).</p>
+<p>Basically I enter in my calendar an event that begins with “B” for biking, “S” for swimming, “R” for running. All the other activities that I enter are classified in the “other” category. Now I use a separate calendar to enter all of these items (aptly named “Sport”) — and I suggest you do the same if you also use Google Calendar for other purposes. In the script below however I have set the calendar name to the default, so you may want to change that name using the calendar <span class="caps">ID</span><sup id="fnref:nota-calendar-id"><a class="footnote-ref" href="#fn:nota-calendar-id">1</a></sup>.</p>
+<p>These are two examples of the yearly reports:</p>
+<p><img alt="sport calendar 2010 example" class="img-responsive" src="http://aadm.github.io/images/sport_gcal_2010.png"/></p>
+<p><img alt="sport calendar 2012 example" class="img-responsive" src="http://aadm.github.io/images/sport_gcal_2012.png"/></p>
+<p>And this is what a typical month looks like in my Google Calendar (there is some differences in the codes that I use because for example I enter “C” for <em>corsa</em>, which is the italian for running; likewise I have two separate categories for biking, “B” for road biking and “<span class="caps">MTB</span>” for mountain biking; in the script however I have simplified the categories and only included one). You can also notice how I write additional info like duration and length whenever possible; someday I’ll get around to do a Python script also to collect and make stats on this information.</p>
+<p><img alt="google calendar example" class="img-responsive" src="http://aadm.github.io/images/google_calendar_esempio.png"/></p>
+<p>Finally, here’s the script (please read the notes below):</p>
+<div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">pylab</span> <span class="kn">import</span> <span class="o">*</span>
+<span class="kn">import</span> <span class="nn">getpass</span>
+<span class="kn">import</span> <span class="nn">gdata.calendar.service</span>
+<span class="kn">import</span> <span class="nn">gdata.service</span>
+<span class="kn">import</span> <span class="nn">gdata.calendar</span>
 
-for anno in intervallo:
-    start_date=str(anno)+&#39;-01-01&#39;
-    end_date=str(anno)+&#39;-12-31&#39;
-    calname=&#39;default&#39;
-    lista=DateRangeQuery(calendar_service,start_date,end_date,calname)
-    lista=sorted(lista)
+<span class="k">def</span> <span class="nf">main</span><span class="p">():</span>
+    <span class="n">username</span> <span class="o">=</span> <span class="nb">raw_input</span><span class="p">(</span><span class="s2">"Enter your username: "</span><span class="p">)</span>
+    <span class="n">password</span> <span class="o">=</span> <span class="n">getpass</span><span class="o">.</span><span class="n">getpass</span><span class="p">(</span><span class="s2">"Enter your password: "</span><span class="p">)</span>
+    <span class="n">inizio</span> <span class="o">=</span> <span class="nb">raw_input</span><span class="p">(</span><span class="s2">"From year: "</span><span class="p">)</span>
+    <span class="n">fine</span>   <span class="o">=</span> <span class="nb">raw_input</span><span class="p">(</span><span class="s2">"To year: "</span><span class="p">)</span>
+    <span class="n">intervallo</span><span class="o">=</span><span class="nb">range</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">inizio</span><span class="p">),</span><span class="nb">int</span><span class="p">(</span><span class="n">fine</span><span class="p">)</span><span class="o">+</span><span class="mi">1</span><span class="p">)</span>
 
-    corsa=bici=mtb=nuoto=altro=0
-    for x in lista:
-        if x[11:13] == &#39;R &#39;:
-            corsa+=1
-        elif x[11:13] == &#39;B &#39;:
-            bici += 1
-        elif x[11:13] == &#39;S &#39;:
-            nuoto += 1
-        else:
-            altro += 1
-    totale=float(len(lista))
-    print &#39;---&gt; YEAR &#39;+str(anno)
-    print &#39;running:  %3d (%2.0f%%)&#39; % (corsa, (corsa/totale)*100)
-    print &#39;swimming: %3d (%2.0f%%)&#39; % (nuoto, (nuoto/totale)*100)
-    print &#39;biking:   %3d (%2.0f%%)&#39; % (bici,  (bici/totale)*100)
-    print &#39;other:    %3d (%2.0f%%)&#39; % (altro, (altro/totale)*100)
+    <span class="n">calendar_service</span> <span class="o">=</span> <span class="n">gdata</span><span class="o">.</span><span class="n">calendar</span><span class="o">.</span><span class="n">service</span><span class="o">.</span><span class="n">CalendarService</span><span class="p">(</span><span class="n">username</span><span class="p">,</span><span class="n">password</span><span class="p">,</span><span class="s2">"prova-cal"</span><span class="p">)</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">calendar_service</span><span class="o">.</span><span class="n">ProgrammaticLogin</span><span class="p">()</span>
+    <span class="k">except</span> <span class="n">gdata</span><span class="o">.</span><span class="n">service</span><span class="o">.</span><span class="n">BadAuthentication</span><span class="p">,</span> <span class="n">e</span><span class="p">:</span>
+        <span class="k">print</span> <span class="s2">"Authentication error logging in: </span><span class="si">%s</span><span class="s2">"</span> <span class="o">%</span> <span class="n">e</span>
+        <span class="k">return</span>
+    <span class="k">except</span> <span class="ne">Exception</span><span class="p">,</span> <span class="n">e</span><span class="p">:</span>
+        <span class="k">print</span> <span class="s2">"Error Logging in: </span><span class="si">%s</span><span class="s2">"</span> <span class="o">%</span> <span class="n">e</span>
+        <span class="k">return</span>
 
-    nn=[corsa,bici,nuoto,altro]
-    mycolors=[&#39;green&#39;,   &#39;red&#39;,    &#39;cyan&#39;,     &#39;white&#39;]
-    mylabels=[&#39;RUNNING&#39;, &#39;BIKING&#39;, &#39;SWIMMING&#39;, &#39;OTHER&#39;]
+    <span class="k">for</span> <span class="n">anno</span> <span class="ow">in</span> <span class="n">intervallo</span><span class="p">:</span>
+        <span class="n">start_date</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">anno</span><span class="p">)</span><span class="o">+</span><span class="s1">'-01-01'</span>
+        <span class="n">end_date</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">anno</span><span class="p">)</span><span class="o">+</span><span class="s1">'-12-31'</span>
+        <span class="n">calname</span><span class="o">=</span><span class="s1">'default'</span>
+        <span class="n">lista</span><span class="o">=</span><span class="n">DateRangeQuery</span><span class="p">(</span><span class="n">calendar_service</span><span class="p">,</span><span class="n">start_date</span><span class="p">,</span><span class="n">end_date</span><span class="p">,</span><span class="n">calname</span><span class="p">)</span>
+        <span class="n">lista</span><span class="o">=</span><span class="nb">sorted</span><span class="p">(</span><span class="n">lista</span><span class="p">)</span>
 
-    figure(figsize=(5,5))
-    axes([0.1, 0.1, 0.8, 0.8])
-    pie(nn,autopct=&#39;%1.0f%%&#39;,labels=mylabels,colors=mycolors)
-    title(start_date[0:4]+&#39; (events=&#39;+str(int(totale))+&#39;)&#39;)
-    show(block=False)
+        <span class="n">corsa</span><span class="o">=</span><span class="n">bici</span><span class="o">=</span><span class="n">mtb</span><span class="o">=</span><span class="n">nuoto</span><span class="o">=</span><span class="n">altro</span><span class="o">=</span><span class="mi">0</span>
+        <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">lista</span><span class="p">:</span>
+            <span class="k">if</span> <span class="n">x</span><span class="p">[</span><span class="mi">11</span><span class="p">:</span><span class="mi">13</span><span class="p">]</span> <span class="o">==</span> <span class="s1">'R '</span><span class="p">:</span>
+                <span class="n">corsa</span><span class="o">+=</span><span class="mi">1</span>
+            <span class="k">elif</span> <span class="n">x</span><span class="p">[</span><span class="mi">11</span><span class="p">:</span><span class="mi">13</span><span class="p">]</span> <span class="o">==</span> <span class="s1">'B '</span><span class="p">:</span>
+                <span class="n">bici</span> <span class="o">+=</span> <span class="mi">1</span>
+            <span class="k">elif</span> <span class="n">x</span><span class="p">[</span><span class="mi">11</span><span class="p">:</span><span class="mi">13</span><span class="p">]</span> <span class="o">==</span> <span class="s1">'S '</span><span class="p">:</span>
+                <span class="n">nuoto</span> <span class="o">+=</span> <span class="mi">1</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="n">altro</span> <span class="o">+=</span> <span class="mi">1</span>
+        <span class="n">totale</span><span class="o">=</span><span class="nb">float</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">lista</span><span class="p">))</span>
+        <span class="k">print</span> <span class="s1">'---&gt; YEAR '</span><span class="o">+</span><span class="nb">str</span><span class="p">(</span><span class="n">anno</span><span class="p">)</span>
+        <span class="k">print</span> <span class="s1">'running:  </span><span class="si">%3d</span><span class="s1"> (</span><span class="si">%2.0f%%</span><span class="s1">)'</span> <span class="o">%</span> <span class="p">(</span><span class="n">corsa</span><span class="p">,</span> <span class="p">(</span><span class="n">corsa</span><span class="o">/</span><span class="n">totale</span><span class="p">)</span><span class="o">*</span><span class="mi">100</span><span class="p">)</span>
+        <span class="k">print</span> <span class="s1">'swimming: </span><span class="si">%3d</span><span class="s1"> (</span><span class="si">%2.0f%%</span><span class="s1">)'</span> <span class="o">%</span> <span class="p">(</span><span class="n">nuoto</span><span class="p">,</span> <span class="p">(</span><span class="n">nuoto</span><span class="o">/</span><span class="n">totale</span><span class="p">)</span><span class="o">*</span><span class="mi">100</span><span class="p">)</span>
+        <span class="k">print</span> <span class="s1">'biking:   </span><span class="si">%3d</span><span class="s1"> (</span><span class="si">%2.0f%%</span><span class="s1">)'</span> <span class="o">%</span> <span class="p">(</span><span class="n">bici</span><span class="p">,</span>  <span class="p">(</span><span class="n">bici</span><span class="o">/</span><span class="n">totale</span><span class="p">)</span><span class="o">*</span><span class="mi">100</span><span class="p">)</span>
+        <span class="k">print</span> <span class="s1">'other:    </span><span class="si">%3d</span><span class="s1"> (</span><span class="si">%2.0f%%</span><span class="s1">)'</span> <span class="o">%</span> <span class="p">(</span><span class="n">altro</span><span class="p">,</span> <span class="p">(</span><span class="n">altro</span><span class="o">/</span><span class="n">totale</span><span class="p">)</span><span class="o">*</span><span class="mi">100</span><span class="p">)</span>
+
+        <span class="n">nn</span><span class="o">=</span><span class="p">[</span><span class="n">corsa</span><span class="p">,</span><span class="n">bici</span><span class="p">,</span><span class="n">nuoto</span><span class="p">,</span><span class="n">altro</span><span class="p">]</span>
+        <span class="n">mycolors</span><span class="o">=</span><span class="p">[</span><span class="s1">'green'</span><span class="p">,</span>   <span class="s1">'red'</span><span class="p">,</span>    <span class="s1">'cyan'</span><span class="p">,</span>     <span class="s1">'white'</span><span class="p">]</span>
+        <span class="n">mylabels</span><span class="o">=</span><span class="p">[</span><span class="s1">'RUNNING'</span><span class="p">,</span> <span class="s1">'BIKING'</span><span class="p">,</span> <span class="s1">'SWIMMING'</span><span class="p">,</span> <span class="s1">'OTHER'</span><span class="p">]</span>
+
+        <span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span><span class="mi">5</span><span class="p">))</span>
+        <span class="n">axes</span><span class="p">([</span><span class="mf">0.1</span><span class="p">,</span> <span class="mf">0.1</span><span class="p">,</span> <span class="mf">0.8</span><span class="p">,</span> <span class="mf">0.8</span><span class="p">])</span>
+        <span class="n">pie</span><span class="p">(</span><span class="n">nn</span><span class="p">,</span><span class="n">autopct</span><span class="o">=</span><span class="s1">'</span><span class="si">%1.0f%%</span><span class="s1">'</span><span class="p">,</span><span class="n">labels</span><span class="o">=</span><span class="n">mylabels</span><span class="p">,</span><span class="n">colors</span><span class="o">=</span><span class="n">mycolors</span><span class="p">)</span>
+        <span class="n">title</span><span class="p">(</span><span class="n">start_date</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">4</span><span class="p">]</span><span class="o">+</span><span class="s1">' (events='</span><span class="o">+</span><span class="nb">str</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">totale</span><span class="p">))</span><span class="o">+</span><span class="s1">')'</span><span class="p">)</span>
+        <span class="n">show</span><span class="p">(</span><span class="n">block</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+
+<span class="k">def</span> <span class="nf">DateRangeQuery</span><span class="p">(</span><span class="n">calendar_service</span><span class="p">,</span> <span class="n">start_date</span><span class="p">,</span> <span class="n">end_date</span><span class="p">,</span> <span class="n">calname</span><span class="p">):</span>
+    <span class="n">aaa</span><span class="o">=</span><span class="p">[]</span>
+    <span class="n">query</span> <span class="o">=</span> <span class="n">gdata</span><span class="o">.</span><span class="n">calendar</span><span class="o">.</span><span class="n">service</span><span class="o">.</span><span class="n">CalendarEventQuery</span><span class="p">(</span><span class="n">calname</span><span class="p">,</span> <span class="s1">'private'</span><span class="p">,</span> <span class="s1">'full'</span><span class="p">)</span>
+    <span class="n">query</span><span class="o">.</span><span class="n">start_min</span> <span class="o">=</span> <span class="n">start_date</span>
+    <span class="n">query</span><span class="o">.</span><span class="n">start_max</span> <span class="o">=</span> <span class="n">end_date</span>
+    <span class="n">query</span><span class="o">.</span><span class="n">max_results</span><span class="o">=</span><span class="mi">5000</span>
+    <span class="n">feed</span> <span class="o">=</span> <span class="n">calendar_service</span><span class="o">.</span><span class="n">CalendarQuery</span><span class="p">(</span><span class="n">query</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">event</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">feed</span><span class="o">.</span><span class="n">entry</span><span class="p">):</span>
+        <span class="n">name</span><span class="o">=</span><span class="n">event</span><span class="o">.</span><span class="n">title</span><span class="o">.</span><span class="n">text</span>
+        <span class="k">for</span> <span class="n">a_when</span> <span class="ow">in</span> <span class="n">event</span><span class="o">.</span><span class="n">when</span><span class="p">:</span>
+            <span class="n">time</span><span class="o">=</span><span class="n">a_when</span><span class="o">.</span><span class="n">start_time</span>
+        <span class="n">aaa</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">time</span><span class="p">[:</span><span class="mi">10</span><span class="p">]</span><span class="o">+</span><span class="s1">','</span><span class="o">+</span><span class="n">name</span><span class="o">.</span><span class="n">upper</span><span class="p">())</span>
+    <span class="k">return</span> <span class="n">aaa</span>
+
+<span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
+    <span class="n">out</span><span class="o">=</span><span class="n">main</span><span class="p">()</span>
+    <span class="n">show</span><span class="p">()</span>
 </pre></div>
-
-
-<p>def DateRangeQuery(calendar_service, start_date, end_date, calname):
-    aaa=[]
-    query = gdata.calendar.service.CalendarEventQuery(calname, &#8216;private&#8217;, &#8216;full&#8217;)
-    query.start_min = start_date
-    query.start_max = end_date
-    query.max_results=5000
-    feed = calendar_service.CalendarQuery(query)
-    for i, event in enumerate(feed.entry):
-        name=event.title.text
-        for a_when in event.when:
-            time=a_when.start_time
-        aaa.append(time[:10]+&#8217;,&#8217;+name.upper())
-    return&nbsp;aaa</p>
-<p>if <strong>name</strong> == &#8220;<strong>main</strong>&#8220;:
-    out=main()&nbsp;show()</p>
-<p>A few notes about this&nbsp;script:</p>
+<p>A few notes about this script:</p>
 <ul>
-<li>This is tested on Mac <span class="caps">OS</span> X using the latest <a href="https://www.enthought.com/products/canopy/">Canopy</a>&nbsp;installation. </li>
-<li>You need to have the <a href="https://code.google.com/p/gdata-python-client/">gdata Python library</a> installed. There is a way to avoid importing the library altogether<sup id="fnref:nota-install-gdata"><a class="footnote-ref" href="#fn:nota-install-gdata">2</a></sup>. What you need to do is just to make the <code>gdata</code> and <code>atom</code> subdirectories that you find below <code>src</code> after unpacking the tar.gz available in the directory where you run the script. By the way, I have used <code>gdata-2.0.18.tar.gz</code> which is the latest version at the time of&nbsp;writing.</li>
-<li>Another way to avoid installing gdata but keeping things a bit more organized is to keep the gdata folder stored somewhere and then add its path by inserting these two lines at the&nbsp;beginning:</li>
+<li>This is tested on Mac <span class="caps">OS</span> X using the latest <a href="https://www.enthought.com/products/canopy/">Canopy</a> installation. </li>
+<li>You need to have the <a href="https://code.google.com/p/gdata-python-client/">gdata Python library</a> installed. There is a way to avoid importing the library altogether<sup id="fnref:nota-install-gdata"><a class="footnote-ref" href="#fn:nota-install-gdata">2</a></sup>. What you need to do is just to make the <code>gdata</code> and <code>atom</code> subdirectories that you find below <code>src</code> after unpacking the tar.gz available in the directory where you run the script. By the way, I have used <code>gdata-2.0.18.tar.gz</code> which is the latest version at the time of writing.</li>
+<li>Another way to avoid installing gdata but keeping things a bit more organized is to keep the gdata folder stored somewhere and then add its path by inserting these two lines at the beginning:</li>
 </ul>
-<p>:::python
-import sys
-sys.path.append(&#8220;~/Documents/_PROG/<span class="caps">PYTHON</span>/gdata-2.0.18/src/gdata&#8221;)</p>
+<div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">sys</span>
+<span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">"~/Documents/_PROG/PYTHON/gdata-2.0.18/src/gdata"</span><span class="p">)</span>
+</pre></div>
 <ul>
-<li>For some reasons however the above method only works if I run the script from within Canopy and not from Terminal. I have no idea why and I have no intention to spend any more time investigating this little&nbsp;bugger.</li>
+<li>For some reasons however the above method only works if I run the script from within Canopy and not from Terminal. I have no idea why and I have no intention to spend any more time investigating this little bugger.</li>
 <li>This script works from the terminal by typing <code>$ python gcal_sport.py</code> or whatever you want to call this script. To make the plots persistent I had to add the <code>show(block=False)</code> in the main function and <code>show()</code> at the end of the script. If you run it under iPython (Canopy for example uses iPython) then you can get rid of the <code>block=False</code> option and delete the last <code>show()</code> line.</li>
-<li>I&#8217;m not a huge nerd but I can make this stuff work. I wanted to share this script because I find it useful and maybe some other poor devil will find some use for it. The point is that I have no intention nor time to help Windows users, or people that don&#8217;t even know what Python is. For all of you sane people please go see my <a href="http://aadm.github.io/tags.html#weekly%20snaps-ref">photographs</a>&nbsp;instead.</li>
+<li>I’m not a huge nerd but I can make this stuff work. I wanted to share this script because I find it useful and maybe some other poor devil will find some use for it. The point is that I have no intention nor time to help Windows users, or people that don’t even know what Python is. For all of you sane people please go see my <a href="http://aadm.github.io/tags.html#weekly%20snaps-ref">photographs</a> instead.</li>
 </ul>
 <div class="footnote">
-<hr>
+<hr/>
 <ol>
 <li id="fn:nota-calendar-id">
-<p>First you have to get the calendar <span class="caps">ID</span>. If you go into your calendar and click on the down arrow icon next to the name you will see an option for Calendar Settings. Select that menu item. Near the bottom you will see Calendar Address. It will take a moment to find the Calendar <span class="caps">ID</span> and it will look something like <code>o4g3921hdiaq5p8kdat2l4vgis@group.calendar.google.com</code>. (from <a href="http://stackoverflow.com/questions/555468/how-do-i-insert-into-non-default-google-calendar-using-zend-php">http://stackoverflow.com/questions/555468/how-do-i-insert-into-non-default-google-calendar-using-zend-php</a>).&#160;<a class="footnote-backref" href="#fnref:nota-calendar-id" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+<p>First you have to get the calendar <span class="caps">ID</span>. If you go into your calendar and click on the down arrow icon next to the name you will see an option for Calendar Settings. Select that menu item. Near the bottom you will see Calendar Address. It will take a moment to find the Calendar <span class="caps">ID</span> and it will look something like <code>o4g3921hdiaq5p8kdat2l4vgis@group.calendar.google.com</code>. (from <a href="http://stackoverflow.com/questions/555468/how-do-i-insert-into-non-default-google-calendar-using-zend-php">http://stackoverflow.com/questions/555468/how-do-i-insert-into-non-default-google-calendar-using-zend-php</a>). <a class="footnote-backref" href="#fnref:nota-calendar-id" title="Jump back to footnote 1 in the text">↩</a></p>
 </li>
 <li id="fn:nota-install-gdata">
-<p>I had to find this workaround because in Canopy Express (the free distribution) you can not install through the package manager some less used libraries such as gdata.&#160;<a class="footnote-backref" href="#fnref:nota-install-gdata" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+<p>I had to find this workaround because in Canopy Express (the free distribution) you can not install through the package manager some less used libraries such as gdata. <a class="footnote-backref" href="#fnref:nota-install-gdata" title="Jump back to footnote 2 in the text">↩</a></p>
 </li>
 </ol>
 </div>
@@ -218,10 +221,10 @@ sys.path.append(&#8220;~/Documents/_PROG/<span class="caps">PYTHON</span>/gdata-
     <h4>Related Posts:</h4>
     <ul>
         <li><a href="http://aadm.github.io/2012-06-29-open-mtb-maps.html">open mtb&nbsp;maps</a></li>
+        <li><a href="http://aadm.github.io/2013-12-04-naming-files.html">file&nbsp;naming</a></li>
         <li><a href="http://aadm.github.io/2013-11-09-blog-renewal.html">blog&nbsp;update</a></li>
         <li><a href="http://aadm.github.io/2013-06-18-app-for-passwords-update.html">app for passwords&nbsp;update</a></li>
         <li><a href="http://aadm.github.io/2012-11-06-the-little-ipad.html">the little&nbsp;ipad</a></li>
-        <li><a href="http://aadm.github.io/2012-07-19-ipad-mini-needs.html">ipad mini&nbsp;needs</a></li>
     </ul>
 </section>
         </article>
