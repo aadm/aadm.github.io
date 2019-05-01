@@ -3,7 +3,6 @@ Date: 2019-04-30 21:15:07
 Slug: moto-guzzi-v7
 Tags: moto
 Lang: it
-status: draft
 
 Leggo il nuovo numero di Motociclismo dove mettono a confronto la mia Guzzi V7 con una Royal Enfield Interceptor. Già questa cosa mi pare una impertinenza. Confrontare una moto italiana con una indiana e lamentarsi che la prima costa tremila euro di più della seconda? Insomma, è un po' scontato eh. La Guzzi è tutta fatta a Mandello, ha componentistica forse datata ma di qualità (pinze Brembo, mica "ByBre"); la piastra di sterzo povera? Certo, lo è, come tutte le moto che costano meno di diecimila euro ormai (vedi per confronto le recenti Ducati Scrambler). Ma su questo aspetto del costo, ci passo su; oggettivamente la V7 costa tanto per quello che è. Io personalmente non ho problemi con il prezzo di vendita perchè dò importanza alla costruzione interamente in Italia, perchè voglio supportare una casa storica italiana, perchè non faccio la valutazione del rapporto prezzo/potenza quando compro una moto.
 
@@ -56,61 +55,96 @@ Ho il mio vecchio giubbotto di pelle che in realtà è la parte di sopra di una 
 
 Il messaggio che mando dopo qualche ora a Paolo e Giacomo dice:
 
-> Pochi CV? Freni di merda? Dovreste provarla!
+*Pochi CV? Freni di merda? Dovreste provarla!*
 
 Sono andato a ripescare tutti i messaggi Whatsapp che ho mandato agli amici dopo la prova, credo che rendano le sensazioni provate quel giorno meglio di qualsiasi parafrasi che potrei fare adesso:
 
-```
-[3/10/2018, 13:45]: Allora motore e freni
-[3/10/2018, 13:46]: Sono le due cose più deboli della moto no? Secondo tutti i tester e pareri autorevoli...
-[3/10/2018, 13:46]: Solo 50cv? Singolo freno a disco niente attacco radiale, pompa di 20 anni fa?
-[3/10/2018, 13:48]: Vi dico solo che quando sono rientrato ho chiesto a Gianfranco che lavori avesse fatto sulla sua moto... Ero sicuro della presenza del kit motore, qualche diavoleria ai freni, invece... Niente! Tutto di serie tranne i silenziatori zard!
-[3/10/2018, 13:48]: Cioè cazzo la moto spinge aggressiva, apri in seconda e terza e la spinta è poderosa, gustosa, di carattere!!
-[3/10/2018, 13:57]: Ora... Sarà che non guido da tempo... Ma a sensazione il motore mi dà il gusto del due valvole Ducati 900-1000, sicuramente meno grintoso eh, ma assolutamente sufficiente per dare emozioni e sono sicuro farmi divertire anche su strada
-[3/10/2018, 13:59]: È un tipo di motore che puoi strapazzare anche su strada insomma, e cmq c'è da trattarlo con rispetto, non è un Ciao
-[3/10/2018, 14:00]: (dico questa ovvietà perché a leggere tutte le mille prove che ho letto pare che sta moto sia per principianti e donne e imbranati)
-[3/10/2018, 14:01]: E i freni frenano, e Gianfranco diceva che in pista quella V7 che ho provato andava fortissimo (con lui alla guida che vabbe' sarà un manico da paura), e aveva tutto di serie tranne i silenziatori e gli ammortizzatori bitubo
-[3/10/2018, 14:02]: Dice che stanno pensando assieme a Guzzi di fare un monomarca in pista
-[3/10/2018, 14:07]: Cmq dinamicamente oh mica ne ho capito tanto, guidata su stradine alla periferia di Parma, rotonde e strade dissestate etc
-[3/10/2018, 14:08]: Si muove di più della BMW di Paolo,da meno sensazione di stabilità e schiacciasassi
-[3/10/2018, 14:09]: Ma un po' il ruotone da 18 forse lo sento anche io e lo apprezzo, da fiducia quando passi su asfalto rotto ed è sicuramente un po'lenta a entrare in curva (poi coi semimanubri ancora di più) ma è rassicurante
-[3/10/2018, 14:09]: Il cambio anche quello una sorpresa, visto che parlavano di cambio lenti, folle difficile a trovare, secondo me sono tutti degli incompetenti
-[3/10/2018, 14:10]: Mi ricordo bene il cambio Ducati che se non azzeccavi i giri giusti faceva TLANC, questo è un burro tanto che a mettere la prima pensavo che non fosse entrata
-[3/10/2018, 14:10]: Il cardano me lo sono dimenticato, manco me ne sono accorto, mi è parso tutto abbastanza rapido
-[3/10/2018, 14:11]: Anche se ricordo quando ho guidato la BMW Scrambler che mi lamentavo del fatto che la BMW permetteva di "giocare" e aggredire cambio e freni come la KTM... Penso che anche questa Guzzi sia simile una volta che la porto sul Muraglione insomma
-[3/10/2018, 14:12]: Lo scuotimento da fermo è quella piccola chicca che me la fa molto più viva della BMW, fin troppo asettica (anche se motorone pazzesco e oggettivamente migliore del Guzzi)
-[3/10/2018, 14:13]: Insomma il carattere del motore c'è, è forte, ed è la cosa che più mi ha conquistato... Cercavo proprio quello
-[3/10/2018, 14:13]: Un motore facile ma con carattere che pure se uso la moto per andare in centro fa gusto anche se non ci sono curve
-[3/10/2018, 14:14]: E poi lo strumento analogico è il mio favorito
-```
+*[3/10/2018, 13:45]: Allora motore e freni sono le due cose più deboli della moto no? Secondo tutti i tester e pareri autorevoli...*
+
+*[3/10/2018, 13:46]: Solo 50cv? Singolo freno a disco niente attacco radiale, pompa di 20 anni fa?*
+
+*[3/10/2018, 13:48]: Vi dico solo che quando sono rientrato ho chiesto a Gianfranco che lavori avesse fatto sulla sua moto... Ero sicuro della presenza del kit motore, qualche diavoleria ai freni, invece... Niente! Tutto di serie tranne i silenziatori Zard!*
+
+*[3/10/2018, 13:48]: Cioè cazzo la moto spinge aggressiva, apri in seconda e terza e la spinta è poderosa, gustosa, di carattere!!*
+
+*[3/10/2018, 13:57]: Ora... Sarà che non guido da tempo... Ma a sensazione il motore mi dà il gusto del due valvole Ducati 900-1000, sicuramente meno grintoso eh, ma assolutamente sufficiente per dare emozioni e sono sicuro farmi divertire anche su strada*
+
+*[3/10/2018, 13:59]: È un tipo di motore che puoi strapazzare anche su strada insomma, e cmq c'è da trattarlo con rispetto, non è un Ciao*
+
+*[3/10/2018, 14:00]: (dico questa ovvietà perché a leggere tutte le mille prove che ho letto pare che sta moto sia per principianti e donne e imbranati)*
+
+*[3/10/2018, 14:01]: E i freni frenano, e Gianfranco diceva che in pista quella V7 che ho provato andava fortissimo (con lui alla guida che vabbe' sarà un manico da paura), e aveva tutto di serie tranne i silenziatori e gli ammortizzatori bitubo*
+
+*[3/10/2018, 14:02]: Dice che stanno pensando assieme a Guzzi di fare un monomarca in pista*
+
+*[3/10/2018, 14:07]: Cmq dinamicamente oh mica ne ho capito tanto, guidata su stradine alla periferia di Parma, rotonde e strade dissestate etc*
+
+*[3/10/2018, 14:08]: Si muove di più della BMW di Paolo,da meno sensazione di stabilità e schiacciasassi*
+
+*[3/10/2018, 14:09]: Ma un po' il ruotone da 18 forse lo sento anche io e lo apprezzo, da fiducia quando passi su asfalto rotto ed è sicuramente un po'lenta a entrare in curva (poi coi semimanubri ancora di più) ma è rassicurante*
+
+*[3/10/2018, 14:09]: Il cambio anche quello una sorpresa, visto che parlavano di cambio lenti, folle difficile a trovare, secondo me sono tutti degli incompetenti*
+
+*[3/10/2018, 14:10]: Mi ricordo bene il cambio Ducati che se non azzeccavi i giri giusti faceva TLANC, questo è un burro tanto che a mettere la prima pensavo che non fosse entrata*
+
+*[3/10/2018, 14:10]: Il cardano me lo sono dimenticato, manco me ne sono accorto, mi è parso tutto abbastanza rapido*
+
+*[3/10/2018, 14:11]: Anche se ricordo quando ho guidato la BMW Scrambler che mi lamentavo del fatto che la BMW permetteva di "giocare" e aggredire cambio e freni come la KTM... Penso che anche questa Guzzi sia simile una volta che la porto sul Muraglione insomma*
+
+*[3/10/2018, 14:12]: Lo scuotimento da fermo è quella piccola chicca che me la fa molto più viva della BMW, fin troppo asettica (anche se motorone pazzesco e oggettivamente migliore del Guzzi)*
+
+*[3/10/2018, 14:13]: Insomma il carattere del motore c'è, è forte, ed è la cosa che più mi ha conquistato... Cercavo proprio quello*
+
+*[3/10/2018, 14:13]: Un motore facile ma con carattere che pure se uso la moto per andare in centro fa gusto anche se non ci sono curve*
+
+*[3/10/2018, 14:14]: E poi lo strumento analogico è il mio favorito*
 
 Dopo due giorni provo la KTM:
 
-```
-[05/10/2018, 12:01]: Sta moto è una BESTIA
-[05/10/2018, 12:02]: Solito problema di provarla in piena città a Milano ma per fortuna è una zona con grandi vialoni e qualche accenno di curva, quindi non solo partenze da semaforo
-[05/10/2018, 12:02]: Quindi con queste premesse...
-[05/10/2018, 12:03]: La moto è UNA BESTIA!!!
-[05/10/2018, 12:03]: Mi costringe a riparametrare quanto detto sul motore Guzzi
-[05/10/2018, 12:04]: Nel senso che sono io davvero che non guido da 5 anni
-[05/10/2018, 12:08]: Comunque i 100cv della Duke mi paiono esagerati, capito? Non riesco manco a concepire i 170 della superduke... I 140 delle varie Adventure... Quindi è chiaro che se il motore della Duke per strada mi pare esagerato ecco perché quello Guzzi mi pareva "grintoso"
-[05/10/2018, 12:09]: A parte questo, è solo il problema di provarla in città la moto, sono sicuro che in Appennino me la sentirei perfetta..
-[05/10/2018, 12:10]: Il sound dello scarico di serie è fantastico! Gorgoglia borbotta scoppietta, eccezionale, non penso neanche che lo cambierei
-[05/10/2018, 12:11]: La posizione di guida e le prime sensazioni a bassa velocità sono molto migliori rirspeto alla superduke
-[05/10/2018, 12:12]: Agile ma senza che ti vada giù improvvisamente, ho sentito leggero sbisciolamento tirando e cambiando 2-3-4
-[05/10/2018, 12:12]: Ma penso sia costituzionale
-[05/10/2018, 12:14]: La mappatura street non mi è parsa perfetta quando riprendi in mano il gas da bassi regimi ma per il resto è tutto raffinatissimo e di sostanza, altro che moto "economica" e componentistica scarsa
-[05/10/2018, 12:14]: Non so niente di TC... A stento guardavo il cruscotto
-[05/10/2018, 12:15]: Che per inciso non mi piace e continuo a dire meglio gli analogici
-[05/10/2018, 12:15]: Alla fine quel contagiri manco lo vedevo, uguale alla Guzzi (che non ce l'ha proprio)
-[05/10/2018, 12:17]: Veloce commento su concessionario, bravissimo e gentilissimo ed esperto; mi ha raccontato anche che la settimana scorsa c'era Ungaro da loro, che conosce da quando era piccolo, e lui dice che di meglio non c'é in quella categoria
-[05/10/2018, 12:20]: E il quickshifter?... Che sballo!! Me ne sono ricordato a un certo punto e stranissima la sensazione di mettere marce su e giù anche in città, senza tirarle chissà quanto, nelle staccatone (prima dei semafori...) puoi concentrarti sul freno lasciando perdere frizione gas etc...
-[05/10/2018, 12:21]: Insomma mi sono ricordato il commento che facevo a Paolo, che queste KTM ti fanno sembrare un pilota, ti permette di giocare col gas e i freni e divertirti a strapazzarli perfino in città
-[05/10/2018, 12:21]: Questa con anche la relativa tranquillità psicologica dovuta alla presenza di tutti i sistemi elettronici.
-[05/10/2018, 12:23]: Detto questo...la 790 passerà alla storia (di questa chat) come la moto bellissima e perfetta che ti spinge però a comprare l'"altra"
-[05/10/2018, 12:23]: Adesso chiamo Guareschi e mi prendo la V7 con gli scarichi Zard!
-[05/10/2018, 12:23]: Sono gasatissimo!!! Grazie KTM!
-```
+*[05/10/2018, 12:01]: Sta moto è una BESTIA*
+
+*[05/10/2018, 12:02]: Solito problema di provarla in piena città a Milano ma per fortuna è una zona con grandi vialoni e qualche accenno di curva, quindi non solo partenze da semaforo*
+
+*[05/10/2018, 12:02]: Quindi con queste premesse...*
+
+*[05/10/2018, 12:03]: La moto è UNA BESTIA!!!*
+
+*[05/10/2018, 12:03]: Mi costringe a riparametrare quanto detto sul motore Guzzi*
+
+*[05/10/2018, 12:04]: Nel senso che sono io davvero che non guido da 5 anni*
+
+*[05/10/2018, 12:08]: Comunque i 100cv della Duke mi paiono esagerati, capito? Non riesco manco a concepire i 170 della superduke... I 140 delle varie Adventure... Quindi è chiaro che se il motore della Duke per strada mi pare esagerato ecco perché quello Guzzi mi pareva "grintoso"*
+
+*[05/10/2018, 12:09]: A parte questo, è solo il problema di provarla in città la moto, sono sicuro che in Appennino me la sentirei perfetta..*
+
+*[05/10/2018, 12:10]: Il sound dello scarico di serie è fantastico! Gorgoglia borbotta scoppietta, eccezionale, non penso neanche che lo cambierei*
+
+*[05/10/2018, 12:11]: La posizione di guida e le prime sensazioni a bassa velocità sono molto migliori rispetto alla superduke*
+
+*[05/10/2018, 12:12]: Agile ma senza che ti vada giù improvvisamente, ho sentito leggero sbisciolamento tirando e cambiando 2-3-4*
+
+*[05/10/2018, 12:14]: La mappatura street non mi è parsa perfetta quando riprendi in mano il gas da bassi regimi ma per il resto è tutto raffinatissimo e di sostanza, altro che moto "economica" e componentistica scarsa*
+
+*[05/10/2018, 12:14]: Non so niente di TC... A stento guardavo il cruscotto*
+
+*[05/10/2018, 12:15]: Che per inciso non mi piace e continuo a dire meglio gli analogici*
+
+*[05/10/2018, 12:15]: Alla fine quel contagiri manco lo vedevo, uguale alla Guzzi (che non ce l'ha proprio)*
+
+*[05/10/2018, 12:17]: Veloce commento su concessionario, bravissimo e gentilissimo ed esperto; mi ha raccontato anche che la settimana scorsa c'era Ungaro da loro, che conosce da quando era piccolo, e lui dice che di meglio non c'é in quella categoria*
+
+*[05/10/2018, 12:20]: E il quickshifter?... Che sballo!! Me ne sono ricordato a un certo punto e stranissima la sensazione di mettere marce su e giù anche in città, senza tirarle chissà quanto, nelle staccatone (prima dei semafori...) puoi concentrarti sul freno lasciando perdere frizione gas etc...*
+
+*[05/10/2018, 12:21]: Insomma mi sono ricordato il commento che facevo a Paolo, che queste KTM ti fanno sembrare un pilota, ti permette di giocare col gas e i freni e divertirti a strapazzarli perfino in città*
+
+*[05/10/2018, 12:21]: Questa con anche la relativa tranquillità psicologica dovuta alla presenza di tutti i sistemi elettronici.*
+
+*[05/10/2018, 12:23]: Detto questo...la 790 passerà alla storia (di questa chat) come la moto bellissima e perfetta che ti spinge però a comprare l'"altra"*
+
+*[05/10/2018, 12:23]: Adesso chiamo Guareschi e mi prendo la V7 con gli scarichi Zard!*
+
+*[05/10/2018, 12:23]: Sono gasatissimo!!! Grazie KTM!*
+
 
 ## Intermezzo: il commento di Kevin Ash
 
