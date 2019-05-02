@@ -47,14 +47,8 @@ SHOW_DATE_MODIFIED = True
 FAVICON = 'favicon.png'
 PAGE_URL = 'pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
-INDEX_SAVE_AS = 'blog_index.html'
+# INDEX_SAVE_AS = 'blog_index.html'
 # NOTEBOOK_DIR = '/Users/aadm/GOOGLEDRIVE/PYTHON/geophysical_notes'
-
-MENUITEMS = {
-    ('journal', '/blog_index.html'),
-    ('projects', '/pages/projects.html'),
-    ('about', '/pages/about.html')
-}
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 THEME = "themes/pelican-bootstrap3/"
@@ -104,7 +98,13 @@ PLUGINS = [
     'neighbors',
     'related_posts',
     'summary',
-    'bootstrapify']
+    'bootstrapify',
+    'render_math',
+    'tipue_search']
+
+#---------------------
+# per search, vedi anche https://dirtyhandscoding.github.io/posts/blog-migrated-to-pelican-and-github-pages.html
+#---------------------
 
 # 'i18n_subsites'
 # 'liquid_tags'
@@ -143,8 +143,7 @@ CC_LICENSE = 'CC-BY-NC-ND'
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/aadmtwi'),
           ('github',  'http://github.com/aadm'),
-          ('flickr',  'http://www.flickr.com/photos/aadm'),
-          )
+          ('flickr',  'http://www.flickr.com/photos/aadm'))
 
 GOOGLE_ANALYTICS = 'UA-32354823-1'
 TYPOGRIFY = True
@@ -156,3 +155,12 @@ TYPOGRIFY = True
 # code blocks with line numbers
 PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
 PYGMENTS_STYLE = 'tango'
+
+# aggiunte 2 maggio 2019
+LOAD_CONTENT_CACHE = False
+INDEX_SAVE_AS = 'index.html'
+
+
+MENUITEMS = (('journal', '/index.html'),
+             ('projects', '/pages/projects.html'),
+             ('about', '/pages/about.html'))

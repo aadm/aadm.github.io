@@ -4,11 +4,15 @@ Slug: moto-guzzi-v7
 Tags: moto
 Lang: it
 
-*(Versione provvisoria dell'articolo, da revisionare a breve. AAdM 2019-05-01)*
+*(Versione provvisoria dell'articolo, 2019-05-01)*
 
-Leggo il nuovo numero di Motociclismo dove mettono a confronto la mia Guzzi V7 con una Royal Enfield Interceptor. Già questa cosa mi pare una impertinenza. Confrontare una moto italiana con una indiana e lamentarsi che la prima costa tremila euro di più della seconda? Insomma, è un po' scontato eh. La Guzzi è tutta fatta a Mandello, ha componentistica forse datata ma di qualità (come le pinze freni Brembo); la piastra di sterzo povera? Certo, lo è, come tutte le moto che costano meno di diecimila euro ormai (vedi per confronto le recenti Ducati Scrambler). Ma su questo aspetto del costo, ci passo su; oggettivamente la V7 costa tanto per quello che è. Io personalmente non ho problemi con il prezzo di vendita perché dò importanza alla costruzione interamente in Italia, perché voglio supportare una casa storica italiana, perché non faccio la valutazione del rapporto prezzo/potenza quando compro una moto.
+Leggo il nuovo numero di Motociclismo dove mettono a confronto la mia Guzzi V7 con una Royal Enfield Interceptor. Già questa cosa mi pare  impertinente. Confrontare una moto italiana con una indiana e lamentarsi che la prima costa tremila euro di più della seconda? Insomma, è un po' scontato eh. La Guzzi è tutta fatta a Mandello, ha componentistica forse datata ma di qualità (come le pinze freni Brembo); la piastra di sterzo povera? Certo, lo è, come tutte le moto che costano meno di diecimila euro ormai (vedi per confronto le recenti Ducati Scrambler). Ma su questo aspetto del costo, ci passo su; oggettivamente la V7 costa tanto per quello che è. Io personalmente non ho problemi con il prezzo di vendita perché dò importanza alla costruzione interamente in Italia, perché voglio supportare una casa storica italiana, perché non faccio la valutazione del rapporto prezzo/potenza quando compro una moto.
 
-Ma in questa prova c'è il secondo elemento negativo che mi fa profondamente incavolare; le pedane troppo basse, addirittura paragonate a quelle di una moto cruiser, che secondo il tester impedisce di curvare e di divertirsi in piega. Dalle foto di corredo all'articolo si intuisce, ma poi leggo i dati sui tester che vengono riportati; tester uno, un metro e ottanta e novanta chili; tester due, un metro e tot, centodiciassette chilogrammi. Centodiciassette chili uno e più di novanta l'altro? Be' ma mi sembra scontato che qualsiasi moto per di più priva di regolazioni soffra due pesi massimi come questi due. Motociclismo avrebbe dovuto affiancare un tester di dimensioni "medie" su cui sicuramente la Moto Guzzi ha tarato tutta la geometria della moto.
+Ma in questa prova c'è un *secondo* aspetto che mi fa imbufalire; le pedane troppo basse -- addirittura paragonate a quelle di una moto cruiser, che secondo il tester impedisce di curvare e di divertirsi in piega. 
+
+Leggo i dati sui due giornalisti che hanno fatto la comparativa (ma si capisce chiaramente tutto guardando le foto a corred); il primo, un metro e ottanta per novanta chili; il secondo centodiciassette chilogrammi. 
+
+Centodiciassette chili uno e più di novanta l'altro? Be' ma mi sembra scontato che qualsiasi moto per di più priva di regolazioni soffra due pesi massimi come questi due. Motociclismo avrebbe dovuto affiancare un tester di dimensioni "medie" su cui sicuramente la Moto Guzzi ha tarato tutta la geometria della moto.
 
 Ho deciso quindi di scrivere la mia personalissima prova della Guzzi V7, a partire dal quel giro in Basilicata nell'estate del 2018.
 
@@ -29,7 +33,6 @@ Fino a che la scorsa estate riprendo una moto e mi faccio un lungo giro in Basil
 Come sempre, ragionare dalla poltrona ti porta sempre a distorcere la realtà; ti convinci che puoi saltare in sella a una moto da gran premio e riuscire a guidarla con naturalezza, o che il fare un semplice giro in moto è una scorciatoia per la camera mortuaria. Nella realtà dei fatti, gli incidenti "seri" sono una eccezione statistica che devono essere accantonati quando si salta in sella, e le considerazioni su quanto siano pericolosi "gli altri" sono parole vuote. Io ho sempre guidato in modo accorto, ho sempre usato tutte le protezioni del caso, più di questo cosa si può fare?
 
 E quindi questo giro in Basilicata mi ha fatto decidere che sarei tornato su una moto tutta mia, appena fossi rientrato in Italia.
-
 
 ## Ottobre 2018
 
@@ -152,9 +155,9 @@ Dopo due giorni provo la KTM:
 
 Come sempre gli inglesi (quelli bravi, come l'altro mio favorito Mat Oxley) sono concisi ed efficaci nelle loro sintesi; molto più di me! Kevin Ash [così descriveva la V7](https://www.telegraph.co.uk/motoring/motorbikes/9183730/Moto-Guzzi-V7-Special-review.html):
 
-> The engine is delightful, even more perky and willing than before but with a much stronger feel, assisted by the bike’s low weight. You can leave it in fourth or top gear for most riding and let the torque pull you along without resorting to the gearlever (gear selection has been improved and it works unobtrusively), and the bike shudders and shakes when you load it with some additional twistgrip in an endearingly characterful manner. There’s no point in revving it beyond 6,000rpm, however – not only does it become breathless and flat, it starts to vibrate fiercely.
+> The engine is delightful, even more perky and willing than before but with a much stronger feel, assisted by the bikès low weight. You can leave it in fourth or top gear for most riding and let the torque pull you along without resorting to the gearlever (gear selection has been improved and it works unobtrusively), and the bike shudders and shakes when you load it with some additional twistgrip in an endearingly characterful manner. Therès no point in revving it beyond 6,000rpm, however – not only does it become breathless and flat, it starts to vibrate fiercely.
 
-> The V-twin engine is lightweight and characterful, both big advantages over the V7’s parallel-twin rivals. And so is the style: this is one of the best looking motorcycles in any class, combining neat detailing with a beautifully balanced overall look that’s contemporary yet strongly linked to Seventies Guzzis.
+> The V-twin engine is lightweight and characterful, both big advantages over the V7's parallel-twin rivals. And so is the style: this is one of the best looking motorcycles in any class, combining neat detailing with a beautifully balanced overall look that's contemporary yet strongly linked to Seventies Guzzis.
 
 
 ## Sei mesi dopo
@@ -179,6 +182,7 @@ Altri punti essenziali di cui discutere, che per adesso accenno solo e in un sec
 - quelle gomme tanto modaiole quanto sorprendentemente efficaci
 - la guida "da pista", fidandosi dell'anteriore, cosa che solo questa moto mi ha permesso di fare su strada: cioè entrare in curva a gas chiuso, che sembra quasi una banalità ma mi sono reso conto che io in strada non ho MAI lasciato il carico tutto sull'anteriore, perché non mi sono mai fidato del grip della gomma, delle condizioni stradali, etc quindi ho sempre fatto le curve con un filo di gas, sempre un po' "puntato", il che poi mi porta puntualmente a combattere contro la tendenza naturalmente sottosterzante della moto.. invece ieri ho provato ad entrare così, e la moto chiude la traiettoria e poi riapro il gas e che rivelazione! è tutto molto più facile, divertente, veloce, e sopratutto molta meno "fatica" nel tenere la moto chiusa all'interno della traiettoria!
 - difetti: che mi mostra come un modaiolo da bar quando invece sono un mediocre smanettone appassionato di guida.
+- il cardano!
 
 
 ## E le pedane?
@@ -193,8 +197,30 @@ Ma quindi queste pedane sono basse o no?
 
 Ok, onestamente lo sono eh, ma dire che sono "di impaccio alla guida sportiva", assolutamente no. A patto che siate di dimensioni e peso leggermente meno abbondanti dei tester di Motociclismo. La cosa che più mi dà fastidio è il cavalletto invece, quello sì che tocca con facilità a terra (parlo del braccetto sporgente con cui tirarlo giù in sosta). L'avevo toccato su asfalto freddo scendendo dal passo del Penice, la prima volta che ho fatto un giro "serio" con la moto. I Guareschi mi hanno curvato un po' il braccetto ma niente, anche durante un secondo giro, sempre in situazione di piega su avvallamenti, tocca terra di nuovo. Tra un paio di settimane ho degli interventi programmati sulla mia Guzzi tra cui anche una ulteriore modifica al cavalletto discussa con Vittoriano.
 
-## LINKS
+Come dicevo sopra, l'inglese mi piace sempre per la sua concisione. Quindi per terminare questo articolo lunghissimo, lo prolungo ancora un po' di più con un paio di frasi prese da [questa recensione di Pipeburn della V7](https://www.pipeburn.com/home/2017/09/06/pipeburn-review-moto-guzzis-2017-v7-iii-special-stone.html):
 
-<https://www.pipeburn.com/home/2017/09/06/pipeburn-review-moto-guzzis-2017-v7-iii-special-stone.html>
+> When you thumb the starter the V7 coughs into life with a shudder and a sharp push to the right as the air-cooled v-twin spins up. It's quite dramatic. On my second outing with the bike I made the mistake of putting my brand new Shoei on the seat when I started it. It pitched the helmet onto the ground and smashed the visor.
+
+> But underway this torque effect doesn't come into play at all.
+
+*(non è proprio vero; lasciando le mani dal manubrio a basse velocità si avverte un chiaro pull a sinistra)*
+
+Ci sono anche delle cose su cui non sono d'accordo, ovviamente:
+
+> But putting the bike into gear, whether it be from neutral to first or even banging up and down the gearbox is a strangely disconnected affair. There's not much feedback and it lacks the classic 'kerchunk' when popping down into first when taking off.
+
+(la mancanza di feedback sonoro quando si innesta la prima e' comprensibile ma non saprei se definirlo difetto; pero' poi il cambio e' davvero perfetto e inaspettatamente fluido e regolare)
+
+> It's got quirks and foibles and confusing touches – like the three traction control modes I still can't figure out a week later (one of which seems to only serve the flick up a bright yellow warning light) 
+
+(basterebbero cinque minuti per capire qualcosa del TC; e lo dico io che mi sono lamentato molto dello stato attuale in cui i sistemi elettronici delle moto moderne sono enormemente piu' invasivi e complessi di quello della V7).
+
+Pero' poi le chicche, quelle frasi corte ed incisive che mi restano dentro:
+
+> It's only 50-odd horses but they're bloody charming horses
+
+> But overwhelmingly the sensation is of an engine and a bike that has something that most modern classics don't – personality [...] at it's most basic level it's an old fashioned, simple, air-cooled v-twin. And it feels like one. It's got bucketloads of rumbling, vibrating charm that's sorely lacking from much of the competition.
+
+## da aggiungere
 
 <http://aadm-fotografia.tumblr.com/post/77947705824/guzzi-v35-sentita-prima-vista-poi-il>
