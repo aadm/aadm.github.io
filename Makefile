@@ -56,57 +56,6 @@ clean:
 localsite:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) --listen -r 
 
-	
-# regenerate:
-# 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-
-# serve: clean html
-# ifdef PORT
-# 	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
-# else
-# 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
-# endif
-
-# serve-global:
-# ifdef SERVER
-# 	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 $(SERVER)
-# else
-# 	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 0.0.0.0
-# endif
-
-# vai:
-# ifdef PORT
-# 	$(BASEDIR)/develop_server.sh restart $(PORT)
-# else
-# 	$(BASEDIR)/develop_server.sh restart
-# endif
-
-# vai:
-# ifdef PORT
-# 	$(PELICAN) --listen --autoreload -p $(PORT)
-# else
-# 	$(PELICAN) --listen --autoreload
-# endif
-
-	
-# controllo:
-#   	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) --listen -r 
-# ifdef PORT
-# 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) --listen -r -p $(PORT)
-# else
-#  	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) --listen -r 
-# endif
-
-# alt:
-# 	$(BASEDIR)/develop_server.sh stop
-# 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
-
-# vecchio comando per la pubblicazione su gh-pages = aadm.github.io/the-liquid-steppe
-# gh:
-# 	publish
-# 	ghp-import -m "Generate Pelican site $(DATE0)" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-# 	git push origin $(GITHUB_PAGES_BRANCH)
-
 gh: publish
 	ghp-import -m "Generate Pelican site $(DATE0)" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
@@ -149,6 +98,5 @@ else
 	@echo 'Variable NAME is not defined.'
 	@echo 'Do make newpage NAME='"'"'Page Name'"'"
 endif
-
 
 .PHONY: html help clean regenerate serve serve-global devserver publish gh ghsrc newpage newpost

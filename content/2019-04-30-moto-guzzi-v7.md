@@ -207,15 +207,15 @@ Come dicevo sopra, l'inglese mi piace sempre per la sua concisione. Quindi per t
 
 Ci sono anche delle cose su cui non sono d'accordo, ovviamente:
 
-> But putting the bike into gear, whether it be from neutral to first or even banging up and down the gearbox is a strangely disconnected affair. There's not much feedback and it lacks the classic 'kerchunk' when popping down into first when taking off.
+> But putting the bike into gear, whether it be from neutral to first or even banging up and down the gearbox is a strangely disconnected affair. Therès not much feedback and it lacks the classic 'kerchunk' when popping down into first when taking off.
 
-(la mancanza di feedback sonoro quando si innesta la prima e' comprensibile ma non saprei se definirlo difetto; pero' poi il cambio e' davvero perfetto e inaspettatamente fluido e regolare)
+(la mancanza di feedback sonoro quando si innesta la prima è comprensibile ma non saprei se definirlo difetto; però poi il cambio è davvero perfetto e inaspettatamente fluido e regolare)
 
 > It's got quirks and foibles and confusing touches – like the three traction control modes I still can't figure out a week later (one of which seems to only serve the flick up a bright yellow warning light) 
 
-(basterebbero cinque minuti per capire qualcosa del TC; e lo dico io che mi sono lamentato molto dello stato attuale in cui i sistemi elettronici delle moto moderne sono enormemente piu' invasivi e complessi di quello della V7).
+(basterebbero cinque minuti per capire qualcosa del TC; e lo dico io che mi sono lamentato molto dello stato attuale in cui i sistemi elettronici delle moto moderne sono enormemente più invasivi e complessi di quello della V7).
 
-Pero' poi le chicche, quelle frasi corte ed incisive che mi restano dentro:
+Però poi le chicche, quelle frasi corte ed incisive che mi restano dentro:
 
 > It's only 50-odd horses but they're bloody charming horses
 

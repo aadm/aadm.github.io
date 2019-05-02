@@ -3,7 +3,6 @@ Date: 2018-03-05 23:00:15
 Slug: the-end-of-gear-addiction
 Tags: photo, gear
 Lang: en
-Status: draft
 Series: Gear Reviews
 
 This is it, my final camera. Meaning that for the next foreseeable future I'm sticking to this camera, no matter what. This decision comes after a year where I have tried many different tools, perhaps driven by the lack of a true photographic project in my mind (and yes, the usual lust for new shiny things that affect all men).

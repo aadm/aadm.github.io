@@ -1,13 +1,11 @@
----
-layout: post
-title: "fotografi impegnati"
-description: ""
-category:
-tags: [photo, comment]
----
+Title: two sides of photography
+Date: 2018-01-01
+Slug: two-sides-of-photography
+Tags: photo, notes, quote
 
 > Who reads poetry anyway? Only other poets.
-> (Blake Andrews, during and [interview with Bryan Formhals](http://lpvshow.com/the-lpv-show-episode-14-blake-andrews/))
+
+(Blake Andrews, during an [interview with Bryan Formhals](http://lpvshow.com/the-lpv-show-episode-14-blake-andrews/))
 
 It is a strange place to be, this one where I am now. My passion and love for photographs (taking them, editing and discussing and commenting) is something in between two sides that I see.
 
@@ -38,8 +36,7 @@ And so here I am, somewhere in the middle, doing photographs that I like, my wif
 Lucky for me, Susan Sontag gives me hope:
 
 > Photographic seeing meant an aptitude for discovering beauty in what everybody sees but neglects as too ordinary.
->[...]
-> The proper moment is when one can see thngs in a fresh way
-> While most peoepl taking photographs are only seconding received notions of the beautiful, ambitious professionals usually think they are challenging them. According to heroic modernists like Weston, the photographer's venture is elitist, prophetic, subversive, revelatory.
+>[...] The proper moment is when one can see thngs in a fresh way
+> While most people taking photographs are only seconding received notions of the beautiful, ambitious professionals usually think they are challenging them. According to heroic modernists like Weston, the photographer's venture is elitist, prophetic, subversive, revelatory.
 
 If there is another side to be part of, maybe it's the one where the late Saul Leiter happens to be, together with Jay Meisel and Patrick Laroque. I wonder if there's any space left; must be pretty tight, squeezed between those two larger sides.
