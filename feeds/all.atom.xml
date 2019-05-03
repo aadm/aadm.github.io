@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>aadm</title><link href="http://aadm.github.io/" rel="alternate"></link><link href="http://aadm.github.io/feeds/all.atom.xml" rel="self"></link><id>http://aadm.github.io/</id><updated>2019-05-02T00:00:00+02:00</updated><entry><title>relocating to linux</title><link href="http://aadm.github.io/2019-05-02-relocating-to-linux.html" rel="alternate"></link><published>2019-05-02T00:00:00+02:00</published><updated>2019-05-02T00:00:00+02:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2019-05-02:/2019-05-02-relocating-to-linux.html</id><summary type="html">&lt;p&gt;&lt;em&gt;These are my notes on a radical move. The first draft was written in August 2017. I added a few notes in December 2018; then finally edited and completed the post in May 2019.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The radical move is leaving the Apple world for good and moving (back) to Linux.&lt;/p&gt;
-&lt;p&gt;I already left the iPhone world a few years ago, after getting annoyed by the slowness of my iPhone 4S (back when the 4S was only a couple of years or so outdated). I moved to Android, enjoying the very low price of good devices (first a Motorola Moto G and then a Huawei P9 lite, so nothing too fancy) and not regretting anything about the iPhone/Apple ecosystem. &lt;/p&gt;
+&lt;p&gt;I already left the iPhone world a few years ago, after getting annoyed by the slowness of my iPhone 4S (back when the 4S was only a couple of years or so outdated). I moved to Android, enjoying the very low price of good devices (first a Motorola Moto G and then a Huawei P9 lite, so nothing too fancy) and not regretting anything about the iPhone/Apple ecosystem.&lt;/p&gt;
 &lt;p&gt;And now after having realized how little I use native apps on my Macbook, I want to go back to a simpler/more honest world of computing.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;&lt;em&gt;These are my notes on a radical move. The first draft was written in August 2017. I added a few notes in December 2018; then finally edited and completed the post in May 2019.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The radical move is leaving the Apple world for good and moving (back) to Linux.&lt;/p&gt;
-&lt;p&gt;I already left the iPhone world a few years ago, after getting annoyed by the slowness of my iPhone 4S (back when the 4S was only a couple of years or so outdated). I moved to Android, enjoying the very low price of good devices (first a Motorola Moto G and then a Huawei P9 lite, so nothing too fancy) and not regretting anything about the iPhone/Apple ecosystem. &lt;/p&gt;
+&lt;p&gt;I already left the iPhone world a few years ago, after getting annoyed by the slowness of my iPhone 4S (back when the 4S was only a couple of years or so outdated). I moved to Android, enjoying the very low price of good devices (first a Motorola Moto G and then a Huawei P9 lite, so nothing too fancy) and not regretting anything about the iPhone/Apple ecosystem.&lt;/p&gt;
 &lt;p&gt;And now after having realized how little I use native apps on my Macbook, I want to go back to a simpler/more honest world of computing.&lt;/p&gt;
 
 &lt;p&gt;My computing needs are simple: Lightroom for photography; iMovie to edit home videos; Python for work and scientific investigation/hacking; a friendly, configurable and cross-platform text editor to write code, blog posts, articles and thoughts. My website is entirely on github and I only need Python, git and a text editor to maintain it. I use markdown to write everything, from blog posts to notes and scientific papers.&lt;/p&gt;
@@ -20,18 +20,14 @@
 &lt;li&gt;Blurb’s Bookwright&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In order of increasing complexity/difficulty, this is what I am planning to do.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;making photobooks&lt;/strong&gt;: Scribus instead of Bookwright.&lt;/p&gt;
-&lt;p&gt;Mastered the app in a few days, still need to check the output, submit a book to Blurb as pdf and see how it comes out.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;making photobooks&lt;/strong&gt;: Scribus instead of Bookwright; mastered the app in a few days, still need to check the various settings on how to make a Blurb-compatible pdf.&lt;/p&gt;
 &lt;p&gt;Pros: much more precise than Bookwright; the complexity does not bother me.&lt;/p&gt;
 &lt;p&gt;Cons: does not have pre-made templates for the kind of publications and formats provided by Blurb.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;editing videos&lt;/strong&gt;: Tried Blender, Shotcut, Davinci Resolve.&lt;/p&gt;
-&lt;p&gt;After trying Resolve last year I gave up because it did not run smoothly on my macbook. Tried the latest release (v 14.3) again a few days ago and now it runs much better. Also, after the terrible experience of Blender (too complicated, difficult to understand even how to move clips around and do very basic editing in a few nights of study and following youtube tutorials), I find it very easy and user-friendly. And back when I tried it the first time it definteltly did not seem user-friendly to me — quite the opposite in fact!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;editing videos&lt;/strong&gt;: Tried Blender, Shotcut, Davinci Resolve. After trying Resolve last year I gave up because it did not run smoothly on my macbook. Tried the latest release (v 14.3) again a few days ago and now it runs much better. Also, after the terrible experience of Blender (too complicated, difficult to understand even how to move clips around and do very basic editing in a few nights of study and following youtube tutorials), I find it very easy and user-friendly. And back when I tried it the first time it definteltly did not seem user-friendly to me — quite the opposite in fact!&lt;/p&gt;
 &lt;p&gt;I am now using &lt;span class="caps"&gt;DR&lt;/span&gt; for my editing and I’d be happy to continue using that on Linux, but it seems that Linux support is limited and requires specific hi-end hardware (like dedicated audio cards). Without audio you can’t really use a video editor so that means that if I were to switch right now, pre-summer 2018, I would have to use something else. But I still hope that Davinci will make the Linux port a litte bit more friendly for enthusiasts and with simpler requirements in the near future.&lt;/p&gt;
 &lt;p&gt;There is however another solution: Kdenlive. It may be simple enough to pick it up to do basic editing.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;photography&lt;/strong&gt;: That’s the hardest part. I have Darktable installed and have tried to use it for some time now but the problem is just the tremendous loss of all the edits done in the past.&lt;/p&gt;
-&lt;p&gt;Having been already once through the experience of moving from one system to another (Aperture to Lightroom) I know very well the amount of work involved just to keep the database intact.&lt;/p&gt;
-&lt;p&gt;Apart from this, I don’t have first-hand knowledge on the application itself, if it is as fast as Lightroom — and perhaps more importantly, if it feels like it. The “feeling” of being fast also relies on the keyboard shortcuts that you learn almost by accident after years of usage, and that surely could not be translated to a new one.&lt;/p&gt;
-&lt;p&gt;There is however a primary advantage of all open source software, that is that almost invariably they offer a level of customization that is not present on commercial application.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;photography&lt;/strong&gt;: That’s the hardest part. I have Darktable installed and have tried to use it for some time now but the problem is just the tremendous loss of all the edits done in the past. Having been already once through the experience of moving from one system to another (Aperture to Lightroom) I know very well the amount of work involved just to keep the database intact.&lt;/p&gt;
+&lt;p&gt;Apart from this, I don’t have first-hand knowledge on the application itself, if it is as fast as Lightroom — and perhaps more importantly, if it feels like it. The “feeling” of being fast also relies on the keyboard shortcuts that you learn almost by accident after years of usage, and that surely could not be translated to a new one. There is however a primary advantage of all open source software, that is that almost invariably they offer a level of customization that is not present on commercial application. &lt;/p&gt;
 &lt;h2&gt;making it happen&lt;/h2&gt;
 &lt;p&gt;Almost a year and a half after having written the notes above, I am now a happy and content Linux guy.&lt;/p&gt;
 &lt;p&gt;Back in April 2018 I made the first move; bought a cheap second-hand Lenovo Thinkpad to test Linux and get acquainted with the various applications while continuing to use my Macbook as the main platform. I understood quite quickly that the transition was possible, and that Linux was a perfect companion. I tried first to install Manjaro but that didn’t go very well, so I resorted to the obvious choice: Ubuntu. It is the most common Linux distribution which means lots of help and support readily available online. The Lenovo was a good choice as I understood back then, because they are supported very well by the Linux community. However, when testing Darktable I also realized that the lack of a secondary &lt;span class="caps"&gt;GPU&lt;/span&gt; was necessary (this was a Lenovo X260 with an Intel Core i5-6300 Skylake processor, 8 Gb of ram and 250 Gb of solid state storage; it would have been perfect for programming, writing and general productivity but not for creative applications, e.g. photo or video editing).&lt;/p&gt;
@@ -79,16 +75,16 @@
 &lt;/li&gt;
 &lt;/ul&gt;</content><category term="computer"></category></entry><entry><title>praise of mediocrity</title><link href="http://aadm.github.io/2019-05-01-praise-of-mediocrity.html" rel="alternate"></link><published>2019-05-01T23:25:53+02:00</published><updated>2019-05-01T23:25:53+02:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2019-05-01:/2019-05-01-praise-of-mediocrity.html</id><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;We call them hobbies, avocations, callings, passions. These are the noninstrumental activities that help to define us. They reward us with character because they involve an encounter with meaningful resistance — with nature’s laws, with the limits of our own bodies — as in carving wood, melding raw ingredients, fixing a …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;blockquote&gt;
-&lt;p&gt;We call them hobbies, avocations, callings, passions. These are the noninstrumental activities that help to define us. They reward us with character because they involve an encounter with meaningful resistance — with nature’s laws, with the limits of our own bodies — as in carving wood, melding raw ingredients, fixing a broken appliance, writing code, timing waves or facing the point when the runner’s legs and lungs begin to rebel against him.&lt;/p&gt;
-&lt;p&gt;[…] Such activities take time, but they also give us time back. They expose us to the risk of frustration and failure, but they also can teach us something about the world and our place in it.&lt;/p&gt;
-&lt;p&gt;[…] We must never forget the joy of doing something slow and something difficult, the satisfaction of not doing what is easiest.&lt;/p&gt;
+&lt;p&gt;We call them hobbies, avocations, callings, passions. These are the noninstrumental activities that help to define us. They reward us with character because they involve an encounter with meaningful resistance — with nature’s laws, with the limits of our own bodies — as in carving wood, melding raw ingredients, fixing a broken appliance, writing code, timing waves or facing the point when the runner’s legs and lungs begin to rebel against him.
+[…] Such activities take time, but they also give us time back. They expose us to the risk of frustration and failure, but they also can teach us something about the world and our place in it.
+[…] We must never forget the joy of doing something slow and something difficult, the satisfaction of not doing what is easiest.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;— &lt;a href="https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html"&gt;https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;It steals from us one of life’s greatest rewards — the simple pleasure of doing something you merely, but truly, enjoy.&lt;/p&gt;
-&lt;p&gt;[…] There is also a real and pure joy, a sweet, childlike delight, that comes from just learning and trying to get better. Looking back, you will find that the best years of, say, scuba-diving or doing carpentry were those you spent on the learning curve, when there was exaltation in the mere act of doing.&lt;/p&gt;
-&lt;p&gt;[…] Lost here is the gentle pursuit of a modest competence, the doing of something just because you enjoy it, not because you are good at it. &lt;/p&gt;
-&lt;p&gt;[..] one of life’s greatest rewards — the simple pleasure of doing something you merely, but truly, enjoy.&lt;/p&gt;
+&lt;p&gt;It steals from us one of life’s greatest rewards — the simple pleasure of doing something you merely, but truly, enjoy.
+[…] There is also a real and pure joy, a sweet, childlike delight, that comes from just learning and trying to get better. Looking back, you will find that the best years of, say, scuba-diving or doing carpentry were those you spent on the learning curve, when there was exaltation in the mere act of doing.
+[…] Lost here is the gentle pursuit of a modest competence, the doing of something just because you enjoy it, not because you are good at it. 
+[..] one of life’s greatest rewards — the simple pleasure of doing something you merely, but truly, enjoy.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;— &lt;a href="https://www.nytimes.com/2018/09/29/opinion/sunday/in-praise-of-mediocrity.html"&gt;https://www.nytimes.com/2018/09/29/opinion/sunday/in-praise-of-mediocrity.html&lt;/a&gt;&lt;/p&gt;</content><category term="quote"></category></entry><entry><title>moto guzzi V7</title><link href="http://aadm.github.io/moto-guzzi-v7-it.html" rel="alternate"></link><published>2019-04-30T21:15:07+02:00</published><updated>2019-04-30T21:15:07+02:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2019-04-30:/moto-guzzi-v7-it.html</id><summary type="html">&lt;p&gt;&lt;em&gt;(Versione provvisoria dell’articolo, 2019-05-01)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Leggo il nuovo numero di Motociclismo dove mettono a confronto la mia Guzzi V7 con una Royal Enfield Interceptor. Già questa cosa mi pare  impertinente. Confrontare una moto italiana con una indiana e lamentarsi che la prima costa tremila euro di più della seconda? Insomma, è un po’ scontato eh. La Guzzi è tutta fatta a Mandello, ha componentistica forse datata ma di qualità (come le pinze freni Brembo); la piastra di sterzo povera? Certo, lo è, come tutte le moto che costano meno di diecimila euro ormai (vedi per confronto le recenti Ducati Scrambler). Ma su questo aspetto del costo, ci passo su; oggettivamente la V7 costa tanto per quello che è. Io personalmente non ho problemi con il prezzo di vendita perché dò importanza alla costruzione interamente in Italia, perché voglio supportare una casa storica italiana, perché non faccio la valutazione del rapporto prezzo/potenza quando compro una moto.&lt;/p&gt;
@@ -1911,15 +1907,8 @@ $ python flickr_album.py ALBUM_ID
 &lt;/ul&gt;
 &lt;p&gt;Before the archetypal nerdy-cool-I-know-it-all (tatooed obviously, and sporting an obligatory hipster beard) starts busting my balls — I know!, bootswatch and bootstrap are two different gods but hey, I told you I didn’t care too much about the details didn’t I? It just works man, that’s good enough for me. I do have a life after all, and I certainly don’t waste my time trimming a stupid beard or have a masochistic bonehead drawing frivolous shapes on my naked skin.&lt;/p&gt;
 &lt;p&gt;Anyway, what I did was essentially to strip bare the template and make it look exactly like I wanted: a blank white page, clean fonts, no &lt;em&gt;social&lt;/em&gt; bullshit or buttons to make it easy to share stuff (is there somebody so illiterate that really doesn’t know how to share a link to a page?).&lt;/p&gt;
-&lt;p&gt;I will keep the old Jekyll site active on this secondary page, &lt;a href="http://aadm.github.io/the-liquid-steppe"&gt;The Liquid Steppe&lt;/a&gt;&lt;sup id="fnref:not-active"&gt;&lt;a class="footnote-ref" href="#fn:not-active"&gt;1&lt;/a&gt;&lt;/sup&gt;, because the plan here is to get rid of all the useless ramblings I have written over the years.&lt;/p&gt;
-&lt;div class="footnote"&gt;
-&lt;hr/&gt;
-&lt;ol&gt;
-&lt;li id="fn:not-active"&gt;
-&lt;p&gt;Not active yet! It will be in a few days. …Now that I think of it, this may be the most useless note ever, since who the fuck is going to check my &lt;em&gt;old&lt;/em&gt; site if nobody ever checks out my &lt;em&gt;main&lt;/em&gt; site? &lt;a class="footnote-backref" href="#fnref:not-active" title="Jump back to footnote 1 in the text"&gt;↩&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</content><category term="tech"></category></entry><entry><title>last iteration</title><link href="http://aadm.github.io/2015-11-12-last-iteration.html" rel="alternate"></link><published>2015-11-12T00:00:00+01:00</published><updated>2015-11-12T00:00:00+01:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2015-11-12:/2015-11-12-last-iteration.html</id><summary type="html">&lt;p&gt;Yes I know, the &lt;a href="2015-03-13-black-and-white.html"&gt;last post&lt;/a&gt; before this one is dated March 2015.&lt;/p&gt;
+&lt;p&gt;I originally planned on keeping the old Jekyll site alive on another page which I temporarily called &lt;em&gt;The Liquid Steppe&lt;/em&gt;, because the plan was to get rid on this main site all the useless ramblings I have written over the years. But that plan didn’t work out because I never found the energy to finish off this secondary site; my thinking was, who the fuck is going to check my &lt;em&gt;old&lt;/em&gt; site if nobody ever checks out my &lt;em&gt;main&lt;/em&gt; site?&lt;/p&gt;
+&lt;p&gt;So that’s the story, years from now I will be still dealing with junk posts and random detritus.&lt;/p&gt;</content><category term="tech"></category></entry><entry><title>last iteration</title><link href="http://aadm.github.io/2015-11-12-last-iteration.html" rel="alternate"></link><published>2015-11-12T00:00:00+01:00</published><updated>2015-11-12T00:00:00+01:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2015-11-12:/2015-11-12-last-iteration.html</id><summary type="html">&lt;p&gt;Yes I know, the &lt;a href="2015-03-13-black-and-white.html"&gt;last post&lt;/a&gt; before this one is dated March 2015.&lt;/p&gt;
 &lt;p&gt;But stuff happened, and I will write another time about our recent move to Norway. This is just a brief post to mark the day that I have finally uploaded to github the latest iteration of my …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Yes I know, the &lt;a href="2015-03-13-black-and-white.html"&gt;last post&lt;/a&gt; before this one is dated March 2015.&lt;/p&gt;
 &lt;p&gt;But stuff happened, and I will write another time about our recent move to Norway. This is just a brief post to mark the day that I have finally uploaded to github the latest iteration of my Jekyll blog.&lt;/p&gt;
 &lt;p&gt;If you fancy a bit of history, in 2012 I &lt;a href="2012-07-12-moving-to-github.html"&gt;moved my blog to github &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; jekyll&lt;/a&gt;, then in 2013 I &lt;a href="2013-11-09-blog-renewal.html"&gt;made some radical changes to the layout&lt;/a&gt;.&lt;/p&gt;
@@ -4339,7 +4328,7 @@ But what about something new, something that could really alter a photographer�
 &lt;p&gt;&lt;a href="http://www.flickr.com/photos/aadm/7948014408/" title="_D7K4024 by aadm, on Flickr"&gt;&lt;img alt="_D7K4024" class="img-responsive" height="424" src="http://farm9.staticflickr.com/8030/7948014408_8c7603f608_z.jpg" width="640"/&gt;&lt;/a&gt;
 &lt;center&gt;&lt;i&gt;Stefano alla partenza del suo secondo turno, sgomma e impenna sulla rampa iniziale.&lt;/i&gt;&lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;Per il prossimo anno, sicuramente dovrò essere più allenato sopratutto se riusciamo a fare una squadra da 4 (significa due turni consecutivi, cosa che quest’anno non sarei stato in grado di fare). Pensando all’allenamento però, e confrontando i miei tempi con quelli del mio riferimento (Stefano, che so quanto duramente si allena durante tutto l’anno) mi chiedo: ma quanto vale 5 minuti di differenza sul giro? Vale davvero tutta la fatica e il tempo ‘sprecato’ in allenamenti nell’hinterland milanese in condizioni climatiche miserabili? Tenendo conto che a me piacciono ed entusiasmano le giornate lunghe e lunghissime in montagn e non mi spaventano due o tremila metri di dislivello al giorno, ma 40km su strade dritte e con le pantegane che ti tagliano la strada, quello sì.&lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;tempo&lt;/th&gt;
@@ -4849,15 +4838,15 @@ In otto come dicevo all'inizio è facile e divertente. In quattro è molto più 
 &lt;p&gt;For the headings, as of today, Averia Sans Libre won.&lt;/p&gt;
 &lt;h2&gt;evolution of the style&lt;/h2&gt;
 &lt;p&gt;I started with a very simple combination of Helvetica Neue and Optima:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="img-responsive" src="https://dl.dropbox.com/u/179731/blog-style-0-mac.png"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="img-responsive" src="http://aadm.github.io/images/blog-style-0-mac.png"/&gt;&lt;/p&gt;
 &lt;p&gt;Which looked terrible on a &lt;span class="caps"&gt;PC&lt;/span&gt; though as I was using fonts that were specific to Macs:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="img-responsive" src="https://dl.dropbox.com/u/179731/blog-style-0-pc.png"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="img-responsive" src="http://aadm.github.io/images/blog-style-0-pc.png"/&gt;&lt;/p&gt;
 &lt;p&gt;Then I tried Quicksand which I liked for the headings, together with a old-fashion Cardo:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="img-responsive" src="https://dl.dropbox.com/u/179731/blog-style-1-mac.png"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="img-responsive" src="http://aadm.github.io/images/blog-style-1-mac.png"/&gt;&lt;/p&gt;
 &lt;p&gt;Finally I settled on Averia Sans Libre and Quattrocento Sans, plus Cousine as a fixed-width font for &lt;code&gt;code paragraphs&lt;/code&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="img-responsive" src="https://dl.dropbox.com/u/179731/blog-style-2-mac.png"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="img-responsive" src="http://aadm.github.io/images/blog-style-2-mac.png"/&gt;&lt;/p&gt;
 &lt;p&gt;And now the site looks (almost) the same also on &lt;span class="caps"&gt;PC&lt;/span&gt; running Windows:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="img-responsive" src="https://dl.dropbox.com/u/179731/blog-style-2-pc.png"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="img-responsive" src="http://aadm.github.io/images/blog-style-2-pc.png"/&gt;&lt;/p&gt;
 &lt;h2&gt;update August 2012&lt;/h2&gt;
 &lt;p&gt;I have changed fonts once again. Now the headers are News Cycle, and the body fonts are still Quattrocento Sans (proportional) and Cousine (fixed width).&lt;/p&gt;</content><category term="tech"></category></entry><entry><title>moving to github</title><link href="http://aadm.github.io/2012-07-12-moving-to-github.html" rel="alternate"></link><published>2012-07-12T00:00:00+02:00</published><updated>2012-07-12T00:00:00+02:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2012-07-12:/2012-07-12-moving-to-github.html</id><summary type="html">&lt;p&gt;If somebody would actually read these posts he’d start thinking something like “what a loser”.&lt;/p&gt;
 &lt;p&gt;Here I am, a fairly old &lt;a href="http://en.wiktionary.org/wiki/git"&gt;git&lt;/a&gt;, waiting for his &lt;a href="http://aadm.github.io/2012-02-20-five-months-to-go.html"&gt;first baby&lt;/a&gt;, with too many things to do at work (and off-work), losing precious sleep hours to relocate his blog on GitHub.&lt;/p&gt;
@@ -4887,7 +4876,7 @@ In otto come dicevo all'inizio è facile e divertente. In quattro è molto più 
 &lt;p&gt;Looking at these two sites (and countless others) I realized that pure black and pure white is not cool. Shades of grey, they’re cool. So I aimed at building a not-so-white page floating on a darker background. And while I was at that I also played with fonts a little bit; I kept Optima as the main one, Helvetica for headers and then chose Futura for the title, navigational texts and copyrights. Does it work? For now it does. I have the majority of my readers agreeing with me (it’s just two friends actually).&lt;/p&gt;
 &lt;p&gt;I was trying to get the same experience when viewing the blog on Mac and PCs, but &lt;a href="http://aadm.github.io/2012-07-17-fonts-on-my-blog.html"&gt;this is for another time&lt;/a&gt;. How the blog looks is very important to me and to countless other freaks.&lt;/p&gt;
 &lt;p&gt;Incidentally, I think the best looks that I’ve ever got was this one on my Wordpress blog:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="img-responsive" src="https://dl.dropbox.com/u/179731/aadm_wordpress_blog_heading.png"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="img-responsive" src="http://aadm.github.io/images/aadm_wordpress_blog_heading.png"/&gt;&lt;/p&gt;
 &lt;div class="footnote"&gt;
 &lt;hr/&gt;
 &lt;ol&gt;
@@ -4997,7 +4986,7 @@ In otto come dicevo all'inizio è facile e divertente. In quattro è molto più 
 &lt;p&gt;Ok let me say that there’s a happy ending to this story: the motherboards were not dead but only in a coma. It was necessary to reinstall the bios and use an external graphic card to redirect the display because for some reasons the integrated &lt;span class="caps"&gt;HD3000&lt;/span&gt; gpus were not working.&lt;/p&gt;
 &lt;h2&gt;details of a hackintosh entering  a coma&lt;/h2&gt;
 &lt;p&gt;So I built &lt;a href="http://aadm.github.io/2012-05-03-my-new-mac-is-a-hack.html"&gt;these two hackintosh&lt;/a&gt;, one for me (A) one for a friend (B). &lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -5080,7 +5069,7 @@ In otto come dicevo all'inizio è facile e divertente. In quattro è molto più 
 &lt;p&gt;It all worked out in the end except for the graphic card which was not recognized as a 5400; I edited again the &lt;code&gt;/Extra/org.chameleon.Boot.plist&lt;/code&gt; and added the AtiConfig/Eulemur strings (see above) so I reckon the correct way to install this card is just to use the &lt;code&gt;ATI5000Injector.kext&lt;/code&gt; and these two lines in the &lt;code&gt;chameleon.Boot.plist&lt;/code&gt;.&lt;/p&gt;
 &lt;h2&gt;final results&lt;/h2&gt;
 &lt;p&gt;So this is the updated list of components and total price for my hackintosh:&lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;component&lt;/th&gt;
@@ -5147,7 +5136,7 @@ In otto come dicevo all'inizio è facile e divertente. In quattro è molto più 
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;And this is the new benchmark comparison against other macs (small improvement in 10.7.4 using dedicated &lt;span class="caps"&gt;DSDT&lt;/span&gt; for the F8 Gigabyte m/b &lt;span class="caps"&gt;BIOS&lt;/span&gt;):&lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;computer&lt;/th&gt;
@@ -5213,7 +5202,7 @@ In otto come dicevo all'inizio è facile e divertente. In quattro è molto più 
 &lt;p&gt;One day I discovered the infecting enthusiasm of Thomas Pindelski who wrote &lt;a href="http://pindelski.org/Photography/category/photography/hardware/hackintosh/"&gt;long and passionate pieces about his hackintosh&lt;/a&gt; and after about five minutes of internal debate I was already sold on the idea. &lt;/p&gt;
 &lt;p&gt;I prepared myself reading a few things on lifehacker and the reference site for all things hackintosh-related &lt;a href="http://www.tonymacx86.com"&gt;tonymacx86.com&lt;/a&gt;; I will give some pointers to the best resources at the end of this article.&lt;/p&gt;
 &lt;p&gt;Following the indications given in a &lt;a href="http://www.tonymacx86.com/viewtopic.php?f=168&amp;amp;t=33412&amp;amp;p=209913#p209913"&gt;tonymacx86 forum thread&lt;/a&gt; I then ordered (on &lt;a href="http://www.amazon.it"&gt;amazon&lt;/a&gt; and &lt;a href="www.stele.it"&gt;stele.it&lt;/a&gt;) these components:&lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;component&lt;/th&gt;
@@ -5337,7 +5326,7 @@ mb pro i7    | 9608           | —  &lt;/p&gt;
 &lt;p&gt;&lt;img alt="" class="img-responsive" src="http://dl.dropbox.com/u/179731/IMG_4552_hackintosh.jpg"/&gt;&lt;/p&gt;
 &lt;h2&gt;extra: Filippo’s build&lt;/h2&gt;
 &lt;p&gt;My pal Filippo is also following the idea and building another hackintosh, slightly less powerful than mine (he’s got a Nikon D100 with 6Mp files after all). The main difference from my setup (apart from the dual-core i3 cpu) is the use of the &lt;span class="caps"&gt;TP&lt;/span&gt;-Link &lt;span class="caps"&gt;TL&lt;/span&gt;-&lt;span class="caps"&gt;WN951N&lt;/span&gt; 300Mbps Wireless &lt;span class="caps"&gt;PCI&lt;/span&gt; Adapter based on an Atheros chip (which should make it easy to have it up and running with no sweating over drivers etc.).&lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;component&lt;/th&gt;

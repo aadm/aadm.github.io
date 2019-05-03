@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>aadm - computer</title><link href="http://aadm.github.io/" rel="alternate"></link><link href="http://aadm.github.io/feeds/computer.atom.xml" rel="self"></link><id>http://aadm.github.io/</id><updated>2019-05-02T00:00:00+02:00</updated><entry><title>relocating to linux</title><link href="http://aadm.github.io/2019-05-02-relocating-to-linux.html" rel="alternate"></link><published>2019-05-02T00:00:00+02:00</published><updated>2019-05-02T00:00:00+02:00</updated><author><name>Alessandro Amato del Monte</name></author><id>tag:aadm.github.io,2019-05-02:/2019-05-02-relocating-to-linux.html</id><summary type="html">&lt;p&gt;&lt;em&gt;These are my notes on a radical move. The first draft was written in August 2017. I added a few notes in December 2018; then finally edited and completed the post in May 2019.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The radical move is leaving the Apple world for good and moving (back) to Linux.&lt;/p&gt;
-&lt;p&gt;I already left the iPhone world a few years ago, after getting annoyed by the slowness of my iPhone 4S (back when the 4S was only a couple of years or so outdated). I moved to Android, enjoying the very low price of good devices (first a Motorola Moto G and then a Huawei P9 lite, so nothing too fancy) and not regretting anything about the iPhone/Apple ecosystem. &lt;/p&gt;
+&lt;p&gt;I already left the iPhone world a few years ago, after getting annoyed by the slowness of my iPhone 4S (back when the 4S was only a couple of years or so outdated). I moved to Android, enjoying the very low price of good devices (first a Motorola Moto G and then a Huawei P9 lite, so nothing too fancy) and not regretting anything about the iPhone/Apple ecosystem.&lt;/p&gt;
 &lt;p&gt;And now after having realized how little I use native apps on my Macbook, I want to go back to a simpler/more honest world of computing.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;&lt;em&gt;These are my notes on a radical move. The first draft was written in August 2017. I added a few notes in December 2018; then finally edited and completed the post in May 2019.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The radical move is leaving the Apple world for good and moving (back) to Linux.&lt;/p&gt;
-&lt;p&gt;I already left the iPhone world a few years ago, after getting annoyed by the slowness of my iPhone 4S (back when the 4S was only a couple of years or so outdated). I moved to Android, enjoying the very low price of good devices (first a Motorola Moto G and then a Huawei P9 lite, so nothing too fancy) and not regretting anything about the iPhone/Apple ecosystem. &lt;/p&gt;
+&lt;p&gt;I already left the iPhone world a few years ago, after getting annoyed by the slowness of my iPhone 4S (back when the 4S was only a couple of years or so outdated). I moved to Android, enjoying the very low price of good devices (first a Motorola Moto G and then a Huawei P9 lite, so nothing too fancy) and not regretting anything about the iPhone/Apple ecosystem.&lt;/p&gt;
 &lt;p&gt;And now after having realized how little I use native apps on my Macbook, I want to go back to a simpler/more honest world of computing.&lt;/p&gt;
 
 &lt;p&gt;My computing needs are simple: Lightroom for photography; iMovie to edit home videos; Python for work and scientific investigation/hacking; a friendly, configurable and cross-platform text editor to write code, blog posts, articles and thoughts. My website is entirely on github and I only need Python, git and a text editor to maintain it. I use markdown to write everything, from blog posts to notes and scientific papers.&lt;/p&gt;
@@ -20,18 +20,14 @@
 &lt;li&gt;Blurb’s Bookwright&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In order of increasing complexity/difficulty, this is what I am planning to do.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;making photobooks&lt;/strong&gt;: Scribus instead of Bookwright.&lt;/p&gt;
-&lt;p&gt;Mastered the app in a few days, still need to check the output, submit a book to Blurb as pdf and see how it comes out.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;making photobooks&lt;/strong&gt;: Scribus instead of Bookwright; mastered the app in a few days, still need to check the various settings on how to make a Blurb-compatible pdf.&lt;/p&gt;
 &lt;p&gt;Pros: much more precise than Bookwright; the complexity does not bother me.&lt;/p&gt;
 &lt;p&gt;Cons: does not have pre-made templates for the kind of publications and formats provided by Blurb.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;editing videos&lt;/strong&gt;: Tried Blender, Shotcut, Davinci Resolve.&lt;/p&gt;
-&lt;p&gt;After trying Resolve last year I gave up because it did not run smoothly on my macbook. Tried the latest release (v 14.3) again a few days ago and now it runs much better. Also, after the terrible experience of Blender (too complicated, difficult to understand even how to move clips around and do very basic editing in a few nights of study and following youtube tutorials), I find it very easy and user-friendly. And back when I tried it the first time it definteltly did not seem user-friendly to me — quite the opposite in fact!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;editing videos&lt;/strong&gt;: Tried Blender, Shotcut, Davinci Resolve. After trying Resolve last year I gave up because it did not run smoothly on my macbook. Tried the latest release (v 14.3) again a few days ago and now it runs much better. Also, after the terrible experience of Blender (too complicated, difficult to understand even how to move clips around and do very basic editing in a few nights of study and following youtube tutorials), I find it very easy and user-friendly. And back when I tried it the first time it definteltly did not seem user-friendly to me — quite the opposite in fact!&lt;/p&gt;
 &lt;p&gt;I am now using &lt;span class="caps"&gt;DR&lt;/span&gt; for my editing and I’d be happy to continue using that on Linux, but it seems that Linux support is limited and requires specific hi-end hardware (like dedicated audio cards). Without audio you can’t really use a video editor so that means that if I were to switch right now, pre-summer 2018, I would have to use something else. But I still hope that Davinci will make the Linux port a litte bit more friendly for enthusiasts and with simpler requirements in the near future.&lt;/p&gt;
 &lt;p&gt;There is however another solution: Kdenlive. It may be simple enough to pick it up to do basic editing.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;photography&lt;/strong&gt;: That’s the hardest part. I have Darktable installed and have tried to use it for some time now but the problem is just the tremendous loss of all the edits done in the past.&lt;/p&gt;
-&lt;p&gt;Having been already once through the experience of moving from one system to another (Aperture to Lightroom) I know very well the amount of work involved just to keep the database intact.&lt;/p&gt;
-&lt;p&gt;Apart from this, I don’t have first-hand knowledge on the application itself, if it is as fast as Lightroom — and perhaps more importantly, if it feels like it. The “feeling” of being fast also relies on the keyboard shortcuts that you learn almost by accident after years of usage, and that surely could not be translated to a new one.&lt;/p&gt;
-&lt;p&gt;There is however a primary advantage of all open source software, that is that almost invariably they offer a level of customization that is not present on commercial application.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;photography&lt;/strong&gt;: That’s the hardest part. I have Darktable installed and have tried to use it for some time now but the problem is just the tremendous loss of all the edits done in the past. Having been already once through the experience of moving from one system to another (Aperture to Lightroom) I know very well the amount of work involved just to keep the database intact.&lt;/p&gt;
+&lt;p&gt;Apart from this, I don’t have first-hand knowledge on the application itself, if it is as fast as Lightroom — and perhaps more importantly, if it feels like it. The “feeling” of being fast also relies on the keyboard shortcuts that you learn almost by accident after years of usage, and that surely could not be translated to a new one. There is however a primary advantage of all open source software, that is that almost invariably they offer a level of customization that is not present on commercial application. &lt;/p&gt;
 &lt;h2&gt;making it happen&lt;/h2&gt;
 &lt;p&gt;Almost a year and a half after having written the notes above, I am now a happy and content Linux guy.&lt;/p&gt;
 &lt;p&gt;Back in April 2018 I made the first move; bought a cheap second-hand Lenovo Thinkpad to test Linux and get acquainted with the various applications while continuing to use my Macbook as the main platform. I understood quite quickly that the transition was possible, and that Linux was a perfect companion. I tried first to install Manjaro but that didn’t go very well, so I resorted to the obvious choice: Ubuntu. It is the most common Linux distribution which means lots of help and support readily available online. The Lenovo was a good choice as I understood back then, because they are supported very well by the Linux community. However, when testing Darktable I also realized that the lack of a secondary &lt;span class="caps"&gt;GPU&lt;/span&gt; was necessary (this was a Lenovo X260 with an Intel Core i5-6300 Skylake processor, 8 Gb of ram and 250 Gb of solid state storage; it would have been perfect for programming, writing and general productivity but not for creative applications, e.g. photo or video editing).&lt;/p&gt;
@@ -347,7 +343,7 @@ But what about something new, something that could really alter a photographer�
 &lt;p&gt;Ok let me say that there’s a happy ending to this story: the motherboards were not dead but only in a coma. It was necessary to reinstall the bios and use an external graphic card to redirect the display because for some reasons the integrated &lt;span class="caps"&gt;HD3000&lt;/span&gt; gpus were not working.&lt;/p&gt;
 &lt;h2&gt;details of a hackintosh entering  a coma&lt;/h2&gt;
 &lt;p&gt;So I built &lt;a href="http://aadm.github.io/2012-05-03-my-new-mac-is-a-hack.html"&gt;these two hackintosh&lt;/a&gt;, one for me (A) one for a friend (B). &lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -430,7 +426,7 @@ But what about something new, something that could really alter a photographer�
 &lt;p&gt;It all worked out in the end except for the graphic card which was not recognized as a 5400; I edited again the &lt;code&gt;/Extra/org.chameleon.Boot.plist&lt;/code&gt; and added the AtiConfig/Eulemur strings (see above) so I reckon the correct way to install this card is just to use the &lt;code&gt;ATI5000Injector.kext&lt;/code&gt; and these two lines in the &lt;code&gt;chameleon.Boot.plist&lt;/code&gt;.&lt;/p&gt;
 &lt;h2&gt;final results&lt;/h2&gt;
 &lt;p&gt;So this is the updated list of components and total price for my hackintosh:&lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;component&lt;/th&gt;
@@ -497,7 +493,7 @@ But what about something new, something that could really alter a photographer�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;And this is the new benchmark comparison against other macs (small improvement in 10.7.4 using dedicated &lt;span class="caps"&gt;DSDT&lt;/span&gt; for the F8 Gigabyte m/b &lt;span class="caps"&gt;BIOS&lt;/span&gt;):&lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;computer&lt;/th&gt;
@@ -535,7 +531,7 @@ But what about something new, something that could really alter a photographer�
 &lt;p&gt;One day I discovered the infecting enthusiasm of Thomas Pindelski who wrote &lt;a href="http://pindelski.org/Photography/category/photography/hardware/hackintosh/"&gt;long and passionate pieces about his hackintosh&lt;/a&gt; and after about five minutes of internal debate I was already sold on the idea. &lt;/p&gt;
 &lt;p&gt;I prepared myself reading a few things on lifehacker and the reference site for all things hackintosh-related &lt;a href="http://www.tonymacx86.com"&gt;tonymacx86.com&lt;/a&gt;; I will give some pointers to the best resources at the end of this article.&lt;/p&gt;
 &lt;p&gt;Following the indications given in a &lt;a href="http://www.tonymacx86.com/viewtopic.php?f=168&amp;amp;t=33412&amp;amp;p=209913#p209913"&gt;tonymacx86 forum thread&lt;/a&gt; I then ordered (on &lt;a href="http://www.amazon.it"&gt;amazon&lt;/a&gt; and &lt;a href="www.stele.it"&gt;stele.it&lt;/a&gt;) these components:&lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;component&lt;/th&gt;
@@ -659,7 +655,7 @@ mb pro i7    | 9608           | —  &lt;/p&gt;
 &lt;p&gt;&lt;img alt="" class="img-responsive" src="http://dl.dropbox.com/u/179731/IMG_4552_hackintosh.jpg"/&gt;&lt;/p&gt;
 &lt;h2&gt;extra: Filippo’s build&lt;/h2&gt;
 &lt;p&gt;My pal Filippo is also following the idea and building another hackintosh, slightly less powerful than mine (he’s got a Nikon D100 with 6Mp files after all). The main difference from my setup (apart from the dual-core i3 cpu) is the use of the &lt;span class="caps"&gt;TP&lt;/span&gt;-Link &lt;span class="caps"&gt;TL&lt;/span&gt;-&lt;span class="caps"&gt;WN951N&lt;/span&gt; 300Mbps Wireless &lt;span class="caps"&gt;PCI&lt;/span&gt; Adapter based on an Atheros chip (which should make it easy to have it up and running with no sweating over drivers etc.).&lt;/p&gt;
-&lt;table class="table-striped table-hover table"&gt;
+&lt;table class="table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;component&lt;/th&gt;
