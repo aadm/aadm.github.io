@@ -5,10 +5,11 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Solarized Light",
+		"workbench.colorTheme": "Solarized Dark",
 		"breadcrumbs.enabled": true,
-		"editor.fontFamily": "Lucida Sans Typewriter, Consolas, 'Courier New', monospace",
+		"editor.fontFamily": "'Fira Code', Lucida Sans Typewriter, Consolas, 'Courier New', monospace",
 		"markdown.preview.fontSize": 15,
-		"markdown.extension.italic.indicator": "_"
+		"markdown.extension.italic.indicator": "_",
+		"editor.fontSize": 17
 	}
 }

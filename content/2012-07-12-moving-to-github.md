@@ -47,6 +47,6 @@ I was trying to get the same experience when viewing the blog on Mac and PCs, bu
 
 Incidentally, I think the best looks that I've ever got was this one on my Wordpress blog:
 
-![](https://dl.dropbox.com/u/179731/aadm_wordpress_blog_heading.png)
+![]({static}/images/aadm_wordpress_blog_heading.png)
 
 [^1]: read a brief history of VCS in [this chapter of the official Pro Git book](http://git-scm.com/book/en/Getting-Started-About-Version-Control).

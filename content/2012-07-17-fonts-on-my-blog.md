@@ -27,23 +27,23 @@ For the headings, as of today, Averia Sans Libre won.
 
 I started with a very simple combination of Helvetica Neue and Optima:
 
-![](https://dl.dropbox.com/u/179731/blog-style-0-mac.png)
+![]({static}/images/blog-style-0-mac.png)
 
 Which looked terrible on a PC though as I was using fonts that were specific to Macs:
 
-![](https://dl.dropbox.com/u/179731/blog-style-0-pc.png)
+![]({static}/images/blog-style-0-pc.png)
 
 Then I tried Quicksand which I liked for the headings, together with a old-fashion Cardo:
 
-![](https://dl.dropbox.com/u/179731/blog-style-1-mac.png)
+![]({static}/images/blog-style-1-mac.png)
 
 Finally I settled on Averia Sans Libre and Quattrocento Sans, plus Cousine as a fixed-width font for `code paragraphs`:
 
-![](https://dl.dropbox.com/u/179731/blog-style-2-mac.png)
+![]({static}/images/blog-style-2-mac.png)
 
 And now the site looks (almost) the same also on PC running Windows:
 
-![](https://dl.dropbox.com/u/179731/blog-style-2-pc.png)
+![]({static}/images/blog-style-2-pc.png)
 
 ##update August 2012
 
