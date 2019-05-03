@@ -19,7 +19,6 @@ Before the archetypal nerdy-cool-I-know-it-all (tatooed obviously, and sporting 
 
 Anyway, what I did was essentially to strip bare the template and make it look exactly like I wanted: a blank white page, clean fonts, no _social_ bullshit or buttons to make it easy to share stuff (is there somebody so illiterate that really doesn't know how to share a link to a page?).
 
-I will keep the old Jekyll site active on this secondary page, [The Liquid Steppe](http://aadm.github.io/the-liquid-steppe)[^not-active], because the plan here is to get rid of all the useless ramblings I have written over the years.
+I originally planned on keeping the old Jekyll site alive on another page which I temporarily called _The Liquid Steppe_, because the plan was to get rid on this main site all the useless ramblings I have written over the years. But that plan didn't work out because I never found the energy to finish off this secondary site; my thinking was, who the fuck is going to check my _old_ site if nobody ever checks out my _main_ site?
 
-
-[^not-active]: Not active yet! It will be in a few days. ...Now that I think of it, this may be the most useless note ever, since who the fuck is going to check my _old_ site if nobody ever checks out my _main_ site?
+So that's the story, years from now I will be still dealing with junk posts and random detritus.

@@ -5,7 +5,10 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Visual Studio Dark",
-		"breadcrumbs.enabled": true
+		"workbench.colorTheme": "Solarized Light",
+		"breadcrumbs.enabled": true,
+		"editor.fontFamily": "Lucida Sans Typewriter, Consolas, 'Courier New', monospace",
+		"markdown.preview.fontSize": 15,
+		"markdown.extension.italic.indicator": "_"
 	}
 }
