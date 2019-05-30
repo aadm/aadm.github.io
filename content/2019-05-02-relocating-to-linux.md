@@ -102,12 +102,12 @@ The main reason that make Resolve "cumbersome" it's not the installation process
 
 For 4K clips (3840 × 2160) I use ProRes codec instead of DNxHR because even if it gives larger files, it makes scrubbing and editing in general smoother as it's less compressed thus easier on the CPU:
 
-    ffmpeg -i clip_4k.mov -vcodec prores -profile:v 3 -acodec pcm_s16le clip-resolve_4k.mp4
-    
+    ffmpeg -i clip_4k.mov -vcodec prores -profile:v 3 -acodec pcm_s16le clip-resolve_4k.mp4  
+
 If you have to convert a bunch of clips, a simple bash one-line script can help: 
 
-    $ for f in *.mov; do ffmpeg -i $f -c:v prores -profile:v 3 -c:a pcm_s16le ${file%.*}-prores.mp4; done`
-    
+    $ for f in *.mov; do ffmpeg -i $f -c:v prores -profile:v 3 -c:a pcm_s16le ${file%.*}-prores.mp4; done
+
 Finally, to convert the output video assembled in Resolve and exported as a large DNxHD encoded file for YouTube uploading:
 
     ffmpeg -i final.mov -vf yadif -vcodec libx264 -crf 21 -bf 2 -flags +cgop -pix_fmt yuv420p -acodec aac -strict -2 -b:a 384k -r:a 48000 -movflags faststart final-youtube.mp4
