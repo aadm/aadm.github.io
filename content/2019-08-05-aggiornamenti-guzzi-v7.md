@@ -14,11 +14,14 @@ Moto da "principianti"??? La libertà di guidare sportivamente e l'efficacia di 
 
 L'ho guidata a lungo e messa a confronto con altre moto di miei vecchi amici (durante un weekend in Abruzzo a giugno scorso) e in parecchi altri giri fatti nel solito Appennino parmense e sulle Alpi. Ho guidato moto più "moderne" e tutte invariabilmente molto più potenti (dai 30-40cv in più a più del doppio della potenza della mia), e solo una moto mi ha fatto gustare il piacere di guida della mia -- da tutte le altre sono sceso di fretta, impaziente di risalire e guidare la mia Guzzi.
 
-Tutto questo, con le gomme con cui la versione Rough esce di fabbrica, quelle strane Pirelli MT60RS tassellate; una sicurezza e una rapidità nell'entrare in temperatura e darti fiducia davvero inaspettate (e quindi sto già pregustando il gusto che mi daranno gomme stradali vere e proprie). Adesso, a quasi settemila km, l'anteriore è ancora in buone condizioni ma il posteriore è un po' appiattito a causa della troppa strada dritta che ho dovuto fare in alcuni weekend per raggiungere la famiglia in montagna e altri trasferimenti veloci "necessari"; i tasselloni sui lati sono un po' smangiati e si intravede qualche crepa tra l'uno e l'altro.
+Tutto questo, con le gomme con cui la versione Rough esce di fabbrica, quelle strane Pirelli MT60RS tassellate; una sicurezza e una rapidità nell'entrare in temperatura e darti fiducia davvero inaspettate (e quindi sto già pregustando il gusto che mi daranno gomme stradali vere e proprie). Adesso, a quasi settemila km, sia l'anteriore che il posteriore sono un po' messi male; il posteriore è un po' piallato al centro  (causa della troppa strada dritta che ho dovuto fare in alcuni weekend per raggiungere la famiglia in montagna e altri trasferimenti veloci "necessari"[^2]); i tasselloni sono un po' smangiati sui bordi sia davanti che dietro e si intravede qualche crepa tra l'uno e l'altro. Li cambierò con qualcosa di sufficientemente sportivo (purtroppo non c'è molta scelta per una le "gommine" che monta la V7, una 100/90-18 davanti e 130/80-17 dietro).
 
 
 [^1]: Ma mia moglie sostiene che adesso la moto assorbe molto meglio le varie asperità dell'asfalto cittadino.
 
+[^2]: Io per principio in moto cerco di non usare _mai_ l'autostrada.
+
+<!-- 
 Altri punti essenziali di cui discutere, a cui per adesso accenno solo e in un secondo momento li espanderò:
 
 - le recensioni di youtuber che la definiscono moto da principianti o da "donne"; ma sanno cosa significa guidare una moto? e sanno quanto può andare forte una donna?
@@ -27,5 +30,5 @@ Altri punti essenziali di cui discutere, a cui per adesso accenno solo e in un s
 - quelle gomme tanto modaiole quanto sorprendentemente efficaci
 - la guida "da pista", fidandosi dell'anteriore, cosa che solo questa moto mi ha permesso di fare su strada: cioè entrare in curva a gas chiuso, che sembra quasi una banalità ma mi sono reso conto che io in strada non ho MAI lasciato il carico tutto sull'anteriore, perché non mi sono mai fidato del grip della gomma, delle condizioni stradali, etc quindi ho sempre fatto le curve con un filo di gas, sempre un po' "puntato", il che poi mi porta puntualmente a combattere contro la tendenza naturalmente sottosterzante della moto.. invece ieri ho provato ad entrare così, e la moto chiude la traiettoria e poi riapro il gas e che rivelazione! è tutto molto più facile, divertente, veloce, e sopratutto molta meno "fatica" nel tenere la moto chiusa all'interno della traiettoria!
 - difetti: che trasmette un look modaiolo da bar quando invece sono principalmente uno smanettone appassionato di guida sportiva (e forse non abbastanza veloce, per essere uno smanettone).
-- il cardano!
+- il cardano! -->
 
