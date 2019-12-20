@@ -4,7 +4,7 @@ Slug: aggiornamenti-guzzi-v7
 Tags: moto
 Lang: it
 
-In aggiunta a [quanto scritto qualche tempo fa]({filename}/2019-04-30-moto-guzzi-v7.md), devo aggiungere qualche nota adesso che ho fatto quasi settemila chilometri con la mia Guzzi; di cui gli ultimi quattromila con l'upgrade "Trofeo" che ho fatto montare a maggio 2019 dai fratelli Guareschi.
+In aggiunta a [quanto scritto qualche tempo fa]({filename}/2019-04-30-moto-guzzi-v7.md), scrivo qualche altra nota dopo aver fatto con la mia Guzzi quasi settemila chilometri, di cui quattromila con l'upgrade "Trofeo" fatto montare a maggio 2019 dai fratelli Guareschi.
 
 L'upgrade "Trofeo" consiste essenzialmente nella sostituzione completa delle sospensioni di serie con unità Ohlins/Andreani davanti e dietro, pedane arretrate, e poche altre cosette per far respirare meglio il motore. In pratica, i lavori che fanno i Guareschi alla moto che prendono parte al trofeo V7 [Fast Endurance](https://www.motoguzzi.com/it_IT/Fast-Endurance/il-trofeo/).
 

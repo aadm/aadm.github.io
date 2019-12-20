@@ -29,9 +29,9 @@ CLEAN_SUMMARY_MAXIMUM = 2
 DIRECT_TEMPLATES = ['index', 'tags', 'archives']
 # PAGINATED_TEMPLATES = ['index']
 INDEX_SAVE_AS = 'site_index.html'
-MENUITEMS = (('journal', '/site_index.html'),
-             ('projects', '/pages/projects.html'),
-             ('about', '/pages/about.html'))
+# MENUITEMS = (('journal', '/site_index.html'),
+#              ('projects', '/pages/projects.html'),
+#              ('about', '/pages/about.html'))
 SHOW_SERIES = True
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
 ARTICLE_URL = '{date:%Y}-{date:%m}-{date:%d}-{slug}.html'
