@@ -17,3 +17,4 @@ In the future, I plan on moving all my photos to the new website and then no mor
 
 So long _aadm.github.io_ and _flickr.com/photos/aadm_ !
 
+(20 December 2019)
