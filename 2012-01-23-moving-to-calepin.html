@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>aadm: moving to calepin</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="http://aadm.github.io/favicon.png" rel="icon">
+
+<link rel="canonical" href="http://aadm.github.io/2012-01-23-moving-to-calepin.html">
+
+        <meta name="author" content="Alessandro Amato del Monte" />
+        <meta name="keywords" content="misc,tech" />
+        <meta name="description" content="I moved my tumblr log to calepin. The reasons for doing it ? I like the idea of having finally all my posts under control and not having to resort to a web interface. It’s faster and cleaner. I might do the same with my other blog, aadm.wordpress.com …" />
+
+        <meta property="og:site_name" content="aadm" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="moving to calepin"/>
+        <meta property="og:url" content="http://aadm.github.io/2012-01-23-moving-to-calepin.html"/>
+        <meta property="og:description" content="I moved my tumblr log to calepin. The reasons for doing it ? I like the idea of having finally all my posts under control and not having to resort to a web interface. It’s faster and cleaner. I might do the same with my other blog, aadm.wordpress.com …"/>
+        <meta property="article:published_time" content="2012-01-23" />
+            <meta property="article:section" content="misc" />
+            <meta property="article:tag" content="misc" />
+            <meta property="article:tag" content="tech" />
+            <meta property="article:author" content="Alessandro Amato del Monte" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://aadm.github.io/theme/css/bootstrap.journal.min.css" type="text/css"/>
+    <link href="http://aadm.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://aadm.github.io/theme/css/pygments/tango.css" rel="stylesheet">
+        <link href="http://aadm.github.io/theme/css/typogrify.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://aadm.github.io/theme/css/style.css" type="text/css"/>
+        <link href="http://aadm.github.io/static/custom.css" rel="stylesheet">
+
+        <link href="http://aadm.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="aadm ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://aadm.github.io/" class="navbar-brand">
+aadm            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <!-- <li><a href="http://aadm.github.io/blog_index.html"><i class="fa fa-th-list"></i><span class="icon-label">blog</span></a></li> -->
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="http://aadm.github.io/2012-01-23-moving-to-calepin.html"
+                       rel="bookmark"
+                       title="Permalink to moving to calepin">
+                        moving to&nbsp;calepin
+                    </a>
+                </h1>
+            </header>
+            <div class="well well-sm">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2012-01-23T00:00:00+01:00"> 2012-01-23</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/misc.html">misc</a>
+        /
+	<a href="http://aadm.github.io/tag/tech.html">tech</a>
+    
+</footer><!-- /.post-info -->            </div>
+            <div class="entry-content">
+                <p>I moved my tumblr log to calepin. </p>
+<p>The reasons for doing it ? I like the idea of having finally all my posts under control and not having to resort to a web interface. It’s faster and cleaner. I might do the same with my other blog, <a href="aadm.wordpress.com">aadm.wordpress.com</a>, where I keep longer and more articulated posts.</p>
+<p>I also like the interface, simple and pure; you can’t mess with so little nor you have the tentation to do so. You are kind of forced to stick to words and photos. What I don’t like: that all Calepin blogs look the same (but hey, also books look the same, all black words on white paper); that there’s no possibility to put photos into the abstracts; that there’s no next/previous buttons to navigate between posts.</p>
+<p>And that’s how I did it:</p>
+<ol>
+<li>Used the <a href="http://staff.tumblr.com/post/286303145/tumblr-backup-mac-beta">tumblr backup application</a> to create a copy of all my posts in html.</li>
+<li>Converted all html files in markdown with <a href="http://www.aaronsw.com/2002/html2text/">html2text.py</a>.</li>
+<li>Did some low-tech shell and python to batch convert all these markdown files in a format that calepin understands (i.e., added <code>Title</code> and <code>Date</code> tags, added the abstracts too, renamed the files with the dates according to the suggestions given in the <a href="http://jokull.calepin.co/calepin-guide.html">Calepin guide</a>, etc.) </li>
+</ol>
+<p>For the nerds out there, here’s the two scripts I have used. First is a generic shell script that I’ve called <code>script.sh</code> (stroke of genius!). It iterates on all html files and first converts them to generic markdown before fixing them in a Calepin-friendly format using the second script, <code>tumblr2calepin.py</code>, a simple Python script that I’ve put together over the weekend.</p>
+<p><strong>script #1</strong></p>
+<div class="highlight"><pre><span></span><span class="ch">#!/bin/sh</span>
+<span class="k">for</span> n in *.html
+<span class="k">do</span>
+    rm -f temp.txt
+    <span class="nb">echo</span> <span class="s2">"==&gt; processing"</span> <span class="nv">$n</span>
+    ./html2text.py <span class="nv">$n</span> &gt; temp.txt
+    ./tumblr2calepin.py temp.txt
+<span class="k">done</span>
+</pre></div>
+<p><strong>script #2</strong></p>
+<div class="highlight"><pre><span></span><span class="ch">#!/usr/bin/python</span>
+<span class="c1"># Usage: tumblr2calepin.py &lt;input-markdownd-file&gt;</span>
+<span class="kn">import</span> <span class="nn">sys</span>
+<span class="kn">from</span> <span class="nn">datetime</span> <span class="kn">import</span> <span class="n">datetime</span>
+
+<span class="n">file1</span><span class="o">=</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+<span class="n">f1</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">file1</span><span class="p">,</span> <span class="s2">"r"</span><span class="p">)</span>
+<span class="n">data</span> <span class="o">=</span> <span class="n">f1</span><span class="o">.</span><span class="n">readlines</span><span class="p">()</span>
+<span class="n">f1</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+
+<span class="n">d</span><span class="o">=</span><span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="mi">0</span><span class="p">][:</span><span class="o">-</span><span class="mi">1</span><span class="p">],</span><span class="s1">'%B </span><span class="si">%d</span><span class="s1">, %Y, %I:%M %p'</span><span class="p">)</span>
+<span class="n">day_string_corto</span> <span class="o">=</span> <span class="n">d</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s1">'%Y-%m-</span><span class="si">%d</span><span class="s1">'</span><span class="p">)</span>
+<span class="n">day_string</span>       <span class="o">=</span> <span class="n">d</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s1">'%Y-%m-</span><span class="si">%d</span><span class="s1"> %H:%M'</span><span class="p">)</span>
+
+<span class="n">nn1</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="mi">2</span><span class="p">][:</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span>
+<span class="n">nn1</span><span class="o">=</span><span class="n">nn1</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s2">"#"</span><span class="p">,</span><span class="s2">""</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+<span class="n">nn2</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="mi">3</span><span class="p">][:</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span>
+<span class="n">nn2</span><span class="o">=</span><span class="n">nn2</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+
+<span class="n">linea1</span><span class="o">=</span><span class="s1">'Date: '</span><span class="o">+</span><span class="n">day_string</span><span class="o">+</span><span class="s1">'</span><span class="se">\n</span><span class="s1">'</span>
+<span class="k">if</span> <span class="n">data</span><span class="p">[</span><span class="mi">2</span><span class="p">][</span><span class="mi">0</span><span class="p">:</span><span class="mi">3</span><span class="p">]</span> <span class="o">!=</span> <span class="s1">'![]'</span> <span class="ow">and</span> <span class="n">data</span><span class="p">[</span><span class="mi">2</span><span class="p">][</span><span class="mi">0</span> <span class="p">]</span> <span class="o">!=</span> <span class="s1">'['</span><span class="p">:</span>
+    <span class="n">linea2</span><span class="o">=</span><span class="s1">'Title: '</span><span class="o">+</span><span class="n">nn1</span><span class="o">+</span><span class="s1">'</span><span class="se">\n</span><span class="s1">'</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="n">linea2</span><span class="o">=</span><span class="s1">'Title: '</span><span class="o">+</span><span class="n">day_string</span><span class="o">+</span><span class="s1">'</span><span class="se">\n</span><span class="s1">'</span>
+<span class="n">linea3</span><span class="o">=</span><span class="s1">'Tags: misc</span><span class="se">\n</span><span class="s1">'</span>
+<span class="n">linea4</span><span class="o">=</span><span class="s1">'Abstract: '</span><span class="o">+</span><span class="n">nn1</span><span class="o">+</span><span class="s1">' '</span><span class="o">+</span><span class="n">nn2</span><span class="o">+</span><span class="s1">'...</span><span class="se">\n</span><span class="s1">'</span>
+
+<span class="n">nn1file</span><span class="o">=</span><span class="n">nn1</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">' '</span><span class="p">,</span><span class="s1">'-'</span><span class="p">)</span>
+<span class="n">nn1file</span><span class="o">=</span><span class="n">nn1file</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">'""'</span><span class="p">,</span><span class="s1">''</span><span class="p">)</span>
+
+<span class="k">if</span> <span class="n">data</span><span class="p">[</span><span class="mi">2</span><span class="p">][</span><span class="mi">0</span><span class="p">:</span><span class="mi">3</span><span class="p">]</span> <span class="o">!=</span> <span class="s1">'![]'</span> <span class="ow">and</span> <span class="n">data</span><span class="p">[</span><span class="mi">2</span><span class="p">][</span><span class="mi">0</span> <span class="p">]</span> <span class="o">!=</span> <span class="s1">'['</span><span class="p">:</span>
+    <span class="n">markdownfile</span> <span class="o">=</span> <span class="n">day_string_corto</span><span class="o">+</span><span class="s1">'-'</span><span class="o">+</span><span class="n">nn1file</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">30</span><span class="p">]</span><span class="o">+</span><span class="s1">'.md'</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="n">markdownfile</span> <span class="o">=</span> <span class="n">day_string_corto</span><span class="o">+</span><span class="s1">'.md'</span>
+
+<span class="n">out</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">markdownfile</span><span class="p">,</span> <span class="s2">"w"</span><span class="p">)</span>
+
+<span class="n">out</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">linea1</span><span class="p">)</span>
+<span class="n">out</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">linea2</span><span class="p">)</span>
+<span class="n">out</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">linea3</span><span class="p">)</span>
+<span class="k">if</span> <span class="n">data</span><span class="p">[</span><span class="mi">2</span><span class="p">][</span><span class="mi">0</span><span class="p">:</span><span class="mi">3</span><span class="p">]</span> <span class="o">!=</span> <span class="s1">'![]'</span> <span class="ow">and</span> <span class="n">data</span><span class="p">[</span><span class="mi">2</span><span class="p">][</span><span class="mi">0</span> <span class="p">]</span> <span class="o">!=</span> <span class="s1">'['</span><span class="p">:</span>
+    <span class="n">out</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">linea4</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">data</span><span class="p">[</span><span class="mi">1</span><span class="p">:</span><span class="o">-</span><span class="mi">1</span><span class="p">]:</span>
+    <span class="n">out</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+
+<span class="n">out</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre></div>
+<p>There’s so many things that don’t work (such as the necessity to relink all images that were stored on tumblr by copying them to Dropbox’s Public folder and then copying their public link) but I have fixed all my 70 posts in a few hours so I guess these scripts are not gonna be updated.</p>
+            </div>
+            <!-- /.entry-content -->
+<section class="well" id="related-posts">
+    <h4>Related Posts:</h4>
+    <ul>
+        <li><a href="http://aadm.github.io/2011-03-24-tech-bloggers-and-xkcd.html">tech bloggers and&nbsp;xkcd</a></li>
+        <li><a href="http://aadm.github.io/2011-01-19-making-the-glif.html">making the&nbsp;glif</a></li>
+        <li><a href="http://aadm.github.io/2009-04-28-network-speeds.html">network&nbsp;speeds</a></li>
+        <li><a href="http://aadm.github.io/2005-08-24-italian-gtd.html">italian&nbsp;gtd</a></li>
+        <li><a href="http://aadm.github.io/2014-05-26-after-a-long-pause.html">after a long&nbsp;pause</a></li>
+    </ul>
+</section>
+        </article>
+    </section>
+
+    <style type="text/css">
+    #navcontainer ul
+    {
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    }
+    #navcontainer ul li { display: inline; }
+    #navcontainer ul li a { padding: 1em 3em; }
+    </style>
+
+    <div id="navcontainer">
+    <ul id="navlist">
+        <li><a href="http://aadm.github.io/2011-12-20-winter-riding-milano-episode-1.html"><i class="fa fa-angle-left"></i> PREVIOUS</a></li>
+        <li><a href="http://aadm.github.io/2012-01-23-dubai.html">NEXT <i class="fa fa-angle-right"></i></a></li>
+    </div>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2005-2019 Alessandro Amato del Monte              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0 International License</a>
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-angle-up"></i> <a href="#">TOP</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://aadm.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://aadm.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://aadm.github.io/theme/js/respond.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-32354823-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+</body>
+</html>

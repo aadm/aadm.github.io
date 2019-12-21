@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>aadm: pelican lives</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="http://aadm.github.io/favicon.png" rel="icon">
+
+<link rel="canonical" href="http://aadm.github.io/2015-11-20-pelican-lives.html">
+
+        <meta name="author" content="Alessandro Amato del Monte" />
+        <meta name="keywords" content="tech" />
+        <meta name="description" content="Well it seems I have successfully ported my blog to Pelican. After hacking my way through jekyll to make the site look like I wanted it to look, I had the irresistible urge to try out Pelican. And I liked it so much it seemed logical to spend a few …" />
+
+        <meta property="og:site_name" content="aadm" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="pelican lives"/>
+        <meta property="og:url" content="http://aadm.github.io/2015-11-20-pelican-lives.html"/>
+        <meta property="og:description" content="Well it seems I have successfully ported my blog to Pelican. After hacking my way through jekyll to make the site look like I wanted it to look, I had the irresistible urge to try out Pelican. And I liked it so much it seemed logical to spend a few …"/>
+        <meta property="article:published_time" content="2015-11-20" />
+            <meta property="article:section" content="misc" />
+            <meta property="article:tag" content="tech" />
+            <meta property="article:author" content="Alessandro Amato del Monte" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://aadm.github.io/theme/css/bootstrap.journal.min.css" type="text/css"/>
+    <link href="http://aadm.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://aadm.github.io/theme/css/pygments/tango.css" rel="stylesheet">
+        <link href="http://aadm.github.io/theme/css/typogrify.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://aadm.github.io/theme/css/style.css" type="text/css"/>
+        <link href="http://aadm.github.io/static/custom.css" rel="stylesheet">
+
+        <link href="http://aadm.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="aadm ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://aadm.github.io/" class="navbar-brand">
+aadm            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <!-- <li><a href="http://aadm.github.io/blog_index.html"><i class="fa fa-th-list"></i><span class="icon-label">blog</span></a></li> -->
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="http://aadm.github.io/2015-11-20-pelican-lives.html"
+                       rel="bookmark"
+                       title="Permalink to pelican lives">
+                        pelican&nbsp;lives
+                    </a>
+                </h1>
+            </header>
+            <div class="well well-sm">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2015-11-20T00:40:00+01:00"> 2015-11-20</time>
+    </span>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="http://aadm.github.io/tag/tech.html">tech</a>
+    
+</footer><!-- /.post-info -->            </div>
+            <div class="entry-content">
+                <p>Well it seems I have successfully ported my blog to <a href="http://blog.getpelican.com/">Pelican</a>. After hacking my way through jekyll <a href="http://aadm.github.io/2015-11-12-last-iteration.html">to make the site look like I wanted it to look</a>, I had the irresistible urge to try out Pelican.</p>
+<p>And I liked it so much it seemed logical to spend a few more sleepless nights to make it work. Honestly though, that was easier than Jekyll; not sure this is due to the familiarity I have with Python, but it’s probably more to do with approaching the whole thing more organically, without switching this on and that off and see what’s the results.</p>
+<p>Let me say this however: from the point of view of an outsider who just wants to set up a static web site, I find utterly convoluted all these <span class="caps">CSS</span> preprocessor (less and sass and what-the-hell) and in general the modern web-development tools.</p>
+<p>What I think saved me was the decision to use <a href="https://github.com/DandyDev/pelican-bootstrap3">pelican-bootstrap</a> as template; it is based on another hyper-complicate entity that is knowns as <span class="caps">BOOTSTRAP</span>; what is that, I have no idea — is it a template? why is it sometimes called Twitter-Bootstrap? If it’s a template, what is it for? I mean, is it something that works for Wordpress? Or Jekyll? Or Mordor? You see, I was utterly confused. Everything and every nerd on the web seem to share the love for this <span class="caps">BOOTSTRAP</span> thing but I’m too old for this shit.</p>
+<p>So I decided to skip for once the usual half-assed attempts at understanding (activity that leaves me with days or months less to live and no real benefit because I’m also prone to forget stuff) and see what good this <span class="caps">BOOTSTRAP</span> god could give me. And I have found these two incredibly useful pages that allowed me to modify very easily the look of the site without sweating too much (I mean I just had to modify a few lines in the <span class="caps">HTML</span> files stored in <code>themes/pelican-bootstrap3/templates</code>):</p>
+<ul>
+<li><a href="http://bootswatch.com/journal">http://bootswatch.com/journal</a></li>
+<li><a href="http://getbootstrap.com/css">http://getbootstrap.com/css</a></li>
+</ul>
+<p>Before the archetypal nerdy-cool-I-know-it-all (tatooed obviously, and sporting an obligatory hipster beard) starts busting my balls — I know!, bootswatch and bootstrap are two different gods but hey, I told you I didn’t care too much about the details didn’t I? It just works man, that’s good enough for me. I do have a life after all, and I certainly don’t waste my time trimming a stupid beard or have a masochistic bonehead drawing frivolous shapes on my naked skin.</p>
+<p>Anyway, what I did was essentially to strip bare the template and make it look exactly like I wanted: a blank white page, clean fonts, no <em>social</em> bullshit or buttons to make it easy to share stuff (is there somebody so illiterate that really doesn’t know how to share a link to a page?).</p>
+<p>I originally planned on keeping the old Jekyll site alive on another page which I temporarily called <em>The Liquid Steppe</em>, because the plan was to get rid on this main site all the useless ramblings I have written over the years. But that plan didn’t work out because I never found the energy to finish off this secondary site; my thinking was, who the fuck is going to check my <em>old</em> site if nobody ever checks out my <em>main</em> site?</p>
+<p>So that’s the story, years from now I will be still dealing with junk posts and random detritus.</p>
+            </div>
+            <!-- /.entry-content -->
+<section class="well" id="related-posts">
+    <h4>Related Posts:</h4>
+    <ul>
+        <li><a href="http://aadm.github.io/2016-01-19-get-those-flickr-urls.html">get those flickr&nbsp;urls</a></li>
+        <li><a href="http://aadm.github.io/2015-11-12-last-iteration.html">last&nbsp;iteration</a></li>
+        <li><a href="http://aadm.github.io/2013-12-04-naming-files.html">file&nbsp;naming</a></li>
+        <li><a href="http://aadm.github.io/2013-11-09-blog-renewal.html">blog&nbsp;update</a></li>
+        <li><a href="http://aadm.github.io/2013-07-24-google-calendar-activity-tracker.html">google calendar activity&nbsp;tracker</a></li>
+    </ul>
+</section>
+        </article>
+    </section>
+
+    <style type="text/css">
+    #navcontainer ul
+    {
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    }
+    #navcontainer ul li { display: inline; }
+    #navcontainer ul li a { padding: 1em 3em; }
+    </style>
+
+    <div id="navcontainer">
+    <ul id="navlist">
+        <li><a href="http://aadm.github.io/2015-11-12-last-iteration.html"><i class="fa fa-angle-left"></i> PREVIOUS</a></li>
+        <li><a href="http://aadm.github.io/2016-01-10-nicolai-mojo.html">NEXT <i class="fa fa-angle-right"></i></a></li>
+    </div>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2005-2019 Alessandro Amato del Monte              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0 International License</a>
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-angle-up"></i> <a href="#">TOP</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://aadm.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://aadm.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://aadm.github.io/theme/js/respond.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-32354823-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+</body>
+</html>
